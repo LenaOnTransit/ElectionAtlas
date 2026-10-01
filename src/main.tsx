@@ -8,7 +8,7 @@ import {RouteRedirect,RouteNotFound,navigate,AppLink} from './navigation';
 import {currentRoute} from './routing.mjs';
 import {supabase} from '../lib/supabase';
 const callbacks=window.location.search.includes('code=')||window.location.hash.includes('access_token=');
-const pages:Record<string,()=>Promise<ReactNode>>={'/':Home,'/senate':Senate,'/house':House,'/editor/house':HouseEditor,'/calendar':Calendar,'/archive':Archive,'/editor':Editor,'/editor/senate':SenateEditor,'/editor/world':WorldEditor,'/atlas':()=>Frame({mode:'atlas'}),'/compare':()=>Frame({mode:'compare'}),'/coalitions':()=>Frame({mode:'coalitions'}),'/election-night':()=>Frame({mode:'night'})};
+const pages:Record<string,()=>Promise<ReactNode>>={'/':Home,'/senate':Senate,'/house':House,'/editor/house':HouseEditor,'/calendar':Calendar,'/archive':Archive,'/editor':Editor,'/editor/senate':SenateEditor,'/editor/world':WorldEditor,'/atlas':()=>Frame({mode:'atlas'}),'/compare':()=>Frame({mode:'compare'}),'/coalitions':()=>Frame({mode:'coalitions'}),'/us-election-night':()=>Frame({mode:'us-night'}),'/live-elections':()=>Frame({mode:'live'}),'/election-night':()=>Frame({mode:'live'})};
 async function loadPage(url:URL):Promise<ReactNode>{
  if(url.pathname==='/account')return Account({searchParams:Promise.resolve(Object.fromEntries(url.searchParams))});
  const loader=pages[url.pathname];if(loader)return loader();

@@ -18,4 +18,4 @@ export async function saveWorld(kind:string,value:any) {
   return saveWorldElection(value);
 }
 export {worldHistory};
-export async function liveResults(){const [data,senate]=await Promise.all([getWorld(),getSenate()]);return {data,senate};}
+export async function liveResults(includeSenate=true){const [data,senate]=await Promise.all([getWorld(),includeSenate?getSenate():Promise.resolve(null)]);return {data,senate};}
