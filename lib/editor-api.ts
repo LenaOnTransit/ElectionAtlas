@@ -6,6 +6,7 @@ import {saveWorldCountry,saveWorldElection,worldHistory,getWorld} from '../db/wo
 export async function saveContent(kind:string,value:any) {
   if(kind==='senate')validateSenate(value);
   if(kind==='article'&&(!value.title?.trim()||!['draft','published'].includes(value.status)))throw Error('Title and status required.');
+  if(kind==='article'&&(value.archived!==undefined&&typeof value.archived!=='boolean'||value.archived===true&&value.status!=='draft'))throw Error('Removed articles must be private drafts.');
   if(!['senate','article','election'].includes(kind))throw Error('Invalid record type.');
   await save(kind,value);return {ok:true};
 }
