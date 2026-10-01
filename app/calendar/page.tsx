@@ -1,0 +1,2 @@
+import {getWorld} from '../../db/world';import {Header,Footer} from '../components';import Calendar from './view';
+export const dynamic='force-dynamic';export default async function Page(){try{return <><Header/><Calendar data={await getWorld()} initialMonth={new Date().toISOString().slice(0,7)}/><Footer/></>}catch{return <><Header/><main><h1>Calendar temporarily unavailable</h1><p>Please reload shortly.</p></main></>}}

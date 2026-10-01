@@ -1,0 +1,3 @@
+import {content} from '../../../db/content';import {Header,Footer} from '../../components';import {notFound} from 'next/navigation';
+export const dynamic='force-dynamic';
+export default async function Article({params}:any){const {id}=await params;const {articles}=await content();const a=articles.find(a=>a.id===id);if(!a)notFound();return <><Header/><main className="articlepage"><a href="/">« All coverage</a><div className="kicker">{a.category}</div><h1>{a.title}</h1><p className="standfirst">{a.summary}</p><div className="meta">By {a.author} · {a.date}</div><div className="articlebody">{a.body.split('\n\n').map((p:string,i:number)=><p key={i}>{p}</p>)}</div></main><Footer/></>}

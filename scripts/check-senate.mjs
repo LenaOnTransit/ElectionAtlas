@@ -1,0 +1,14 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';import ts from 'typescript';
+const js=ts.transpileModule(fs.readFileSync('lib/senate.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
+const {defaultSenate,validateSenate,forecast,appearance,raceProbabilities}=await import('data:text/javascript;base64,'+Buffer.from(js).toString('base64'));
+const s=defaultSenate();validateSenate(s);assert.equal(s.races.length,35);assert.equal(s.races.filter(r=>r.incumbent==='D').length,13);assert.equal(s.races.filter(r=>r.special).length,2);
+for(const r of s.races){r.polling={party:'D',rating:'safe'};r.probabilities.polling={manual:true,useNumbers:true,D:100,R:0,I:0};}
+let f=forecast(s,'polling');assert.equal(f.D,1);assert.equal(f.R,0);assert.equal(f.expectedD,69);
+for(const r of s.races)r.probabilities.polling={manual:true,useNumbers:true,D:0,R:100,I:0};f=forecast(s,'polling');assert.equal(f.R,1);assert.equal(f.expectedR,66);
+for(let i=0;i<s.races.length;i++)s.races[i].probabilities.polling={manual:true,useNumbers:true,D:i<16?100:0,R:i<16?0:100,I:0};f=forecast(s,'polling');assert.equal(f.R,1);assert.equal(f.expectedD,50);s.tieBreaker='D';assert.equal(forecast(s,'polling').D,1);
+s.races[16].probabilities.polling={manual:true,useNumbers:true,D:50,R:50,I:0};f=forecast(s,'polling');assert.equal(f.D,1);s.tieBreaker='R';f=forecast(s,'polling');assert.equal(f.D,.5);assert.equal(f.R,.5);
+const r=s.races.find(r=>r.code==='GA');r.results.called=r.candidates.find(c=>c.party==='R').id;assert.equal(raceProbabilities(r,'results',s).R,1);assert.equal(appearance(r,'results').flip,true);assert.equal(appearance(r,'results').called,true);r.results.called='';r.results.rating='tossup';assert.equal(appearance(r,'results').flip,false);
+const bad=structuredClone(s);bad.races[0].probabilities.polling.D=10;assert.throws(()=>validateSenate(bad));const b2=structuredClone(s);b2.baseline.D=31;assert.throws(()=>validateSenate(b2));
+const independent=defaultSenate();for(const r of independent.races){r.probabilities.polling={manual:true,useNumbers:true,D:0,R:0,I:100};r.independentCaucus='I';}f=forecast(independent,'polling');assert.equal(f.other,1);for(const r of independent.races)r.independentCaucus='D';assert.equal(forecast(independent,'polling').D,1);
+const numeric=defaultSenate();const nr=numeric.races[0];nr.candidates[0].poll=55;nr.candidates[1].poll=45;assert.ok(raceProbabilities(nr,'polling',numeric).D>.9);nr.candidates[0].poll=45;nr.candidates[1].poll=55;assert.ok(raceProbabilities(nr,'polling',numeric).R>.9);nr.candidates[0].votes=55;nr.candidates[1].votes=45;const early=raceProbabilities(nr,'results',numeric).D;nr.results.reporting=99;assert.ok(raceProbabilities(nr,'results',numeric).D>early);validateSenate(numeric);
+console.log('Senate checks passed: 35 seats, probability totals, majority thresholds, 50–50 ties, independent caucusing, result calls, and flips.');
