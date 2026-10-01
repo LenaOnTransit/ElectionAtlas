@@ -1,1 +1,0 @@
-CREATE INDEX `idx_records_kind` ON `records` (`kind`);
