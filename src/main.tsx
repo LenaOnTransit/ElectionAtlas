@@ -1,0 +1,30 @@
+import {useEffect,useState,type ReactNode} from 'react';
+import {createRoot} from 'react-dom/client';
+import '../app/globals.css';
+import {Header,Footer} from '../app/components';
+import Home from '../app/page';import Senate from '../app/senate/page';import Calendar from '../app/calendar/page';import Archive from '../app/archive/page';import Article from '../app/article/[id]/page';import Country from '../app/archive/country/[id]/page';import Election from '../app/world/election/[id]/page';import Account from '../app/account/page';import Editor from '../app/editor/page';import SenateEditor from '../app/editor/senate/page';import WorldEditor from '../app/editor/world/page';import Frame from '../app/explore/frame';
+import {RouteRedirect,RouteNotFound,navigate,AppLink} from './navigation';
+import {currentRoute} from './routing.mjs';
+import {supabase} from '../lib/supabase';
+const callbacks=window.location.search.includes('code=')||window.location.hash.includes('access_token=');
+const pages:Record<string,()=>Promise<ReactNode>>={'/':Home,'/senate':Senate,'/calendar':Calendar,'/archive':Archive,'/editor':Editor,'/editor/senate':SenateEditor,'/editor/world':WorldEditor,'/atlas':()=>Frame({mode:'atlas'}),'/compare':()=>Frame({mode:'compare'}),'/coalitions':()=>Frame({mode:'coalitions'}),'/election-night':()=>Frame({mode:'night'})};
+async function loadPage(url:URL):Promise<ReactNode>{
+ if(url.pathname==='/account')return Account({searchParams:Promise.resolve(Object.fromEntries(url.searchParams))});
+ const loader=pages[url.pathname];if(loader)return loader();
+ const params=Promise.resolve({id:decodeURIComponent(url.pathname.split('/').at(-1)||'')});
+ if(/^\/article\/[^/]+$/.test(url.pathname))return Article({params});
+ if(/^\/archive\/country\/[^/]+$/.test(url.pathname))return Country({params});
+ if(/^\/world\/election\/[^/]+$/.test(url.pathname))return Election({params});
+ throw new RouteNotFound();
+}
+function Application(){const [revision,setRevision]=useState(0);const [content,setContent]=useState<ReactNode>(null);const [pending,setPending]=useState(true);
+ useEffect(()=>{const update=()=>setRevision(n=>n+1);window.addEventListener('hashchange',update);window.addEventListener('account-changed',update);return()=>{window.removeEventListener('hashchange',update);window.removeEventListener('account-changed',update);};},[]);
+ useEffect(()=>{let active=true;setPending(true);(async()=>{
+  await supabase.auth.getSession();
+  const url=callbacks&&!window.location.hash.startsWith('#/')?new URL('/account','https://routes.local'):currentRoute(window.location.hash,window.location.search);
+  try{const result=await loadPage(url);if(active){setContent(result);setPending(false);const anchor=url.searchParams.get('scroll');requestAnimationFrame(()=>anchor?document.getElementById(anchor)?.scrollIntoView():window.scrollTo(0,0));}}
+  catch(error){if(!active)return;if(error instanceof RouteRedirect){navigate(error.path);return;}setContent(<><Header/><main><h1>{error instanceof RouteNotFound?'Page not found':'Could not load this page'}</h1><p>{error instanceof RouteNotFound?'This record is unavailable or private.':'Please try again. If the database has paused, its owner can resume it in Supabase.'}</p><AppLink href="/">Back to the publication</AppLink><button onClick={()=>setRevision(n=>n+1)}>Retry</button></main><Footer/></>);setPending(false);}
+ })();return()=>{active=false;};},[revision]);
+ return pending?<><Header/><main><p role="status">Loading the Election Desk…</p></main></>:<div key={revision}>{content}</div>;
+}
+createRoot(document.getElementById('root')!).render(<Application/>);
