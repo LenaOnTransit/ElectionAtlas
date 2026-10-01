@@ -8,3 +8,17 @@ nav{flex-wrap:wrap}nav a{padding:10px 17px}.world-main h1{font-size:32px;margin:
 @media(max-width:700px){.explore-controls,.atlas-layout,.comparison-head{grid-template-columns:1fr}.atlas-directory{max-height:230px}.night-totals{grid-template-columns:1fr}.night-totals>div{display:flex;align-items:center;gap:15px}.night-result span{margin-left:0;width:100%}.coalition-score strong{font-size:1.8rem}.coalition-parties label{flex-wrap:wrap}}
 
 .account{max-width:560px;margin:40px auto;padding:24px}.account h1{font-size:40px}.account form{display:grid;gap:20px}.account label{display:grid;gap:7px}.account input{width:100%;padding:12px;border:1px solid #ccc;background:white;border-radius:3px;font:inherit}.account .tabs{margin:24px 0}.account [role=alert]{color:#a12929}.account small{color:#666}
+
+/* Election-night race calls: party accent, unmistakable check, high-contrast label. */
+.winner-call{--winner-party:#183e60;display:inline-flex;align-items:center;gap:10px;position:relative;overflow:hidden;isolation:isolate;width:max-content;max-width:100%;margin:10px 0 0;padding:9px 20px 9px 10px!important;background:linear-gradient(110deg,#132b43,#223b53);border-left:5px solid var(--winner-party);box-shadow:0 2px 5px #10233424;color:#fff!important;text-align:left;vertical-align:middle;font-style:normal;line-height:1.1}
+.winner-call:after{content:'';position:absolute;right:-9px;top:0;bottom:0;width:15px;background:#d9b24b;transform:skewX(-18deg)}
+.winner-call-check{flex:none;width:29px;height:29px;padding:4px;background:#f1cb64;color:#132b43;box-shadow:0 0 0 1px #f8dc8c}
+.winner-call .winner-call-copy{display:flex;flex-direction:column;gap:4px;margin:0;color:inherit}
+.winner-call .winner-call-kicker{display:block;margin:0;color:#e2eaf2;font-size:10px;font-weight:600;letter-spacing:1.3px;text-transform:uppercase}
+.winner-call .winner-call-label{display:block;margin:0;color:#fff;font-size:17px;font-weight:900;letter-spacing:1.6px;text-transform:uppercase}
+.world-result-table tr.is-elected,.world-result-table tr.is-elected:nth-child(even){background:#eef3f8}
+.senate-candidate.is-elected{padding:14px 10px;background:#eef3f8;border-bottom:2px solid #183e60}
+.senate-candidate .winner-call{font-size:inherit}
+.night-result.is-elected{background:#eef3f8;border-bottom:2px solid #183e60}
+.night-result .winner-call{margin:0 0 0 auto}
+@media(max-width:600px){.night-result .winner-call{margin:4px 0 0}.winner-call{padding-right:17px!important}.winner-call .winner-call-label{font-size:15px}}
