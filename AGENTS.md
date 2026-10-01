@@ -1,9 +1,1 @@
-<!-- BEGIN:nextjs-agent-rules -->
-
-# This is NOT the Next.js you know
-
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` (resolved from this file's directory; in monorepos the `next` package may not be visible from the repo root) before writing any code. Heed deprecation notices.
-
-This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
-
-<!-- END:nextjs-agent-rules -->
+ElectionAtlas is a static React/Vite application deployed to GitHub Pages. Supabase enforces all data authorization. Never ship secret/service-role keys, private drafts, or administrator credentials in the static build. Keep database changes in supabase/migrations and verify RLS with anonymous, reader, and editor roles.

@@ -1,3 +1,3 @@
 import {requireUser} from '../auth';import {isEditor,content,initialize} from '../../db/content';import Editor from './workspace';import {Header} from '../components';
-export const dynamic='force-dynamic';
+
 export default async function Page(){const user=await requireUser('/editor');if(!await isEditor(user.userId))return <><Header/><main><h1>Private newsroom</h1><p>This account does not have editorial access.</p></main></>;try{await initialize();return <Editor initial={await content(true)} name={user.displayName}/> }catch{return <><Header/><main><h1>The newsroom is temporarily unavailable</h1><p>Your content is safe. Please reload shortly.</p></main></>}}

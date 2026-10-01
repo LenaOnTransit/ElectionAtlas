@@ -1,2 +1,2 @@
-import {storage} from './storage.mjs';import {defaultSenate,Senate} from '../lib/senate';
-export async function getSenate():Promise<Senate>{const r=await storage().prepare("SELECT data FROM records WHERE id=? AND kind=?").bind('senate-2026','senate').first<{data:string}>();return r?JSON.parse(r.data):defaultSenate();}
+import {readRecords} from './remote';import {defaultSenate,Senate} from '../lib/senate';
+export async function getSenate():Promise<Senate>{const rows=await readRecords(['senate']);return rows.find(r=>r.id==='senate-2026')?.data||defaultSenate();}
