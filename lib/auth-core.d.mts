@@ -1,0 +1,13 @@
+export type User = {userId:string;displayName:string;email:string;role:'reader'|'admin'};
+export const SESSION_AGE:number;
+export function digest(value:string):string;
+export function normalizeEmail(value:unknown):string;
+export function validateRegistration(value:unknown):void;
+export function hashPassword(password:string):Promise<string>;
+export function verifyPassword(password:string,stored:string):Promise<boolean>;
+export function register(value:{email:string;username:string;password:string}):Promise<User>;
+export function login(email:string,password:string):Promise<User>;
+export function createSession(id:string):string;
+export function sessionUser(token:string|undefined):User|null;
+export function deleteSession(token:string|undefined):void;
+export function limit(key:string,maximum:number,windowMs?:number):boolean;

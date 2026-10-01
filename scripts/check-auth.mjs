@@ -1,0 +1,28 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+process.env.DATABASE_PATH=':memory:';
+const auth=await import('../lib/auth-core.mjs');
+const {sqlite,storage}=await import('../db/storage.mjs');
+test('registration, passwords, sessions, authorization and transactional storage',async()=>{
+  const input={email:' Owner@Example.com ',username:'Owner',password:'correct horse battery staple'};
+  const user=await auth.register(input);
+  assert.equal(user.role,'reader');assert.equal(user.email,'owner@example.com');
+  const record=sqlite().prepare('SELECT * FROM users WHERE id=?').get(user.userId);
+  assert.notEqual(record.password,input.password);assert.match(record.password,/^scrypt:/);
+  await assert.rejects(auth.register({...input,email:'other@example.com'}),/unavailable/);
+  await assert.rejects(auth.register({...input,username:'other',password:'short'}),/Password/);
+  await assert.rejects(auth.login(input.email,'wrong'),/incorrect/);
+  await assert.rejects(auth.login('unknown@example.com','wrong'),/incorrect/);
+  assert.equal((await auth.login(input.email,input.password)).userId,user.userId);
+  const token=auth.createSession(user.userId);
+  assert.equal(auth.sessionUser(token).role,'reader');
+  assert.equal(sqlite().prepare('SELECT token FROM sessions').get().token,auth.digest(token));
+  assert.equal(auth.sessionUser('forged'),null);
+  sqlite().prepare("UPDATE users SET role='admin' WHERE id=?").run(user.userId);
+  assert.equal(auth.sessionUser(token).role,'admin');
+  auth.deleteSession(token);assert.equal(auth.sessionUser(token),null);
+  const expired=auth.createSession(user.userId);sqlite().prepare('UPDATE sessions SET expires=0').run();assert.equal(auth.sessionUser(expired),null);
+  assert.equal(auth.limit('test',1),true);assert.equal(auth.limit('test',1),false);
+  const db=storage();await assert.rejects(db.batch([db.prepare("INSERT INTO records VALUES('test','article','{}','now')"),db.prepare('INSERT INTO missing VALUES(1)')]));
+  assert.equal(await db.prepare("SELECT * FROM records WHERE id='test'").first(),null);
+});
