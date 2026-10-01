@@ -1,0 +1,2 @@
+import {getWorld} from '../../db/world';import {Header,Footer} from '../components';import HouseView from './view';import {emptyHouse} from '../../lib/house';
+export default async function Page(){const e=(await getWorld()).elections.find(e=>e.id==='world-us-house-2026');return <><Header/>{e?<HouseView election={e} data={e.house??emptyHouse()}/>:<main><h1>U.S. House 2026</h1><p>Coverage has not been published yet.</p></main>}<Footer/></>;}
