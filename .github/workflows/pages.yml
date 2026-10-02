@@ -1,4 +1,4 @@
-name: Deploy ElectionAtlas to GitHub Pages
+name: Deploy World of Elections to GitHub Pages
 on:
   push:
     branches: [main]

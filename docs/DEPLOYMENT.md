@@ -1,4 +1,4 @@
-# ElectionAtlas: GitHub Pages + Supabase
+# World of Elections: GitHub Pages + Supabase
 
 The publication is a static React/Vite application. Supabase provides Postgres, email/password accounts, profile usernames, and database-enforced editorial permissions. There is no Node.js server or SQLite database to host. Hash routes (`/ElectionAtlas/#/senate`) support direct links and refreshes on GitHub Pages, including newly created articles and countries without a rebuild.
 

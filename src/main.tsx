@@ -28,6 +28,6 @@ function Application(){const [revision,setRevision]=useState(0);const [content,s
   try{const result=await loadPage(url);if(active){setContent(result);setPending(false);const anchor=url.searchParams.get('scroll');requestAnimationFrame(()=>anchor?document.getElementById(anchor)?.scrollIntoView():window.scrollTo(0,0));}}
   catch(error){if(!active)return;if(error instanceof RouteRedirect){navigate(error.path);return;}setContent(<><Header/><main><h1>{error instanceof RouteNotFound?'Page not found':'Could not load this page'}</h1><p>{error instanceof RouteNotFound?'This record is unavailable or private.':'Please try again. If the database has paused, its owner can resume it in Supabase.'}</p><AppLink href="/">Back to the publication</AppLink><button onClick={()=>setRevision(n=>n+1)}>Retry</button></main><Footer/></>);setPending(false);}
  })();return()=>{active=false;};},[revision]);
- return pending?<><Header/><main><p role="status">Loading the Election Atlas…</p></main></>:<div key={revision}>{content}</div>;
+ return pending?<><Header/><main><p role="status">Loading World of Elections…</p></main></>:<div key={revision}>{content}</div>;
 }
 createRoot(document.getElementById('root')!).render(<Application/>);
