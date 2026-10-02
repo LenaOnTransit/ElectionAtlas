@@ -1,0 +1,2 @@
+import {requireUser} from '../../auth';import {isEditor} from '../../../db/content';import {getIdeologies} from '../../../db/ideologies';import {Header} from '../../components';import Workspace from './workspace';
+export default async function Page(){const user=await requireUser('/editor/ideologies');if(!await isEditor(user.userId))return <><Header/><main><h1>Editorial access required</h1></main></>;return <><Header/><Workspace initial={await getIdeologies(true)}/></>;}

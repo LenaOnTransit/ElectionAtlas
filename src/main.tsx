@@ -1,3 +1,4 @@
+import Ideologies from '../app/ideologies/page';import Ideology from '../app/ideologies/[id]/page';import IdeologyEditor from '../app/editor/ideologies/page';
 import House from '../app/house/page';import HouseEditor from '../app/editor/house/page';
 import {useEffect,useState,type ReactNode} from 'react';
 import {createRoot} from 'react-dom/client';
@@ -8,11 +9,12 @@ import {RouteRedirect,RouteNotFound,navigate,AppLink} from './navigation';
 import {currentRoute} from './routing.mjs';
 import {supabase} from '../lib/supabase';
 const callbacks=window.location.search.includes('code=')||window.location.hash.includes('access_token=');
-const pages:Record<string,()=>Promise<ReactNode>>={'/':Home,'/senate':Senate,'/house':House,'/editor/house':HouseEditor,'/calendar':Calendar,'/archive':Archive,'/editor':Editor,'/editor/senate':SenateEditor,'/editor/world':WorldEditor,'/atlas':()=>Frame({mode:'atlas'}),'/compare':()=>Frame({mode:'compare'}),'/coalitions':()=>Frame({mode:'coalitions'}),'/us-election-night':()=>Frame({mode:'us-night'}),'/live-elections':()=>Frame({mode:'live'}),'/election-night':()=>Frame({mode:'live'})};
+const pages:Record<string,()=>Promise<ReactNode>>={'/':Home,'/senate':Senate,'/house':House,'/editor/house':HouseEditor,'/calendar':Calendar,'/ideologies':Ideologies,'/editor/ideologies':IdeologyEditor,'/archive':Archive,'/editor':Editor,'/editor/senate':SenateEditor,'/editor/world':WorldEditor,'/atlas':()=>Frame({mode:'atlas'}),'/compare':()=>Frame({mode:'compare'}),'/coalitions':()=>Frame({mode:'coalitions'}),'/us-election-night':()=>Frame({mode:'us-night'}),'/live-elections':()=>Frame({mode:'live'}),'/election-night':()=>Frame({mode:'live'})};
 async function loadPage(url:URL):Promise<ReactNode>{
  if(url.pathname==='/account')return Account({searchParams:Promise.resolve(Object.fromEntries(url.searchParams))});
  const loader=pages[url.pathname];if(loader)return loader();
  const params=Promise.resolve({id:decodeURIComponent(url.pathname.split('/').at(-1)||'')});
+ if(/^\/ideologies\/[^/]+$/.test(url.pathname))return Ideology({params});
  if(/^\/article\/[^/]+$/.test(url.pathname))return Article({params});
  if(/^\/archive\/country\/[^/]+$/.test(url.pathname))return Country({params});
  if(/^\/world\/election\/[^/]+$/.test(url.pathname))return Election({params});
