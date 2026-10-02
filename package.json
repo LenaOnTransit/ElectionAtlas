@@ -9,7 +9,7 @@
     "dev": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node scripts/check-senate.mjs && node scripts/check-world.mjs && node --test scripts/check-routing.mjs",
+    "test": "node scripts/check-publication.mjs && node scripts/check-senate.mjs && node scripts/check-world.mjs && node --test scripts/check-routing.mjs",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {

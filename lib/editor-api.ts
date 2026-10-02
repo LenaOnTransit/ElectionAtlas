@@ -1,11 +1,13 @@
 import {getIdeologies} from '../db/ideologies';
 import {validateIdeology} from './ideologies';
+import {validatePublication} from './publication';
 import {save} from '../db/content';
 import {getSenate} from '../db/senate';
 import {validateSenate} from './senate';
 import {validateCountry,validateWorldElection} from './world';
 import {saveWorldCountry,saveWorldElection,worldHistory,getWorld} from '../db/world';
 export async function saveContent(kind:string,value:any) {
+  if(kind==='article')validatePublication(value);
   if(kind==='article'&&value.articleType==='ideology')validateIdeology(value);
   if(kind==='senate')validateSenate(value);
   if(kind==='article'&&(!value.title?.trim()||!['draft','published'].includes(value.status)))throw Error('Title and status required.');
