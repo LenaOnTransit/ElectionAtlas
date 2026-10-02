@@ -1,0 +1,14 @@
+import fs from 'node:fs';import ts from 'typescript';import assert from 'node:assert/strict';
+const js=ts.transpileModule(fs.readFileSync('lib/house.ts','utf8'),{compilerOptions:{module:ts.ModuleKind.ESNext}}).outputText;
+const {emptyHouse,houseControl,validateHouse}=await import('data:text/javascript;base64,'+Buffer.from(js).toString('base64'));
+const h=emptyHouse();assert.equal(houseControl(h),null);
+h.forecast.ratings.tossup=435;let p=houseControl(h);assert.ok(Math.abs(p.D-.5)<1e-12);assert.ok(Math.abs(p.R-.5)<1e-12);assert.equal(p.other,0);
+h.forecast.ratings.tossup=0;h.forecast.ratings.safeD=435;p=houseControl(h);assert.ok(p.D>.999);assert.ok(Math.abs(p.D+p.R+p.other-1)<1e-12);
+const strong=p.D;h.forecast.ratings.safeD=0;h.forecast.ratings.leanD=435;assert.ok(houseControl(h).D<strong);
+h.forecast.ratings.leanD=0;h.forecast.ratings.safeR=435;assert.ok(houseControl(h).R>.999);
+h.forecast.ratings.safeR=0;h.forecast.ratings.other=435;p=houseControl(h);assert.equal(p.D,0);assert.equal(p.R,0);assert.equal(p.other,1);
+h.forecast.ratings.other=0;h.forecast.ratings.safeD=10;p=houseControl(h);assert.equal(p.unrated,425);assert.equal(p.configured,10);assert.ok(p.D>.5);
+h.forecast.model='manual';h.forecast.probabilityD=37;p=houseControl(h);assert.equal(p.D,.37);assert.equal(p.R,.63);h.forecast.model='ratings';assert.notEqual(houseControl(h).D,.37);
+for(const ratingChances of [{safe:40,likely:85,lean:65},{safe:90,likely:99,lean:65},{safe:99,likely:85,lean:NaN}])assert.throws(()=>validateHouse({...h,forecast:{...h.forecast,ratingChances}}));
+const map=JSON.parse(fs.readFileSync('lib/us-states-map.json'));assert.equal(map.length,50);assert.equal(new Set(map.map(x=>x.code)).size,50);for(const code of ['AK','HI','TX','FL','GA','NH','RI'])assert.ok(map.some(x=>x.code===code&&x.path.startsWith('M')&&Number.isFinite(x.x)&&Number.isFinite(x.y)));
+console.log('House needle: balanced odds, ratings, third-party seats, unrated seats, manual override and model validation passed; state map: 50 unique outlines.');
