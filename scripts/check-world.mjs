@@ -24,3 +24,22 @@ const complete=structuredClone(empty);complete.results={...complete.results,D:21
 for(const mutate of [h=>h.forecast.ratings.safeD=436,h=>h.results.D=-1,h=>h.results.R=1.5,h=>h.results.called='D',h=>h.results.status='final',h=>h.forecast.probabilityD=101,h=>{h.forecast.genericD=60;h.forecast.genericR=50;},h=>h.forecast.demMin=210,h=>{h.forecast.demMin=230;h.forecast.demMax=200;}]){const h=structuredClone(empty);mutate(h);assert.throws(()=>house.validateHouse(h));}
 const watch=structuredClone(empty);watch.races=[{id:'test',district:'NY-19',incumbent:'R',rating:'leanD',call:'D',notes:'',candidates:[{name:'Example',party:'D',poll:51,votes:123}]}];house.validateHouse(watch);assert.equal(house.houseTotals(watch,'results').D,0);assert.throws(()=>house.validateHouse({...watch,races:[...watch.races,{...watch.races[0],id:'duplicate'}]}));model.validateWorldElection({...seedWorldElections[0],house:empty});assert.throws(()=>model.validateWorldElection({...seedWorldElections[0],house:{...empty,results:{...empty.results,D:436}}}));console.log('House: aggregate totals, majority calls, forecast ranges, missing figures and independent watchlist passed.');
 const ideologyModel=await import(moduleUrl('lib/ideologies.ts'));const guide=ideologyModel.newIdeology('ideology-test');guide.title='Test tradition';ideologyModel.validateIdeology(guide);assert.throws(()=>ideologyModel.validateIdeology({...guide,status:'published'}));const publishedGuide={...guide,status:'published',summary:'A test introduction.',sections:{...guide.sections,definition:'A test definition.'},sources:[{label:'Source',url:'https://example.org/guide'}]};ideologyModel.validateIdeology(publishedGuide);for(const url of ['javascript:alert(1)','http://example.org','https://user:password@example.org'])assert.throws(()=>ideologyModel.validateIdeology({...publishedGuide,sources:[{label:'Unsafe',url}]}));assert.throws(()=>ideologyModel.validateIdeology({...publishedGuide,archived:true}));assert.throws(()=>ideologyModel.validateIdeology({...guide,date:'2026-02-30'}));model.validateWorldElection({...seedWorldElections[0],totalSeats:30,results:[{...result,ideologyIds:['ideology-test','ideology-other']}]});for(const ids of [['bad'],['ideology-test','ideology-test'],[12],'ideology-test'])assert.throws(()=>model.validateWorldElection({...seedWorldElections[0],totalSeats:30,results:[{...result,ideologyIds:ids}]}));console.log('Ideologies: draft/publish requirements, safe sources, trash privacy and multiple party references passed.');
+
+const atlas=await import(moduleUrl('lib/atlas-status.ts'));
+const atlasElection={...seedWorldElections[0],countryId:'test',publication:'published',precision:'day',dateStatus:'confirmed',status:'scheduled',startDate:'2026-10-03',endDate:''};
+const status=(e,today='2026-10-03')=>atlas.atlasElectionStatuses([e],today).get('test');
+assert.equal(status(atlasElection),'today');
+assert.equal(status({...atlasElection,startDate:'2026-11-03'}),'upcoming');
+assert.equal(status({...atlasElection,startDate:'2026-11-04'}),undefined);
+assert.equal(status({...atlasElection,startDate:'2026-10-02'}),undefined);
+assert.equal(status({...atlasElection,startDate:'2026-10-01',endDate:'2026-10-04'}),'today');
+assert.equal(status({...atlasElection,status:'held'}),'today');
+for(const patch of [{publication:'draft'},{status:'postponed'},{status:'cancelled'},{precision:'month'},{precision:'year'},{precision:'unknown'},{dateStatus:'tba'}])assert.equal(status({...atlasElection,...patch}),undefined);
+assert.equal(status({...atlasElection,startDate:'2027-02-28'},'2027-01-31'),'upcoming');
+assert.equal(status({...atlasElection,startDate:'2027-03-01'},'2027-01-31'),undefined);
+assert.equal(status({...atlasElection,startDate:'2028-02-29'},'2028-01-31'),'upcoming');
+assert.equal(status({...atlasElection,startDate:'2027-01-31'},'2026-12-31'),'upcoming');
+const future={...atlasElection,startDate:'2026-10-20'};
+for(const records of [[atlasElection,future],[future,atlasElection]])assert.equal(atlas.atlasElectionStatuses(records,'2026-10-03').get('test'),'today');
+assert.equal(atlas.localCalendarDate(new Date(2026,9,3,23,59)),'2026-10-03');
+console.log('Atlas: calendar-month boundaries, election days, date ranges, exclusions and red priority passed.');
