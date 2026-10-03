@@ -1,0 +1,13 @@
+# Political context in World of Elections
+
+Our world newsroom (`/editor/world`) stores a sourced country assessment under **Countries & coverage**, plus election-specific assessments and observer missions on each election. Country assessments drive the atlas’s **Election legitimacy** view; individual election assessments remain distinct. No category is inferred automatically. An assessment other than Unassessed requires an explanation, review date and HTTPS source. Observer reports can record invitations, attendance, refusal of access and published findings.
+
+Country party lists live below the country form. Names, abbreviations, colors and ideology labels can be copied into election rows with the saved-party selector. An existing row can also be saved as a country party. Each row is a historical snapshot; later party edits do not rewrite past elections. Archiving a party removes it from the picker, retaining election records.
+
+Our ideology newsroom (`/editor/ideologies`) has a separate private score form. Save the ideology before saving scores. Each of the nine axes ranges from −10 at the first pole to +10 at the second; zero is midpoint, while blank is unassessed. Scores live in `ea_ideology_axes`, not in public article JSON, revisions or static builds. Only existing `ea_editors` may read or write them. Our existing editor role is the moderator role for these features.
+
+Parliaments with recorded seat figures, including upcoming elections with entered seat allocations, can use one axis, selected axes, or all nine. Each selected axis has equal weight. Linked published, active ideologies are averaged within each axis, then the selected axes are averaged. A party needs at least one assessed linked ideology on every selected axis to be sorted; others follow assessed parties. Ties preserve the recorded order. Sorting affects the diagram and its legend, never seat totals or the result table. Upcoming contests without seat figures do not receive an invented parliament.
+
+`ea_parliament_order` intentionally uses a narrowly scoped SECURITY DEFINER RPC to derive public row order from protected values. It returns result IDs only, validates axes, and explicitly excludes draft elections, unpublished/archived/future ideologies, and non-parliamentary contests, including when the caller is an editor. Database advisor warnings about this deliberately public definer function are expected. Readers can observe the resulting relative order, but cannot retrieve numeric classifications.
+
+Validation: `pnpm test`, `pnpm build`, and the rollback-only `supabase/tests/politics.sql` cover ordering, score limits, missing assessments, copied party snapshots, source validation, anonymous/reader privacy and editor writes.
