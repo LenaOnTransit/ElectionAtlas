@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "vite --host 0.0.0.0",
-    "build": "tsc --noEmit && vite build",
+    "build": "tsc --noEmit && vite build && node scripts/build-public-pages.mjs",
     "preview": "vite preview --host 0.0.0.0",
     "test": "node scripts/check-house-control.mjs && node scripts/check-publication.mjs && node scripts/check-senate.mjs && node scripts/check-world.mjs && node --test scripts/check-routing.mjs",
     "typecheck": "tsc --noEmit"
