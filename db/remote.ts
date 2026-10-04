@@ -7,6 +7,6 @@ export async function readRecords(kinds:string[],all=false):Promise<RecordRow[]>
 }
 export async function writeRecord(kind:string,value:any) {
   const {data,error}=await supabase.rpc('ea_save_record',{record_kind:kind,payload:value});
-  if(error)throw Error(error.code==='40001'?'This record changed in another session. Reload before saving.':error.message);
+  if(error)throw Error(error.code==='PT409'||error.code==='40001'?'This record changed in another session. Reload before saving.':error.message);
   return data;
 }

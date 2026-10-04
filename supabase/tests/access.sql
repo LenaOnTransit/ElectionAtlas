@@ -34,7 +34,7 @@ do $$ declare result jsonb; original jsonb; begin
  result:=public.ea_save_record('world_election',original);
  if (result->>'version')::integer<>(original->>'version')::integer+1 then raise exception 'Version was not incremented'; end if;
  if not exists(select 1 from public.ea_revisions where record_id=original->>'id' and data=result) then raise exception 'Revision missing'; end if;
- begin perform public.ea_save_record('world_election',original);raise exception 'Stale write succeeded';exception when serialization_failure then null;end;
+ begin perform public.ea_save_record('world_election',original);raise exception 'Stale write succeeded';exception when sqlstate 'PT409' then null;end;
 end $$;
 reset role;
 set local role anon;
