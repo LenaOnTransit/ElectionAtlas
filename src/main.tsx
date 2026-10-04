@@ -5,6 +5,7 @@ import {Header,Footer} from '../app/components';
 import {RouteRedirect,RouteNotFound,navigate,AppLink} from './navigation';
 import {currentRoute,siteHref} from './routing.mjs';
 import {supabase} from '../lib/supabase';
+import {ModeratorProvider} from './moderation';
 if(window.location.hash.startsWith('#/')){const legacy=window.location.hash.slice(1);window.location.replace(siteHref(legacy,import.meta.env.BASE_URL));}
 const callbacks=window.location.search.includes('code=')||window.location.hash.includes('access_token=');
 const frame=(mode:string)=>async()=>{const {default:Frame}=await import('../app/explore/frame');return Frame({mode});};
@@ -49,4 +50,4 @@ function Application(){const [revision,setRevision]=useState(0);const [content,s
  })();return()=>{active=false;};},[revision]);
  return pending?<><Header/><main><p role="status">Loading World of Elections…</p></main></>:<div key={revision}>{content}</div>;
 }
-createRoot(document.getElementById('root')!).render(<Application/>);
+createRoot(document.getElementById('root')!).render(<ModeratorProvider><Application/></ModeratorProvider>);

@@ -1,6 +1,9 @@
 import type { AnchorHTMLAttributes } from 'react';
 import { siteHref } from './routing.mjs';
+import {useModerator} from './moderation';
 export function AppLink({href='',...props}:AnchorHTMLAttributes<HTMLAnchorElement>) {
+  const moderator=useModerator();
+  if((href==='/editor'||href.startsWith('/editor/')||href.startsWith('/editor?')||href.startsWith('/editor#'))&&!moderator)return null;
   return <a {...props} href={siteHref(href,import.meta.env.BASE_URL)}/>;
 }
 export class RouteRedirect extends Error {constructor(public path:string){super('Redirect');}}
