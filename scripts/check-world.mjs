@@ -54,6 +54,31 @@ assert.deepEqual(politics.orderByAxes(rows,['socialistCapitalist'],positions),['
 assert.deepEqual(politics.orderByAxes(rows,['socialistCapitalist'],positions,true),['right','center','left','unknown']);
 assert.deepEqual(politics.orderByAxes(rows,['socialistCapitalist','progressiveConservative'],positions),['left','center','right','unknown']);
 assert.deepEqual(politics.orderByAxes(rows,['democracyAutocracy'],positions),rows.map(r=>r.id));
+assert.deepEqual(politics.classifyByAxes(rows,['socialistCapitalist'],positions).map(r=>r.side),['negative','neutral','positive','unassessed']);
+assert.deepEqual(politics.classifyByAxes(rows,['socialistCapitalist'],positions,true).map(r=>r.side),['positive','neutral','negative','unassessed']);
+for(const [axis] of politics.politicalAxes){
+ const scores=[{ideology_id:'ideology-r',scores:{[axis]:8}},{ideology_id:'ideology-l',scores:{[axis]:-8}}];
+ assert.deepEqual(politics.classifyByAxes(rows,[axis],scores).map(r=>r.side),['negative','neutral','positive','unassessed']);
+}
+assert.equal(politics.classifyByAxes([rows[1]],['socialistCapitalist','democracyAutocracy'],positions)[0].side,'unassessed');
+assert.equal(politics.classifyByAxes([rows[1]],['socialistCapitalist','progressiveConservative'],[{ideology_id:'ideology-r',scores:{socialistCapitalist:2,progressiveConservative:-2}}])[0].side,'neutral');
+for(const total of [1,2,100,150,650,10000]){
+ const dots=parliament.hemicycleLayout(total);
+ for(const counts of [[0,0,total,0],[total,0,0,0],[0,0,0,total],[Math.floor(total*.1),Math.floor(total*.05),Math.floor(total*.75),total-Math.floor(total*.1)-Math.floor(total*.05)-Math.floor(total*.75)]]){
+  for(const reverse of [false,true]){
+   const categories=reverse?['positive','neutral','negative','unassessed']:['negative','neutral','positive','unassessed'];
+   const bySide=Object.fromEntries(['negative','neutral','positive','unassessed'].map((s,i)=>[s,counts[i]]));
+   const sides=categories.flatMap(s=>Array(bySide[s]).fill(s));
+   const geo=parliament.spectrumGeometry(dots,sides,reverse);
+   assert.ok(geo.bands.every(b=>!b.path.includes('NaN')));
+   dots.forEach((dot,i)=>{const band=geo.bands.filter(b=>b.row===dot.row&&dot.angle>b.start&&dot.angle<b.end);assert.equal(band.length,1);assert.equal(band[0].side,sides[i]);});
+   if(counts[0]||counts[2])assert.ok(geo.borders.some(b=>b.zero));
+  }
+ }
+}
+assert.deepEqual(parliament.spectrumGeometry([],[]),{bands:[],borders:[]});
+assert.throws(()=>parliament.spectrumGeometry(parliament.hemicycleLayout(2),['negative']));
+console.log('Parliament spectrum: all nine axes, averaging, reversed poles, neutral/unassessed seats, one-sided chambers and exact seat bands passed.');
 const parties=await import(moduleUrl('lib/country-parties.ts'));const party={...parties.newParty('nl'),name:'Example',ideology_ids:['ideology-test']};parties.validateParty(party);const copied=parties.partyResult(party);assert.equal(copied.name,party.name);assert.equal(copied.color,party.color);assert.equal(copied.partyId,party.id);copied.ideologyIds.push('ideology-other');assert.equal(party.ideology_ids.length,1);party.color='#112233';assert.notEqual(copied.color,party.color);assert.throws(()=>parties.validateParty({...party,name:''}));
 const legitimacy=await import(moduleUrl('lib/legitimacy.ts'));legitimacy.validateLegitimacy(legitimacy.emptyLegitimacy());assert.equal(legitimacy.legitimacyInfo(undefined)[0],'unassessed');const assessment={level:'concerns',summary:'Source-based context',reviewed:'2026-10-03',sources:[{label:'Report',url:'https://example.org/report'}]};legitimacy.validateLegitimacy(assessment);model.validateCountry({...seedCountries[0],legitimacy:assessment});for(const patch of [{summary:''},{sources:[]},{reviewed:'2026-02-30'},{level:'made-up'},{sources:[{label:'Unsafe',url:'javascript:alert(1)'}]}])assert.throws(()=>legitimacy.validateLegitimacy({...assessment,...patch}));
 const observer={id:'test',organization:'Example mission',status:'report-published',assessment:'Findings',url:'https://example.org/report',date:'2026-10-03'};legitimacy.validateObservers([observer]);assert.throws(()=>legitimacy.validateObservers([{...observer,url:''}]));model.validateWorldElection({...seedWorldElections[0],legitimacy:assessment,observers:[observer]});
