@@ -35,7 +35,7 @@ export function spectrumGeometry(dots:ReturnType<typeof hemicycleLayout>,sides:A
   let start=0;
   for(let j=1;j<=row.length;j++)if(j===row.length||sides[row[j].index]!==sides[row[start].index]){
    const a=edge(start),b=edge(j),large=b-a>Math.PI?1:0;
-   bands.push({side:sides[row[start].index],row:row[0].row,start:a,end:b,path:`M ${xy(inner,a)} L ${xy(outer,a)} A ${outer} ${outer} 0 ${large} 0 ${xy(outer,b)} L ${xy(inner,b)} A ${inner} ${inner} 0 ${large} 1 ${xy(inner,a)} Z`});start=j;
+   bands.push({side:sides[row[start].index],row:row[0].row,start:a,end:b,path:`M ${xy(inner,a)} L ${xy(outer,a)} A ${outer} ${outer} 0 ${large} 1 ${xy(outer,b)} L ${xy(inner,b)} A ${inner} ${inner} 0 ${large} 0 ${xy(inner,a)} Z`});start=j;
   }
   borders.forEach(c=>{const angle=edge(row.filter(d=>d.index<c.index).length);if(!ri)c.points.push(xy(inner,angle));c.points.push(xy(r,angle));if(ri===rows.length-1)c.points.push(xy(outer,angle));});
  });

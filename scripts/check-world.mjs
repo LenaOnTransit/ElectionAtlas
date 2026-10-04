@@ -71,6 +71,16 @@ for(const total of [1,2,100,150,650,10000]){
    const sides=categories.flatMap(s=>Array(bySide[s]).fill(s));
    const geo=parliament.spectrumGeometry(dots,sides,reverse);
    assert.ok(geo.bands.every(b=>!b.path.includes('NaN')));
+   // SVG endpoint arcs have two possible centres. Check the actual arc flags
+   // select the chamber's centre, not a reflected arc below the seat row.
+   for(const band of geo.bands){
+    const n=band.path.match(/-?\d+(?:\.\d+)?/g).map(Number);
+    const [x1,y1,r,,rotation,large,sweep,x2,y2]=n.slice(2,11);
+    assert.equal(rotation,0);assert.equal(sweep,1);assert.equal(n[17],0);const dx=(x1-x2)/2,dy=(y1-y2)/2;
+    const coefficient=(large===sweep?-1:1)*Math.sqrt(Math.max(0,(r*r-dx*dx-dy*dy)/(dx*dx+dy*dy)));
+    assert.ok(Math.abs((x1+x2)/2+coefficient*dy-300)<1);
+    assert.ok(Math.abs((y1+y2)/2-coefficient*dx-305)<1);
+   }
    dots.forEach((dot,i)=>{const band=geo.bands.filter(b=>b.row===dot.row&&dot.angle>b.start&&dot.angle<b.end);assert.equal(band.length,1);assert.equal(band[0].side,sides[i]);});
    if(counts[0]||counts[2])assert.ok(geo.borders.some(b=>b.zero));
   }
