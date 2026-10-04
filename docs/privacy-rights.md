@@ -1,12 +1,14 @@
 # World of Elections: data-rights operations
 
+Privacy contact: **worldofelections@gmail.com**. Published on the account page and linked in the public footer. No account is required to email a rights request.
+
 Account settings provide free JSON export and permanent account deletion. Both RPCs use the verified JWT user ID and a live Supabase session. Deletion additionally requires a session created within five minutes. The UI asks for a fresh password sign-in and explicit confirmation. Never accept a user ID from a request to decide whose account to export or erase.
 
 Export contains account contact details, username and submitted election revisions. It excludes passwords, tokens, other accounts and other moderators' revisions. Deletion removes the auth account, profile, editorial membership, sessions and submitted revision snapshots. Published election records and articles are not automatically removed. Storage ownership blocks deletion until any files can be removed through the Storage API; the current site has no uploaded storage objects.
 
 ## Required controller decisions before claiming compliance
 
-- Publish the controller's identity and a monitored privacy contact that people can use without creating an account. Cover account access problems, information in editorial coverage and direct portability transfers.
+- Publish the controller's identity and monitor worldofelections@gmail.com. Cover account access problems, information in editorial coverage and direct portability transfers.
 - Define and document retention for Supabase authentication/audit logs, infrastructure logs and backups. Account deletion does not promise instant deletion from all backups or third-party logs. Ensure restoration does not reintroduce erased personal data, and instruct relevant processors/recipients where required.
 - Record the lawful bases for processing and any justified erasure exceptions. Public election coverage is not automatically exempt from a request; review the applicable national journalism rules and Article 17 exceptions case by case.
 
