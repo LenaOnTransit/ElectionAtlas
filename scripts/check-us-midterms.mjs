@@ -6,10 +6,10 @@ import assert from 'node:assert/strict';
 function moduleUrl(file,imports={}){let source=fs.readFileSync(file,'utf8');for(const [from,to]of Object.entries(imports))source=source.replaceAll("'"+from+"'","'"+to+"'");return 'data:text/javascript;base64,'+Buffer.from(ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText).toString('base64');}
 const model=await import(moduleUrl('lib/world.ts',{'./house':moduleUrl('lib/house.ts'),'./legitimacy':moduleUrl('lib/legitimacy.ts')}));
 const records=JSON.parse(gunzipSync(fs.readFileSync('scripts/us-midterm-election-records.json.gz')));
-const years=Array.from({length:59},(_,i)=>1790+4*i);
+const years=Array.from({length:119},(_,i)=>1788+2*i);
 const election=(office,year)=>records.find(e=>e.id===`world-us-${office}-${year}`);
-test('all 59 completed midterm cycles have valid House, Senate and governor records',()=>{
- assert.equal(records.length,177);assert.equal(new Set(records.map(e=>e.id)).size,177);
+test('all 119 completed federal election cycles have valid House, Senate and governor records',()=>{
+ assert.equal(records.length,357);assert.equal(new Set(records.map(e=>e.id)).size,357);
  for(const office of ['house','senate','governor'])assert.deepEqual(records.filter(e=>e.seriesId===`us-${office}-midterms`).map(e=>Number(e.startDate.slice(0,4))),years);
  for(const e of records){try{model.validateWorldElection(e)}catch(error){throw Error(e.id+': '+error.message)}assert.equal(e.publication,'published');assert.equal(e.status,'held');assert.ok(e.sources.length);assert.equal(e.precision,'year');assert.ok(JSON.stringify(e).length<900000);}
 });
@@ -25,7 +25,7 @@ test('state percentages and calls remain separate; Senate diagrams exclude conti
   assert.ok(e.contests.length>0);
   for(const c of e.contests){assert.ok(!ids.has(c.id));ids.add(c.id);assert.ok(c.results.reduce((n,r)=>n+(r.share||0),0)<=100.2);assert.ok(c.results.every(r=>!(r.winner&&r.advanced)));}
   if(e.seriesId==='us-senate-midterms'){
-   const regular=e.contests.filter(c=>!c.special&&!c.diagramExcluded);assert.equal(e.totalSeats,regular.length);assert.equal(e.results.length,regular.reduce((n,c)=>n+c.results.filter(r=>r.winner).length,0));assert.ok(e.results.every(r=>r.seats===1&&r.votes===null&&r.share===null));
+   const regular=e.contests.filter(c=>!c.special&&!c.diagramExcluded);assert.ok(regular.length>0,e.id);assert.equal(e.totalSeats,regular.length);assert.equal(e.results.length,regular.reduce((n,c)=>n+c.results.filter(r=>r.winner).length,0));assert.ok(e.results.every(r=>r.seats===1&&r.votes===null&&r.share===null));
   }
  }
  assert.equal(election('senate',2022).totalSeats,34);assert.equal(election('governor',2022).contests.length,36);
@@ -58,4 +58,21 @@ test('runoff rounds preserve advances without adding a second regular Senate sea
  const ga=election('senate',2022).contests.filter(c=>c.stateCode==='GA');
  const first=ga.find(c=>c.diagramExcluded),final=ga.find(c=>c.round==='Runoff');
  assert.ok(first&&final);assert.equal(first.special,false);assert.equal(first.results.filter(r=>r.advanced).length,2);assert.equal(first.results.filter(r=>r.winner).length,0);assert.equal(final.results.filter(r=>r.winner).length,1);
+});
+
+test('presidential-year cycles include first House and modern Senate/governor races',()=>{
+ assert.equal(election('house',1788).totalSeats,65);assert.equal(election('house',2024).results.find(r=>r.party==='Republican').seats,220);assert.equal(election('house',2024).results.find(r=>r.party==='Democratic').seats,215);assert.equal(election('senate',2024).totalSeats,33);assert.equal(election('governor',2024).contests.length,11);assert.equal(election('senate',2024).round,'Presidential-year cycle');
+});
+
+test('2020 Georgia Senate entries call the final runoff winners',()=>{
+ const races=election('senate',2020).contests.filter(c=>c.stateCode==='GA');
+ assert.ok(races.some(c=>!c.special&&!c.diagramExcluded&&c.results.some(r=>r.winner&&r.name==='Jon Ossoff')));
+ assert.ok(races.some(c=>c.special&&!c.diagramExcluded&&c.results.some(r=>r.winner&&r.name==='Raphael Warnock')));
+});
+
+test('joint first-cycle legislative elections mark one winner for each class',()=>{
+ const pa=election('senate',1788).contests.filter(c=>c.stateCode==='PA');
+ assert.equal(pa.find(c=>c.title.includes('Class 1')).results.find(r=>r.winner).name,'William Maclay');
+ assert.equal(pa.find(c=>c.title.includes('Class 3')).results.find(r=>r.winner).name,'Robert Morris');
+ assert.equal(election('senate',1788).totalSeats,24);
 });

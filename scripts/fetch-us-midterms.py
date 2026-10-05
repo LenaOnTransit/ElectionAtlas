@@ -12,7 +12,7 @@ def fetch(item):
   if result.returncode:return {'file':name,'url':url,'error':result.returncode}
  return {'file':name,'url':url,'bytes':p.stat().st_size}
 items=[]
-for y in range(1790,2023,4):
+for y in range(1788,2025,2):
  for office in ['senate','governor']:
   title=(f'{y}–{str(y+1)[-2:]}_United_States_Senate_elections' if y<1914 else f'{y}_United_States_Senate_elections') if office=='senate' else f'{y}_United_States_gubernatorial_elections'
   items.append((f'wiki-{office}-{y}','https://en.wikipedia.org/wiki/'+urllib.parse.quote(title)))

@@ -1,6 +1,6 @@
-# U.S. historical midterms
+# U.S. historical House, Senate and governor elections
 
-The archive covers the 59 completed non-presidential cycles from 1790 through 2022. Each cycle has three entries: House, Senate, and governors. Governor entries cover elections held in that midterm year, not off-year elections or every sitting governor.
+The archive covers the 119 completed federal cycles from 1788–89 through 2024, including 59 midterms and 60 presidential-year cycles. Each cycle has three entries: House, Senate, and governors. Governor entries cover elections held in that election year, not off-year elections or every sitting governor.
 
 ## Representation
 
@@ -32,3 +32,5 @@ Cache public sources with `python3 scripts/fetch-us-midterms.py` and `python3 sc
 ## Reads and security
 
 `ea_world_summaries()` omits nested candidate tables from the atlas, archive list, and calendar. `ea_public_election(id)` loads exactly one published detail record. Both are security-invoker functions retaining RLS and explicit publication filters, including for editor sessions. Editor reads retain the full records so races can be edited. Static SEO generation includes separate state result tables from anonymous public records.
+
+The internal `us-*-midterms` series IDs and template filenames are retained for continuity. Both midterm and presidential-year cycles appear in each office’s year selector. Existing archive entries are preserved when adding the missing presidential-year records.

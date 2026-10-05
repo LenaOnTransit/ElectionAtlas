@@ -18,7 +18,7 @@ PLATFORMS='https://www.presidency.ucsb.edu/documents/app-categories/elections-an
 MIT='https://doi.org/10.7910/DVN/PEJ5QU'
 GOV538='https://github.com/fivethirtyeight/election-results/blob/main/election_results_gubernatorial.csv'
 HIST='https://doi.org/10.7910/DVN/DGUMFI'
-YEARS=list(range(1790,2023,4));warnings=[]
+YEARS=list(range(1788,2025,2));warnings=[]
 
 def source(label,url):return {'label':label,'url':url}
 def clean(s):return re.sub(r'\s+',' ',s).strip()
@@ -90,7 +90,7 @@ OVERRIDES=[
  (r'Hiram (?:W\.? )?Johnson',1910,1946,['progressivism','economic-progressivism'],source('Senate: Progressive Era',PROGRESSIVES)),
  (r'Robert (?:L\.? )?Owen',1906,1926,['progressivism','economic-progressivism'],source('Senate: Progressive Era',PROGRESSIVES)),
  (r'Thomas (?:J\.? )?Walsh',1910,1934,['progressivism','economic-progressivism'],source('Senate: Progressive Era',PROGRESSIVES)),
- (r'(?:Bernie|Bernard) Sanders',2015,2022,['democratic-socialism','progressivism'],source('Sanders on democratic socialism','https://www.presidency.ucsb.edu/documents/remarks-georgetown-university-washington-dc')),
+ (r'(?:Bernie|Bernard) Sanders',2015,2024,['democratic-socialism','progressivism'],source('Sanders on democratic socialism','https://www.presidency.ucsb.edu/documents/remarks-georgetown-university-washington-dc')),
 ]
 def result(n,p,y,ident,v=None,share=None,winner=False,candidate=True):
  p=party(p);ids,basis=party_ideology(p,y)
@@ -102,7 +102,7 @@ def result(n,p,y,ident,v=None,share=None,winner=False,candidate=True):
 
 def template(y,office):
  titles={'house':'House of Representatives','senate':'Senate','governor':'Gubernatorial elections'}
- return {'id':f'world-us-{office}-{y}','countryId':'us','title':titles[office],'type':'gubernatorial'if office=='governor'else'parliamentary','body':titles[office],'startDate':f'{y}-01-01','endDate':'','precision':'year','dateStatus':'expected','status':'held','publication':'published','round':'Midterm cycle'+(' · '+str(y)+'–'+str(y+1)if office=='senate'and y<1914 else''),'seriesId':f'us-{office}-midterms','snap':False,'summary':'','government':'','turnout':None,'totalSeats':None,'resultStatus':'final','resultCoverage':'partial','voteBasis':'','results':[],'sources':[],'checked':'2026-10-05','notes':'','articleId':'','version':0}
+ return {'id':f'world-us-{office}-{y}','countryId':'us','title':titles[office],'type':'gubernatorial'if office=='governor'else'parliamentary','body':titles[office],'startDate':f'{y}-01-01','endDate':'','precision':'year','dateStatus':'expected','status':'held','publication':'published','round':('Presidential-year cycle'if y%4==0 else'Midterm cycle')+(' · '+str(y)+'–'+str(y+1)if office=='senate'and y<1914 else''),'seriesId':f'us-{office}-midterms','snap':False,'summary':'','government':'','turnout':None,'totalSeats':None,'resultStatus':'final','resultCoverage':'partial','voteBasis':'','results':[],'sources':[],'checked':'2026-10-05','notes':'','articleId':'','version':0}
 
 def make_contest(y,office,state,title,results,ref,notes='',special=False,round='General',method=None,index=0):
  if method is None:method='indirect'if office=='senate'and y<1914 else'direct'
@@ -170,7 +170,7 @@ for row in simple_read(CACHE/'house.html')[0]:
   r=result(p,p,y,f'house-{y}-{i}',candidate=False);r['seats']=seats;e['results'].append(r)
  if sum(r['seats']for r in e['results'])!=e['totalSeats']:
   remaining=e['totalSeats']-sum(r['seats']for r in e['results']);r=result('Unallocated in initial source divisions','',y,f'house-{y}-unallocated',candidate=False);r['seats']=remaining;r['color']='#cbd5e1';e['results'].append(r)
- e['summary']='Party-level House results for this midterm cycle, using the House historian’s initial election divisions.'
+ e['summary']='Party-level House results for this election cycle, using the House historian’s initial election divisions.'
  e['notes']='District contests are intentionally not reproduced. Nonvoting delegates and resident commissioners are excluded. Figures describe initial election results for the following Congress, not later special elections or party switches. Some state elections occurred in the following year. Ideologies reflect broad party traditions at this election, not their present-day positions.'
  records.append(e)
 
@@ -182,6 +182,7 @@ for y in YEARS:
   rows=expand(t['rows']);head=' '.join(c['text']for r in rows[:2]for c in r)
   if 'State'not in head or not ('Candidates'in head or 'Major candidates'in head):continue
   heading=t['heading'].lower();regular='leading to'in heading or ('races'in heading and ('next'in heading or 'general'in heading))or('regular'in heading and 'special'not in heading)
+  if heading=='elections to the next congress' or heading==f'elections to the {(y-1788)//2+1}th congress':regular=True
   if y>=1914 and t['heading']in ('Races leading to the 118th Congress','Races leading to the 117th Congress'):regular=True
   # The first "leading to" table is the midterm's regular class. Later early
   # selections for another future Congress are not part of this class.
@@ -189,7 +190,8 @@ for y in YEARS:
    if regular_seen:continue
    regular_seen=True
   if 'special elections'in heading:regular=False
-  for row in rows[2:]:
+  if y==1788:regular=True
+  for row in rows[1:]:
    if not row:continue
    state=state_of(row[0]['text'])
    if not state:continue
@@ -212,17 +214,36 @@ for y in YEARS:
    title=clean(row[0]['text']).replace(state['name'],'Senate',1)
    if y==1862 and state['code']=='WV'and regular:title='Senate (Class 1)'if not any(c['stateCode']=='WV'and not c['special']for c in contests)else'Senate (Class 2)'
    if title=='Senate'and not regular:title+=' · special'
+   joint={(1788,'NJ'):{'1':'Jonathan Elmer','2':'William Paterson'},(1788,'PA'):{'1':'William Maclay','3':'Robert Morris'},(1788,'VA'):{'1':'William Grayson','2':'Richard Henry Lee'},(1812,'LA'):{'2':'Jean Destréhan','3':'Allan Magruder'},(1816,'IN'):{'1':'James Noble','3':'Waller Taylor'},(1820,'ME'):{'1':'John Holmes','2':'John Chandler'},(1848,'WI'):{'1':'Isaac P. Walker','3':'Henry Dodge'},(1860,'KS'):{'2':'James H. Lane','3':'Samuel C. Pomeroy'},(1912,'NM'):{'1':'Thomas B. Catron','2':'Albert B. Fall'}}.get((y,state['code']))
+   if joint and sum(r['winner']for r in results)>1:
+    unique={}
+    for r in results:
+     r['name']=re.sub(r'^\(Class [123]\)\s*','',r['name']);unique.setdefault(normal(r['name']),r)
+    results=list(unique.values());cls=re.search(r'Class ([123])',title)
+    if cls:
+     for r in results:r['winner']=normal(r['name'])==normal(joint[cls[1]])
+    else:
+     for cls,chosen in joint.items():
+      class_title='Senate (Class '+cls+')'
+      if any(c['stateCode']==state['code']and c['title']==class_title and c['notes']==note for c in contests):continue
+      selected=[{**r,'winner':normal(r['name'])==normal(chosen)}for r in results]
+      c=make_contest(y,'senate',state,class_title,selected,ref,note,not regular,method='indirect',index=len(contests));c['sources'].append(source('U.S. Senate: historical senators and classes','https://www.senate.gov/states/'+state['code']+'/senators.htm'));contests.append(c)
+     continue
+   if y==1908 and state['code']=='AL'and sum(r['winner']for r in results)>1:
+    chosen=next(r['name']for r in reversed(results)if r['winner'])
+    for r in results:r['winner']=r['name']==chosen
    if y==1906 and state['code']=='AL'and len(results)>1:
     for i,r in enumerate(results):
      contests.append(make_contest(y,'senate',state,title+(' · successor selection'if i else''),[r],ref,note,not regular or i>0,method='indirect',index=len(contests)))
    else:
     c=make_contest(y,'senate',state,title,results,ref,note,not regular,method='indirect'if y<1914 else'direct',index=len(contests));contests.append(c)
+    if joint:c['sources'].append(source('U.S. Senate: historical senators and classes','https://www.senate.gov/states/'+state['code']+'/senators.htm'))
  # Match general result tables to summary candidates; primary tables are never
  # used just because they happen to contain larger vote totals.
  if y>=1914:
   first_rounds=[]
   for c in contests:
-   winner=next((r for r in c['results']if r['winner']),None)
+   winner=next((r for r in reversed(c['results'])if r['winner']),None)
    options=[]
    for t in tables:
     if state_of(t['state'])!=BY_CODE[c['stateCode']]:continue
@@ -246,9 +267,10 @@ for y in YEARS:
   contests+=first_rounds
  e['contests']=contests;e['sources']=[source('U.S. Senate historical party divisions',SENATE),ref,source('MIT Election Lab: Senate returns',MIT)];regular=[c for c in contests if not c['special']and not c.get('diagramExcluded',False)];e['totalSeats']=len(regular)
  e['results']=[{**r,'name':r['name']+' · '+c['stateName'],'votes':None,'share':None,'seats':1}for c in regular for r in c['results']if r['winner']]
- e['summary']='State Senate races in this midterm cycle, with separate candidate results and election-era ideology attribution.'
+ e['summary']='State Senate races in this election cycle, with separate candidate results and election-era ideology attribution.'
  e['voteBasis']='Elected candidates in regular races; continuing senators are not included'
  e['notes']='The seat diagram shows only regular seats contested in this cycle, not the full Senate. Special races remain available in the state selector. Early cycles span two years and use legislative selection; missing or non-comparable vote totals are left blank. Candidate ideology is used where sourced; otherwise the broad election-era party tradition is used. Unassessed candidates are not assigned an ideology.'
+ if y==1788:e['notes']+=' This first cycle includes delayed New York and North Carolina selections in 1789. Rhode Island joined in 1790; its first selections are recorded in that later cycle.'
  if not regular:warnings.append(f'Senate {y}: no regular contests identified')
  records.append(e)
 
@@ -311,8 +333,8 @@ for y in YEARS:
   url='https://en.wikipedia.org/wiki/'+urllib.parse.quote(f'{y}_{state["name"].replace(" ","_")}_gubernatorial_election');c=make_contest(y,'governor',state,'Governor',detail,source('Historical state result and cited records',url),'Legislative selection counts are not inferred from placeholders.'if method=='indirect'else'',method=method,index=len(contests));contests=[x for x in contests if x['stateCode']!=state['code']]+[c]
  e['contests']=sorted(contests,key=lambda c:c['stateName']);e['sources']=list({s['url']:s for c in contests for s in c['sources']}.values())[:25]if not (CACHE/f'wiki-governor-{y}.html').exists()else[ref]
  if not contests:warnings.append(f'Governor {y}: no contests found');continue
- e['summary']='State gubernatorial races held in this midterm year. Each governor is elected separately; there is no combined national percentage.'
- e['voteBasis']='Separate state governor races';e['notes']='This entry covers governor elections held in the midterm year, including available special contests, not off-year elections or every sitting governor. Candidate-specific ideology is used where sourced; election-era party ideology is the fallback. Historical indirect selections and unavailable counts are identified separately. Source summaries may omit minor candidates; blank values do not mean zero votes.'
+ e['summary']='State gubernatorial races held in this election year. Each governor is elected separately; there is no combined national percentage.'
+ e['voteBasis']='Separate state governor races';e['notes']='This entry covers governor elections held in the election year, including available special contests, not off-year elections or every sitting governor. Candidate-specific ideology is used where sourced; election-era party ideology is the fallback. Historical indirect selections and unavailable counts are identified separately. Source summaries may omit minor candidates; blank values do not mean zero votes.'
  records.append(e)
 
 # Modern governors: first-party published dataset with a source URL per result.
@@ -323,7 +345,7 @@ for r in govrows:
 for (y,rid,stage),rows in groups.items():
  e=next((e for e in records if e['id']==f'world-us-governor-{y}'),None)
  if e is None:
-  e=template(y,'governor');e['contests']=[];e['sources']=[source('FiveThirtyEight historical governor returns',GOV538)];e['summary']='State gubernatorial races held in this midterm year.';e['voteBasis']='Separate state governor races';records.append(e)
+  e=template(y,'governor');e['contests']=[];e['sources']=[source('FiveThirtyEight historical governor returns',GOV538)];e['summary']='State gubernatorial races held in this election year.';e['voteBasis']='Separate state governor races';records.append(e)
  state=BY_CODE[rows[0]['state_abbrev']];final=max(int(r['ranked_choice_round']or 0)for r in rows);rows=[r for r in rows if int(r['ranked_choice_round']or 0)==final];results=[]
  merged=collections.defaultdict(list)
  for r in rows:merged[r['candidate_name']or r['alt_result_text']or'Other / write-in'].append(r)
