@@ -8,7 +8,7 @@ export function RegionalResults({overview,elections,selectedId}:{overview:WorldE
  const leader=(e:WorldElection)=>[...e.results].filter(r=>r.votes!=null).sort((a,b)=>(b.votes||0)-(a.votes||0))[0];
  return <section className="regional-results"><h2>{province?'Results by province':'Results by electoral college'}</h2>
  <p>{province?'Each province elects its own chamber. The overview combines popular votes; provincial seats are shown on each province’s page.':'Each college has its own electorate and elected membership. Its members subsequently take part in the indirect Eerste Kamer election.'}</p>
- {selectedId!==overview.id&&<p><AppLink href={'/world/election/'+overview.id}>View the full election overview</AppLink></p>}
+ {selectedId!==overview.id&&<p><AppLink action href={'/world/election/'+overview.id}>View the full election overview</AppLink></p>}
  <div className={province?'regional-layout':'regional-layout colleges'}>
  {province&&overview.countryId==='nl'&&<div><svg className="province-map" viewBox={`0 0 ${map.width} ${map.height}`} role="group" aria-label="Netherlands provincial election results; select a province">
  {map.provinces.map(p=>{const e=children.find(e=>e.geography?.id===p.id);const first=e&&leader(e);return e?<AppLink key={p.id} href={'/world/election/'+e.id} aria-label={`${p.name}: ${first?.name||'results'}`} className={selectedId===e.id?'selected-province':''}><path d={p.path} fill={first?.color||'#cbd5e1'}><title>{p.name}{first?' · '+first.name+' '+first.share+'%':''}</title></path></AppLink>:<path key={p.id} d={p.path} fill="#e5e7eb"><title>{p.name}: no results entered</title></path>})}
