@@ -5,7 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import {spawnSync} from 'node:child_process';
 import {pathToFileURL} from 'node:url';
-import {pageMetadata,staticPages,canonicalUrl,descriptionText} from '../lib/seo.mjs';
+import {pageMetadata,staticPages,canonicalUrl,descriptionText,electionMetadata} from '../lib/seo.mjs';
 
 const schema=html=>JSON.parse(html.match(/<script id="page-schema" type="application\/ld\+json">(.*?)<\/script>/s)[1]);
 test('Search metadata has stable canonical URLs, distinct descriptions and safe JSON-LD',()=>{
@@ -22,6 +22,27 @@ test('Search metadata has stable canonical URLs, distinct descriptions and safe 
  assert.equal(story.dateModified,'2026-10-01T12:00:00.000Z');
  assert.match(head,/og:image" content="https:\/\/worldofelections.com\/social-card.png"/);
  assert.ok(!head.includes('SearchAction')); // There is no standalone site-search URL.
+});
+
+test('Election metadata uses structured country, dates and results without changing records',()=>{
+ const election={title:'Federal Senate',type:'parliamentary',startDate:'2026-10-04',precision:'day',resultStatus:'provisional',resultCoverage:'partial',totalSeats:81,results:[{name:'Party',share:0,seats:0}]};
+ const before=JSON.stringify(election);
+ const meta=electionMetadata(election,'Brazil');
+ assert.equal(meta.title,'2026 Brazil Federal Senate | World of Elections');
+ for(const detail of ['Brazil','2026','parliamentary','2026-10-04','Provisional results (partial coverage)','81 seats','1 parties / lists'])assert.ok(meta.description.includes(detail),detail);
+ assert.equal(JSON.stringify(election),before);
+ for(const title of ['Brazil Federal Senate 2026','2026 BRAZIL Federal Senate','Federal Senate · 2026'])assert.equal(electionMetadata({...election,title},'Brazil').title,meta.title);
+ assert.equal(electionMetadata({...election,title:'2026 Netherlands Tweede Kamer'},'Netherlands').title,'2026 Netherlands Tweede Kamer | World of Elections');
+ assert.equal(electionMetadata({...election,title:'Côte d’Ivoire National Assembly'},'Côte d’Ivoire').title,'2026 Côte d’Ivoire National Assembly | World of Elections');
+ assert.equal(electionMetadata({...election,title:'2026–2027 National Assembly',endDate:'2027-01-02'},'Example').title,'2026–2027 Example National Assembly | World of Elections');
+ assert.match(electionMetadata({...election,title:'District 20260'},'Example').title,/District 20260/);
+ const unknown=electionMetadata({title:'President',type:'presidential',precision:'unknown',results:[]},'Example');
+ assert.equal(unknown.title,'Example President | World of Elections');assert.match(unknown.description,/Date not announced/);assert.ok(!unknown.description.includes('results'));
+ const yearly=electionMetadata({...election,precision:'year'},'Example');assert.ok(!yearly.description.includes('2026-10-04'));
+ const head=pageMetadata({route:'/world/election/example',...meta}).head;
+ assert.match(head,/<title>2026 Brazil Federal Senate \| World of Elections<\/title>/);
+ assert.match(head,/og:title" content="2026 Brazil Federal Senate \| World of Elections"/);
+ assert.ok(electionMetadata({...election,title:'Very long chamber name '.repeat(20)},'Example').description.length<=180);
 });
 
 test('Generated HTML protects unpublished content and indexes only substantive country profiles',async()=>{
@@ -50,6 +71,7 @@ test('Generated HTML protects unpublished content and indexes only substantive c
   assert.match(country,/2026-10-03T12:00:00.000Z/);assert.match(country,/world\/election\/world-test\//);
   const empty=await fs.readFile(path.join(dir,'dist/archive/country/empty/index.html'),'utf8');assert.match(empty,/noindex,follow/);
   const page=await fs.readFile(path.join(dir,'dist/world/election/world-test/index.html'),'utf8');
+  assert.match(page,/<title>2026 Testland Test election \| World of Elections<\/title>/);assert.match(page,/<h1>Test election<\/h1>/);assert.match(page,/name="description" content="2026 Testland parliamentary election/);
   assert.ok(page.includes('https://example.org/results'));assert.match(page,/>0%<\/td>/);assert.match(page,/Testland elections<\/a> · 2026 · held/);assert.ok(!page.includes('2026-01-01'));
   const presidential=await fs.readFile(path.join(dir,'dist/world/election/world-us-president-2024/index.html'),'utf8');assert.match(presidential,/United States presidential election 2024/);assert.match(presidential,/Historical electoral allocations by state/);assert.match(presidential,/Kamala Harris 3; Donald Trump 1/);
   const guide=await fs.readFile(path.join(dir,'dist/ideologies/ideology-test/index.html'),'utf8');
