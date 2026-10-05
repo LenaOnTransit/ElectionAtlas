@@ -17,6 +17,8 @@ const pages:Record<string,()=>Promise<ReactNode>>={
  '/house':async()=>(await import('../app/house/page')).default(),
  '/editor/house':async()=>(await import('../app/editor/house/page')).default(),
  '/calendar':async()=>(await import('../app/calendar/page')).default(),
+ '/education':async()=>(await import('../app/education/page')).default(),
+ '/editor/education':async()=>(await import('../app/editor/education/page')).default(),
  '/ideologies':async()=>(await import('../app/ideologies/page')).default(),
  '/editor/ideologies':async()=>(await import('../app/editor/ideologies/page')).default(),
  '/archive':async()=>(await import('../app/archive/page')).default(),
@@ -37,6 +39,8 @@ async function loadPage(url:URL):Promise<ReactNode>{
  if(url.pathname==='/account')return (await import('../app/account/page')).default({searchParams:Promise.resolve(Object.fromEntries(url.searchParams))});
  const loader=pages[url.pathname];if(loader)return loader();
  const params=Promise.resolve({id:decodeURIComponent(url.pathname.split('/').at(-1)||'')});
+ if(/^\/education\/category\/[^/]+$/.test(url.pathname))return (await import('../app/education/category/[id]/page')).default({params});
+ if(/^\/education\/[^/]+$/.test(url.pathname))return (await import('../app/education/[id]/page')).default({params});
  if(/^\/ideologies\/[^/]+$/.test(url.pathname))return (await import('../app/ideologies/[id]/page')).default({params});
  if(/^\/article\/[^/]+$/.test(url.pathname))return (await import('../app/article/[id]/page')).default({params});
  if(/^\/archive\/country\/[^/]+$/.test(url.pathname))return (await import('../app/archive/country/[id]/page')).default({params});

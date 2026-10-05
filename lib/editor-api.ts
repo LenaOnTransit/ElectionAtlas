@@ -1,3 +1,4 @@
+import {validateEducational} from './education.mjs';
 import {getIdeologies} from '../db/ideologies';
 import {validateIdeology} from './ideologies';
 import {validatePublication} from './publication';
@@ -9,6 +10,7 @@ import {saveWorldCountry,saveWorldElection,worldHistory,getWorld} from '../db/wo
 export async function saveContent(kind:string,value:any) {
   if(kind==='article')validatePublication(value);
   if(kind==='article'&&value.articleType==='ideology')validateIdeology(value);
+  if(kind==='article'&&value.articleType==='educational')validateEducational(value);
   if(kind==='senate')validateSenate(value);
   if(kind==='article'&&(!value.title?.trim()||!['draft','published'].includes(value.status)))throw Error('Title and status required.');
   if(kind==='article'&&(value.archived!==undefined&&typeof value.archived!=='boolean'||value.archived===true&&value.status!=='draft'))throw Error('Removed articles must be private drafts.');

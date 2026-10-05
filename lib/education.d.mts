@@ -1,0 +1,10 @@
+export type EducationCategoryId='elections-voting'|'maps-districts'|'parties-ideology'|'polling-forecasting'|'government-institutions';
+export type EducationCategory={id:EducationCategoryId;name:string;description:string};
+export type Educational={id:string;articleType:'educational';educationCategory:EducationCategoryId;category:string;title:string;summary:string;body:string;sections:{id:string;title:string;body:string}[];sources:{label:string;url:string}[];author:string;date:string;status:'draft'|'published';publishAt?:string;archived?:boolean};
+export const educationCategories:EducationCategory[];
+export function educationCategory(id:string):EducationCategory|undefined;
+export function educationalRoute(id:string):string;
+export function newEducational(id?:string):Educational;
+export function readingMinutes(article:Pick<Educational,'body'|'sections'>):number;
+export function publicEducation(articles:Educational[],now?:number):Educational[];
+export function validateEducational(article:Educational):void;
