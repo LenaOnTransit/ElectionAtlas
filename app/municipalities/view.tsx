@@ -50,7 +50,7 @@ export default function MunicipalComparison() {
     const [bubbleSize, setBubbleSize] = useState(24);
     const [comparison, setComparison] = useState(false);
     const markerId = useId().replace(/[^a-zA-Z0-9_-]/g, '');
-    useEffect(() => { const controller = new AbortController(); fetch(import.meta.env.BASE_URL + 'nl-municipal-2023-2025.json', { signal: controller.signal }).then(r => { if (!r.ok)
+    useEffect(() => { const controller = new AbortController(); fetch(import.meta.env.BASE_URL + 'nl-municipal-2023-2025.json?v=20261005-centre', { signal: controller.signal }).then(r => { if (!r.ok)
         throw Error('Municipal data could not be loaded.'); return r.json(); }).then((d: Dataset) => setData(d)).catch(e => { if (e.name !== 'AbortError')
         setError('Municipal results are temporarily unavailable. Please reload to try again.'); }); return () => controller.abort(); }, []);
     const parties = useMemo(() => new Map(data?.parties.map(p => [p.id, p]) || []), [data]);
