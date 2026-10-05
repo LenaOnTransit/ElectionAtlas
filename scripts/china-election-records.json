@@ -20,16 +20,28 @@
     "totalSeats": 1226,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 668,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 1226,
+        "seats": 558,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -43,12 +55,20 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      },
+      {
+        "label": "CPC / People’s Daily historical account: 668 Communist Party and 558 non-CCP deputies in 1954",
+        "url": "https://cpc.people.com.cn/GB/64107/65708/65722/4444852.html"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe contemporary-term composition is supported by the linked historical account: 668 Communist Party members and 558 non-CCP deputies. The non-CCP category includes other parties and unaffiliated deputies; no separate split is inferred. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-1954"
@@ -75,16 +95,28 @@
     "totalSeats": 1226,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 708,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 1226,
+        "seats": 518,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -98,12 +130,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nThe cited NBS series reports 1,226 deputies for this cycle. Some later lists use a different total; our figure is explicitly tied to this statistical series rather than treating all published totals as interchangeable.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.\n\nThe cited NBS series reports 1,226 deputies for this cycle. Some later lists use a different total; our figure is explicitly tied to this statistical series rather than treating all published totals as interchangeable.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-1959"
@@ -130,16 +166,28 @@
     "totalSeats": 3040,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 1667,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 3040,
+        "seats": 1373,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -153,12 +201,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nThe third NPC’s first session continued into January 1965, when it re-elected Liu Shaoqi president. That selection has a separate 1965 presidential record.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.\n\nThe third NPC’s first session continued into January 1965, when it re-elected Liu Shaoqi president. That selection has a separate 1965 presidential record.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-1965"
@@ -185,11 +237,23 @@
     "totalSeats": 2885,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Membership after selection by consultation; no competitive party ballot",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Deputies — party membership count unresolved",
         "party": "",
         "color": "#8993a2",
         "votes": null,
@@ -216,12 +280,16 @@
       {
         "label": "People’s Daily / CPC: state-presidency history and officeholders",
         "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      },
+      {
+        "label": "Historical composition table — conflicting Communist Party count and percentage for 1975",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nNPC historical reporting states that fourth-term deputies were chosen through consultation rather than election. The indirect-method category identifies a non-popular institutional selection and does not assert that ordinary electoral procedures were followed.\n\nThe 1975 and 1978 constitutions did not provide for the state presidency. The office was restored in the 1982 Constitution; no presidential selection is invented for this cycle.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe historical table reports 2,217 Communist Party members alongside 76.3%, figures that do not agree against 2,885 deputies. Our count is left unknown rather than choosing one of these conflicting figures. All deputies remain in the unresolved membership category pending a reconciled original source. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.\n\nNPC historical reporting states that fourth-term deputies were chosen through consultation rather than election. The indirect-method category identifies a non-popular institutional selection and does not assert that ordinary electoral procedures were followed.\n\nThe 1975 and 1978 constitutions did not provide for the state presidency. The office was restored in the 1982 Constitution; no presidential selection is invented for this cycle.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": []
   },
@@ -246,16 +314,28 @@
     "totalSeats": 3497,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 2545,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 3497,
+        "seats": 952,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -273,12 +353,16 @@
       {
         "label": "People’s Daily / CPC: state-presidency history and officeholders",
         "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nThe 1975 and 1978 constitutions did not provide for the state presidency. The office was restored in the 1982 Constitution; no presidential selection is invented for this cycle.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.\n\nThe 1975 and 1978 constitutions did not provide for the state presidency. The office was restored in the 1982 Constitution; no presidential selection is invented for this cycle.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": []
   },
@@ -303,16 +387,28 @@
     "totalSeats": 2978,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 1861,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2978,
+        "seats": 1117,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -326,12 +422,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-1983"
@@ -358,16 +458,28 @@
     "totalSeats": 2970,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 1986,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2970,
+        "seats": 984,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -385,12 +497,16 @@
       {
         "label": "NPC news: deputy credentials history, including consultation in 1975 and validated 1988 membership",
         "url": "https://npc.people.com.cn/n/2015/0120/c14576-26415070.html"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nThe credential review initially validated 2,970 deputies against a quota of 2,978; five of 2,975 initially selected deputies failed the statutory vote requirement. Later supplementary selections are not added to this initial total.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.\n\nThe credential review initially validated 2,970 deputies against a quota of 2,978; five of 2,975 initially selected deputies failed the statutory vote requirement. Later supplementary selections are not added to this initial total.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-1988"
@@ -417,16 +533,28 @@
     "totalSeats": 2978,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 2037,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2978,
+        "seats": 941,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -440,12 +568,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-1993"
@@ -472,16 +604,28 @@
     "totalSeats": 2979,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 2130,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2979,
+        "seats": 849,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -495,12 +639,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-1998"
@@ -527,16 +675,28 @@
     "totalSeats": 2984,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 2178,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2984,
+        "seats": 806,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -550,12 +710,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-2003"
@@ -582,16 +746,28 @@
     "totalSeats": 2987,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 2099,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2987,
+        "seats": 888,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -605,12 +781,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-2008"
@@ -637,16 +817,28 @@
     "totalSeats": 2987,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 2157,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2987,
+        "seats": 830,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -660,12 +852,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nDeputy selection for this cycle spanned late 2012 and early 2013; the archive indexes the resulting NPC by 2013.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.\n\nDeputy selection for this cycle spanned late 2012 and early 2013; the archive indexes the resulting NPC by 2013.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-2013"
@@ -692,16 +888,28 @@
     "totalSeats": 2980,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": 2119,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — affiliation not disaggregated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2980,
+        "seats": 861,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -715,12 +923,16 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nDeputy selection for this cycle spanned late 2017 and early 2018; the archive indexes the resulting NPC by 2018.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nThe reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.\n\nDeputy selection for this cycle spanned late 2017 and early 2018; the archive indexes the resulting NPC by 2018.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-2018"
@@ -747,16 +959,124 @@
     "totalSeats": 2977,
     "resultStatus": "final",
     "resultCoverage": "partial",
-    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "voteBasis": "NPC deputy membership by reported affiliation; no national popular vote",
     "results": [
       {
-        "id": "npc-deputies",
-        "name": "Deputies — party affiliation not tabulated",
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "cn-rcck",
+        "name": "Revolutionary Committee of the Chinese Kuomintang",
+        "party": "Revolutionary Committee of the Chinese Kuomintang",
+        "color": "#2864ba",
+        "votes": null,
+        "share": null,
+        "seats": 41,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "cn-cdl",
+        "name": "China Democratic League",
+        "party": "China Democratic League",
+        "color": "#d89526",
+        "votes": null,
+        "share": null,
+        "seats": 56,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "cn-cndca",
+        "name": "China National Democratic Construction Association",
+        "party": "China National Democratic Construction Association",
+        "color": "#e66d39",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "cn-capd",
+        "name": "China Association for Promoting Democracy",
+        "party": "China Association for Promoting Democracy",
+        "color": "#4f9d89",
+        "votes": null,
+        "share": null,
+        "seats": 54,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "cn-cpwp",
+        "name": "Chinese Peasants’ and Workers’ Democratic Party",
+        "party": "Chinese Peasants’ and Workers’ Democratic Party",
+        "color": "#995abd",
+        "votes": null,
+        "share": null,
+        "seats": 60,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "cn-czgp",
+        "name": "China Zhi Gong Party",
+        "party": "China Zhi Gong Party",
+        "color": "#dc7599",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "cn-jiusan",
+        "name": "Jiusan Society",
+        "party": "Jiusan Society",
+        "color": "#ac2c34",
+        "votes": null,
+        "share": null,
+        "seats": 56,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "cn-tdsgl",
+        "name": "Taiwan Democratic Self-Government League",
+        "party": "Taiwan Democratic Self-Government League",
+        "color": "#7b8841",
+        "votes": null,
+        "share": null,
+        "seats": 14,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      },
+      {
+        "id": "npc-unclassified",
+        "name": "Other deputies — CCP, uncounted allied parties and unaffiliated",
         "party": "",
         "color": "#8993a2",
         "votes": null,
         "share": null,
-        "seats": 2977,
+        "seats": 2696,
         "electoralVotes": null,
         "winner": false,
         "ideologyIds": []
@@ -770,12 +1090,44 @@
       {
         "label": "NPC: national legislature structure and indirect electoral bodies",
         "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "Revolutionary Committee of the Chinese Kuomintang: original 2023 NPC membership report",
+        "url": "https://cpc.people.com.cn/n1/2023/0227/c164113-32632201.html"
+      },
+      {
+        "label": "China Democratic League: original 2023 NPC membership report",
+        "url": "https://www.mmzy.org.cn/mobile/NPC2023/Content.aspx?ArticleId=137329&ColumnId=2575"
+      },
+      {
+        "label": "China National Democratic Construction Association: party website; NPC count not verified",
+        "url": "https://www.cndca.org.cn/"
+      },
+      {
+        "label": "China Association for Promoting Democracy: original 2023 NPC membership report",
+        "url": "https://www.mj.org.cn/mjgk/qgrddbzdmjhy/202303/t20230317_275527.htm"
+      },
+      {
+        "label": "Chinese Peasants’ and Workers’ Democratic Party: original 2023 NPC membership report",
+        "url": "https://finance.sina.com.cn/wm/2023-03-03/doc-imyiqhat7702592.shtml"
+      },
+      {
+        "label": "China Zhi Gong Party: party website; NPC count not verified",
+        "url": "https://www.zg.org.cn/"
+      },
+      {
+        "label": "Jiusan Society: original 2023 NPC membership report",
+        "url": "https://www.93.gov.cn/xwjc-snyw/774260.html"
+      },
+      {
+        "label": "Taiwan Democratic Self-Government League: original 2023 NPC membership report",
+        "url": "https://www.taimeng.org.cn/sy/zt/qglh2023/dbwyfc/202303/t20230303_340599.html"
       }
     ],
     "checked": "2026-10-05",
-    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nDeputy selection for this cycle spanned late 2022 and early 2023; the archive indexes the resulting NPC by 2023.",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nSix allied-party counts are supported by original 2023 reports: RCCK 41, Democratic League 56, CAPD 54, Peasants’ and Workers’ 60, Jiusan 56 and TDSGL 14. The Peasants’ and Workers’ source is a contemporary republication of the party’s membership announcement. Communist Party, CNDCA and Zhi Gong counts are unknown and shown as dashes; their deputies are included in the grey remainder, which also includes unaffiliated deputies. Later party membership lists are not substituted for initial composition: Jiusan later lists 61 and TDSGL later 13. Party membership can change or overlap; the diagram records these reported categories and does not claim a verified individual-by-individual party census. The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.\n\nDeputy selection for this cycle spanned late 2022 and early 2023; the archive indexes the resulting NPC by 2023.",
     "articleId": "",
-    "version": 0,
+    "version": 1,
     "electionMethod": "indirect",
     "linkedElectionIds": [
       "world-cn-president-2023"

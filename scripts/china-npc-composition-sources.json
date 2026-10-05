@@ -1,0 +1,356 @@
+{
+  "1954": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 668
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      },
+      {
+        "label": "CPC / People’s Daily historical account: 668 Communist Party and 558 non-CCP deputies in 1954",
+        "url": "https://cpc.people.com.cn/GB/64107/65708/65722/4444852.html"
+      }
+    ],
+    "note": "The contemporary-term composition is supported by the linked historical account: 668 Communist Party members and 558 non-CCP deputies. The non-CCP category includes other parties and unaffiliated deputies; no separate split is inferred."
+  },
+  "1959": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 708
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "1964": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 1667
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "1978": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 2545
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "1983": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 1861
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "1988": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 1986
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "1993": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 2037
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "1998": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 2130
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "2003": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 2178
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "2008": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 2099
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "2013": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 2157
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "2018": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": 2119
+      }
+    ],
+    "remainderLabel": "Other deputies — affiliation not disaggregated",
+    "sources": [
+      {
+        "label": "Historical NPC composition table — secondary compilation; original People’s Daily reference linked within",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The reported Communist Party membership count is taken from the linked historical composition table, a secondary compilation. The remaining deputies are grouped because separate allied-party and unaffiliated counts have not been established for this cycle. The remainder is calculated from the recorded chamber total, not relabelled as an independent-party seat count."
+  },
+  "2023": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": null
+      },
+      {
+        "id": "cn-rcck",
+        "name": "Revolutionary Committee of the Chinese Kuomintang",
+        "party": "Revolutionary Committee of the Chinese Kuomintang",
+        "color": "#2864ba",
+        "seats": 41
+      },
+      {
+        "id": "cn-cdl",
+        "name": "China Democratic League",
+        "party": "China Democratic League",
+        "color": "#d89526",
+        "seats": 56
+      },
+      {
+        "id": "cn-cndca",
+        "name": "China National Democratic Construction Association",
+        "party": "China National Democratic Construction Association",
+        "color": "#e66d39",
+        "seats": null
+      },
+      {
+        "id": "cn-capd",
+        "name": "China Association for Promoting Democracy",
+        "party": "China Association for Promoting Democracy",
+        "color": "#4f9d89",
+        "seats": 54
+      },
+      {
+        "id": "cn-cpwp",
+        "name": "Chinese Peasants’ and Workers’ Democratic Party",
+        "party": "Chinese Peasants’ and Workers’ Democratic Party",
+        "color": "#995abd",
+        "seats": 60
+      },
+      {
+        "id": "cn-czgp",
+        "name": "China Zhi Gong Party",
+        "party": "China Zhi Gong Party",
+        "color": "#dc7599",
+        "seats": null
+      },
+      {
+        "id": "cn-jiusan",
+        "name": "Jiusan Society",
+        "party": "Jiusan Society",
+        "color": "#ac2c34",
+        "seats": 56
+      },
+      {
+        "id": "cn-tdsgl",
+        "name": "Taiwan Democratic Self-Government League",
+        "party": "Taiwan Democratic Self-Government League",
+        "color": "#7b8841",
+        "seats": 14
+      }
+    ],
+    "remainderLabel": "Other deputies — CCP, uncounted allied parties and unaffiliated",
+    "sources": [
+      {
+        "label": "Revolutionary Committee of the Chinese Kuomintang: original 2023 NPC membership report",
+        "url": "https://cpc.people.com.cn/n1/2023/0227/c164113-32632201.html"
+      },
+      {
+        "label": "China Democratic League: original 2023 NPC membership report",
+        "url": "https://www.mmzy.org.cn/mobile/NPC2023/Content.aspx?ArticleId=137329&ColumnId=2575"
+      },
+      {
+        "label": "China National Democratic Construction Association: party website; NPC count not verified",
+        "url": "https://www.cndca.org.cn/"
+      },
+      {
+        "label": "China Association for Promoting Democracy: original 2023 NPC membership report",
+        "url": "https://www.mj.org.cn/mjgk/qgrddbzdmjhy/202303/t20230317_275527.htm"
+      },
+      {
+        "label": "Chinese Peasants’ and Workers’ Democratic Party: original 2023 NPC membership report",
+        "url": "https://finance.sina.com.cn/wm/2023-03-03/doc-imyiqhat7702592.shtml"
+      },
+      {
+        "label": "China Zhi Gong Party: party website; NPC count not verified",
+        "url": "https://www.zg.org.cn/"
+      },
+      {
+        "label": "Jiusan Society: original 2023 NPC membership report",
+        "url": "https://www.93.gov.cn/xwjc-snyw/774260.html"
+      },
+      {
+        "label": "Taiwan Democratic Self-Government League: original 2023 NPC membership report",
+        "url": "https://www.taimeng.org.cn/sy/zt/qglh2023/dbwyfc/202303/t20230303_340599.html"
+      }
+    ],
+    "note": "Six allied-party counts are supported by original 2023 reports: RCCK 41, Democratic League 56, CAPD 54, Peasants’ and Workers’ 60, Jiusan 56 and TDSGL 14. The Peasants’ and Workers’ source is a contemporary republication of the party’s membership announcement. Communist Party, CNDCA and Zhi Gong counts are unknown and shown as dashes; their deputies are included in the grey remainder, which also includes unaffiliated deputies. Later party membership lists are not substituted for initial composition: Jiusan later lists 61 and TDSGL later 13. Party membership can change or overlap; the diagram records these reported categories and does not claim a verified individual-by-individual party census."
+  },
+  "1975": {
+    "rows": [
+      {
+        "id": "cn-cpc",
+        "name": "Communist Party of China",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "seats": null
+      }
+    ],
+    "remainderLabel": "Deputies — party membership count unresolved",
+    "sources": [
+      {
+        "label": "Historical composition table — conflicting Communist Party count and percentage for 1975",
+        "url": "https://zh.wikipedia.org/w/index.php?title=全国人民代表大会&oldid=94370203"
+      }
+    ],
+    "note": "The historical table reports 2,217 Communist Party members alongside 76.3%, figures that do not agree against 2,885 deputies. Our count is left unknown rather than choosing one of these conflicting figures. All deputies remain in the unresolved membership category pending a reconciled original source."
+  }
+}
