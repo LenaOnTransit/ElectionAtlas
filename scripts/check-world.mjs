@@ -93,3 +93,8 @@ const parties=await import(moduleUrl('lib/country-parties.ts'));const party={...
 const legitimacy=await import(moduleUrl('lib/legitimacy.ts'));legitimacy.validateLegitimacy(legitimacy.emptyLegitimacy());assert.equal(legitimacy.legitimacyInfo(undefined)[0],'unassessed');const assessment={level:'concerns',summary:'Source-based context',reviewed:'2026-10-03',sources:[{label:'Report',url:'https://example.org/report'}]};legitimacy.validateLegitimacy(assessment);model.validateCountry({...seedCountries[0],legitimacy:assessment});for(const patch of [{summary:''},{sources:[]},{reviewed:'2026-02-30'},{level:'made-up'},{sources:[{label:'Unsafe',url:'javascript:alert(1)'}]}])assert.throws(()=>legitimacy.validateLegitimacy({...assessment,...patch}));
 const observer={id:'test',organization:'Example mission',status:'report-published',assessment:'Findings',url:'https://example.org/report',date:'2026-10-03'};legitimacy.validateObservers([observer]);assert.throws(()=>legitimacy.validateObservers([{...observer,url:''}]));model.validateWorldElection({...seedWorldElections[0],legitimacy:assessment,observers:[observer]});
 console.log('Political context: nine-axis limits, combined ordering, missing values, party snapshots and sourced assessments passed.');
+
+// Existing winner flags remain valid; runoff calls are distinct and mutually exclusive.
+for(const advanced of [undefined,false,true])model.validateWorldElection({...seedWorldElections[0],results:[{...result,advanced}]});
+assert.throws(()=>model.validateWorldElection({...seedWorldElections[0],results:[{...result,advanced:'yes'}]}));
+assert.throws(()=>model.validateWorldElection({...seedWorldElections[0],results:[{...result,winner:true,advanced:true}]}));
