@@ -332,7 +332,9 @@
         "url": "https://www.taimeng.org.cn/sy/zt/qglh2023/dbwyfc/202303/t20230303_340599.html"
       }
     ],
-    "note": "Six allied-party counts are supported by original 2023 reports: RCCK 41, Democratic League 56, CAPD 54, Peasants’ and Workers’ 60, Jiusan 56 and TDSGL 14. The Peasants’ and Workers’ source is a contemporary republication of the party’s membership announcement. Communist Party, CNDCA and Zhi Gong counts are unknown and shown as dashes; their deputies are included in the grey remainder, which also includes unaffiliated deputies. Later party membership lists are not substituted for initial composition: Jiusan later lists 61 and TDSGL later 13. Party membership can change or overlap; the diagram records these reported categories and does not claim a verified individual-by-individual party census."
+    "note": "Six allied-party counts are supported by original 2023 reports: RCCK 41, Democratic League 56, CAPD 54, Peasants’ and Workers’ 60, Jiusan 56 and TDSGL 14. The Peasants’ and Workers’ source is a contemporary republication of the party’s membership announcement. Communist Party, CNDCA and Zhi Gong counts are unknown and shown as dashes; their deputies are included in the red CCP-containing remainder, which also includes unaffiliated deputies. Later party membership lists are not substituted for initial composition: Jiusan later lists 61 and TDSGL later 13. Party membership can change or overlap; the diagram records these reported categories and does not claim a verified individual-by-individual party census. The mixed CCP-containing remainder is coloured red; it is not a verified count of CCP members alone.",
+    "remainderColor": "#c63735",
+    "version": 2
   },
   "1975": {
     "rows": [

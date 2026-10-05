@@ -40,16 +40,16 @@ for n,(year,total) in enumerate(zip(YEARS,TOTALS),1):
  if year in (2013,2018,2023):e['notes']+=f'\n\nDeputy selection for this cycle spanned late {year-1} and early {year}; the archive indexes the resulting NPC by {year}.'
  composition=COMPOSITION.get(str(year))
  if composition:
-  e['version']=1;e['results']=[]
+  e['version']=composition.get('version',1);e['results']=[]
   for row in composition['rows']:
    r=result(row['name']);r.update(id=row['id'],party=row.get('party',''),color=row['color'],seats=row['seats']);e['results'].append(r)
   remainder=total-sum(r['seats'] or 0 for r in e['results'])
   assert remainder>=0
   if remainder:
-   r=result(composition['remainderLabel']);r.update(id='npc-unclassified',seats=remainder);e['results'].append(r)
+   r=result(composition['remainderLabel']);r.update(id='npc-unclassified',seats=remainder,color=composition.get('remainderColor','#8993a2'));e['results'].append(r)
   e['sources']+=composition['sources']
   e['voteBasis']='NPC deputy membership by reported affiliation; no national popular vote'
-  e['notes']=e['notes'].replace('Party-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.',composition['note']+' The grey remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.')
+  e['notes']=e['notes'].replace('Party-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.',composition['note']+' A grouped remainder is not an independent party, an opposition bloc or a shared ideology. A dash means a count is unknown, not zero. No popular vote shares are inferred. Colours distinguish categories visually; they do not signify competing electoral lists.')
  e['linkedElectionIds']=[f'world-cn-president-{d[:4]}'for d,_,cycle in PRES if cycle==year];records.append(e)
 for date,name,cycle in PRES:
  year=int(date[:4]);e=base(year,'president');e.update(title='President · NPC selection',startDate=date,precision='day',dateStatus='confirmed',summary=f'{name} was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.',voteBasis='NPC selection of the state president; any figures are approval ballots, not popular votes',linkedElectionIds=[f'world-cn-npc-{cycle}'])
