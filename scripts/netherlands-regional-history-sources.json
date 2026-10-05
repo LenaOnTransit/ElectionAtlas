@@ -1,0 +1,1326 @@
+{
+  "checked": "2026-10-05",
+  "records": [
+    {
+      "id": "world-nl-provincial-2003",
+      "date": "2003-03-11",
+      "votes": 5734496,
+      "seats": null,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-groningen",
+      "date": "2003-03-11",
+      "votes": 246031,
+      "seats": 55,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663325",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-fryslan",
+      "date": "2003-03-11",
+      "votes": 278911,
+      "seats": 55,
+      "lists": 11,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663409",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-drenthe",
+      "date": "2003-03-11",
+      "votes": 205493,
+      "seats": 51,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663479",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-overijssel",
+      "date": "2003-03-11",
+      "votes": 422647,
+      "seats": 63,
+      "lists": 9,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663560",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-flevoland",
+      "date": "2003-03-11",
+      "votes": 110393,
+      "seats": 47,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663596",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-gelderland",
+      "date": "2003-03-11",
+      "votes": 751661,
+      "seats": 75,
+      "lists": 11,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663672",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-utrecht",
+      "date": "2003-03-11",
+      "votes": 433564,
+      "seats": 63,
+      "lists": 11,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663742",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-noord-holland",
+      "date": "2003-03-11",
+      "votes": 863387,
+      "seats": 83,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663826",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-zuid-holland",
+      "date": "2003-03-11",
+      "votes": 1140803,
+      "seats": 83,
+      "lists": 20,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663892",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-zeeland",
+      "date": "2003-03-11",
+      "votes": 143966,
+      "seats": 47,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/663977",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-noord-brabant",
+      "date": "2003-03-11",
+      "votes": 752065,
+      "seats": 79,
+      "lists": 11,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/664048",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2003-limburg",
+      "date": "2003-03-11",
+      "votes": 385575,
+      "seats": 63,
+      "lists": 8,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20030311/664130",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.cbs.nl/nl-nl/cijfers/detail/70228ned",
+          "label": "CBS — certified 2003 provincial seat allocations"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007",
+      "date": "2007-03-07",
+      "votes": 5655464,
+      "seats": null,
+      "lists": 42,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-groningen",
+      "date": "2007-03-07",
+      "votes": 227526,
+      "seats": 43,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669624",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-fryslan",
+      "date": "2007-03-07",
+      "votes": 264269,
+      "seats": 43,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669625",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-drenthe",
+      "date": "2007-03-07",
+      "votes": 190727,
+      "seats": 41,
+      "lists": 14,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669626",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-overijssel",
+      "date": "2007-03-07",
+      "votes": 415052,
+      "seats": 47,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669627",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-flevoland",
+      "date": "2007-03-07",
+      "votes": 114267,
+      "seats": 39,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669628",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-gelderland",
+      "date": "2007-03-07",
+      "votes": 727637,
+      "seats": 53,
+      "lists": 14,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669629",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-utrecht",
+      "date": "2007-03-07",
+      "votes": 441262,
+      "seats": 47,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669630",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-noord-holland",
+      "date": "2007-03-07",
+      "votes": 864677,
+      "seats": 55,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669631",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-zuid-holland",
+      "date": "2007-03-07",
+      "votes": 1115672,
+      "seats": 55,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669632",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-zeeland",
+      "date": "2007-03-07",
+      "votes": 150414,
+      "seats": 39,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669633",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-noord-brabant",
+      "date": "2007-03-07",
+      "votes": 765710,
+      "seats": 55,
+      "lists": 11,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669634",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2007-limburg",
+      "date": "2007-03-07",
+      "votes": 378251,
+      "seats": 47,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20070307/669635",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011",
+      "date": "2011-03-02",
+      "votes": 6993076,
+      "seats": null,
+      "lists": 31,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-groningen",
+      "date": "2011-03-02",
+      "votes": 263468,
+      "seats": 43,
+      "lists": 11,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663337",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-fryslan",
+      "date": "2011-03-02",
+      "votes": 297307,
+      "seats": 43,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663429",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-drenthe",
+      "date": "2011-03-02",
+      "votes": 222734,
+      "seats": 41,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663489",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-overijssel",
+      "date": "2011-03-02",
+      "votes": 492143,
+      "seats": 47,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663581",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-flevoland",
+      "date": "2011-03-02",
+      "votes": 148519,
+      "seats": 39,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663601",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-gelderland",
+      "date": "2011-03-02",
+      "votes": 892853,
+      "seats": 55,
+      "lists": 14,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663693",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-utrecht",
+      "date": "2011-03-02",
+      "votes": 564216,
+      "seats": 47,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663753",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-noord-holland",
+      "date": "2011-03-02",
+      "votes": 1134203,
+      "seats": 55,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663845",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-zuid-holland",
+      "date": "2011-03-02",
+      "votes": 1400153,
+      "seats": 55,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663903",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-zeeland",
+      "date": "2011-03-02",
+      "votes": 169674,
+      "seats": 39,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/663996",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-noord-brabant",
+      "date": "2011-03-02",
+      "votes": 958341,
+      "seats": 55,
+      "lists": 11,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/664056",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2011-limburg",
+      "date": "2011-03-02",
+      "votes": 449465,
+      "seats": 47,
+      "lists": 11,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20110302/664149",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015",
+      "date": "2015-03-18",
+      "votes": 6064754,
+      "seats": null,
+      "lists": 54,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-groningen",
+      "date": "2015-03-18",
+      "votes": 241479,
+      "seats": 43,
+      "lists": 19,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663350",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-fryslan",
+      "date": "2015-03-18",
+      "votes": 264605,
+      "seats": 43,
+      "lists": 14,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663419",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-drenthe",
+      "date": "2015-03-18",
+      "votes": 194082,
+      "seats": 41,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663498",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-overijssel",
+      "date": "2015-03-18",
+      "votes": 429772,
+      "seats": 47,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663572",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-flevoland",
+      "date": "2015-03-18",
+      "votes": 130744,
+      "seats": 41,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663611",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-gelderland",
+      "date": "2015-03-18",
+      "votes": 775416,
+      "seats": 55,
+      "lists": 19,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663683",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-utrecht",
+      "date": "2015-03-18",
+      "votes": 495422,
+      "seats": 49,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663771",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-noord-holland",
+      "date": "2015-03-18",
+      "votes": 959171,
+      "seats": 55,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663835",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-zuid-holland",
+      "date": "2015-03-18",
+      "votes": 1205911,
+      "seats": 55,
+      "lists": 16,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663923",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-zeeland",
+      "date": "2015-03-18",
+      "votes": 150319,
+      "seats": 39,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/663999",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-noord-brabant",
+      "date": "2015-03-18",
+      "votes": 827340,
+      "seats": 55,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/664067",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2015-limburg",
+      "date": "2015-03-18",
+      "votes": 390493,
+      "seats": 47,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20150318/664138",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019",
+      "date": "2019-03-20",
+      "votes": 7277068,
+      "seats": null,
+      "lists": 37,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-groningen",
+      "date": "2019-03-20",
+      "votes": 255329,
+      "seats": 43,
+      "lists": 14,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684843",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-fryslan",
+      "date": "2019-03-20",
+      "votes": 298241,
+      "seats": 43,
+      "lists": 16,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684844",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-drenthe",
+      "date": "2019-03-20",
+      "votes": 228275,
+      "seats": 41,
+      "lists": 16,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684845",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-overijssel",
+      "date": "2019-03-20",
+      "votes": 523465,
+      "seats": 47,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684846",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-flevoland",
+      "date": "2019-03-20",
+      "votes": 159485,
+      "seats": 41,
+      "lists": 16,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684847",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-gelderland",
+      "date": "2019-03-20",
+      "votes": 935069,
+      "seats": 55,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684848",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-utrecht",
+      "date": "2019-03-20",
+      "votes": 615355,
+      "seats": 49,
+      "lists": 14,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684849",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-noord-holland",
+      "date": "2019-03-20",
+      "votes": 1166175,
+      "seats": 55,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684850",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-zuid-holland",
+      "date": "2019-03-20",
+      "votes": 1455969,
+      "seats": 55,
+      "lists": 17,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684851",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-zeeland",
+      "date": "2019-03-20",
+      "votes": 170972,
+      "seats": 39,
+      "lists": 14,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684852",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-noord-brabant",
+      "date": "2019-03-20",
+      "votes": 1013255,
+      "seats": 55,
+      "lists": 16,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684853",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2019-limburg",
+      "date": "2019-03-20",
+      "votes": 455478,
+      "seats": 47,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20190320/684854",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023",
+      "date": "2023-03-15",
+      "votes": 7754944,
+      "seats": null,
+      "lists": 47,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-groningen",
+      "date": "2023-03-15",
+      "votes": 287760,
+      "seats": 43,
+      "lists": 19,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744798",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-groningen-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Groningen+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-fryslan",
+      "date": "2023-03-15",
+      "votes": 339080,
+      "seats": 43,
+      "lists": 17,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744799",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-fryslan-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Fryslan+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-drenthe",
+      "date": "2023-03-15",
+      "votes": 263882,
+      "seats": 43,
+      "lists": 19,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744800",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-drenthe-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Drenthe+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-overijssel",
+      "date": "2023-03-15",
+      "votes": 591124,
+      "seats": 47,
+      "lists": 19,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744801",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-overijssel-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Overijssel+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-flevoland",
+      "date": "2023-03-15",
+      "votes": 163200,
+      "seats": 41,
+      "lists": 17,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744802",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-flevoland-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Flevoland+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-gelderland",
+      "date": "2023-03-15",
+      "votes": 1036640,
+      "seats": 55,
+      "lists": 18,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744803",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-gelderland-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Gelderland+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-utrecht",
+      "date": "2023-03-15",
+      "votes": 652494,
+      "seats": 49,
+      "lists": 19,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744804",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-utrecht-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Utrecht+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-noord-holland",
+      "date": "2023-03-15",
+      "votes": 1186511,
+      "seats": 55,
+      "lists": 23,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744805",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-noord-holland-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Noord-Holland+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-zuid-holland",
+      "date": "2023-03-15",
+      "votes": 1487914,
+      "seats": 55,
+      "lists": 20,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744806",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-zuid-holland-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Zuid+Holland+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-zeeland",
+      "date": "2023-03-15",
+      "votes": 182707,
+      "seats": 39,
+      "lists": 16,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744807",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-zeeland-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Zeeland+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-noord-brabant",
+      "date": "2023-03-15",
+      "votes": 1095901,
+      "seats": 55,
+      "lists": 20,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744808",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-noord-brabant-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Noord-Brabant+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-provincial-2023-limburg",
+      "date": "2023-03-15",
+      "votes": 467727,
+      "seats": 47,
+      "lists": 20,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/PS20230315/744809",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/site/binaries/site-content/collections/documents/2023/3/27/proces-verbaal-uitslag-verkiezing-provinciale-staten-limburg-2023/Proces-verbaal+uitslag+verkiezing+Provinciale+Staten+Limburg+2023.pdf",
+          "label": "Kiesraad — certified provincial return and seat allocation"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-eerste-kamer-2003",
+      "date": "2003-05-26",
+      "votes": 161644,
+      "seats": 75,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/EK20030526",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-eerste-kamer-2007",
+      "date": "2007-05-29",
+      "votes": 163087,
+      "seats": 75,
+      "lists": 10,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/EK20070529",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-eerste-kamer-2011",
+      "date": "2011-05-23",
+      "votes": 166072,
+      "seats": 75,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/EK20110523",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/actueel/nieuws/2015/02/27/stemwaarden-eerste-kamerverkiezing-2015",
+          "label": "Kiesraad — 2011 and 2015 voting weights"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-eerste-kamer-2015",
+      "date": "2015-05-26",
+      "votes": 169056,
+      "seats": 75,
+      "lists": 12,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/EK20150526",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/actueel/nieuws/2015/02/27/stemwaarden-eerste-kamerverkiezing-2015",
+          "label": "Kiesraad — 2011 and 2015 voting weights"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-eerste-kamer-2019",
+      "date": "2019-05-27",
+      "votes": 173121,
+      "seats": 75,
+      "lists": 15,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/EK20190527",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-eerste-kamer-2023",
+      "date": "2023-05-30",
+      "votes": 178970,
+      "seats": 75,
+      "lists": 16,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/EK20230530",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2019",
+      "date": "2019-03-20",
+      "votes": 0,
+      "seats": null,
+      "lists": 0,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20190320",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/verkiezingen/kiescolleges",
+          "label": "Kiesraad — electoral-college system"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2019-bonaire",
+      "date": "2019-03-20",
+      "votes": 6793,
+      "seats": 9,
+      "lists": 3,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20190320/686119",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2019-saba",
+      "date": "2019-03-20",
+      "votes": 657,
+      "seats": 5,
+      "lists": 2,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20190320/686120",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2019-sint-eustatius",
+      "date": "2019-03-20",
+      "votes": 366,
+      "seats": 5,
+      "lists": 1,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20190320/686121",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2023",
+      "date": "2023-03-15",
+      "votes": 0,
+      "seats": null,
+      "lists": 0,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20230315",
+          "label": "Kiesraad — official archived results"
+        },
+        {
+          "url": "https://www.kiesraad.nl/verkiezingen/kiescolleges",
+          "label": "Kiesraad — electoral-college system"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2023-bonaire",
+      "date": "2023-03-15",
+      "votes": 8646,
+      "seats": 9,
+      "lists": 5,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20230315/745607",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2023-niet-ingezetenen",
+      "date": "2023-03-15",
+      "votes": 26259,
+      "seats": 23,
+      "lists": 13,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20230315/745606",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2023-sint-eustatius",
+      "date": "2023-03-15",
+      "votes": 818,
+      "seats": 5,
+      "lists": 2,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20230315/745608",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    },
+    {
+      "id": "world-nl-electoral-colleges-2023-saba",
+      "date": "2023-03-15",
+      "votes": 496,
+      "seats": 5,
+      "lists": 1,
+      "sources": [
+        {
+          "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/KC20230315/745609",
+          "label": "Kiesraad — official archived results"
+        }
+      ]
+    }
+  ]
+}

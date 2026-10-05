@@ -98,3 +98,8 @@ console.log('Political context: nine-axis limits, combined ordering, missing val
 for(const advanced of [undefined,false,true])model.validateWorldElection({...seedWorldElections[0],results:[{...result,advanced}]});
 assert.throws(()=>model.validateWorldElection({...seedWorldElections[0],results:[{...result,advanced:'yes'}]}));
 assert.throws(()=>model.validateWorldElection({...seedWorldElections[0],results:[{...result,winner:true,advanced:true}]}));
+
+// Indirect and regional election metadata must remain optional for older records.
+const regional={...seedWorldElections[0],electionMethod:'indirect',weightedVotes:true,geography:{id:'utrecht',name:'Utrecht',type:'province'},overviewId:'world-nl-provincial-2023',linkedElectionIds:['world-nl-eerste-kamer-2023'],results:[{...result,ballotVotes:10}]};
+model.validateWorldElection(regional);
+for(const patch of [{electionMethod:'unknown'},{weightedVotes:'yes'},{overviewId:regional.id},{linkedElectionIds:[regional.id]},{geography:{id:'',name:'Utrecht',type:'province'}},{results:[{...result,ballotVotes:-1}]}])assert.throws(()=>model.validateWorldElection({...regional,...patch}));
