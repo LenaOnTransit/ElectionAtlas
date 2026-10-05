@@ -20,7 +20,7 @@ def result(name,**kwargs):return dict(id=name.lower().replace(' ','-'),name=name
 records=[]
 for n,(year,total) in enumerate(zip(YEARS,TOTALS),1):
  e=base(year,'npc');e['title']=f'National People’s Congress · {n}{"st" if n==1 else "nd" if n==2 else "rd" if n==3 else "th"} term';e['totalSeats']=total
- e['summary']=f'The {n}th NPC cycle is recorded with {total:,} deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.'
+ e['summary']=f'NPC term {n} is recorded with {total:,} deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.'
  e['voteBasis']='Reported NPC deputy membership; party affiliations and selection ballots not tabulated'
  r=result('Deputies — party affiliation not tabulated');r.update(id='npc-deputies',seats=total);e['results']=[r]
  e['sources']=[NBS,METHOD] if year<=2008 else [METHOD]
