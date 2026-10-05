@@ -1,0 +1,1987 @@
+{
+  "sources": [
+    {
+      "file": "governor-1790-CT.html",
+      "sha256": "a11f40ab8f6316618b4b2a905bc358a9a60e0896825cbefe0be3e956a33d965c",
+      "bytes": 360559
+    },
+    {
+      "file": "governor-1790-MA.html",
+      "sha256": "cc0a6594a0735007daa68db1d213a0917bc35bda9ccb8469e14fbb327c7b6fdd",
+      "bytes": 373958
+    },
+    {
+      "file": "governor-1790-MD.html",
+      "sha256": "be5e4b9078785cdfb44b0da73b590d270f19eed2e46e747eccadd6f2fee5b70e",
+      "bytes": 344381
+    },
+    {
+      "file": "governor-1790-NC.html",
+      "sha256": "af4d02df166d6c91f4fad22f1e1fd79c182e0f5701bd375c6839e7ec1220a1dd",
+      "bytes": 301994
+    },
+    {
+      "file": "governor-1790-NH.html",
+      "sha256": "be4007cb021086ac2a9db490d28f20983a67fe81d9c8c2dc255ace3fce421d53",
+      "bytes": 274312
+    },
+    {
+      "file": "governor-1790-NJ.html",
+      "sha256": "46b6d6baab94a27b4b361871aae403f66151c8f073582b5eff09af8ca705483f",
+      "bytes": 214097
+    },
+    {
+      "file": "governor-1790-PA.html",
+      "sha256": "b004815eb456482e942ce21e9306c3810bcca92119c091a71b2a93389420a822",
+      "bytes": 302725
+    },
+    {
+      "file": "governor-1790-RI.html",
+      "sha256": "779666152ce266ebd3b744d382539e22d57a95471c2bc3753647c12046ed3307",
+      "bytes": 216633
+    },
+    {
+      "file": "governor-1790-VA.html",
+      "sha256": "e737a97cfa35c3dfc2a49406205b2b2446a7cb2a7b57870160c0c84c72a9d045",
+      "bytes": 327167
+    },
+    {
+      "file": "governor-1794-MA.html",
+      "sha256": "694cc82f0d915e5835e3f3eb10d0271f3d0d9e44ae64c322aef80f6ab1618063",
+      "bytes": 168430
+    },
+    {
+      "file": "governor-1794-MD.html",
+      "sha256": "6515c83f86e6bc9f68a28f80f7ab270d0e911a2dbde3e36b42399f2b93f7fa80",
+      "bytes": 333645
+    },
+    {
+      "file": "governor-1794-NC.html",
+      "sha256": "8e11564d5187256f93481878ab7b3562cd4ecc1b38ca0f59fe7d80db7f4830d1",
+      "bytes": 288651
+    },
+    {
+      "file": "governor-1794-NH.html",
+      "sha256": "7d738aa8936cecbb6e9a10f11802c1218c8e4929b188a399150e9ee39ec38d31",
+      "bytes": 256084
+    },
+    {
+      "file": "governor-1794-NJ.html",
+      "sha256": "a72f435bbc8bd3acae464ac7647f4a3f7b3a5707429428b57612420bb9c27a3d",
+      "bytes": 195071
+    },
+    {
+      "file": "governor-1794-RI.html",
+      "sha256": "77f0d5d810ca4dd2201a9f139edcda12189303d32b7a5f4414b27e9f3dada74c",
+      "bytes": 199377
+    },
+    {
+      "file": "governor-1794-SC.html",
+      "sha256": "f9a0e964c5aa25bf94cb9e11ffccde3f5ef9d9d5a492988654495ed0d181840e",
+      "bytes": 312766
+    },
+    {
+      "file": "governor-1794-VA.html",
+      "sha256": "a294fd633bd052d99c3b43e74665121f2488ed5da58c9305105df655d8c11251",
+      "bytes": 320395
+    },
+    {
+      "file": "governor-1798-CT.html",
+      "sha256": "fa01f646185b7c09b1d00030849689b21df8974f883cb669d41df2ef71d05252",
+      "bytes": 346115
+    },
+    {
+      "file": "governor-1798-DE.html",
+      "sha256": "bad4cef0df42cf81b7d186a4db6d8d127588df3ef61cfa7a5662233c3abb52f8",
+      "bytes": 211575
+    },
+    {
+      "file": "governor-1798-MA.html",
+      "sha256": "2d04eaf09f2640d2b4f1ff580180b98e32b1be4c2c7fa4445467b679dfbd27fb",
+      "bytes": 162777
+    },
+    {
+      "file": "governor-1798-MD.html",
+      "sha256": "826bf641a2551808a92c9f3f1993ccdd884d5be6838b2e053030e96ea767a143",
+      "bytes": 332922
+    },
+    {
+      "file": "governor-1798-NC.html",
+      "sha256": "a025b0528d17ac2b9af0cf01e2fa411b892c1dfdc82db366707f2c06d19112f1",
+      "bytes": 288909
+    },
+    {
+      "file": "governor-1798-NH.html",
+      "sha256": "049d7bdfb4c7f72ed7c88697faf74bb257e938011bf691142d6b43896b94b64c",
+      "bytes": 287245
+    },
+    {
+      "file": "governor-1798-NJ.html",
+      "sha256": "2156ecb445974eb33d5fed877cb84dc3d684d0bc4686735bd7962e6119a17e89",
+      "bytes": 198247
+    },
+    {
+      "file": "governor-1798-NY.html",
+      "sha256": "29b63ac818d10d76c90bf2840ecfa1965327d5832673e44fbcadc193dff46c3e",
+      "bytes": 520800
+    },
+    {
+      "file": "governor-1798-RI.html",
+      "sha256": "24d6f3c1f32db3e0b144826b72a612996f2baa709809912ff10b8df15d2c8d89",
+      "bytes": 199295
+    },
+    {
+      "file": "governor-1798-SC.html",
+      "sha256": "1d8b8061a164fe0e6628e631b45d25ab696cc64c37fc4c02971b4bd148774fea",
+      "bytes": 314772
+    },
+    {
+      "file": "governor-1798-VA.html",
+      "sha256": "9adf4a4356213b3add3bf208e74ca6c155c8fa79010de9eab8dd550e5cc8a52f",
+      "bytes": 316285
+    },
+    {
+      "file": "governor-1798-VT.html",
+      "sha256": "2512124efc2466ac27f8465e1370c055a559844aae061756e19a543d9e5c6b13",
+      "bytes": 209231
+    },
+    {
+      "file": "governor-1814-CT.html",
+      "sha256": "7b5f96aeac5de35cfd033f3382e1eba1b0ce1b36ab5207beec61e8e5ad60bc1b",
+      "bytes": 371304
+    },
+    {
+      "file": "governor-1814-MA.html",
+      "sha256": "14bca23e33ff0321811d4a60ef194c7be24b323ff413e865bda27f7e247de57e",
+      "bytes": 309228
+    },
+    {
+      "file": "governor-1814-MD.html",
+      "sha256": "ab7030b639047823b96dd7e8cbf135826bbc65e67df3e7a481c0c682cfa8ff6d",
+      "bytes": 333739
+    },
+    {
+      "file": "governor-1814-NC.html",
+      "sha256": "a7fa5453e4fc9dacb1706ccb2b174e7955e18d347f8a42735d7a5ff5c99f1f96",
+      "bytes": 293831
+    },
+    {
+      "file": "governor-1814-NH.html",
+      "sha256": "0b0f8120bf89a6b6ec6852356ce5ea7c0958be74e47f548c7c869c979f7a263d",
+      "bytes": 285459
+    },
+    {
+      "file": "governor-1814-NJ.html",
+      "sha256": "cfa4a709a9b30dc18db5919216f0f4f4b6045a34aa264bb3bc680fa5bf47888d",
+      "bytes": 197772
+    },
+    {
+      "file": "governor-1814-OH.html",
+      "sha256": "0c68d855808a47bcdfd72ecc192a2d41fe953328048896cc066d4d8e0ec871a1",
+      "bytes": 238000
+    },
+    {
+      "file": "governor-1814-RI.html",
+      "sha256": "145ae9a5c8b67b35d850cdce0fbce8f944f8167ce6bf4423959ca3d0a4b5835a",
+      "bytes": 200028
+    },
+    {
+      "file": "governor-1814-SC.html",
+      "sha256": "554bc6dc297674717af3b4a79c231c89820774ec7ba4973c7dae61db2acc8556",
+      "bytes": 316197
+    },
+    {
+      "file": "governor-1814-VA.html",
+      "sha256": "ad927f735b715411ece26a403e2eb01c76e63b996234f293b086b7395fe502e9",
+      "bytes": 325370
+    },
+    {
+      "file": "governor-1814-VT.html",
+      "sha256": "0d8bd54615e300106b5ff44d8df298fc56d3b5afdef4694845f9f550412a98d6",
+      "bytes": 215815
+    },
+    {
+      "file": "governor-1818-CT.html",
+      "sha256": "91fba1cfaf65e3766e38fc4a4aabf6139b8589ae744743d0e24bb43323c4b1f3",
+      "bytes": 362111
+    },
+    {
+      "file": "governor-1818-IL.html",
+      "sha256": "bdd3d7db62c26ea553d45457eaa54c67d62478a5d11620c67f324f5e7832b8ef",
+      "bytes": 179040
+    },
+    {
+      "file": "governor-1818-MA.html",
+      "sha256": "ac63942e3951dc16b38cdff10c2cb16001301fc750fc2778622fbb526fbf338c",
+      "bytes": 310929
+    },
+    {
+      "file": "governor-1818-MD.html",
+      "sha256": "82d4ef05120b59d8fcb0b4ef01f917ac9732a9f78e419773739d2e1effd980f5",
+      "bytes": 333763
+    },
+    {
+      "file": "governor-1818-NC.html",
+      "sha256": "e351d20a7bd8b59ac9822a2a5def5c231316d74c15ed4fc3cd111795b0f23c26",
+      "bytes": 288290
+    },
+    {
+      "file": "governor-1818-NH.html",
+      "sha256": "b1345fcb10786cd1993b9661cc458f6459d5d6cb35b4eb68158576ae3333b321",
+      "bytes": 291247
+    },
+    {
+      "file": "governor-1818-NJ.html",
+      "sha256": "3c40f6cab9ab28a3105f57b55f6057ebf6cb5086b3301b46655157eef1684911",
+      "bytes": 200784
+    },
+    {
+      "file": "governor-1818-OH.html",
+      "sha256": "65c843f18c1e23f629ec62596b572250b0ae8cc0b1062217fc63a5524887c3be",
+      "bytes": 266608
+    },
+    {
+      "file": "governor-1818-RI.html",
+      "sha256": "f010850d9861f2ddaa69ceef3e390429d5dc7e0d2c0cfc4ce3531dd98c4e0332",
+      "bytes": 238254
+    },
+    {
+      "file": "governor-1818-SC.html",
+      "sha256": "d8ed44afcdb4b59ae640ae03e1878f615cc67cf50efc54248a5757f12338ab21",
+      "bytes": 316020
+    },
+    {
+      "file": "governor-1818-VA.html",
+      "sha256": "bd8f9d964f8a49fdbecca484c5b6fcf35966299a5ff0d5a8b8e69b8e14d31fd8",
+      "bytes": 316847
+    },
+    {
+      "file": "governor-1818-VT.html",
+      "sha256": "b3f9a81952ee751a89aad094442a814ab9ef948242f6f712a6d7c83674f7933b",
+      "bytes": 213969
+    },
+    {
+      "file": "governor-1822-IL.html",
+      "sha256": "f53bba1bb69a9694cbb2492ddf11a56f99a58fa626dbf8e36b632ce843834e66",
+      "bytes": 193260
+    },
+    {
+      "file": "governor-1822-IN.html",
+      "sha256": "d8d099af961ce7abf8c67ee8c4a72386875af23df2feb441c3da9c28b8bb8a48",
+      "bytes": 202370
+    },
+    {
+      "file": "governor-1822-MA.html",
+      "sha256": "0f8044c417db2985b714dfef23fbdf3acd1062fc10e553ac06fa0c470ab553cb",
+      "bytes": 326394
+    },
+    {
+      "file": "governor-1822-MD.html",
+      "sha256": "9ea24f8b78a8bcdb23f4bc3d1a7b2110f02d1d06dfac2dfbf6d082b9ea6859aa",
+      "bytes": 333680
+    },
+    {
+      "file": "governor-1822-ME.html",
+      "sha256": "f0997ee329e490d0fcfc28a00b9eb057f47009812901f0ea272909edf9926568",
+      "bytes": 246728
+    },
+    {
+      "file": "governor-1822-NC.html",
+      "sha256": "826d11d78b4b0475166258ef3e337c3f449c408d978220aee801cc7d83674371",
+      "bytes": 288368
+    },
+    {
+      "file": "governor-1822-NH.html",
+      "sha256": "9643a0f2e8053a66c78972e9a45e075970e75ebbdcb90cb58fe576e6834ddbeb",
+      "bytes": 281740
+    },
+    {
+      "file": "governor-1822-NJ.html",
+      "sha256": "f37955465d0f78dd0efe9f65e33904945f3b7fcefc8f3da1d5602e4c2c1b434d",
+      "bytes": 195866
+    },
+    {
+      "file": "governor-1822-NY.html",
+      "sha256": "aafd3d000d6b57b0e36bb7314dc6f131813252689bdfab658abc7dce316f4688",
+      "bytes": 485323
+    },
+    {
+      "file": "governor-1822-OH.html",
+      "sha256": "1d6c6fc67ef22144c92b3c17844b95e9e463463b3198da716fa930ad94bcdcd3",
+      "bytes": 241430
+    },
+    {
+      "file": "governor-1822-VT.html",
+      "sha256": "03dcb0f98b2390c35a8dfeff72aeca5188e7678e150f5c04bf8831c5cc85c5f5",
+      "bytes": 241992
+    },
+    {
+      "file": "governor-1826-CT.html",
+      "sha256": "599890a0eaf00f0fd9271de8e908902574a1da3f4337168f9a69cea1eac4315c",
+      "bytes": 365360
+    },
+    {
+      "file": "governor-1826-DE.html",
+      "sha256": "81513b171e7d0d7c2aab9bc33a682097ad7a61637a3b4f591a96459f71884db8",
+      "bytes": 201494
+    },
+    {
+      "file": "governor-1826-IL.html",
+      "sha256": "efb96544e712cb0e2cbfbcd24f98784360a435bc2488494894a9390f2ff00aef",
+      "bytes": 180227
+    },
+    {
+      "file": "governor-1826-MA.html",
+      "sha256": "efe1d234ed1f89f442e1d1538f704b399fe8ea0dceacff730fc611027880363c",
+      "bytes": 325075
+    },
+    {
+      "file": "governor-1826-MD.html",
+      "sha256": "44f179eb023a2b62e4aa92d8f26826f550417e73f1946b684d8455b3c23d053f",
+      "bytes": 333683
+    },
+    {
+      "file": "governor-1826-ME.html",
+      "sha256": "4c453b6e766092266f609b9cdd22b964fdffb5b2b9544a3278d0ceabc48ad51c",
+      "bytes": 239239
+    },
+    {
+      "file": "governor-1826-NC.html",
+      "sha256": "49861526f4a8d106fb06bdc8c8cd7b6cb4281db9f71d293b1343984495db16a6",
+      "bytes": 288701
+    },
+    {
+      "file": "governor-1826-NH.html",
+      "sha256": "10ad5441d6c2c756ea3c6df666a87eee469e465bc43d057de87f2fe3c13a7c05",
+      "bytes": 262672
+    },
+    {
+      "file": "governor-1826-NJ.html",
+      "sha256": "96b2366bdb86596bf19d1ef344c6346e556b54749be862c9b1423f6611287376",
+      "bytes": 195865
+    },
+    {
+      "file": "governor-1826-NY.html",
+      "sha256": "197258050cbeb08ada2ec5fdff37052653c723a90632e6d8d72fbcfda7bece36",
+      "bytes": 508630
+    },
+    {
+      "file": "governor-1826-OH.html",
+      "sha256": "304275eb4cef3e1c5bf286762f328a570848557928c84056720d1e7c6ba0f3ee",
+      "bytes": 239521
+    },
+    {
+      "file": "governor-1826-PA.html",
+      "sha256": "9e347fb895c4440db5689bc1e67db00d51158174c7bb95a8716e6e88dde5a61b",
+      "bytes": 288227
+    },
+    {
+      "file": "governor-1826-RI.html",
+      "sha256": "c292390e6769f01aa73f2dafb28b777aeac58de07723aaff8fee291688049e9e",
+      "bytes": 214470
+    },
+    {
+      "file": "governor-1826-SC.html",
+      "sha256": "221d2efe241e1310ffb0e278ac8700272fe83fed5ab7100ea99ff723234895ad",
+      "bytes": 313161
+    },
+    {
+      "file": "governor-1826-VA.html",
+      "sha256": "61cf220eedcdac7a007f78a0734c2dbfc505533ab3c6f7009677ce7239177d1f",
+      "bytes": 324352
+    },
+    {
+      "file": "governor-1826-VT.html",
+      "sha256": "33d10efd320ae16f968890a0d3d865bb4e36c7960697f872da3afdbe7f739886",
+      "bytes": 214330
+    },
+    {
+      "file": "governor-1830-IL.html",
+      "sha256": "4ad9869f2da2c72d0c22a0951d5d65a6fe611a84b826243fb6264003e300567b",
+      "bytes": 199686
+    },
+    {
+      "file": "governor-1830-LA.html",
+      "sha256": "6503636fe6c9f2d86ca48a57592207eafdea505cf0f0cd38e4aac8580a66136d",
+      "bytes": 279013
+    },
+    {
+      "file": "governor-1830-MA.html",
+      "sha256": "52b05130ce0e3dbd8ba4bd02ced7bc3a3ecfe1907840bd5260b741e8ddfa209a",
+      "bytes": 347156
+    },
+    {
+      "file": "governor-1830-MD.html",
+      "sha256": "1d98c0e2a8e5154ddd2a8b8101464031b6f31bb7b3ef3664522799ef84614bbd",
+      "bytes": 353832
+    },
+    {
+      "file": "governor-1830-ME.html",
+      "sha256": "4e44a210c6e281183ae3bbee688a46ade0bec6c014430825565b48e3cf879c56",
+      "bytes": 272605
+    },
+    {
+      "file": "governor-1830-NC.html",
+      "sha256": "a6527cdeed7f02965ecac6a17c3ee96d4339c0e7e68eea6f947d89a93928a7f6",
+      "bytes": 310796
+    },
+    {
+      "file": "governor-1830-NH.html",
+      "sha256": "2b1f8ab47a4df68b8a35ef270636772b3192cefd65a94e26f88e5f04b45e6760",
+      "bytes": 311205
+    },
+    {
+      "file": "governor-1830-NJ.html",
+      "sha256": "4a56c983141cd3df31b0330bcca0a0b20a5d9102a7efb04614dd71868131cd79",
+      "bytes": 217331
+    },
+    {
+      "file": "governor-1830-RI.html",
+      "sha256": "c7bf4798419bb806c59100e2c7d8043eec5e0b5cef321265fa4491b52b202f10",
+      "bytes": 241124
+    },
+    {
+      "file": "governor-1830-SC.html",
+      "sha256": "9b32304ed4b8ef89795fc177d8c5c871282e926594f60c6c694e180d418fea59",
+      "bytes": 336391
+    },
+    {
+      "file": "governor-1830-VA.html",
+      "sha256": "a979c1efe4ee12aca5a9bd428fe32a94c675961c5ed6c748b09dc1b6ab82e6d2",
+      "bytes": 353941
+    },
+    {
+      "file": "governor-1830-VT.html",
+      "sha256": "6de4935a5a6b8149314cee9891e5a3d55e987a7fa10e48093f42fd86599dc1aa",
+      "bytes": 260656
+    },
+    {
+      "file": "governor-1834-CT.html",
+      "sha256": "2b1869fd5d424bb306943e8be24c5731484d6b5f4f2eda426d62b160037d41f4",
+      "bytes": 376466
+    },
+    {
+      "file": "governor-1834-IL.html",
+      "sha256": "e8223b3f094b83ce501dc61fb8fad20f7074597dbcbdd29b267c327a414515dd",
+      "bytes": 199767
+    },
+    {
+      "file": "governor-1834-IN.html",
+      "sha256": "1fe78f029459ad85c98c88117b5551517fdf221d889525f88eff68531529d63c",
+      "bytes": 281953
+    },
+    {
+      "file": "governor-1834-LA.html",
+      "sha256": "477959ce4a082b92c801850b2641157271bac3d4efad498ce870e0491b0b4593",
+      "bytes": 261165
+    },
+    {
+      "file": "governor-1834-MA.html",
+      "sha256": "9872ac23ae301b7555c79b8ca0f8faa4af0db2539889d4222aeca8118c5881ac",
+      "bytes": 337660
+    },
+    {
+      "file": "governor-1834-MD.html",
+      "sha256": "0642a46054f9889e99c0b720a3477e88a46e0b5cf2f686b5ad76cdd5e1802923",
+      "bytes": 340031
+    },
+    {
+      "file": "governor-1834-ME.html",
+      "sha256": "9dae91ff0fd6328e9ba19e1ffd5b00142023578b05dcb95d11f9ddf274b530bb",
+      "bytes": 265684
+    },
+    {
+      "file": "governor-1834-NC.html",
+      "sha256": "fa1e9183a775dd480b9171e940a04bae800bb121c43b5a501f88ac18f5aecf45",
+      "bytes": 296208
+    },
+    {
+      "file": "governor-1834-NH.html",
+      "sha256": "64f2d6760809c5443ce92b09c1de3d4fdc56ac3b11e90b34f8056c7742ec9ba1",
+      "bytes": 288355
+    },
+    {
+      "file": "governor-1834-NJ.html",
+      "sha256": "4ee9b6fedc12ec3f49303ce95da8bb53d2b31363d1dd44c351e41bbdb01a6bd4",
+      "bytes": 195833
+    },
+    {
+      "file": "governor-1834-OH.html",
+      "sha256": "302fa4740ac7e95f6cdd3cae2e705b9e33605183b194ec3644f6b728bc6789f8",
+      "bytes": 258433
+    },
+    {
+      "file": "governor-1834-RI.html",
+      "sha256": "bfc1931a12a355e31e902fae9d601b5a7cd3737819fe4590d6353ed2a06d2c7d",
+      "bytes": 221368
+    },
+    {
+      "file": "governor-1834-SC.html",
+      "sha256": "5d81b46704c77eeb9338fc417dd3b3a63a697223739559027914b9bc40fb204e",
+      "bytes": 317668
+    },
+    {
+      "file": "governor-1834-VA.html",
+      "sha256": "37b0c4f7b972060d769f38b6a01c6de5aff0a2ef1b3a2f893dd6925ca7ab05e6",
+      "bytes": 333605
+    },
+    {
+      "file": "governor-1834-VT.html",
+      "sha256": "53886178f9f6322ad4372ecbaa88eb87879b1370ea5fcef0c0c197458cbd3bae",
+      "bytes": 218795
+    },
+    {
+      "file": "governor-1838-CT.html",
+      "sha256": "387a5e62555ce48d2c5068f313ed9ede027c23609481733a57e0a4c4563ae1de",
+      "bytes": 384672
+    },
+    {
+      "file": "governor-1838-IL.html",
+      "sha256": "073c887e484292c6dee689c6c161485639f68ffc1c71193f3bec79cc9b00fd34",
+      "bytes": 333480
+    },
+    {
+      "file": "governor-1838-LA.html",
+      "sha256": "6573b0420c273414b848a131c010d3f534b187aec86983bd851b4ab3d60aeb57",
+      "bytes": 280245
+    },
+    {
+      "file": "governor-1838-MA.html",
+      "sha256": "c8ccb87e4b851b221fc8f23dba98a23ddf859a7ae5007bc4afd8b7396608a58c",
+      "bytes": 352461
+    },
+    {
+      "file": "governor-1838-ME.html",
+      "sha256": "5c4f6f91fb83a704f092ba9c14bf8914ba692844515b8e64e8319a234175509a",
+      "bytes": 279767
+    },
+    {
+      "file": "governor-1838-NC.html",
+      "sha256": "65b380c95894ab1d853cb7e92400d1709968ca0f32f801981cdd434271095a7d",
+      "bytes": 319848
+    },
+    {
+      "file": "governor-1838-NH.html",
+      "sha256": "924ade34f67981033287aa8b013de86f839e36feb28c02b2bcf2196404b98aab",
+      "bytes": 312223
+    },
+    {
+      "file": "governor-1838-NJ.html",
+      "sha256": "527ff164ca62eb81e5d864b8982d7bf66ed0fb4aade72d1c2383e07a1da81cb1",
+      "bytes": 218414
+    },
+    {
+      "file": "governor-1838-NY.html",
+      "sha256": "c627f1a7e2ebf6ef5b4de94d78e3560e51d964e606be4947048105024d3f275c",
+      "bytes": 515302
+    },
+    {
+      "file": "governor-1838-OH.html",
+      "sha256": "454c090b5da35d56e6c9e997f0ba657012ad2ef122d19dc219bfc4debd341660",
+      "bytes": 278480
+    },
+    {
+      "file": "governor-1838-PA.html",
+      "sha256": "3f0e592e3b2c031c5209a05d2da959d61ea4df8d3f9b07ea4c96a2d51a8d0b5d",
+      "bytes": 329585
+    },
+    {
+      "file": "governor-1838-RI.html",
+      "sha256": "1192af156051e40de861fd4555dfeab3ea6b3afa7376b8b04899eee5ef256b87",
+      "bytes": 242531
+    },
+    {
+      "file": "governor-1838-SC.html",
+      "sha256": "e2ce141310719bc2c4da49afd7148f1fcbe562ecd7e322c1e235b9c3cd120d3c",
+      "bytes": 336047
+    },
+    {
+      "file": "governor-1838-VT.html",
+      "sha256": "c42065ab91fcf427755842e4304ae3c46a3e56a4e899d3e3023631da3072dcd7",
+      "bytes": 313611
+    },
+    {
+      "file": "governor-1842-CT.html",
+      "sha256": "1ae2681bdcbc61fcfc08f652be5383fc031eb50a124cddd3b88f65e5fd78a013",
+      "bytes": 373693
+    },
+    {
+      "file": "governor-1842-IL.html",
+      "sha256": "26313886bbba730d36bd9e9e5336658ea5db991fe45ca10068ef96a37347a66d",
+      "bytes": 182511
+    },
+    {
+      "file": "governor-1842-MA.html",
+      "sha256": "7de59747b19477a7a7a451303efbe488a4a2f9e3f2d42204e55211875ba1663f",
+      "bytes": 348981
+    },
+    {
+      "file": "governor-1842-ME.html",
+      "sha256": "c03572e5fa8a6f6891e2ce9a21fb1b363aede9f2390484470d297ff181ac075a",
+      "bytes": 257515
+    },
+    {
+      "file": "governor-1842-NC.html",
+      "sha256": "6dcfa5c48505e41cc894f2dd5406626052b44fd169a9e93cc119bc774589286a",
+      "bytes": 294328
+    },
+    {
+      "file": "governor-1842-NH.html",
+      "sha256": "c8cb8a75dfa7bc03bc831bfec23f93160ce890c36c7f5ec19a26943dc16326e2",
+      "bytes": 328382
+    },
+    {
+      "file": "governor-1842-NJ.html",
+      "sha256": "6a03673b37fdd8c34d93d1d7ba98e07eca96ae41086d443c98492f8139ea9dd1",
+      "bytes": 197357
+    },
+    {
+      "file": "governor-1842-NY.html",
+      "sha256": "58be79471d2ea743b2d8987ef5198666e3013122865902de4c7979e11c3892a7",
+      "bytes": 493134
+    },
+    {
+      "file": "governor-1842-OH.html",
+      "sha256": "d18664f4e10940e1505e910f3bba82c567c7258d6e7471019bcf11c49ffbd126",
+      "bytes": 262298
+    },
+    {
+      "file": "governor-1842-RI.html",
+      "sha256": "209f480d6d43fc55f8eb1dfcef90bae6508edc60ee9c4603603ff158100e9e3f",
+      "bytes": 202814
+    },
+    {
+      "file": "governor-1842-SC.html",
+      "sha256": "8bdfd3a8cf07683cb53c3286dfacc69944b30b9a85bb930af26640a259e6af18",
+      "bytes": 321431
+    },
+    {
+      "file": "governor-1842-VA.html",
+      "sha256": "638ae59c5b276086aa1aec0a296a08e783450d9acf794ff51eadbcdac2f4c1ab",
+      "bytes": 422846
+    },
+    {
+      "file": "governor-1842-VT.html",
+      "sha256": "804c982a25557ed9abaca7fd8bdd7b569bd1e8d8e64b57be0fd96c173bb305f1",
+      "bytes": 242641
+    },
+    {
+      "file": "governor-1846-IA.html",
+      "sha256": "7c02fc1658bbd20c846eba77abb17f2ef141bd1f7bc12956c9585585e62c5e63",
+      "bytes": 187813
+    },
+    {
+      "file": "governor-1846-IL.html",
+      "sha256": "8748a26584f5c2f543f15a667a3494123e78ab724a14fd9b82ec87a0aa10e01a",
+      "bytes": 176162
+    },
+    {
+      "file": "governor-1846-IN.html",
+      "sha256": "3d22d025640960dc86566ec167c1d5d2e8dccb91358d97e23ac2d4737b8fd25a",
+      "bytes": 223461
+    },
+    {
+      "file": "governor-1846-LA.html",
+      "sha256": "2434ae7b4799dba2e1f475b956ff928bb014867f357b5782831eee0b660266fd",
+      "bytes": 261711
+    },
+    {
+      "file": "governor-1846-MA.html",
+      "sha256": "84785158fc8494c02856fc43566068ed22274a0676beb64f0bb243b925b61079",
+      "bytes": 321099
+    },
+    {
+      "file": "governor-1846-ME.html",
+      "sha256": "0b946d9d45c2c2b8ed16f0493907383a8d49a4cccf090cd75175f958ff688925",
+      "bytes": 247580
+    },
+    {
+      "file": "governor-1846-NC.html",
+      "sha256": "b5e93d6f9eae6c856913620d3e54136758536e99bce567f8a2e2d724021efa22",
+      "bytes": 294595
+    },
+    {
+      "file": "governor-1846-NH.html",
+      "sha256": "6f0405e8a0186c3dcb4444f73cfd3e60d003b35fc68dd97ddd39c002b5878d8e",
+      "bytes": 266198
+    },
+    {
+      "file": "governor-1846-NY.html",
+      "sha256": "38dcd6ea76a4437e3fd0e7650340a5f93e9a69b0229b7adba8dab0ada5009a86",
+      "bytes": 543186
+    },
+    {
+      "file": "governor-1846-RI.html",
+      "sha256": "481988e5e19e987ec8f3f51aac2af655e1c7388d26ce49dc8d1b1c23b75b00c4",
+      "bytes": 205001
+    },
+    {
+      "file": "governor-1846-SC.html",
+      "sha256": "2b7a58478e726acfd350355e4bcbc5adae5cb1ea6e4e9cf265be6bf2b2263ab8",
+      "bytes": 317854
+    },
+    {
+      "file": "governor-1846-VT.html",
+      "sha256": "23f45a72cb255156c9ddd9569c11233f6c0efcaa3870dac304fae94bb5d08e04",
+      "bytes": 224277
+    },
+    {
+      "file": "governor-1850-CT.html",
+      "sha256": "a250c90ec8a2929cfc87acdd48fbf8e4b5d56df15af796073ab73577f2d100f8",
+      "bytes": 372703
+    },
+    {
+      "file": "governor-1850-DE.html",
+      "sha256": "8585979077e982ba24e5691088549e870106cf9f7840f83578db57b55d77462f",
+      "bytes": 206706
+    },
+    {
+      "file": "governor-1850-IA.html",
+      "sha256": "51afe4c62a46a05ee77175fdabc604cf61d3f33d789ef54bbbab5c9771aaa9e8",
+      "bytes": 233200
+    },
+    {
+      "file": "governor-1850-MA.html",
+      "sha256": "0f9828d5053ff559740df878d9e8f44ff510fbf1b50665e6cbb629d60723115a",
+      "bytes": 359074
+    },
+    {
+      "file": "governor-1850-MD.html",
+      "sha256": "ddc6415cc21f919a009a1795f4c2c9a68a5a61165815e02f05edaa66a2765b36",
+      "bytes": 335407
+    },
+    {
+      "file": "governor-1850-ME.html",
+      "sha256": "0018ad76db9b7e6938a9d58a6f08c02965a6e752a4a6fc91ce567685eb73ac9a",
+      "bytes": 233467
+    },
+    {
+      "file": "governor-1850-NH.html",
+      "sha256": "b3034f958c69981192e33b7e695495502c1f5b6a7fde3a190506df56968d9bed",
+      "bytes": 264678
+    },
+    {
+      "file": "governor-1850-NJ.html",
+      "sha256": "67fd798745ce0f9d349fd2aaedc2b1bfdbefa0f6970c3ac284c256b91c8bbbbc",
+      "bytes": 200173
+    },
+    {
+      "file": "governor-1850-NY.html",
+      "sha256": "016072c070552211aad2327abd61703439edf89e38663cc25048489ca1852b14",
+      "bytes": 515960
+    },
+    {
+      "file": "governor-1850-OH.html",
+      "sha256": "09e514caeed482d132efdb465fdbc00dbfb6f54c7dd8f036b99058e4a490b721",
+      "bytes": 239118
+    },
+    {
+      "file": "governor-1850-RI.html",
+      "sha256": "56ed3bd0e07d6c69452dbb96361b164d7e4f1194d1fe33f08f049f1d0659f1b6",
+      "bytes": 203266
+    },
+    {
+      "file": "governor-1850-SC.html",
+      "sha256": "f63532d0b26203a48d8813517837908aee85c50a08f8770a6cede02c208a5ac6",
+      "bytes": 317435
+    },
+    {
+      "file": "governor-1850-VT.html",
+      "sha256": "34c366db7af1f4330c5661cb072dd0ebfbab001de910b7ec04fc55a76b5c31cf",
+      "bytes": 208285
+    },
+    {
+      "file": "governor-1854-CT.html",
+      "sha256": "602f461ffc948a3faa462fc49a6d0e28bbd00e7a8e3bb00702e3ba3a3a2077b3",
+      "bytes": 377844
+    },
+    {
+      "file": "governor-1854-DE.html",
+      "sha256": "0c307546a18d95655fe28804413306d0d367315e27c29f583c29042515726988",
+      "bytes": 204024
+    },
+    {
+      "file": "governor-1854-MA.html",
+      "sha256": "c7b36b24ecbad85e289fab702050a888a1c2ef1af86a687c57b4c9cde4af773a",
+      "bytes": 419395
+    },
+    {
+      "file": "governor-1854-ME.html",
+      "sha256": "afe3fa20d8d5ba61f52a86df930c4a1be3b912152657abe32933255e2b437a1e",
+      "bytes": 236041
+    },
+    {
+      "file": "governor-1854-MI.html",
+      "sha256": "10e2947e89427e107b95b92a97d9e60a9151bcfa0bb633f7179674a6b8ec6a9d",
+      "bytes": 450946
+    },
+    {
+      "file": "governor-1854-NC.html",
+      "sha256": "db9dff25df3f182e865fd4703a9d4724de6003ee1a955cd3d7c8505fad844b68",
+      "bytes": 299809
+    },
+    {
+      "file": "governor-1854-NH.html",
+      "sha256": "30b7bc8a366d6a82f5a5b6340507c6a25020430e6ea44b16307c85e3283cc62e",
+      "bytes": 265342
+    },
+    {
+      "file": "governor-1854-NY.html",
+      "sha256": "bc5a42a446c030dafa924b2541b8ff6db6654b873b4e4b169f87a8238c2e3550",
+      "bytes": 562073
+    },
+    {
+      "file": "governor-1854-PA.html",
+      "sha256": "dab684045debb2efb9f399d2bb0f52c4ae6a59de0933d2a7b72cace7cd6bf20c",
+      "bytes": 287496
+    },
+    {
+      "file": "governor-1854-RI.html",
+      "sha256": "cce685ea6234b440a8d92bd9f75588870c4135c5c2395b007012b2b8ade069a0",
+      "bytes": 202643
+    },
+    {
+      "file": "governor-1854-SC.html",
+      "sha256": "ade87de92d083cf067b81e35d474818dd8d6541a9e8ee3da3df580c845b1ccd9",
+      "bytes": 317663
+    },
+    {
+      "file": "governor-1854-VT.html",
+      "sha256": "5c384223b815f1efcb336fb8671f5407cc4029466ad664eb69ff5317fc2a5dce",
+      "bytes": 231775
+    },
+    {
+      "file": "governor-1858-CT.html",
+      "sha256": "650f84e0b0d6912fc13326610bf199920d822f5a2637c51a363d1d262302cb52",
+      "bytes": 364340
+    },
+    {
+      "file": "governor-1858-DE.html",
+      "sha256": "6c484bb86e9c784120b9b0b6ec0c53043a505c6305c229698ab63934116ece00",
+      "bytes": 207952
+    },
+    {
+      "file": "governor-1858-MA.html",
+      "sha256": "5c595df53261670ed03cb12502f02f6ced457abeeab25b7046d73b57d575726e",
+      "bytes": 313908
+    },
+    {
+      "file": "governor-1858-ME.html",
+      "sha256": "e8f54eb6f0192ee5098a95913140eb4358ba1183e9e511475a8c29fb9f957f18",
+      "bytes": 230013
+    },
+    {
+      "file": "governor-1858-MI.html",
+      "sha256": "50aca8e6b88366e5e6633d485e05bcef0d3ace64c00ae48f493c1297cabb20c1",
+      "bytes": 542068
+    },
+    {
+      "file": "governor-1858-NH.html",
+      "sha256": "9f45023ffa15b019a0185d3d42d15ae87ed52d1e5875454a947c675a9d967ee4",
+      "bytes": 262599
+    },
+    {
+      "file": "governor-1858-NY.html",
+      "sha256": "088eb230f28ac751c53fddb460413b51674a673cac166e9f7cada1e2d4798231",
+      "bytes": 533576
+    },
+    {
+      "file": "governor-1858-RI.html",
+      "sha256": "5a401fc0307b1592e2398175dbb02fe187d97d33f286d33bec093196d3ba44eb",
+      "bytes": 227697
+    },
+    {
+      "file": "governor-1858-SC.html",
+      "sha256": "78d343b97daef5bb04092ea449daee4c99667246d98748df85d006d14f26751b",
+      "bytes": 317516
+    },
+    {
+      "file": "governor-1858-VT.html",
+      "sha256": "220c269ef0914abc238dcdb5b0f7ea12fc31e4f26875552e28a1961df614ac55",
+      "bytes": 210114
+    },
+    {
+      "file": "governor-1862-AR.html",
+      "sha256": "48ff8e56d76e6522472db446b6cac760f423dca2d27cbfc7376f07637866b0c2",
+      "bytes": 367925
+    },
+    {
+      "file": "governor-1862-CT.html",
+      "sha256": "b27ef666f70c2c059e67755571177f1dfefee5ad2824615a147969f3fac277b8",
+      "bytes": 365958
+    },
+    {
+      "file": "governor-1862-DE.html",
+      "sha256": "11bf3df550a802ac333ca93eaf63c02fdb1367c2fd660bc51574731225447b5c",
+      "bytes": 204067
+    },
+    {
+      "file": "governor-1862-KS.html",
+      "sha256": "dd308479f1e12714741fa9ec6b8c7719df495b7f09fb9c09146dac1eca6bcaa9",
+      "bytes": 187849
+    },
+    {
+      "file": "governor-1862-MA.html",
+      "sha256": "50f6abd28a9cfc94f8a072f4f5cf878f86c282f81d5618cc2367f67c2b3c868a",
+      "bytes": 320694
+    },
+    {
+      "file": "governor-1862-ME.html",
+      "sha256": "26e34d9d0ba408570d84667af5090af5adf360891fc24091d7e5bc317bc89268",
+      "bytes": 236998
+    },
+    {
+      "file": "governor-1862-NC.html",
+      "sha256": "676ee32a8b7944cb4185203d2f1a5506316cd18d3c81e7a1807e2c61a4fbffc7",
+      "bytes": 299322
+    },
+    {
+      "file": "governor-1862-NH.html",
+      "sha256": "9197807752f262ee45b8d84521c71a8545d1fb23aaad78ebe145b0ae054d0a3a",
+      "bytes": 301277
+    },
+    {
+      "file": "governor-1862-NJ.html",
+      "sha256": "ff9f75861425f2907dd193ad720a6c20afe1b34a3a6e28b94b49269adca97cb9",
+      "bytes": 202780
+    },
+    {
+      "file": "governor-1862-NY.html",
+      "sha256": "9efb16152723eaa84b11156d6caa1ede1d1e475c44575cf92eb1b1ad58d970c5",
+      "bytes": 558644
+    },
+    {
+      "file": "governor-1862-OR.html",
+      "sha256": "f03ada513ccb5514ed0ad64bd5421c7c83a019b7581bbb307fba931c8afee415",
+      "bytes": 361428
+    },
+    {
+      "file": "governor-1862-RI.html",
+      "sha256": "7206827fb4ecb89d8f8df2bb9583a9df1a1eaf598ee3c7e5c12ae1ccb1778087",
+      "bytes": 208864
+    },
+    {
+      "file": "governor-1862-SC.html",
+      "sha256": "96a5be4f664ac998763eb2326a86e45b5f5edac1c6aa44ecdec5b7c77ca0ae2c",
+      "bytes": 319305
+    },
+    {
+      "file": "governor-1862-VA.html",
+      "sha256": "109de2033671fc0ff03233a1894549a91f263a8384e0777b25378a89d461176f",
+      "bytes": 314177
+    },
+    {
+      "file": "governor-1862-VT.html",
+      "sha256": "55858c473ac2f93009c71fe23e761687c009f5aec1805cc5900239b8a5eaaf42",
+      "bytes": 218084
+    },
+    {
+      "file": "governor-1866-CT.html",
+      "sha256": "d7768f773347ac52ee8e22ac571a0f740365a0de43251d2407f6c359549dd3a4",
+      "bytes": 454121
+    },
+    {
+      "file": "governor-1866-DE.html",
+      "sha256": "fb522c2ce108306174cea988434c1f5576146cd91b4bef321c94540edb2a9879",
+      "bytes": 298027
+    },
+    {
+      "file": "governor-1866-KS.html",
+      "sha256": "ac43efa9227378b6d3816b676ba4a0bb6bb06b3a2296c1de8416ae211f3555a2",
+      "bytes": 172686
+    },
+    {
+      "file": "governor-1866-MA.html",
+      "sha256": "9b5c87cc6ddc2a6198519e29a907894ed1073b87b15045241391a403e6fe4bd8",
+      "bytes": 415397
+    },
+    {
+      "file": "governor-1866-ME.html",
+      "sha256": "caf58098dab28bed67ccf384abc4ffdbdfea63a36071d5199ab545a10c9cafe7",
+      "bytes": 332115
+    },
+    {
+      "file": "governor-1866-MI.html",
+      "sha256": "1e4a861f65b88b71af87c4ef9cb9ea8bffe404d9ebba40240947f19a4b4bcffe",
+      "bytes": 626181
+    },
+    {
+      "file": "governor-1866-NC.html",
+      "sha256": "1dfc759541fc3c221d4d678e3051d3d9fe8b6e2d989db5f6b23c6ddb82368d7a",
+      "bytes": 391692
+    },
+    {
+      "file": "governor-1866-NH.html",
+      "sha256": "57f4c28fc888a2c1d3454e057da482aee1db6d527369a1625c8b0431086b0ed1",
+      "bytes": 261847
+    },
+    {
+      "file": "governor-1866-NV.html",
+      "sha256": "d80dc5b8e8821c2a7316ec85b32053d5f87a84344dc8206b7e0d0eb5e67aad48",
+      "bytes": 345131
+    },
+    {
+      "file": "governor-1866-NY.html",
+      "sha256": "1c6dda9fef9f1d81769d0e9dd8b5448479e0964b745ee9ebba74e6e6cc2dda99",
+      "bytes": 541328
+    },
+    {
+      "file": "governor-1866-OR.html",
+      "sha256": "9747823ea4830559355c861efdcf2e8e61579e8fa49771e9a50d71e7bf2bf9f2",
+      "bytes": 468777
+    },
+    {
+      "file": "governor-1866-PA.html",
+      "sha256": "58c3dc38ec0e9c1b3bdefdd4a66d60b41f27ad7cf8c27531ea4125ddc941250c",
+      "bytes": 386300
+    },
+    {
+      "file": "governor-1866-RI.html",
+      "sha256": "681ddbd82c8aee2a743c84c8f13e2b86231aecf5395a262bde41a52d6d771065",
+      "bytes": 203090
+    },
+    {
+      "file": "governor-1866-TX.html",
+      "sha256": "15acc88dd991ea706b10597192e17069d25fe5bc5f75ca3276ac20bc25647ea6",
+      "bytes": 468083
+    },
+    {
+      "file": "governor-1866-VT.html",
+      "sha256": "b86396cbb8397e491d03156cdb1780c1a74ffc8390d619452f6c9b76f220e191",
+      "bytes": 315726
+    },
+    {
+      "file": "governor-1866-WV.html",
+      "sha256": "6d1b2726a3a5a75fcb900970513a6c551d351b79d6c619c1719e1136dfe6a7da",
+      "bytes": 291495
+    },
+    {
+      "file": "governor-1870-AL.html",
+      "sha256": "d0a49a63f74573d299240d947b0e2c16f71c2eb0023ad31c06bd6858c983c3f9",
+      "bytes": 478574
+    },
+    {
+      "file": "governor-1870-CT.html",
+      "sha256": "49f0b1aa5a86dc738f05b884c55f1a4f60dcb5bfbd702a1aa2fa5c1415286805",
+      "bytes": 453001
+    },
+    {
+      "file": "governor-1870-DE.html",
+      "sha256": "07af3dc990a20b8e59e2436fd39cfd5ccc309efcd3b6f0c588a897e08e7a327b",
+      "bytes": 297286
+    },
+    {
+      "file": "governor-1870-KS.html",
+      "sha256": "107eb6ed7b04092643595b07c4a9122c4690a8ea7e3959b498b23b3978f8941b",
+      "bytes": 175834
+    },
+    {
+      "file": "governor-1870-ME.html",
+      "sha256": "7f204eee0d0106a4395f81601c08c9804790b5478cf07bc4a2210686d42a63ae",
+      "bytes": 332095
+    },
+    {
+      "file": "governor-1870-MI.html",
+      "sha256": "4fb17f39316ea58a532047865f99c6113aa0dc8e63e647475ed735864d8d0509",
+      "bytes": 716731
+    },
+    {
+      "file": "governor-1870-MO.html",
+      "sha256": "ff23a6c24d29a0721f25dd4d3ac5b9259f7c13f5274785f81f1088d15471be91",
+      "bytes": 433274
+    },
+    {
+      "file": "governor-1870-NE.html",
+      "sha256": "ee12719e0d4f2318efd39447fc3aac870d0ea1312c27403965e7314cd7d0af56",
+      "bytes": 198543
+    },
+    {
+      "file": "governor-1870-NH.html",
+      "sha256": "6cc90b3e34617f1d5fb865669e46e5d1c70ec15820e75c483a45c1da06d2336f",
+      "bytes": 265201
+    },
+    {
+      "file": "governor-1870-NY.html",
+      "sha256": "d8a6f666d9361c69f60bbfd5f54b5d995c954a7084d2bf2834bd02a1bb6ac42a",
+      "bytes": 518386
+    },
+    {
+      "file": "governor-1870-OR.html",
+      "sha256": "fe5a04be8eeebf94d9ba51032a5c72727c32524c18b551131399d1a290d64ada",
+      "bytes": 469237
+    },
+    {
+      "file": "governor-1870-RI.html",
+      "sha256": "e8bef16237ac6ec64a333133da9d40ebab61fc2512e37d89b70858c05cba4d6d",
+      "bytes": 309064
+    },
+    {
+      "file": "governor-1870-SC.html",
+      "sha256": "a296843ad0146d52e2f562f460091b37dfd5b188319fb586d65d013707b3c2a6",
+      "bytes": 446872
+    },
+    {
+      "file": "governor-1870-VT.html",
+      "sha256": "96482528f7143bfb76e2bcdf4b59b269364caf5a593145c730c69c378bbeca3d",
+      "bytes": 302855
+    },
+    {
+      "file": "governor-1870-WV.html",
+      "sha256": "6c15eeb3b424d87f6e3dd4392048a7958ddbb77ccf079fda9a4e4f87b97db538",
+      "bytes": 292114
+    },
+    {
+      "file": "governor-1874-AL.html",
+      "sha256": "dd012236a7ff98d37431cb233cf766fec256ab81aa47a2f745cdec95b682d7b5",
+      "bytes": 515493
+    },
+    {
+      "file": "governor-1874-AR.html",
+      "sha256": "98a1e9cf39be6c6f7801f25d13c57d42f21eadd2adedf15ac9fd2f5c46d9e62c",
+      "bytes": 312990
+    },
+    {
+      "file": "governor-1874-CT.html",
+      "sha256": "888a8d6aa3954060254fa0180c407b1f442ef8f81cc8815eb6b822f9ad6a0995",
+      "bytes": 361858
+    },
+    {
+      "file": "governor-1874-DE.html",
+      "sha256": "157be968dafcf557fc0538c619d4d974208e5925d8b2a41a4ab16f67e56fbc48",
+      "bytes": 296776
+    },
+    {
+      "file": "governor-1874-KS.html",
+      "sha256": "18c4591cc234bf3722a4085de1a789773b401f7a4c6aa3266f4c5b28284ae369",
+      "bytes": 269505
+    },
+    {
+      "file": "governor-1874-MA.html",
+      "sha256": "eeec680b6f16b72452d8daf367dae4a8566504eaa32710a7487a9844fdd58724",
+      "bytes": 435992
+    },
+    {
+      "file": "governor-1874-ME.html",
+      "sha256": "09fbd9587837e8859b550ebc6e505bb34a9afc860f667712e02e54b72542b081",
+      "bytes": 331891
+    },
+    {
+      "file": "governor-1874-MO.html",
+      "sha256": "deac29f36da053a12e989233a5c25ec2ada111fbe7dfb21ca7596c499ede41ee",
+      "bytes": 385461
+    },
+    {
+      "file": "governor-1874-NE.html",
+      "sha256": "36f690bb691f0e91b2386ce7900ea77c26b42f7f86389c8ffc4b17a7cdc23daf",
+      "bytes": 207200
+    },
+    {
+      "file": "governor-1874-NH.html",
+      "sha256": "ad11ac9008dde979bc2f5d659b77185c19a2d7f97475c5e1d4ac52efdc7f4c2f",
+      "bytes": 262576
+    },
+    {
+      "file": "governor-1874-NJ.html",
+      "sha256": "48f1f71e43df3551b4ff83af5fa3f5e92d2375235fab317037dda705b4c46d74",
+      "bytes": 297087
+    },
+    {
+      "file": "governor-1874-NV.html",
+      "sha256": "96854e0833c3242807ab621bfcfef6845289b789a7b7651c7a4743c16e468f46",
+      "bytes": 363704
+    },
+    {
+      "file": "governor-1874-NY.html",
+      "sha256": "64990c722b584297d02eff524fb14a5a95241dc55a69a0a14d204ddbbaa7f625",
+      "bytes": 502120
+    },
+    {
+      "file": "governor-1874-OR.html",
+      "sha256": "44ad64c90daf79e09722dd475594513311190550ee5999b41580773e9a599490",
+      "bytes": 511088
+    },
+    {
+      "file": "governor-1874-RI.html",
+      "sha256": "918f82b070793d7a691ba9563b9c5b42a90f998ff019e74957cc56ecf918237a",
+      "bytes": 202953
+    },
+    {
+      "file": "governor-1874-VT.html",
+      "sha256": "cb5a18ed4e31f7ca55049b63e16269172911c51abda75c33b5fcf9141832f7f6",
+      "bytes": 303638
+    },
+    {
+      "file": "governor-1878-AL.html",
+      "sha256": "0da724b1bbbf4baf93064847e876fde353d9f79e26a2f89cc706f2d2b1fc7f8a",
+      "bytes": 373067
+    },
+    {
+      "file": "governor-1878-AR.html",
+      "sha256": "49030643c00587b1399d790a3eafc096e99edd189d4094d3d47a00c0c879baba",
+      "bytes": 311772
+    },
+    {
+      "file": "governor-1878-CO.html",
+      "sha256": "a9c907742e81666ea0779dab0bdaa1b57753b400c2c2d440115c5dc7daf3307b",
+      "bytes": 245700
+    },
+    {
+      "file": "governor-1878-CT.html",
+      "sha256": "2ff6892e877b5bd162760512bbf6f98b071b9796c5aec65fb46d000aacdcfed9",
+      "bytes": 365169
+    },
+    {
+      "file": "governor-1878-DE.html",
+      "sha256": "5eba482fa9312ec911204461149b47398686d44723a327c3ebbed25ba1df682d",
+      "bytes": 205597
+    },
+    {
+      "file": "governor-1878-KS.html",
+      "sha256": "f1af38fa3247a5e1a8efee210192bcca3d75165d45c76123efcdfd35fd981252",
+      "bytes": 175142
+    },
+    {
+      "file": "governor-1878-MA.html",
+      "sha256": "e60adc0e56ebf92fd199c69c73e33bb8e202bf1495e839b547e43f4fe0bcd7d9",
+      "bytes": 379674
+    },
+    {
+      "file": "governor-1878-ME.html",
+      "sha256": "ea32eb3a581e784e69883bc334b4dbeb8959e89d5e0b6369344b0f3771bbc7f3",
+      "bytes": 236114
+    },
+    {
+      "file": "governor-1878-MI.html",
+      "sha256": "78e57a6e4004e4070d50b2695662e951341ddb58fd876a49b598988f6c808178",
+      "bytes": 771449
+    },
+    {
+      "file": "governor-1878-NE.html",
+      "sha256": "dd8ec37c71111b6d0dd8ee7c376e127da7d8eef1a0068e1619d42e9e7643c379",
+      "bytes": 205203
+    },
+    {
+      "file": "governor-1878-NH.html",
+      "sha256": "ab8f9672163a40725eec71a84e323505193e3cdb913f96d14b6b322ba4ad8412",
+      "bytes": 52208
+    },
+    {
+      "file": "governor-1878-NV.html",
+      "sha256": "b7c98375eb0940b5d6df8ba59bb8f679ebab6eb431752f265e5b9d0cae1a9e9d",
+      "bytes": 370131
+    },
+    {
+      "file": "governor-1878-OR.html",
+      "sha256": "b971ec76d7f2639e5143d021410f57aa5da79d6187cb2df25dcf7b9602ddefcc",
+      "bytes": 416426
+    },
+    {
+      "file": "governor-1878-PA.html",
+      "sha256": "20c145bec4a382624844ff65a8a1c2146f958cfb82cd734be032dda0d9ddb272",
+      "bytes": 295070
+    },
+    {
+      "file": "governor-1878-SC.html",
+      "sha256": "0d02310850e1ad8fe35d1f5530cac736a4ee3c3336a64b07148e10d4095f0ffb",
+      "bytes": 337689
+    },
+    {
+      "file": "governor-1878-TX.html",
+      "sha256": "4310ac7ee87ce2f5f8d3c3ae57c2e60153f1aac3fe2239b369af770c3a00e833",
+      "bytes": 490261
+    },
+    {
+      "file": "governor-1878-VT.html",
+      "sha256": "17e513015344f2df8ca84488e1bf675aca246f4d067642ae1f6f0d22d57e556d",
+      "bytes": 209737
+    },
+    {
+      "file": "governor-1882-CA.html",
+      "sha256": "9f57fca14271b51457de6716d73d5dbbaada0283bffaf00f3d1813fc912fa7fb",
+      "bytes": 899041
+    },
+    {
+      "file": "governor-1882-CO.html",
+      "sha256": "3a3f21be043d7285e28b36ea1882dcc99bb0ce520ffeebb27df8fc459aeb57e4",
+      "bytes": 248750
+    },
+    {
+      "file": "governor-1882-CT.html",
+      "sha256": "843aaedfb07ef7ebcf90155889a656295d404c2cdd68fb1095d4e31d3f159458",
+      "bytes": 356253
+    },
+    {
+      "file": "governor-1882-DE.html",
+      "sha256": "82dd4ed918545dbfc6fa4a08da50fc03b03426638b01ca565e579840e313645b",
+      "bytes": 204060
+    },
+    {
+      "file": "governor-1882-KS.html",
+      "sha256": "5a7de3c49737601038c7f00aeb8c62d5eb7e3a2c4e9959e18482b66a0d6d1058",
+      "bytes": 175614
+    },
+    {
+      "file": "governor-1882-MA.html",
+      "sha256": "ef6c1bbe23b4e993eb6a4a4864eb44c7076295028c7c53bbd38346008f0a6f53",
+      "bytes": 349457
+    },
+    {
+      "file": "governor-1882-ME.html",
+      "sha256": "2263a6af00de99a85680658893d0dcba510981fc7bc510b3715bc42c9d732524",
+      "bytes": 233933
+    },
+    {
+      "file": "governor-1882-NE.html",
+      "sha256": "e26b6117f900544addfec80384338b7152b37a93ed114565cfde1194829266a3",
+      "bytes": 195725
+    },
+    {
+      "file": "governor-1882-NH.html",
+      "sha256": "eefe96bf0d06febc01e6c010d7c175664bef7e00658701eb0ad611d9ff776e08",
+      "bytes": 262289
+    },
+    {
+      "file": "governor-1882-NV.html",
+      "sha256": "a9a7fe055d23c748b2749885d9bedae4b4870b06923cdd1160d3418bba9909dd",
+      "bytes": 371161
+    },
+    {
+      "file": "governor-1882-NY.html",
+      "sha256": "1331306c2c1f6ea6c75c80a2dfd34dac886eff55f936dc31cd1ae207e496c46a",
+      "bytes": 582148
+    },
+    {
+      "file": "governor-1882-OR.html",
+      "sha256": "3f21a5122dcf3e53ca9968bb984a50ba33e5a99bb11e695af24abab45020e7c3",
+      "bytes": 387392
+    },
+    {
+      "file": "governor-1882-RI.html",
+      "sha256": "64ff4847e161e99b22d8f134f6f4189cd9c36d2bcf78d06c619bb68e7eb23a96",
+      "bytes": 202823
+    },
+    {
+      "file": "governor-1882-SC.html",
+      "sha256": "d0ee67daeaefe495d37ecb8ce4e11343fbd6cb1aa32c21233a6e86962388afba",
+      "bytes": 338376
+    },
+    {
+      "file": "governor-1882-TN.html",
+      "sha256": "ef648076b05dc25dbb2ad7535fb1534825bd186f9bf28536f0f38ad9c625bc51",
+      "bytes": 222028
+    },
+    {
+      "file": "governor-1882-VT.html",
+      "sha256": "57a81b930b0bdf5f0f0e5b9e077dfab9fb7e75c1644c2cf514caf144496a5eff",
+      "bytes": 207965
+    },
+    {
+      "file": "governor-1886-AL.html",
+      "sha256": "fc612ac4ddd4d0f2997f4eb085e2f705fc2d4ba01d234dadd190aec04318e612",
+      "bytes": 378869
+    },
+    {
+      "file": "governor-1886-AR.html",
+      "sha256": "543513ecc41afa3cb89e24684c1383d44897c66c26df077e910aaa72ba30ac93",
+      "bytes": 345401
+    },
+    {
+      "file": "governor-1886-CA.html",
+      "sha256": "1155cf095274aec7bbfe666b78650c0aebd643e9478fea65f3405d1884dbfb63",
+      "bytes": 980746
+    },
+    {
+      "file": "governor-1886-CO.html",
+      "sha256": "b94c4b6099f9c3e0adae9046a63abefa20173e11bc81f129889a170fa7814e25",
+      "bytes": 255673
+    },
+    {
+      "file": "governor-1886-CT.html",
+      "sha256": "b1370aa83016c6583b94ea1a99f65664d92c35fc1b639fea11cce673387f43d9",
+      "bytes": 356183
+    },
+    {
+      "file": "governor-1886-DE.html",
+      "sha256": "0d96cf07e1057fba8496e449bf4d342ac200239373adac39290fcad833c1c46c",
+      "bytes": 217506
+    },
+    {
+      "file": "governor-1886-GA.html",
+      "sha256": "76fe13d42126adaba9446c56d0e35616757c77a347ccc2d3ccf850d4f64da922",
+      "bytes": 221462
+    },
+    {
+      "file": "governor-1886-KS.html",
+      "sha256": "08786a256ba824eb94dac815f0a09e5607b385c0be81e82b8367946efaff3d4a",
+      "bytes": 173564
+    },
+    {
+      "file": "governor-1886-MA.html",
+      "sha256": "517b0bfdbc1f60ebeb5688735ee64b6a9349e9240d30b73c5a522fbf0468b119",
+      "bytes": 325577
+    },
+    {
+      "file": "governor-1886-ME.html",
+      "sha256": "3ad90d6d9d967c99db648509840707edd8c2dec3451da59fd5b8f80f67598930",
+      "bytes": 230441
+    },
+    {
+      "file": "governor-1886-MI.html",
+      "sha256": "d6e4470404a7eef2d2581b25b12b46872aa7b642217fe3c03c73c340c53144d4",
+      "bytes": 692034
+    },
+    {
+      "file": "governor-1886-MN.html",
+      "sha256": "5a4b119e889c8d0c8f978aed070adc0dbee7101685d478675a9a0a9f65a4143e",
+      "bytes": 375700
+    },
+    {
+      "file": "governor-1886-NE.html",
+      "sha256": "7fdc792e6e2f1b25cb769cce35389f8cd4f1901694415141efe21b8110a62c0e",
+      "bytes": 217296
+    },
+    {
+      "file": "governor-1886-NH.html",
+      "sha256": "f144c63fa8827844ac94cb9327813f513994419d1a8a23e51bacbba0eb4b75a5",
+      "bytes": 262118
+    },
+    {
+      "file": "governor-1886-NJ.html",
+      "sha256": "5b8d07fdf515e99885a6da88bd57779189b1db5271f646bedf396836fa81c985",
+      "bytes": 206006
+    },
+    {
+      "file": "governor-1886-NV.html",
+      "sha256": "5698dc7a59962551e0af3779a604aea794c5cb4f40b166346a54b41c1deecb45",
+      "bytes": 370332
+    },
+    {
+      "file": "governor-1886-OR.html",
+      "sha256": "28fc77256c305fd24b6bc24bac23ca17290bb58b6ecde5643b9acf93ff8a9861",
+      "bytes": 430105
+    },
+    {
+      "file": "governor-1886-PA.html",
+      "sha256": "829d5f8c46a07dd01e3e1c5262e0cc1b2843d53d4a362e67dd8904b849003dfa",
+      "bytes": 292820
+    },
+    {
+      "file": "governor-1886-RI.html",
+      "sha256": "1d701701ec9bf793160eda037ce8854a5127863b94a14a334403e48e7aa2bd7b",
+      "bytes": 223845
+    },
+    {
+      "file": "governor-1886-SC.html",
+      "sha256": "daafa2e9e4cf1132907a5ad4fc7c907f0328c288b8e79922920ebe04b2d1bd40",
+      "bytes": 332089
+    },
+    {
+      "file": "governor-1886-TN.html",
+      "sha256": "939bc9ac07ae0eb441e7fb082505f53277685e517d33ac2fb6b6cc1c1f6819d0",
+      "bytes": 222034
+    },
+    {
+      "file": "governor-1886-TX.html",
+      "sha256": "e948c984b4002a4384fab6f3e046c63f9e9c772605638ebdec5220634e521372",
+      "bytes": 417469
+    },
+    {
+      "file": "governor-1886-VT.html",
+      "sha256": "f9cd46b94830fe908e8b4f88578d2a84f3a9bb622d836708bab0eb1b7a310114",
+      "bytes": 209366
+    },
+    {
+      "file": "governor-1886-WI.html",
+      "sha256": "596c80def4b550ebc0c7e19a5a31a0950ca65fa2277eced361e5d07734622c45",
+      "bytes": 730370
+    },
+    {
+      "file": "wiki-governor-1802.html",
+      "sha256": "17e8339e4894bc16910077ff93d2ce4791e5ad0786547e78ed849fdca1190a3c",
+      "bytes": 403309
+    },
+    {
+      "file": "wiki-governor-1806.html",
+      "sha256": "d469f0ff71b0ce879200aa5af38cc99b9faedd0ace344f5037e8233c90ac6cc3",
+      "bytes": 315680
+    },
+    {
+      "file": "wiki-governor-1810.html",
+      "sha256": "359b9b81b8664a5f4758f49407abdef9a488c9f4d57b08cd32bc7db382d88445",
+      "bytes": 386246
+    },
+    {
+      "file": "wiki-governor-1862.html",
+      "sha256": "53a635704a616aff935a460eb3a9ea2fc4c4ebc55d348e0aad1ce8e41b57c855",
+      "bytes": 176039
+    },
+    {
+      "file": "wiki-governor-1890.html",
+      "sha256": "07e352c4c8e1da45cdae162bdaeaa277fff3873bb605e1cdea1fbda8736b69be",
+      "bytes": 338209
+    },
+    {
+      "file": "wiki-governor-1894.html",
+      "sha256": "c6b1387a0f043d4c47ef9072f539159760e50d3cc87504662ca979e01af21c7d",
+      "bytes": 389749
+    },
+    {
+      "file": "wiki-governor-1898.html",
+      "sha256": "783a0507ff466ed5c6f73375888eaf7e05ac209931237752214ca1a58298f67d",
+      "bytes": 310645
+    },
+    {
+      "file": "wiki-governor-1902.html",
+      "sha256": "c375cfe2e146bc2816abc32bbc37fed132aa519ba44a3b13012028ccce04dec1",
+      "bytes": 276144
+    },
+    {
+      "file": "wiki-governor-1906.html",
+      "sha256": "c434d4dcd28f4e3846931c93409253543556097cd92cf717acc772d9367f760b",
+      "bytes": 303714
+    },
+    {
+      "file": "wiki-governor-1910.html",
+      "sha256": "140c35e06d32447208be727be9eab00c8b5f12f4de435ac76a61e08fad5afe98",
+      "bytes": 333585
+    },
+    {
+      "file": "wiki-governor-1914.html",
+      "sha256": "200640a0d013e7db00173d38b2dec3d649cdc3e4d9d110fa5b22d86d4a472676",
+      "bytes": 316385
+    },
+    {
+      "file": "wiki-governor-1918.html",
+      "sha256": "af817d4a319e402702b5dda788c47e367a04114775a91dcbb08cdcf334cd3a21",
+      "bytes": 315466
+    },
+    {
+      "file": "wiki-governor-1922.html",
+      "sha256": "ec8c7cde5004c72bae62a47df5282a3eacf6b949f186bfeea21f5ead9c90ac98",
+      "bytes": 329779
+    },
+    {
+      "file": "wiki-governor-1926.html",
+      "sha256": "8208a45279998b1650b0e5bf40e8c9a963fd364a630ec98758534485cb7be836",
+      "bytes": 315879
+    },
+    {
+      "file": "wiki-governor-1930.html",
+      "sha256": "c28072567ed8e0bf56406261bfc4409c0adb63b00fb78842c9ee3616ff4546ce",
+      "bytes": 317530
+    },
+    {
+      "file": "wiki-governor-1934.html",
+      "sha256": "070e7e47d107114d9c6c9d62883fdf23be70499a425e126dcf766ab38aae2e8e",
+      "bytes": 324608
+    },
+    {
+      "file": "wiki-governor-1938.html",
+      "sha256": "a5ff48776413f8ce1fd1923053c502fee322d2ab47746221fa4a57df7d574991",
+      "bytes": 320446
+    },
+    {
+      "file": "wiki-governor-1942.html",
+      "sha256": "571e649178ca0a4889bc7055f259a71da0b2ac457ecd3f95fb5714d968080d59",
+      "bytes": 398310
+    },
+    {
+      "file": "wiki-governor-1946.html",
+      "sha256": "57608617e12db2943aa8dd318b2b81ce1b91b8cc7ca56bfe3930b5fe3456ac4c",
+      "bytes": 409287
+    },
+    {
+      "file": "wiki-governor-1950.html",
+      "sha256": "0584686be597e73d1211101b66f3396bf0d62732ed6ec5f55f367c25e611ec8f",
+      "bytes": 399471
+    },
+    {
+      "file": "wiki-governor-1954.html",
+      "sha256": "c57097b5b2edd363516ec686445a934fcff51d4631ca1625c703980d6dde9f18",
+      "bytes": 414137
+    },
+    {
+      "file": "wiki-governor-1958.html",
+      "sha256": "f977ca90789ed3382cf712ecbc529b9e3e9b79f9e2f16dcb20d6363d3a0b36b1",
+      "bytes": 412308
+    },
+    {
+      "file": "wiki-governor-1962.html",
+      "sha256": "1f9b8db686a377b1405d122c1fa4acda668815fbc12692a8c409f2bdc1ddc030",
+      "bytes": 400744
+    },
+    {
+      "file": "wiki-governor-1966.html",
+      "sha256": "34a37fcc26ee5303d4f26e57db5e5e52df802c63940a9836e7622bac946ff8eb",
+      "bytes": 448421
+    },
+    {
+      "file": "wiki-governor-1970.html",
+      "sha256": "f935d5086cf4c4104829df9373df52159c5a81d5c4d3e756ec61103993da18d7",
+      "bytes": 999824
+    },
+    {
+      "file": "wiki-governor-1974.html",
+      "sha256": "59b50543d59da9c978d1dfc3d54b4f970a43f32178e587b801e7d880e5d0f748",
+      "bytes": 1015006
+    },
+    {
+      "file": "wiki-governor-1978.html",
+      "sha256": "9e529c38867e07a4e0d229b0d888b440a164b79f5f883587b2bc0375ee727406",
+      "bytes": 953034
+    },
+    {
+      "file": "wiki-governor-1982.html",
+      "sha256": "03811160f552c8e58cf23719e4920196759a8af4287a93a23130dbf3ca50eacc",
+      "bytes": 945979
+    },
+    {
+      "file": "wiki-governor-1986.html",
+      "sha256": "2060b234e47a6df91bbbd5acb244324c7ae2e8a7096c1e3ef103b6bdfc48f57f",
+      "bytes": 966047
+    },
+    {
+      "file": "wiki-governor-1990.html",
+      "sha256": "c5054657c9a56779f212a299539512558cf96489f6ca43926369f7c1c6876d6e",
+      "bytes": 1048979
+    },
+    {
+      "file": "wiki-governor-1994.html",
+      "sha256": "3e0c77c31a8fdc445a9359449218f25fd149661a9cd9f964416fc7bad22f098c",
+      "bytes": 1072384
+    },
+    {
+      "file": "wiki-governor-1998.html",
+      "sha256": "f7843f5287a568db87aa33f1d09aa97d7ecf8e2cf895e6c32b6af8e755057340",
+      "bytes": 1071133
+    },
+    {
+      "file": "wiki-governor-2002.html",
+      "sha256": "e058be7e0f4f19ee39e19ab68bee20dc879e292491130cb1213b26c86728d5d2",
+      "bytes": 1207860
+    },
+    {
+      "file": "wiki-governor-2006.html",
+      "sha256": "6f8eefb886edd70839a0ffad05adafca154efba0c11f2ca4ec54fca9b113895d",
+      "bytes": 1583955
+    },
+    {
+      "file": "wiki-governor-2010.html",
+      "sha256": "517a9916455b0cb1cd73a59de9b602111b1c9a864d76b8ccc9939525b5a2463b",
+      "bytes": 1823463
+    },
+    {
+      "file": "wiki-governor-2014.html",
+      "sha256": "aefe548bffac72db914111ea2d9c6d124a430753f5eec75addf7d81372a2087d",
+      "bytes": 2012067
+    },
+    {
+      "file": "wiki-governor-2018.html",
+      "sha256": "30e703caafeb7b6caca32ef1021f9d4aa521d335002063b53bf28de7688c81d3",
+      "bytes": 2488729
+    },
+    {
+      "file": "wiki-governor-2022.html",
+      "sha256": "6dbd3472f58d55bba407d1d76568706337670d53412319582a39483fab34ff44",
+      "bytes": 2616897
+    },
+    {
+      "file": "wiki-senate-1790.html",
+      "sha256": "bbd87187e78b38484f5eebc40cd448a33614f848103eb58d42c35febd875fa57",
+      "bytes": 405745
+    },
+    {
+      "file": "wiki-senate-1794.html",
+      "sha256": "fab46b223eedac90ad151685eac9e1cbed025f821f6c28f9540b090410538512",
+      "bytes": 409215
+    },
+    {
+      "file": "wiki-senate-1798.html",
+      "sha256": "63b406c1071ebbf10c81e68a951c967ac7830c2151682701a53e6dfa0e4e34d6",
+      "bytes": 357297
+    },
+    {
+      "file": "wiki-senate-1802.html",
+      "sha256": "adfaa96b8c1bd02036436654b2c134628bec5b9c7dd8ff0e8a855fd504f88f76",
+      "bytes": 489926
+    },
+    {
+      "file": "wiki-senate-1806.html",
+      "sha256": "b3ddfcf7f04d2d47b94af90c5da069997d95cf672a7d5cfa19c7a1bbe7d8dc72",
+      "bytes": 456326
+    },
+    {
+      "file": "wiki-senate-1810.html",
+      "sha256": "27a16b6776185dae0a0478d5fd7d8bb77a51a0a0c3c284b583aba497e0873a8a",
+      "bytes": 490438
+    },
+    {
+      "file": "wiki-senate-1814.html",
+      "sha256": "64cf9420562e1bdd118cf531fe805e656bd7c6b52df3d1b00f020fac12009535",
+      "bytes": 467366
+    },
+    {
+      "file": "wiki-senate-1818.html",
+      "sha256": "bd3d83f859ffdba7c428e8f1a4f39226ee616cfae8427acc822e26b8c8273913",
+      "bytes": 569231
+    },
+    {
+      "file": "wiki-senate-1822.html",
+      "sha256": "10619f1096dc474d81ac525abad08fae3bbbaa23700d79dce8a351594b3a4556",
+      "bytes": 490881
+    },
+    {
+      "file": "wiki-senate-1826.html",
+      "sha256": "bff69cf76414f9cc3adb7056e227d62a078359ba21d3f1c60e98517599b7b458",
+      "bytes": 516702
+    },
+    {
+      "file": "wiki-senate-1830.html",
+      "sha256": "b620355c51d4440a76aa849cee39f861bc251b5cf1765063630faf50d3cb46d3",
+      "bytes": 553356
+    },
+    {
+      "file": "wiki-senate-1834.html",
+      "sha256": "08135c720e1f5b2c44bfcc00cdacc76b41460675a05b4b51c5f57ad8e816a157",
+      "bytes": 487533
+    },
+    {
+      "file": "wiki-senate-1838.html",
+      "sha256": "a5cd01ae0b7f2156525f481ceced23b4381c5ef4d80f0eb047a854ed649e6c46",
+      "bytes": 499295
+    },
+    {
+      "file": "wiki-senate-1842.html",
+      "sha256": "2648d3650d79e2e6eeb8164cd89d61a3f33a7c721f3713d0b80e695cc3754516",
+      "bytes": 471574
+    },
+    {
+      "file": "wiki-senate-1846.html",
+      "sha256": "c73497355bed810e8541e8307815841410f14a7bf9854c8f6dce278d93b13f16",
+      "bytes": 451100
+    },
+    {
+      "file": "wiki-senate-1850.html",
+      "sha256": "732a98a762195bda19e4f2be55d0bdcf4cc6d28e0b00b60609d2e2b80844633a",
+      "bytes": 555042
+    },
+    {
+      "file": "wiki-senate-1854.html",
+      "sha256": "2a5dc321c7a97633db6e0af5bba727f9ea1b319a5151b6ec16f26df56af611dd",
+      "bytes": 505208
+    },
+    {
+      "file": "wiki-senate-1858.html",
+      "sha256": "ee1cb835170f8282b843ce8020a2985dca0b3bae4508b8a01d9d8292286b91b5",
+      "bytes": 410237
+    },
+    {
+      "file": "wiki-senate-1862.html",
+      "sha256": "68122f8dd703c837df6c07e9467a68cb7e2fd43b8c5aedd10db75238d9eacbeb",
+      "bytes": 1400471
+    },
+    {
+      "file": "wiki-senate-1866.html",
+      "sha256": "c21543c243ad3e88d0ff7e7e0039a1e2ac094e05a917dbceea0d54496d69c9a8",
+      "bytes": 597334
+    },
+    {
+      "file": "wiki-senate-1870.html",
+      "sha256": "ac18f0a3ac0805d91fe7e73a5320a7b07dd69ea9e90a4687942d1e040fbd8371",
+      "bytes": 650317
+    },
+    {
+      "file": "wiki-senate-1874.html",
+      "sha256": "dcb90b1a8bee118d348a6767e6929bde68a68e071ead0da55afd98eb9b736cbf",
+      "bytes": 673049
+    },
+    {
+      "file": "wiki-senate-1878.html",
+      "sha256": "c24bb4c24060ffbeaeebff68ceafa8726a960b081da18e0767f0427976c4e38d",
+      "bytes": 480156
+    },
+    {
+      "file": "wiki-senate-1882.html",
+      "sha256": "aaacb55c746fd6b1c2e94d12eb8d39c08a0ec2985f4937b9cb7fcba981a0f402",
+      "bytes": 492688
+    },
+    {
+      "file": "wiki-senate-1886.html",
+      "sha256": "5d31b30fb03fdcfd4c07c8ef288e082ef6dcea1441190befe66153d72bc1dd21",
+      "bytes": 583653
+    },
+    {
+      "file": "wiki-senate-1890.html",
+      "sha256": "5bc08fd1580a3a404846e0385865d25887678cce6bdda52d60ead582db53d553",
+      "bytes": 565131
+    },
+    {
+      "file": "wiki-senate-1894.html",
+      "sha256": "deea9b11ba4e867ac6eeb013005f94e17592d65dbd4a51cc60f53297b5f7156f",
+      "bytes": 819902
+    },
+    {
+      "file": "wiki-senate-1898.html",
+      "sha256": "94a256693e03df6d10730ed0eb43025fd53a7f43a75a5fbc29a0e86e6edbd826",
+      "bytes": 744936
+    },
+    {
+      "file": "wiki-senate-1902.html",
+      "sha256": "2346f89dec6510f4ee5603e1dc24d7b1f886165c9339cfc300e6bcd2239a0085",
+      "bytes": 853020
+    },
+    {
+      "file": "wiki-senate-1906.html",
+      "sha256": "45b699891a93ef8d0c744bec8a5c9fb45c599518b9409aaa23d5ff0a60a6cc40",
+      "bytes": 884249
+    },
+    {
+      "file": "wiki-senate-1910.html",
+      "sha256": "69bcafd29765ecdbf63bd81432a7515f8d8766654f9193c5cbff609fecb2994d",
+      "bytes": 971043
+    },
+    {
+      "file": "wiki-senate-1914.html",
+      "sha256": "bcaba64ad00dd71c96775b7316bace9b055fca1fa68be042055e519ba615c1de",
+      "bytes": 1556266
+    },
+    {
+      "file": "wiki-senate-1918.html",
+      "sha256": "4f6a9e9db31b26f2d65f3c37f5d0e9912299a2efb5364f509e9dc1dcae06dca9",
+      "bytes": 1350033
+    },
+    {
+      "file": "wiki-senate-1922.html",
+      "sha256": "0874d65726e01e6275793dc23d90dc23bacd63c2867266a6553b1e7a03e9adb5",
+      "bytes": 1372112
+    },
+    {
+      "file": "wiki-senate-1926.html",
+      "sha256": "0161f6eb182d82b2b81c5c139e411cef934cd891a8d258b006de33086dc67e1a",
+      "bytes": 1472672
+    },
+    {
+      "file": "wiki-senate-1930.html",
+      "sha256": "6cd57f8ff570cd2ec62f85a3f84defe63b775e56e7b98d2d0672f8f0dab29762",
+      "bytes": 1438450
+    },
+    {
+      "file": "wiki-senate-1934.html",
+      "sha256": "155bfbe0e7c31cdf92a84833471af71e3d00017a9899679fdbb41b50294e8fdf",
+      "bytes": 1426717
+    },
+    {
+      "file": "wiki-senate-1938.html",
+      "sha256": "c36ab341a65a2feb2ac829d235dbe5955ee8377ddec1e7bf1800d9e1853fdc3f",
+      "bytes": 1437587
+    },
+    {
+      "file": "wiki-senate-1942.html",
+      "sha256": "c245e5750dcbc8942df684164b498dd5881e10b0ed15b6f0b266174ec59173a3",
+      "bytes": 1403267
+    },
+    {
+      "file": "wiki-senate-1946.html",
+      "sha256": "b31d5da4fd8008f1825bef17d23b2a58840cf8850a0faf7cc132285cd762bb5b",
+      "bytes": 1553534
+    },
+    {
+      "file": "wiki-senate-1950.html",
+      "sha256": "bcc591f10d08a1243288280cb4fa4c01ebcebb8a56f1a574cfcc19c51fa60fcf",
+      "bytes": 1487350
+    },
+    {
+      "file": "wiki-senate-1954.html",
+      "sha256": "7618c84d24d5192fdd48a5a812fcc4be6f69a1962e8769d0ef7b25594688b741",
+      "bytes": 1584325
+    },
+    {
+      "file": "wiki-senate-1958.html",
+      "sha256": "5838814136cfb077bbed758aca1a216e9908f8255a3033214e2876bdf032bb14",
+      "bytes": 1596413
+    },
+    {
+      "file": "wiki-senate-1962.html",
+      "sha256": "7750a3b3a4a8634a8ee110ed36c75a342f3de9fdabb39395c8e31b172783702c",
+      "bytes": 1560944
+    },
+    {
+      "file": "wiki-senate-1966.html",
+      "sha256": "9f5cb9788a86ad0e8d1d8e36f712f29a7225d8b1d28361200a078e6f682c7258",
+      "bytes": 1503453
+    },
+    {
+      "file": "wiki-senate-1970.html",
+      "sha256": "f64c7b4cddebfcfa1999b5fcb2c0356fc296323c4ca2e924b6f13966e73446b3",
+      "bytes": 1563692
+    },
+    {
+      "file": "wiki-senate-1974.html",
+      "sha256": "1b07ec5d84ffa6c4c82209cc01cbfb51ca36943bac518cc90bc0f8cb44e6e4ce",
+      "bytes": 1659672
+    },
+    {
+      "file": "wiki-senate-1978.html",
+      "sha256": "4b10ee8ad1a5dc664be13889e25369eacef0c6955cce82fc6e620ee3ba68ac40",
+      "bytes": 1591546
+    },
+    {
+      "file": "wiki-senate-1982.html",
+      "sha256": "903ae53ae45476bdf593a5740b297abd259b61fdc90dc75f95a9ca41c6f87623",
+      "bytes": 1475078
+    },
+    {
+      "file": "wiki-senate-1986.html",
+      "sha256": "1083b7cad4b656d4ffab628b78edd497965467b2b5b93603695c2e0eb16e6408",
+      "bytes": 1678203
+    },
+    {
+      "file": "wiki-senate-1990.html",
+      "sha256": "fbbc92bf211e67334a86ef6c9b784f4ce79b14f745213dcb74415b00a737d7dc",
+      "bytes": 1546102
+    },
+    {
+      "file": "wiki-senate-1994.html",
+      "sha256": "2bbfca9b1ebbd9b0942fec69c99a06318c1e7665a2f3cb85e85f9634d0179ade",
+      "bytes": 1823020
+    },
+    {
+      "file": "wiki-senate-1998.html",
+      "sha256": "6e82f34acbfa4224a415efc15441b4ce045ff601a3f7927e7d5bffc41ebfa2b8",
+      "bytes": 1702183
+    },
+    {
+      "file": "wiki-senate-2002.html",
+      "sha256": "5dc391aff8019749551371e7da1c9a004fe7c98688d35720ebba0f9efed62e71",
+      "bytes": 1972855
+    },
+    {
+      "file": "wiki-senate-2006.html",
+      "sha256": "a5b2f3e4fc3cdf685fec5ccd9c77d8e732bc775dd752d6e950d913d64c8518e6",
+      "bytes": 2461817
+    },
+    {
+      "file": "wiki-senate-2010.html",
+      "sha256": "b596f99b09a7a7533db361fd45c57666f8db6d4cb6b358c4a171a4685b79a235",
+      "bytes": 2743490
+    },
+    {
+      "file": "wiki-senate-2014.html",
+      "sha256": "a48120d506d8c3b4f2934227a9fbecc7e13a1bca084030f8a531ac860c3caaba",
+      "bytes": 2620689
+    },
+    {
+      "file": "wiki-senate-2018.html",
+      "sha256": "c8906853b050a7315f6d4816c605b071ed811cbff75a76a1facc882192311240",
+      "bytes": 2452515
+    },
+    {
+      "file": "wiki-senate-2022.html",
+      "sha256": "8981f4deb64871189fcdc915fa081fbe5cf193d9c11ee916540ab626f0cf9929",
+      "bytes": 2938231
+    }
+  ],
+  "records": 177,
+  "races": 3336,
+  "warnings": []
+}
