@@ -1,0 +1,1456 @@
+[
+  {
+    "id": "world-cn-npc-1954",
+    "countryId": "cn",
+    "title": "National People’s Congress · 1st term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1954-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 1th NPC cycle is recorded with 1,226 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 1226,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 1226,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-1954"
+    ]
+  },
+  {
+    "id": "world-cn-npc-1959",
+    "countryId": "cn",
+    "title": "National People’s Congress · 2nd term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1959-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 2th NPC cycle is recorded with 1,226 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 1226,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 1226,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nThe cited NBS series reports 1,226 deputies for this cycle. Some later lists use a different total; our figure is explicitly tied to this statistical series rather than treating all published totals as interchangeable.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-1959"
+    ]
+  },
+  {
+    "id": "world-cn-npc-1964",
+    "countryId": "cn",
+    "title": "National People’s Congress · 3rd term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1964-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 3th NPC cycle is recorded with 3,040 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 3040,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 3040,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nThe third NPC’s first session continued into January 1965, when it re-elected Liu Shaoqi president. That selection has a separate 1965 presidential record.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-1965"
+    ]
+  },
+  {
+    "id": "world-cn-npc-1975",
+    "countryId": "cn",
+    "title": "National People’s Congress · 4th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1975-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The fourth NPC was constituted with 2,885 deputies selected by consultation during the Cultural Revolution. This was not an ordinary election under the electoral law.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2885,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Membership after selection by consultation; no competitive party ballot",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2885,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "NPC news: deputy credentials history, including consultation in 1975 and validated 1988 membership",
+        "url": "https://npc.people.com.cn/n/2015/0120/c14576-26415070.html"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nNPC historical reporting states that fourth-term deputies were chosen through consultation rather than election. The indirect-method category identifies a non-popular institutional selection and does not assert that ordinary electoral procedures were followed.\n\nThe 1975 and 1978 constitutions did not provide for the state presidency. The office was restored in the 1982 Constitution; no presidential selection is invented for this cycle.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": []
+  },
+  {
+    "id": "world-cn-npc-1978",
+    "countryId": "cn",
+    "title": "National People’s Congress · 5th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1978-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 5th NPC cycle is recorded with 3,497 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 3497,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 3497,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nThe 1975 and 1978 constitutions did not provide for the state presidency. The office was restored in the 1982 Constitution; no presidential selection is invented for this cycle.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": []
+  },
+  {
+    "id": "world-cn-npc-1983",
+    "countryId": "cn",
+    "title": "National People’s Congress · 6th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1983-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 6th NPC cycle is recorded with 2,978 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2978,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2978,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-1983"
+    ]
+  },
+  {
+    "id": "world-cn-npc-1988",
+    "countryId": "cn",
+    "title": "National People’s Congress · 7th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1988-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 7th NPC cycle is recorded with 2,970 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2970,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2970,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      },
+      {
+        "label": "NPC news: deputy credentials history, including consultation in 1975 and validated 1988 membership",
+        "url": "https://npc.people.com.cn/n/2015/0120/c14576-26415070.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nThe credential review initially validated 2,970 deputies against a quota of 2,978; five of 2,975 initially selected deputies failed the statutory vote requirement. Later supplementary selections are not added to this initial total.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-1988"
+    ]
+  },
+  {
+    "id": "world-cn-npc-1993",
+    "countryId": "cn",
+    "title": "National People’s Congress · 8th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1993-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 8th NPC cycle is recorded with 2,978 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2978,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2978,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-1993"
+    ]
+  },
+  {
+    "id": "world-cn-npc-1998",
+    "countryId": "cn",
+    "title": "National People’s Congress · 9th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "1998-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 9th NPC cycle is recorded with 2,979 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2979,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2979,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-1998"
+    ]
+  },
+  {
+    "id": "world-cn-npc-2003",
+    "countryId": "cn",
+    "title": "National People’s Congress · 10th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "2003-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 10th NPC cycle is recorded with 2,984 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2984,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2984,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-2003"
+    ]
+  },
+  {
+    "id": "world-cn-npc-2008",
+    "countryId": "cn",
+    "title": "National People’s Congress · 11th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "2008-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 11th NPC cycle is recorded with 2,987 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2987,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2987,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "National Bureau of Statistics: 2011 yearbook, table 23-1, historical NPC deputy totals",
+        "url": "https://www.stats.gov.cn/sj/ndsj/2011/html/W2301e.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-2008"
+    ]
+  },
+  {
+    "id": "world-cn-npc-2013",
+    "countryId": "cn",
+    "title": "National People’s Congress · 12th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "2013-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 12th NPC cycle is recorded with 2,987 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2987,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2987,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Xinhua: authorized list of 2,987 deputies to the 12th NPC",
+        "url": "https://www.xinhuanet.com/2013lh/2013-02/27/c_114824100.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nDeputy selection for this cycle spanned late 2012 and early 2013; the archive indexes the resulting NPC by 2013.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-2013"
+    ]
+  },
+  {
+    "id": "world-cn-npc-2018",
+    "countryId": "cn",
+    "title": "National People’s Congress · 13th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "2018-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 13th NPC cycle is recorded with 2,980 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2980,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2980,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC Standing Committee: 2,980 validated deputies to the 13th NPC",
+        "url": "https://www.gov.cn/xinwen/2018-02/24/content_5268520.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nDeputy selection for this cycle spanned late 2017 and early 2018; the archive indexes the resulting NPC by 2018.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-2018"
+    ]
+  },
+  {
+    "id": "world-cn-npc-2023",
+    "countryId": "cn",
+    "title": "National People’s Congress · 14th term",
+    "type": "parliamentary",
+    "body": "National People’s Congress",
+    "startDate": "2023-01-01",
+    "endDate": "",
+    "precision": "year",
+    "dateStatus": "expected",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-npc",
+    "snap": false,
+    "summary": "The 14th NPC cycle is recorded with 2,977 deputies in the cited institutional series. This is a national legislature membership record, not a competitive nationwide party vote.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": 2977,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "Reported NPC deputy membership; party affiliations and selection ballots not tabulated",
+    "results": [
+      {
+        "id": "npc-deputies",
+        "name": "Deputies — party affiliation not tabulated",
+        "party": "",
+        "color": "#8993a2",
+        "votes": null,
+        "share": null,
+        "seats": 2977,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC Standing Committee: 2,977 validated deputies to the 14th NPC",
+        "url": "https://paper.people.com.cn/rmrb/html/2023-02/25/nw.D110000renmrb_20230225_4-03.htm"
+      },
+      {
+        "label": "NPC: national legislature structure and indirect electoral bodies",
+        "url": "https://en.npc.gov.cn.cdurl.cn/2023-03/10/c_670999.htm"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe date is an archive cycle year, generally the year the new NPC first convened. Deputy selection takes place across different bodies and can start in the preceding year; 1 January is a storage anchor, not an election day. Membership totals follow the cited historical series through 2008 and the initial validated deputy lists for 2013–2023. They are not attendance totals, maximum quotas or the current membership after later vacancies and replacements.\n\nParty-level composition and nationwide selection ballot totals have not been verified for this record. The grey membership category represents unclassified deputies, not a political party, independents, an opposition bloc or a shared ideology. No popular vote share or popular turnout is inferred.\n\nDeputy selection for this cycle spanned late 2022 and early 2023; the archive indexes the resulting NPC by 2023.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-president-2023"
+    ]
+  },
+  {
+    "id": "world-cn-president-1954",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "1954-09-27",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Mao Zedong was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "mao-zedong",
+        "name": "Mao Zedong",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC announcement of 1954: original selection declaration, transcribed at Wikisource",
+        "url": "https://zh.wikisource.org/wiki/中华人民共和国全国人民代表大会公告/1954年"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe cited sources verify the elected officeholder and selection date. A complete presidential ballot tally has not been verified for this record; approval, opposition, abstention, write-in and invalid figures are therefore left unentered.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-1954"
+    ]
+  },
+  {
+    "id": "world-cn-president-1959",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "1959-04-27",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Liu Shaoqi was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "liu-shaoqi",
+        "name": "Liu Shaoqi",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC announcement of 1959: original selection declaration, transcribed at Wikisource",
+        "url": "https://zh.wikisource.org/wiki/中华人民共和国全国人民代表大会公告/1959年"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe cited sources verify the elected officeholder and selection date. A complete presidential ballot tally has not been verified for this record; approval, opposition, abstention, write-in and invalid figures are therefore left unentered.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-1959"
+    ]
+  },
+  {
+    "id": "world-cn-president-1965",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "1965-01-03",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Liu Shaoqi was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "liu-shaoqi",
+        "name": "Liu Shaoqi",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC announcement of 1965: original selection declaration, transcribed at Wikisource",
+        "url": "https://zh.wikisource.org/wiki/中华人民共和国全国人民代表大会公告/1965年"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe cited sources verify the elected officeholder and selection date. A complete presidential ballot tally has not been verified for this record; approval, opposition, abstention, write-in and invalid figures are therefore left unentered.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-1964"
+    ]
+  },
+  {
+    "id": "world-cn-president-1983",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "1983-06-18",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Li Xiannian was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "li-xiannian",
+        "name": "Li Xiannian",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC announcement of 1983: original selection declaration, transcribed at Wikisource",
+        "url": "https://zh.wikisource.org/wiki/中华人民共和国全国人民代表大会公告/1983年"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe cited sources verify the elected officeholder and selection date. A complete presidential ballot tally has not been verified for this record; approval, opposition, abstention, write-in and invalid figures are therefore left unentered.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-1983"
+    ]
+  },
+  {
+    "id": "world-cn-president-1988",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "1988-04-08",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Yang Shangkun was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "yang-shangkun",
+        "name": "Yang Shangkun",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC announcement of 1988: original selection declaration, transcribed at Wikisource",
+        "url": "https://zh.wikisource.org/wiki/中华人民共和国全国人民代表大会公告/1988年"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe cited sources verify the elected officeholder and selection date. A complete presidential ballot tally has not been verified for this record; approval, opposition, abstention, write-in and invalid figures are therefore left unentered.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-1988"
+    ]
+  },
+  {
+    "id": "world-cn-president-1993",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "1993-03-27",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Jiang Zemin was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "jiang-zemin",
+        "name": "Jiang Zemin",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Yantian government historical archive: Jiang Zemin elected on 27 March 1993",
+        "url": "https://www.yantian.gov.cn/ytdayszxxw/lsjt/content/post_11737171.html"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe cited sources verify the elected officeholder and selection date. A complete presidential ballot tally has not been verified for this record; approval, opposition, abstention, write-in and invalid figures are therefore left unentered.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-1993"
+    ]
+  },
+  {
+    "id": "world-cn-president-1998",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "1998-03-16",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Jiang Zemin was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "jiang-zemin",
+        "name": "Jiang Zemin",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": null,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC announcement of 1998: original selection declaration, transcribed at Wikisource",
+        "url": "https://zh.wikisource.org/wiki/中华人民共和国全国人民代表大会公告/1998年"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe cited sources verify the elected officeholder and selection date. A complete presidential ballot tally has not been verified for this record; approval, opposition, abstention, write-in and invalid figures are therefore left unentered.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-1998"
+    ]
+  },
+  {
+    "id": "world-cn-president-2003",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "2003-03-15",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Hu Jintao was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "hu-jintao",
+        "name": "Hu Jintao",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": 2937,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "China Daily: contemporary report of Hu Jintao’s election, 15 March 2003",
+        "url": "https://www.chinadaily.com.cn/en/doc/2003-03/15/content_158115.htm"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      },
+      {
+        "label": "VOA: contemporary presidential count, 2,937 approvals and seven opposition or abstention ballots",
+        "url": "https://www.voachinese.com/a/a-21-a-2003-03-15-5-1-63308907/982908.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nContemporary reporting records 2,937 presidential approval ballots. Seven ballots were reported together as opposition or abstention; no split is inferred. Approval share is left unentered because a complete denominator including write-ins and invalid ballots has not been verified. Session attendance is not substituted for ballots cast.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-2003"
+    ]
+  },
+  {
+    "id": "world-cn-president-2008",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "2008-03-15",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Hu Jintao was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "hu-jintao",
+        "name": "Hu Jintao",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": 2956,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Xinhua / China Daily: NPC elects leaders, 15 March 2008",
+        "url": "https://www.chinadaily.com.cn/china/2008npc/2008-03/15/content_6539344.htm"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      },
+      {
+        "label": "Reuters / Der Standard: contemporary count, 2,956 approvals, three against, five abstentions",
+        "url": "https://www.derstandard.at/story/3265923/staats-und-regierungsspitze-vom-volkskongress-bestaetigt"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nContemporary reporting records 2,956 presidential approval ballots. 3 against and 5 abstentions were also reported. Approval share is left unentered because a complete denominator including write-ins and invalid ballots has not been verified. Session attendance is not substituted for ballots cast.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-2008"
+    ]
+  },
+  {
+    "id": "world-cn-president-2013",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "2013-03-14",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Xi Jinping was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "xi-jinping",
+        "name": "Xi Jinping",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": 2952,
+        "share": null,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC: selection of Xi Jinping on 14 March 2013",
+        "url": "https://www.npc.gov.cn/zgrdw/englishnpc/news/Events/2013-03/15/content_1784435.htm"
+      },
+      {
+        "label": "People’s Daily / CPC: state-presidency history and officeholders",
+        "url": "https://cpc.people.com.cn/daohang/n/2013/0307/c357001-20703935.html"
+      },
+      {
+        "label": "VOA: contemporary presidential count, 2,952 approvals, one against, three abstentions",
+        "url": "https://www.voachinese.com/a/xi-jinping-china-20130315/1622057.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nContemporary reporting records 2,952 presidential approval ballots. 1 against and 3 abstentions were also reported. Approval share is left unentered because a complete denominator including write-ins and invalid ballots has not been verified. Session attendance is not substituted for ballots cast.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-2013"
+    ]
+  },
+  {
+    "id": "world-cn-president-2018",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "2018-03-17",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Xi Jinping was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "xi-jinping",
+        "name": "Xi Jinping",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": 2970,
+        "share": 100,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "Xinhua: live NPC transcript, 2,970 presidential approval ballots",
+        "url": "https://www.xinhuanet.com/politics/2018lh/zb/gov_20180317a/wzsl.htm"
+      },
+      {
+        "label": "Supreme People’s Procuratorate / Xinhua: unanimous presidential selection",
+        "url": "https://www.spp.gov.cn/spp/zdgz/201803/t20180318_371226.shtml"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe official report records 2,970 presidential ballots, all approving Xi Jinping. Approval share is 100% of those NPC ballots. Votes against or abstentions, when present, are ballot categories rather than rival candidates. This is neither 100% support among the population nor a measure of political competition. Absent deputies are excluded from the ballot denominator.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-2018"
+    ]
+  },
+  {
+    "id": "world-cn-president-2023",
+    "countryId": "cn",
+    "title": "President · NPC selection",
+    "type": "presidential",
+    "body": "President of the People’s Republic of China",
+    "startDate": "2023-03-10",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "published",
+    "round": "Institutional selection",
+    "seriesId": "cn-president",
+    "snap": false,
+    "summary": "Xi Jinping was elected president of the People’s Republic of China by the National People’s Congress. This was an indirect state-office selection, not a nationwide popular presidential election.",
+    "government": "",
+    "turnout": null,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "NPC selection of the state president; any figures are approval ballots, not popular votes",
+    "results": [
+      {
+        "id": "xi-jinping",
+        "name": "Xi Jinping",
+        "party": "Communist Party of China",
+        "color": "#c63735",
+        "votes": 2952,
+        "share": 100,
+        "seats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyIds": []
+      }
+    ],
+    "sources": [
+      {
+        "label": "NPC / Xinhua: Xi Jinping unanimously elected president, 2,952 votes",
+        "url": "https://subsites.chinadaily.com.cn/npc/2023-03/11/c_868263.htm"
+      },
+      {
+        "label": "Ministry of Education / Xinhua: 2,952 ballots issued, returned and approved",
+        "url": "https://www.moe.gov.cn/jyb_xwfb/xw_zt/moe_357/2023/2023_zt02/yw/202303/t20230311_1050345.html"
+      }
+    ],
+    "checked": "2026-10-05",
+    "notes": "Our archive covers the national institutions of the People’s Republic of China. It does not include Republic of China elections or separate Hong Kong or Macao contests. National NPC totals retain the institution’s own delegations, including special administrative region delegations where applicable and its mainland-selected Taiwan delegation; this is not a record of elections conducted by Taiwan’s electorate.\n\nThe state presidency is distinct from the Communist Party general secretary, party chairman, NPC Standing Committee chair and Central Military Commission offices. Our table records the elected state president only, not simultaneous selections for those offices or for vice president. Mao’s 1949 selection as Central People’s Government chairman was a different office and is not relabelled as a presidential election.\n\nNo candidate-specific ideology attribution has been added without a reviewed source. Missing ballot figures are unknown, not zero. The country’s current legitimacy assessment is available on our country timeline and atlas; it is not backdated as an observer verdict on these historical selections.\n\nThe official report records 2,952 presidential ballots, all approving Xi Jinping. Approval share is 100% of those NPC ballots. Votes against or abstentions, when present, are ballot categories rather than rival candidates. This is neither 100% support among the population nor a measure of political competition. Absent deputies are excluded from the ballot denominator.",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "linkedElectionIds": [
+      "world-cn-npc-2023"
+    ]
+  }
+]

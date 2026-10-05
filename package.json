@@ -9,7 +9,7 @@
     "dev": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build && node scripts/build-public-pages.mjs",
     "preview": "vite preview --host 0.0.0.0",
-    "test": "node scripts/check-house-control.mjs && node scripts/check-publication.mjs && node scripts/check-senate.mjs && node scripts/check-world.mjs && node --test scripts/check-municipal-comparison.mjs scripts/check-us-presidential.mjs scripts/check-us-midterms.mjs && node --test scripts/check-routing.mjs scripts/check-seo.mjs scripts/check-moderator-access.mjs",
+    "test": "node scripts/check-house-control.mjs && node scripts/check-publication.mjs && node scripts/check-senate.mjs && node scripts/check-world.mjs && node scripts/check-china-elections.mjs && node --test scripts/check-municipal-comparison.mjs scripts/check-us-presidential.mjs scripts/check-us-midterms.mjs && node --test scripts/check-routing.mjs scripts/check-seo.mjs scripts/check-moderator-access.mjs",
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
