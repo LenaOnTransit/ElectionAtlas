@@ -1,0 +1,1043 @@
+{
+  "checked": "2026-10-05",
+  "elections": 60,
+  "first": "1788–89",
+  "last": 2024,
+  "audit": [
+    {
+      "year": 1789,
+      "winner": "George Washington",
+      "electors": 69,
+      "candidateVotes": 138,
+      "unallocated": 0,
+      "popularTotal": 0,
+      "candidates": 12
+    },
+    {
+      "year": 1792,
+      "winner": "George Washington",
+      "electors": 132,
+      "candidateVotes": 264,
+      "unallocated": 0,
+      "popularTotal": 0,
+      "candidates": 5
+    },
+    {
+      "year": 1796,
+      "winner": "John Adams",
+      "electors": 138,
+      "candidateVotes": 276,
+      "unallocated": 0,
+      "popularTotal": 0,
+      "candidates": 13
+    },
+    {
+      "year": 1800,
+      "winner": "Thomas Jefferson",
+      "electors": 138,
+      "candidateVotes": 276,
+      "unallocated": 0,
+      "popularTotal": 0,
+      "candidates": 5
+    },
+    {
+      "year": 1804,
+      "winner": "Thomas Jefferson",
+      "electors": 176,
+      "candidateVotes": 176,
+      "unallocated": 0,
+      "popularTotal": 0,
+      "candidates": 2
+    },
+    {
+      "year": 1808,
+      "winner": "James Madison",
+      "electors": 176,
+      "candidateVotes": 175,
+      "unallocated": 1,
+      "popularTotal": 0,
+      "candidates": 3
+    },
+    {
+      "year": 1812,
+      "winner": "James Madison",
+      "electors": 217,
+      "candidateVotes": 217,
+      "unallocated": 0,
+      "popularTotal": 0,
+      "candidates": 2
+    },
+    {
+      "year": 1816,
+      "winner": "James Monroe",
+      "electors": 221,
+      "candidateVotes": 217,
+      "unallocated": 4,
+      "popularTotal": 0,
+      "candidates": 2
+    },
+    {
+      "year": 1820,
+      "winner": "James Monroe",
+      "electors": 235,
+      "candidateVotes": 232,
+      "unallocated": 3,
+      "popularTotal": 0,
+      "candidates": 2
+    },
+    {
+      "year": 1824,
+      "winner": "John Quincy Adams",
+      "electors": 261,
+      "candidateVotes": 261,
+      "unallocated": 0,
+      "popularTotal": 365833,
+      "candidates": 5
+    },
+    {
+      "year": 1828,
+      "winner": "Andrew Jackson",
+      "electors": 261,
+      "candidateVotes": 261,
+      "unallocated": 0,
+      "popularTotal": 1148018,
+      "candidates": 3
+    },
+    {
+      "year": 1832,
+      "winner": "Andrew Jackson",
+      "electors": 288,
+      "candidateVotes": 286,
+      "unallocated": 2,
+      "popularTotal": 1293973,
+      "candidates": 5
+    },
+    {
+      "year": 1836,
+      "winner": "Martin Van Buren",
+      "electors": 294,
+      "candidateVotes": 294,
+      "unallocated": 0,
+      "popularTotal": 1503534,
+      "candidates": 6
+    },
+    {
+      "year": 1840,
+      "winner": "William Henry Harrison",
+      "electors": 294,
+      "candidateVotes": 294,
+      "unallocated": 0,
+      "popularTotal": 2411808,
+      "candidates": 3
+    },
+    {
+      "year": 1844,
+      "winner": "James K. Polk",
+      "electors": 275,
+      "candidateVotes": 275,
+      "unallocated": 0,
+      "popularTotal": 2703659,
+      "candidates": 3
+    },
+    {
+      "year": 1848,
+      "winner": "Zachary Taylor",
+      "electors": 290,
+      "candidateVotes": 290,
+      "unallocated": 0,
+      "popularTotal": 2879184,
+      "candidates": 4
+    },
+    {
+      "year": 1852,
+      "winner": "Franklin Pierce",
+      "electors": 296,
+      "candidateVotes": 296,
+      "unallocated": 0,
+      "popularTotal": 3161830,
+      "candidates": 4
+    },
+    {
+      "year": 1856,
+      "winner": "James Buchanan",
+      "electors": 296,
+      "candidateVotes": 296,
+      "unallocated": 0,
+      "popularTotal": 4054647,
+      "candidates": 4
+    },
+    {
+      "year": 1860,
+      "winner": "Abraham Lincoln",
+      "electors": 303,
+      "candidateVotes": 303,
+      "unallocated": 0,
+      "popularTotal": 4692538,
+      "candidates": 4
+    },
+    {
+      "year": 1864,
+      "winner": "Abraham Lincoln",
+      "electors": 233,
+      "candidateVotes": 233,
+      "unallocated": 0,
+      "popularTotal": 4030983,
+      "candidates": 3
+    },
+    {
+      "year": 1868,
+      "winner": "Ulysses S. Grant",
+      "electors": 294,
+      "candidateVotes": 294,
+      "unallocated": 0,
+      "popularTotal": 5722440,
+      "candidates": 3
+    },
+    {
+      "year": 1872,
+      "winner": "Ulysses S. Grant",
+      "electors": 352,
+      "candidateVotes": 349,
+      "unallocated": 3,
+      "popularTotal": 6470676,
+      "candidates": 7
+    },
+    {
+      "year": 1876,
+      "winner": "Rutherford B. Hayes",
+      "electors": 369,
+      "candidateVotes": 369,
+      "unallocated": 0,
+      "popularTotal": 8411618,
+      "candidates": 3
+    },
+    {
+      "year": 1880,
+      "winner": "James A. Garfield",
+      "electors": 369,
+      "candidateVotes": 369,
+      "unallocated": 0,
+      "popularTotal": 9220197,
+      "candidates": 3
+    },
+    {
+      "year": 1884,
+      "winner": "Grover Cleveland",
+      "electors": 401,
+      "candidateVotes": 401,
+      "unallocated": 0,
+      "popularTotal": 10058373,
+      "candidates": 3
+    },
+    {
+      "year": 1888,
+      "winner": "Benjamin Harrison",
+      "electors": 401,
+      "candidateVotes": 401,
+      "unallocated": 0,
+      "popularTotal": 11395083,
+      "candidates": 3
+    },
+    {
+      "year": 1892,
+      "winner": "Grover Cleveland",
+      "electors": 444,
+      "candidateVotes": 444,
+      "unallocated": 0,
+      "popularTotal": 12071548,
+      "candidates": 4
+    },
+    {
+      "year": 1896,
+      "winner": "William McKinley",
+      "electors": 447,
+      "candidateVotes": 447,
+      "unallocated": 0,
+      "popularTotal": 13905691,
+      "candidates": 3
+    },
+    {
+      "year": 1900,
+      "winner": "William McKinley",
+      "electors": 447,
+      "candidateVotes": 447,
+      "unallocated": 0,
+      "popularTotal": 13972525,
+      "candidates": 3
+    },
+    {
+      "year": 1904,
+      "winner": "Theodore Roosevelt",
+      "electors": 476,
+      "candidateVotes": 476,
+      "unallocated": 0,
+      "popularTotal": 13519139,
+      "candidates": 3
+    },
+    {
+      "year": 1908,
+      "winner": "William Howard Taft",
+      "electors": 483,
+      "candidateVotes": 483,
+      "unallocated": 0,
+      "popularTotal": 14884098,
+      "candidates": 3
+    },
+    {
+      "year": 1912,
+      "winner": "Woodrow Wilson",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 15043030,
+      "candidates": 5
+    },
+    {
+      "year": 1916,
+      "winner": "Woodrow Wilson",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 18535445,
+      "candidates": 3
+    },
+    {
+      "year": 1920,
+      "winner": "Warren G. Harding",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 26768457,
+      "candidates": 3
+    },
+    {
+      "year": 1924,
+      "winner": "Calvin Coolidge",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 29099380,
+      "candidates": 4
+    },
+    {
+      "year": 1928,
+      "winner": "Herbert Hoover",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 36801510,
+      "candidates": 3
+    },
+    {
+      "year": 1932,
+      "winner": "Franklin D. Roosevelt",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 39747783,
+      "candidates": 3
+    },
+    {
+      "year": 1936,
+      "winner": "Franklin D. Roosevelt",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 45646991,
+      "candidates": 3
+    },
+    {
+      "year": 1940,
+      "winner": "Franklin D. Roosevelt",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 49817149,
+      "candidates": 3
+    },
+    {
+      "year": 1944,
+      "winner": "Franklin D. Roosevelt",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 47976670,
+      "candidates": 3
+    },
+    {
+      "year": 1948,
+      "winner": "Harry S. Truman",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 48691494,
+      "candidates": 4
+    },
+    {
+      "year": 1952,
+      "winner": "Dwight D. Eisenhower",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 61550918,
+      "candidates": 3
+    },
+    {
+      "year": 1956,
+      "winner": "Dwight D. Eisenhower",
+      "electors": 531,
+      "candidateVotes": 531,
+      "unallocated": 0,
+      "popularTotal": 62026908,
+      "candidates": 4
+    },
+    {
+      "year": 1960,
+      "winner": "John F. Kennedy",
+      "electors": 537,
+      "candidateVotes": 537,
+      "unallocated": 0,
+      "popularTotal": 68838219,
+      "candidates": 4
+    },
+    {
+      "year": 1964,
+      "winner": "Lyndon B. Johnson",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 70644592,
+      "candidates": 3
+    },
+    {
+      "year": 1968,
+      "winner": "Richard M. Nixon",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 73211875,
+      "candidates": 4
+    },
+    {
+      "year": 1972,
+      "winner": "Richard M. Nixon",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 77718554,
+      "candidates": 4
+    },
+    {
+      "year": 1976,
+      "winner": "Jimmy Carter",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 81555889,
+      "candidates": 4
+    },
+    {
+      "year": 1980,
+      "winner": "Ronald Reagan",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 86513813,
+      "candidates": 4
+    },
+    {
+      "year": 1984,
+      "winner": "Ronald Reagan",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 92652842,
+      "candidates": 3
+    },
+    {
+      "year": 1988,
+      "winner": "George Bush",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 91594809,
+      "candidates": 4
+    },
+    {
+      "year": 1992,
+      "winner": "William J. Clinton",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 104425014,
+      "candidates": 4
+    },
+    {
+      "year": 1996,
+      "winner": "William J. Clinton",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 96277223,
+      "candidates": 4
+    },
+    {
+      "year": 2000,
+      "winner": "George W. Bush",
+      "electors": 538,
+      "candidateVotes": 537,
+      "unallocated": 1,
+      "popularTotal": 105396627,
+      "candidates": 4
+    },
+    {
+      "year": 2004,
+      "winner": "George W. Bush",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 122295345,
+      "candidates": 4
+    },
+    {
+      "year": 2008,
+      "winner": "Barack Obama",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 131278107,
+      "candidates": 3
+    },
+    {
+      "year": 2012,
+      "winner": "Barack Obama",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 129067662,
+      "candidates": 3
+    },
+    {
+      "year": 2016,
+      "winner": "Donald Trump",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 136669276,
+      "candidates": 38
+    },
+    {
+      "year": 2020,
+      "winner": "Joe Biden",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 158383403,
+      "candidates": 11
+    },
+    {
+      "year": 2024,
+      "winner": "Donald Trump",
+      "electors": 538,
+      "candidateVotes": 538,
+      "unallocated": 0,
+      "popularTotal": 155238302,
+      "candidates": 11
+    }
+  ],
+  "sources": [
+    {
+      "file": "nara-1789.html",
+      "sha256": "95b8b1776d6dddf786adffad68bbc9d7bdc679926f691e704cb56ac8f0b3b771"
+    },
+    {
+      "file": "nara-1792.html",
+      "sha256": "2fe7eaf266277751d71c85a5eec933175c58be681d1973129883e3cdd09d6373"
+    },
+    {
+      "file": "nara-1796.html",
+      "sha256": "41a32e17dc83b259dfe8795addb5d10f057aadf4eee2ab024e8787fff468aff0"
+    },
+    {
+      "file": "nara-1800.html",
+      "sha256": "7810ecc375dfdf8b26d598de6b51e921bf669079fd079446fe3eeb85dcabaee9"
+    },
+    {
+      "file": "nara-1804.html",
+      "sha256": "3b40f282209963b4cd57e28b23ad9daa888fadc446567f6394e57ac4c99e8328"
+    },
+    {
+      "file": "nara-1808.html",
+      "sha256": "1af9b9d435d51848f5618fede303987b02cb296e67b34ce5c0511e52891006f7"
+    },
+    {
+      "file": "nara-1812.html",
+      "sha256": "d93957ad26b396b78e48318165c092ba6f97467937262aaf9fb3755cfa1a06f8"
+    },
+    {
+      "file": "nara-1816.html",
+      "sha256": "a66207ec49cf428901827d81cf07cf43e2c0033e7e957ce890768c0f20633b95"
+    },
+    {
+      "file": "nara-1820.html",
+      "sha256": "f90e4a8b75238c4ebe23a81cc2e6cdbdb10cd174c075a0d548aa561e68d81117"
+    },
+    {
+      "file": "nara-1824.html",
+      "sha256": "fd1ddb3ff2e2bc0b1bd434536b11ecb214fa2c2b42e448485a242b0cbd52b825"
+    },
+    {
+      "file": "nara-1828.html",
+      "sha256": "7e8cc7a3a35c51d6d5fa390398d92de94984836d7bf7397b89dc1bc0eef2ecbd"
+    },
+    {
+      "file": "nara-1832.html",
+      "sha256": "d1b0b9f34f4796c36d025a80613798e88f4c85e6de31684ea40bd2ac8cfeafad"
+    },
+    {
+      "file": "nara-1836.html",
+      "sha256": "6a90be9f5d23a52560f32884081d015d332dd7186cfc8c099debed877a55d714"
+    },
+    {
+      "file": "nara-1840.html",
+      "sha256": "1cdf7ca95ee127ec48ac4b8338f673804f9b777c86d639c93d22aebe730c2a88"
+    },
+    {
+      "file": "nara-1844.html",
+      "sha256": "22a93795564d0ae927b7e043e27b3ceef9e9bcdef835908fca814c94c5cceaff"
+    },
+    {
+      "file": "nara-1848.html",
+      "sha256": "96a405b7079e2ddd07c35e6f795aab4b2c60208b4fb2126780f840d1e80dce79"
+    },
+    {
+      "file": "nara-1852.html",
+      "sha256": "376a8e22af18c2e8a8a86681851b7b2c0216c257dc3bbd9562eaca786924ce06"
+    },
+    {
+      "file": "nara-1856.html",
+      "sha256": "ad1155f3f158cb78a25b186a91884e94076db12e1b8fc5014b58b0ccd5cb5dc8"
+    },
+    {
+      "file": "nara-1860.html",
+      "sha256": "65956f72311f6c3df78dfe5e03645bcd9edf058ea5aef1419604d828e0913acb"
+    },
+    {
+      "file": "nara-1864.html",
+      "sha256": "e16b23d2fa1776a8886c3960878decf70ced4987887b664797cac69215893d6e"
+    },
+    {
+      "file": "nara-1868.html",
+      "sha256": "a78f918c6d390c4be78ccd63a44c03439099884fb289a90cdcb775d47561f4e4"
+    },
+    {
+      "file": "nara-1872.html",
+      "sha256": "feddf3852f89e14ce56856dfcb3b69ab624e447babdeb982cad1267321ecc489"
+    },
+    {
+      "file": "nara-1876.html",
+      "sha256": "9e17ba72a75dda0552f7cd3c08b890d3254c411a8a0358fe9d149e1a9e18d49b"
+    },
+    {
+      "file": "nara-1880.html",
+      "sha256": "baa75f3cea6ec17a344b2fc21a48c15e2ee7d613a0ae40c7e5db53931d9dddb6"
+    },
+    {
+      "file": "nara-1884.html",
+      "sha256": "6657e308b8da5125514db5f44d71b28aa110cd23e28e8a43a71a375fb72316dc"
+    },
+    {
+      "file": "nara-1888.html",
+      "sha256": "0a3a1298e8850cc56bff62ca2edd9d40f949c15617c6e6cbc3fc7414c01180b8"
+    },
+    {
+      "file": "nara-1892.html",
+      "sha256": "289a522c0a706fa3527b2cabb347ce3fc09a28bb4aa719777278487c7e79715b"
+    },
+    {
+      "file": "nara-1896.html",
+      "sha256": "05f9c3a4e9f31ac933ceef49cb57c1493203e5300e920f034b5498f18aa0f6f1"
+    },
+    {
+      "file": "nara-1900.html",
+      "sha256": "da23c64a0eed78f7075f3d958445cf78a10973f6452106d371cd1a05260628b0"
+    },
+    {
+      "file": "nara-1904.html",
+      "sha256": "b38a7c53e27d61bf30c8001a2e173bcc4d5659a18ddbbce3e23d3dee5b5bcc7b"
+    },
+    {
+      "file": "nara-1908.html",
+      "sha256": "c45e4bdfc100900ac8206a833a6b4b389bc9b95f03e7cc1297bf26b77c03a7a9"
+    },
+    {
+      "file": "nara-1912.html",
+      "sha256": "5580a63e5204fb6dc9deec86aa84ae5a85219ea9cc809a2fea139981bc4f3274"
+    },
+    {
+      "file": "nara-1916.html",
+      "sha256": "1e4bfa432ed50d1a6d4fefa52c99eaa24c5d979cf5f95b0562df285ba2918472"
+    },
+    {
+      "file": "nara-1920.html",
+      "sha256": "7c73dfb2fd207e6078563814049bf82e3e54c064a9fe5168202e72f470dc349a"
+    },
+    {
+      "file": "nara-1924.html",
+      "sha256": "0324f318d5262bc968d9ba14f452ccb801ad2eaa17a04b0b79151facfc3f54de"
+    },
+    {
+      "file": "nara-1928.html",
+      "sha256": "32656b39f46b42fdc8c2b0933331c9c0364334f59522123370ea40ff9448f2f5"
+    },
+    {
+      "file": "nara-1932.html",
+      "sha256": "a3a4c3b855e5b2c95d6ef960bc3527bb6b07110fd01e3c8e77385c22c3cd7f88"
+    },
+    {
+      "file": "nara-1936.html",
+      "sha256": "aa4e0b25a1da18a310f7fc5bfa84165c256c2048d70cd7b2cf9631ad82c0590e"
+    },
+    {
+      "file": "nara-1940.html",
+      "sha256": "180ba917179266d16c1b8124ef877ca27e5308514f60776d16e73451b9c83f91"
+    },
+    {
+      "file": "nara-1944.html",
+      "sha256": "5b5a64f74a39ce5e571049ea5afd24dff81ae06671f419413bfe74cc8b7a5237"
+    },
+    {
+      "file": "nara-1948.html",
+      "sha256": "cee365e320d3fc82a0401c88591f3b8d51ad7f2a8e7d882c71511d7874282cc1"
+    },
+    {
+      "file": "nara-1952.html",
+      "sha256": "e408dc8c5171b7fa2888d0de8260f940348eb53e1a69a984bfae881cbae9d918"
+    },
+    {
+      "file": "nara-1956.html",
+      "sha256": "ee08805ef93d6cf7a3b65261e758377b74453c0b1634f8c40986d6e9a813e54c"
+    },
+    {
+      "file": "nara-1960.html",
+      "sha256": "2ef9d4fd63e1cb11b2803953911da9803121c5c45fdd1d27b8761d46bf548dd4"
+    },
+    {
+      "file": "nara-1964.html",
+      "sha256": "cbfa8d52997fb788e33ef7c62903e67c2099640a326d5b289698545ac582fc60"
+    },
+    {
+      "file": "nara-1968.html",
+      "sha256": "944075d97322fc6add0844fb93d38b0b754b1f7872b1d9f3aeade198362d6b50"
+    },
+    {
+      "file": "nara-1972.html",
+      "sha256": "8f75552f7ddbcfabeb0f619247c31ce55eb32b7c7ee5667d333333d642a81516"
+    },
+    {
+      "file": "nara-1976.html",
+      "sha256": "6baf5d49e4378ca8dbf82cd7343134044b99a4e5ad8388e18b89582ac625fb3b"
+    },
+    {
+      "file": "nara-1980.html",
+      "sha256": "666b5b5550c746a7eb32fa1ab6d5410526218282e5b1882032607eb6062626f8"
+    },
+    {
+      "file": "nara-1984.html",
+      "sha256": "6e927b0e41e756c3aeb93fa1d5c1f3ed08832f7a7f1c99ec0e044b446e2c5c06"
+    },
+    {
+      "file": "nara-1988.html",
+      "sha256": "4542224de75369a338b75088ad4095740fe388778a2e9439d564181a6d630660"
+    },
+    {
+      "file": "nara-1992.html",
+      "sha256": "b38e48ff35243183cafb05cd4c3cdcfba1124378ab0df4fbcc138a19376d1af2"
+    },
+    {
+      "file": "nara-1996.html",
+      "sha256": "c9a1302d132c80bfe27fb726f75e4208e6a5ace0fd439d1d3f1877f8b11cbf2a"
+    },
+    {
+      "file": "nara-2000.html",
+      "sha256": "1f752c32657d72d56eb5e6fece2653c0df6506e6a5dbc823cc4c707184dae984"
+    },
+    {
+      "file": "nara-2004.html",
+      "sha256": "54c47782965c10dc1a713d94ac9005f793e8aed1d4f88305845406447465b501"
+    },
+    {
+      "file": "nara-2008.html",
+      "sha256": "235f052939b8265c95935f44c00d25cdb76b25a79cfc0d72ea3118f8438a573a"
+    },
+    {
+      "file": "nara-2012.html",
+      "sha256": "ddfa2b806efb089595aa1b6b73f08296c10e38e9e7ba56e78654d821409dac64"
+    },
+    {
+      "file": "nara-2016.html",
+      "sha256": "2aac84698981490a7b5e8f36cf6695e25782577eb0d6b7cbd119903df456822b"
+    },
+    {
+      "file": "nara-2020.html",
+      "sha256": "f53b2134d07d763065037aad6d17107fee34f63662a5f13fdc15da00455a6cc7"
+    },
+    {
+      "file": "nara-2024.html",
+      "sha256": "6950bce8ce2545be44f739c00a9da82c332a7bcff6f2a8ff0b865f8ee82c6537"
+    },
+    {
+      "file": "ucsb-1789.html",
+      "sha256": "79a9067574328de74ebc24e580bcb186abb1d06c59890e4cb3f658cd2da43147"
+    },
+    {
+      "file": "ucsb-1792.html",
+      "sha256": "8290d0dab6d369b9cff962a7ca5a703fe967ee7a60a7aa41b644c5c3f855dcc0"
+    },
+    {
+      "file": "ucsb-1796.html",
+      "sha256": "a3cfb734d775528c6643f52657dc4dcfc0b39ff249609660fb244f07c8bce6b4"
+    },
+    {
+      "file": "ucsb-1800.html",
+      "sha256": "2f8da959ae50e930ef8e5863ea602560bade4a824d066552619da68eb2a23361"
+    },
+    {
+      "file": "ucsb-1804.html",
+      "sha256": "e854d44ec9d2405ede054bdb059ead018d48d4f9ace15b0f3de208d22360c720"
+    },
+    {
+      "file": "ucsb-1808.html",
+      "sha256": "ca44a5986057c904a45b305c4ee22fac235a10c9e45c7ab2ddd2234c6425a6de"
+    },
+    {
+      "file": "ucsb-1812.html",
+      "sha256": "31ed9cb16cbbd6744870ee2a9cadf7914c41e079cdc45b839b67123edf476aa5"
+    },
+    {
+      "file": "ucsb-1816.html",
+      "sha256": "21c09f751237ed01a3ac1e02a9085a243c26e7334d8e5c6f8d1fe0cf7a05afbb"
+    },
+    {
+      "file": "ucsb-1820.html",
+      "sha256": "459942ca2d0c3c1f394171f5bbbc884ea55fcd27f914e460f88bc2294398680d"
+    },
+    {
+      "file": "ucsb-1824.html",
+      "sha256": "065eec12dd99bb7e062c79c70ae5cfc52ec14090f6bd45b5ea42d3c91fc1a1c6"
+    },
+    {
+      "file": "ucsb-1828.html",
+      "sha256": "87a4c40e94e03e33ac46b575db01d5a2f2dd8a94f863a81465c63df32c6d8de1"
+    },
+    {
+      "file": "ucsb-1832.html",
+      "sha256": "896dd4aa0a7cde6040e956a4121dcc5641a5bcebc35de6ee702360ffa1fc0635"
+    },
+    {
+      "file": "ucsb-1836.html",
+      "sha256": "7ad3565e7d1f86460c65ccfd422a238ac211c39db6fcafcc9f139b40d6c97a72"
+    },
+    {
+      "file": "ucsb-1840.html",
+      "sha256": "9fe09a8666800841d67c2a6d3b2f26677d58e5422309f32cb249e331c5aea268"
+    },
+    {
+      "file": "ucsb-1844.html",
+      "sha256": "1ebe5c0be9d2e78f42c9047bc2405f57fe9fb991b32418361abd3cc7ee654954"
+    },
+    {
+      "file": "ucsb-1848.html",
+      "sha256": "5eedea8c557b39a285639bba6b2e81ffd000c9a4b93bcc942ab0d42b4ed6ff43"
+    },
+    {
+      "file": "ucsb-1852.html",
+      "sha256": "9a9b6f2890e6a029e26691b432cb206a5c4ba6e89ab3b07c1bf6cfe598f6ccaf"
+    },
+    {
+      "file": "ucsb-1856.html",
+      "sha256": "1c126b8a17a65b853563acc8bd999feb4d744c1e7dfa4c695b745d3cff9d79c2"
+    },
+    {
+      "file": "ucsb-1860.html",
+      "sha256": "2fd77da7539f2caab30c6e4e16c1561a40fa8cd6748d4fe9348957485b05fb69"
+    },
+    {
+      "file": "ucsb-1864.html",
+      "sha256": "6ea7d48cc7ee132eb16e84cfdc1fb4f01fb7975e00a13700f4ef6607a3660d72"
+    },
+    {
+      "file": "ucsb-1868.html",
+      "sha256": "aff6df3dbe561077db40c0d1960d8a842b4b59a79693c2f011b1fa2c55db17c9"
+    },
+    {
+      "file": "ucsb-1872.html",
+      "sha256": "f03780d59d39a0abce33219139257d59ebb3b9bc7286cf659933a0af1eac3f17"
+    },
+    {
+      "file": "ucsb-1876.html",
+      "sha256": "d1a440742388f683d64d4988bbdfaf19ad9dd8ce05806709dd905b63bb348d75"
+    },
+    {
+      "file": "ucsb-1880.html",
+      "sha256": "8ce7f5844dde7cef2a823181999e090632f75ba6e8324de8ac04ea6a60ba164d"
+    },
+    {
+      "file": "ucsb-1884.html",
+      "sha256": "5e770fc794a59e60df611e776bf4b35debd9190344d4b85d71778a88cd45cb43"
+    },
+    {
+      "file": "ucsb-1888.html",
+      "sha256": "a7d52579097472328649fcfc2266aa5229888e8de1aab246a863d996c2edd28a"
+    },
+    {
+      "file": "ucsb-1892.html",
+      "sha256": "2cf38f17b88088f67f44e290c2ebb755ce6927eea67a57758d4cc3bb288ee028"
+    },
+    {
+      "file": "ucsb-1896.html",
+      "sha256": "84e7dcdc25ddd2e9b46ab409b73aa626f7f84da000488da1fca25bedd2104382"
+    },
+    {
+      "file": "ucsb-1900.html",
+      "sha256": "4d9392d6a7a43e3b0b40922eced48f054d34f4b4460317de300f439277842c45"
+    },
+    {
+      "file": "ucsb-1904.html",
+      "sha256": "307c2a4bced45dd92b0b1c4a666a299edf23d51494d3f8fe1dc9630f60388108"
+    },
+    {
+      "file": "ucsb-1908.html",
+      "sha256": "6232ea3f7f1cca55e050b98a6d0831406a4698529801ecfdc9b38ccf1b90cd1e"
+    },
+    {
+      "file": "ucsb-1912.html",
+      "sha256": "e9809d5b52f1278ccf59bb50ad1fa806f15c56c228496d01645cfe92aeb4e499"
+    },
+    {
+      "file": "ucsb-1916.html",
+      "sha256": "e45bc03bb292561d6ab81c06ac53055b6f8bc6c525d0624589ed0e5ccc0f3b08"
+    },
+    {
+      "file": "ucsb-1920.html",
+      "sha256": "bd2727611f1188a1543a52b038e1f9786cef857bc809794ee49da7af20a1ded2"
+    },
+    {
+      "file": "ucsb-1924.html",
+      "sha256": "295fc6892433e97b424935c799b89d9be7175cd42ed76c784ee232dfab260a50"
+    },
+    {
+      "file": "ucsb-1928.html",
+      "sha256": "2697743c926b0773a7dc2e51369b3a4d4dfb4896edc666d882eed7ab9db4b021"
+    },
+    {
+      "file": "ucsb-1932.html",
+      "sha256": "973c34bad3a73a9e2e0b2fa06ee9b94b3bcda4b8980e985f74e48201ed50d4bc"
+    },
+    {
+      "file": "ucsb-1936.html",
+      "sha256": "9e6c0cdcc1b3b09d72319724869337a089b8d9e8de18e66abe04a220f198a46e"
+    },
+    {
+      "file": "ucsb-1940.html",
+      "sha256": "02909cdbe5c40862728ec3f41d20581fa52f1a1f7caca60c4a7e53556ae582e3"
+    },
+    {
+      "file": "ucsb-1944.html",
+      "sha256": "0227decfd0d781ff406cb0c40bebd9e69c480761ff175e5a66588d1fce97ff67"
+    },
+    {
+      "file": "ucsb-1948.html",
+      "sha256": "8d0a42d2b97b6b4fdce432c048000c2bc493b63adc8eb8eed9109f2683c2ef04"
+    },
+    {
+      "file": "ucsb-1952.html",
+      "sha256": "e9f24c60edc6fca17baf8694f093d4642e7d9141469502d3022c9c0284671b8a"
+    },
+    {
+      "file": "ucsb-1956.html",
+      "sha256": "9094b976349b7e0c89d550ef1c152c11808221d95207cad96c10071417eff8b6"
+    },
+    {
+      "file": "ucsb-1960.html",
+      "sha256": "b9ede65fb2263ea3a6cd254a7a29a553d8fb4fb43caf295a2ca89b70c82d71fa"
+    },
+    {
+      "file": "ucsb-1964.html",
+      "sha256": "4db01df6e849d221ffad6143c3c61758686f5dc761b55121eac12806e115b17b"
+    },
+    {
+      "file": "ucsb-1968.html",
+      "sha256": "2cb4a0830fbcd2e8cdfc9b37d8b79dadd6b9215b3a3f1c32c23e3d43771e4e35"
+    },
+    {
+      "file": "ucsb-1972.html",
+      "sha256": "5f9c421d506e48c3ccb56fe2433eeaf278c9cab36b692922187af1ac9159cea5"
+    },
+    {
+      "file": "ucsb-1976.html",
+      "sha256": "d70aa0de141ff880a326a2e510f069be6af87c902375398a540079ba72226c27"
+    },
+    {
+      "file": "ucsb-1980.html",
+      "sha256": "1d9ec5794de2c85f7a1ae6a628c983adcca953f356a01aa1e279f33713bb1228"
+    },
+    {
+      "file": "ucsb-1984.html",
+      "sha256": "08eae97a0a608b47483300f6edc110e76804449ecab68385d9bf319e40517d04"
+    },
+    {
+      "file": "ucsb-1988.html",
+      "sha256": "760d1e1f410623a1dc58353311668295e137d622a19d135aa9a7344e9aff38ba"
+    },
+    {
+      "file": "ucsb-1992.html",
+      "sha256": "4c964c38a03d827a08c6f0b70563ddc56cce23000941f15912fda76a61205d21"
+    },
+    {
+      "file": "ucsb-1996.html",
+      "sha256": "ba430b249f3bfca83cca4daebb659b6f3dd18d642aefc4dce1079527266e7a20"
+    },
+    {
+      "file": "ucsb-2000.html",
+      "sha256": "5e1fd67a31e5f70967cdda0af0894b6fab1d12d6077c48574d7c18b60a0e03fd"
+    },
+    {
+      "file": "ucsb-2004.html",
+      "sha256": "fd3c1c13e4c56f53edb3d726e677823ba1cb494d8d4ee046fe4128e7f2e2cbdd"
+    },
+    {
+      "file": "ucsb-2008.html",
+      "sha256": "afae23dcbc5d820e492e77a328de7efb0ee5104571f91d57410b72ee99e3a668"
+    },
+    {
+      "file": "ucsb-2012.html",
+      "sha256": "8f60b07a5d985a1db4461f09df9093ade1c30fa38095c0254ed765058c7a53f0"
+    },
+    {
+      "file": "ucsb-2016.html",
+      "sha256": "6a25e3bd78b69fa97ded2ab4e55e16b0c07b602e8528c37b86e76d1c3ecc299e"
+    },
+    {
+      "file": "ucsb-2020.html",
+      "sha256": "c105d279813a59f4248a95a4437f3ed42e35d0e04d330eb622114c3ff782821f"
+    },
+    {
+      "file": "ucsb-2024.html",
+      "sha256": "71e10f1680a16365d517ae0f7a62de8607dbbdbd85620b19c182e6221b5104e4"
+    },
+    {
+      "file": "fec-2016.pdf",
+      "sha256": "d5b10acb1c34ca0c5d4a88a7c0f6943b3bf4118db87dd05d7a1b7b790a2e4841"
+    },
+    {
+      "file": "fec-2020.pdf",
+      "sha256": "3665d4523618b9c86a6f26fa9b924dbb4ffb757d2b3c59a43c768e980821b0d7"
+    },
+    {
+      "file": "fec-2024.pdf",
+      "sha256": "c99a431e08cb779002ebecb373cee54745c3b691df2f0b322f36688364f6d823"
+    }
+  ],
+  "mapSha256": "2dbe447cf7c8ea1266261e9af860440937714a798a5c30bfe23012769902b3c1"
+}

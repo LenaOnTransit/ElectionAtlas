@@ -56,3 +56,6 @@ next-env.d.ts
 
 # Reproducible public election-source downloads
 /.cache/
+
+# Python importer bytecode
+**/__pycache__/
