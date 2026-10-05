@@ -1,3 +1,4 @@
+import {initializeAppearance} from '../app/appearance';
 import {useEffect,useState,type ReactNode} from 'react';
 import {createRoot} from 'react-dom/client';
 import '../app/globals.css';
@@ -6,6 +7,7 @@ import {RouteRedirect,RouteNotFound,navigate,AppLink} from './navigation';
 import {currentRoute,siteHref} from './routing.mjs';
 import {supabase} from '../lib/supabase';
 import {ModeratorProvider} from './moderation';
+initializeAppearance();
 if(window.location.hash.startsWith('#/')){const legacy=window.location.hash.slice(1);window.location.replace(siteHref(legacy,import.meta.env.BASE_URL));}
 const callbacks=window.location.search.includes('code=')||window.location.hash.includes('access_token=');
 const frame=(mode:string)=>async()=>{const {default:Frame}=await import('../app/explore/frame');return Frame({mode});};
@@ -47,8 +49,9 @@ function Application(){const [revision,setRevision]=useState(0);const [content,s
   await supabase.auth.getSession();
   const url=callbacks&&!window.location.hash.startsWith('#/')?new URL('/account','https://routes.local'):currentRoute(window.location.hash,window.location.search,window.location.pathname,import.meta.env.BASE_URL);
   try{const result=await loadPage(url);if(active){setContent(result);setPending(false);const anchor=url.searchParams.get('scroll')||window.location.hash.slice(1);requestAnimationFrame(()=>anchor?document.getElementById(anchor)?.scrollIntoView():window.scrollTo(0,0));}}
-  catch(error){if(!active)return;if(error instanceof RouteRedirect){navigate(error.path);return;}if(error instanceof RouteNotFound)markUnavailable();setContent(<><Header/><main><h1>{error instanceof RouteNotFound?'Page not found':'Could not load this page'}</h1><p>{error instanceof RouteNotFound?'This record is unavailable or private.':'Please try again. If the database has paused, its owner can resume it in Supabase.'}</p><AppLink href="/">Back to the publication</AppLink><button onClick={()=>setRevision(n=>n+1)}>Retry</button></main><Footer/></>);setPending(false);}
+  catch(error){if(!active)return;if(error instanceof RouteRedirect){navigate(error.path);return;}if(error instanceof RouteNotFound)markUnavailable();setContent(<><Header/><main><h1>{error instanceof RouteNotFound?'Page not found':'Could not load this page'}</h1><p>{error instanceof RouteNotFound?'This record is unavailable or private.':'This page is temporarily unavailable. Please try again in a moment.'}</p><AppLink href="/">Back to the publication</AppLink><button onClick={()=>setRevision(n=>n+1)}>Retry</button></main><Footer/></>);setPending(false);}
  })();return()=>{active=false;};},[revision]);
+ useEffect(()=>{const main=document.querySelector('main');if(main){main.id='main-content';main.tabIndex=-1}},[pending,content]);
  return pending?<><Header/><main><p role="status">Loading World of Elections…</p></main></>:<div key={revision}>{content}</div>;
 }
 createRoot(document.getElementById('root')!).render(<ModeratorProvider><Application/></ModeratorProvider>);
