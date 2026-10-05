@@ -19,3 +19,5 @@ The broad left/right classification is fixed and editorial, independent of hidde
 ## Runtime
 
 The map is loaded only when the municipal route opens. Results are a static public asset and do not add Supabase polling or municipal database queries. Existing national election records are untouched. Controls and map features support keyboard selection, with a search/select alternative to navigating all polygons.
+
+The municipal route now uses our [shared election geography engine](election-geography-engine.md). The Dutch asset is adapted to the versioned engine schema at load time; country/year-specific defaults and copy remain in the adapter. Future geographic datasets can reuse the same renderer and loader.
