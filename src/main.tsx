@@ -21,6 +21,7 @@ const pages:Record<string,()=>Promise<ReactNode>>={
  '/editor':async()=>(await import('../app/editor/page')).default(),
  '/editor/senate':async()=>(await import('../app/editor/senate/page')).default(),
  '/editor/world':async()=>(await import('../app/editor/world/page')).default(),
+ '/municipalities/netherlands':async()=>(await import('../app/municipalities/page')).default(),
  '/atlas':frame('atlas'),'/compare':frame('compare'),'/coalitions':frame('coalitions'),
  '/us-election-night':frame('us-night'),'/live-elections':frame('live'),'/election-night':frame('live')
 };

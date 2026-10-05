@@ -27,7 +27,8 @@ test('Search metadata has stable canonical URLs, distinct descriptions and safe 
 test('Generated HTML protects unpublished content and indexes only substantive country profiles',async()=>{
  const dir=await fs.mkdtemp(path.join(os.tmpdir(),'electionatlas-seo-'));
  try{
-  await fs.mkdir(path.join(dir,'dist'));await fs.mkdir(path.join(dir,'lib'));
+  await fs.mkdir(path.join(dir,'dist'));await fs.mkdir(path.join(dir,'lib'));await fs.mkdir(path.join(dir,'public'));
+  await fs.writeFile(path.join(dir,'public/nl-municipal-2023-2025.json'),JSON.stringify({municipalities:[{name:'Amsterdam',population:934526}],sources:[{label:'Kiesraad municipal results',url:'https://www.verkiezingsuitslagen.nl/'}]}));
   await fs.writeFile(path.join(dir,'lib/supabase.ts'),"const url='https://example.invalid';const key='sb_publishable_test';");
   await fs.writeFile(path.join(dir,'dist/index.html'),'<!doctype html><html lang="en"><head><title>Old title</title><meta name="description" content="Old"/><link rel="stylesheet" href="/assets/style.css"/></head><body><div id="root"></div><script type="module" src="/assets/main.js"></script></body></html>');
   const row=(kind,data,updated='2026-10-02T12:00:00Z')=>({kind,id:data.id,data,updated});
@@ -40,6 +41,8 @@ test('Generated HTML protects unpublished content and indexes only substantive c
   assert.equal(result.status,0,result.stderr);
   const sitemap=await fs.readFile(path.join(dir,'dist/sitemap.xml'),'utf8');
   for(const secret of ['draft-secret','future-secret','archived-secret','world-draft','/account/','/editor/','/country/empty/'])assert.ok(!sitemap.includes(secret),secret);
+  assert.ok(sitemap.includes('/municipalities/netherlands/'));
+  const municipal=await fs.readFile(path.join(dir,'dist/municipalities/netherlands/index.html'),'utf8');assert.match(municipal,/Amsterdam/);assert.match(municipal,/934526/);
   assert.ok(sitemap.includes('/archive/country/test/'));assert.ok(sitemap.includes('/archive/country/assessed/'));
   const country=await fs.readFile(path.join(dir,'dist/archive/country/test/index.html'),'utf8');
   assert.match(country,/2026-10-03T12:00:00.000Z/);assert.match(country,/world\/election\/world-test\//);

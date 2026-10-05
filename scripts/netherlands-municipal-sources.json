@@ -1,0 +1,38 @@
+{
+  "checked": "2026-10-05",
+  "municipalities": 342,
+  "sourceAreasPerYear": {
+    "2023": 346,
+    "2025": 346
+  },
+  "nationalValidVotes": {
+    "2023": 10432726,
+    "2025": 10571990
+  },
+  "partyLists": 33,
+  "outsideMap": [
+    "Bonaire",
+    "Non-resident postal voters (NBSB)",
+    "Saba",
+    "Sint Eustatius"
+  ],
+  "sources": [
+    {
+      "label": "Kiesraad: national and municipal results, 2023",
+      "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20231122"
+    },
+    {
+      "label": "Kiesraad: national and municipal results, 2025",
+      "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20251029"
+    },
+    {
+      "label": "CBS / PDOK: 2025 municipality boundaries and population",
+      "url": "https://api.pdok.nl/cbs/wijken-en-buurten-2025/ogc/v1/collections/gemeenten"
+    },
+    {
+      "label": "Kiesraad: voter passes allow voting in another municipality",
+      "url": "https://www.kiesraad.nl/verkiezingen/tweede-kamer/stemmen/kiezerspas"
+    }
+  ],
+  "sha256": "a00ff23a89e5c17415699b275486132fec61088618f69fb1462433b814a22e91"
+}

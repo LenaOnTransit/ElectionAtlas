@@ -1,0 +1,9 @@
+export type MunicipalResult={valid:number;turnout:number|null;votes:Record<string,number>;source:string};
+export type Classification='left'|'right'|'centre'|'unclassified';
+export type BlocShares={left:number;right:number;centre:number;unclassified:number;balance:number};
+export function rankedResults(result:MunicipalResult):{party:string;votes:number;share:number}[];
+export function winningMargin(result:MunicipalResult):number;
+export function blocShares(result:MunicipalResult,classifications:Record<string,Classification>):BlocShares;
+export function municipalShift(before:MunicipalResult,after:MunicipalResult,classifications:Record<string,Classification>):{before:BlocShares;after:BlocShares;leftChange:number;rightChange:number;change:number};
+export function populationRadius(population:number,maximum:number,size?:number):number;
+export function mixWhite(hex:string,strength:number):string;

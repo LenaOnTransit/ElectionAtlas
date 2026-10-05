@@ -56,6 +56,9 @@ for(const [route,{title,description}]of Object.entries(staticPages)){
     items=elections.filter(e=>route==='/archive'?e.status==='held':route==='/calendar'?e.status!=='held':e.live?.enabled);
     body+=electionList(items)+(route==='/archive'?directory():'');
     if(route==='/archive')items=[...items,...countries];
+  }else if(route==='/municipalities/netherlands'){
+    const municipal=JSON.parse(await fs.readFile('public/nl-municipal-2023-2025.json','utf8'));
+    body+=`<p>Full official municipal results for 22 November 2023 and 29 October 2025. Interactive layers show party winners, first-versus-second margins, population circles and changes in the left–right vote balance. The left–right classifications are visible and configurable.</p><h2>Municipalities</h2><ul>${municipal.municipalities.map(m=>`<li>${escape(m.name)} · ${escape(m.population)} residents (1 January 2025)</li>`).join('')}</ul>${sources(municipal.sources)}`;
   }else if(route==='/atlas'){
     items=[...countries,...elections];body+=directory();
   }else if(['/compare','/coalitions'].includes(route)){

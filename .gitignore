@@ -53,3 +53,6 @@ next-env.d.ts
 /.sites-runtime/
 /supabase/.temp/
 /core
+
+# Reproducible public election-source downloads
+/.cache/
