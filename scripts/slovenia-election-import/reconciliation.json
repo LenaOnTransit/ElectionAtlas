@@ -1,0 +1,226 @@
+[
+  {
+    "id": "world-slovenia-1992-12-06-assembly",
+    "validVotes": 1188378,
+    "recordedVotes": 1188378,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-1996-11-10-assembly",
+    "validVotes": 1069204,
+    "recordedVotes": 1061806,
+    "voteGap": 7398,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2000-10-15-assembly",
+    "validVotes": 1076520,
+    "recordedVotes": 1076520,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-2004-10-03-assembly",
+    "validVotes": 968772,
+    "recordedVotes": 968772,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-2008-09-21-assembly",
+    "validVotes": 1051827,
+    "recordedVotes": 1051827,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-2011-12-04-assembly",
+    "validVotes": 1102256,
+    "recordedVotes": 1102256,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-2014-07-13-assembly",
+    "validVotes": 874291,
+    "recordedVotes": 874291,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-2018-06-03-assembly",
+    "validVotes": 891097,
+    "recordedVotes": 891097,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-2022-04-24-assembly",
+    "validVotes": 1192293,
+    "recordedVotes": 1192293,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-2026-03-22-assembly",
+    "validVotes": 1179769,
+    "recordedVotes": 1179769,
+    "voteGap": 0,
+    "recordedSeats": 88
+  },
+  {
+    "id": "world-slovenia-1992-12-06-president-round-1",
+    "validVotes": 1242358,
+    "recordedVotes": 1242358,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-1997-11-23-president-round-1",
+    "validVotes": 1042344,
+    "recordedVotes": 1042344,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2002-11-10-president-round-1",
+    "validVotes": 1144472,
+    "recordedVotes": 1144472,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2002-12-01-president-round-2",
+    "validVotes": 1038219,
+    "recordedVotes": 1038219,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2007-10-21-president-round-1",
+    "validVotes": 986429,
+    "recordedVotes": 986429,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2007-11-11-president-round-2",
+    "validVotes": 995621,
+    "recordedVotes": 995621,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2012-11-11-president-round-1",
+    "validVotes": 817772,
+    "recordedVotes": 817772,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2012-12-02-president-round-2",
+    "validVotes": 710830,
+    "recordedVotes": 710830,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2017-10-22-president-round-1",
+    "validVotes": 752264,
+    "recordedVotes": 752264,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2017-11-12-president-round-2",
+    "validVotes": 712546,
+    "recordedVotes": 712546,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2022-10-23-president-round-1",
+    "validVotes": 871941,
+    "recordedVotes": 871941,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-2022-11-13-president-round-2",
+    "validVotes": 897841,
+    "recordedVotes": 897841,
+    "voteGap": 0,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-slovenia-1997-04-20-council-local-interests-electoral-district-8",
+    "validVotes": 10455,
+    "recordedVotes": 10455,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2008-03-12-council-independent-professions",
+    "validVotes": 21,
+    "recordedVotes": 21,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2008-04-09-council-local-interests-electoral-district-18",
+    "validVotes": 17,
+    "recordedVotes": 17,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2014-05-29-council-local-interests-electoral-district-3",
+    "validVotes": 36,
+    "recordedVotes": 36,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2014-05-29-council-local-interests-electoral-district-6",
+    "validVotes": 14,
+    "recordedVotes": 14,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2018-12-17-council-social-welfare",
+    "validVotes": 20,
+    "recordedVotes": 20,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2020-06-18-council-local-interests-electoral-district-3",
+    "validVotes": 34,
+    "recordedVotes": 34,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2020-10-15-council-local-interests-electoral-district-6",
+    "validVotes": 17,
+    "recordedVotes": 17,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2023-05-31-council-culture-and-sport",
+    "validVotes": 17,
+    "recordedVotes": 17,
+    "voteGap": 0,
+    "recordedSeats": 1
+  },
+  {
+    "id": "world-slovenia-2024-11-14-council-local-interests-electoral-district-13",
+    "validVotes": 8,
+    "recordedVotes": 8,
+    "voteGap": 0,
+    "recordedSeats": 1
+  }
+]

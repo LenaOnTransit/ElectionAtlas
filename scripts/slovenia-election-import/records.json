@@ -1,0 +1,5409 @@
+[
+  {
+    "id": "world-slovenia-1992-12-06-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "1992-12-06",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-1992",
+    "snap": false,
+    "summary": "LIBERALNO DEMOKRATSKA STRANKA received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 85.6,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 1,188,378 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "dezelna-stranka-slovenije",
+        "name": "DEŽELNA STRANKA SLOVENIJE",
+        "party": "DEŽELNA STRANKA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 912,
+        "share": 0.076743,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "demokratska-stranka",
+        "name": "DEMOKRATSKA STRANKA",
+        "party": "DEMOKRATSKA STRANKA",
+        "color": "#64748b",
+        "votes": 59487,
+        "share": 5.00573,
+        "seats": 6,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "demos-krambergerjeva-zdruzena-lista-dons-repss",
+        "name": "DEMOS, KRAMBERGERJEVA ZDRUŽENA LISTA, DONS, REPSS",
+        "party": "DEMOS, KRAMBERGERJEVA ZDRUŽENA LISTA, DONS, REPSS",
+        "color": "#64748b",
+        "votes": 9143,
+        "share": 0.769368,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "gibanje-za-obco-demokracijo",
+        "name": "GIBANJE ZA OBČO DEMOKRACIJO",
+        "party": "GIBANJE ZA OBČO DEMOKRACIJO",
+        "color": "#64748b",
+        "votes": 6707,
+        "share": 0.564383,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "idz-ddi",
+        "name": "IDZ - DDI",
+        "party": "IDZ - DDI",
+        "color": "#64748b",
+        "votes": 1125,
+        "share": 0.094667,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "krscanski-socialisti-ds-naprej-svobodna-stranka",
+        "name": "KRŠČANSKI SOCIALISTI-DS NAPREJ-SVOBODNA STRANKA",
+        "party": "KRŠČANSKI SOCIALISTI-DS NAPREJ-SVOBODNA STRANKA",
+        "color": "#64748b",
+        "votes": 13592,
+        "share": 1.143744,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "liberalno-demokratska-stranka",
+        "name": "LIBERALNO DEMOKRATSKA STRANKA",
+        "party": "LIBERALNO DEMOKRATSKA STRANKA",
+        "color": "#64748b",
+        "votes": 278851,
+        "share": 23.46484,
+        "seats": 22,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "liberalna-stranka",
+        "name": "LIBERALNA STRANKA",
+        "party": "LIBERALNA STRANKA",
+        "color": "#64748b",
+        "votes": 18069,
+        "share": 1.520476,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "liberalno-demokratska-stranka-slovenije",
+        "name": "LIBERALNO DEMOKRATSKA STRANKA SLOVENIJE",
+        "party": "LIBERALNO DEMOKRATSKA STRANKA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 16892,
+        "share": 1.421433,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "narodni-demokrati-in-slovenska-gospodarska-stranka",
+        "name": "NARODNI DEMOKRATI IN SLOVENSKA GOSPODARSKA STRANKA",
+        "party": "NARODNI DEMOKRATI IN SLOVENSKA GOSPODARSKA STRANKA",
+        "color": "#64748b",
+        "votes": 25852,
+        "share": 2.175402,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "republikanska-zveza-slovenije",
+        "name": "REPUBLIKANSKA ZVEZA SLOVENIJE",
+        "party": "REPUBLIKANSKA ZVEZA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 5378,
+        "share": 0.45255,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-ljudska-stranka",
+        "name": "SLOVENSKA LJUDSKA STRANKA",
+        "party": "SLOVENSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 103300,
+        "share": 8.69252,
+        "seats": 10,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-nacionalna-stranka",
+        "name": "SLOVENSKA NACIONALNA STRANKA",
+        "party": "SLOVENSKA NACIONALNA STRANKA",
+        "color": "#64748b",
+        "votes": 119091,
+        "share": 10.021306,
+        "seats": 12,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenski-krscanski-demokrati",
+        "name": "SLOVENSKI KRŠČANSKI DEMOKRATI",
+        "party": "SLOVENSKI KRŠČANSKI DEMOKRATI",
+        "color": "#64748b",
+        "votes": 172424,
+        "share": 14.509188,
+        "seats": 15,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovensko-ekolosko-gibanje",
+        "name": "SLOVENSKO EKOLOŠKO GIBANJE",
+        "party": "SLOVENSKO EKOLOŠKO GIBANJE",
+        "color": "#64748b",
+        "votes": 7360,
+        "share": 0.619332,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "socialdemokratska-stranka-slovenije",
+        "name": "SOCIALDEMOKRATSKA STRANKA SLOVENIJE",
+        "party": "SOCIALDEMOKRATSKA STRANKA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 39675,
+        "share": 3.338584,
+        "seats": 4,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "socialisticna-stranka-slovenije",
+        "name": "SOCIALISTIČNA STRANKA SLOVENIJE",
+        "party": "SOCIALISTIČNA STRANKA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 32696,
+        "share": 2.751313,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-obrtno-podjetniska-stranka",
+        "name": "SLOVENSKA OBRTNO PODJETNIŠKA STRANKA",
+        "party": "SLOVENSKA OBRTNO PODJETNIŠKA STRANKA",
+        "color": "#64748b",
+        "votes": 18965,
+        "share": 1.595873,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-neodvisnih",
+        "name": "STRANKA NEODVISNIH",
+        "party": "STRANKA NEODVISNIH",
+        "color": "#64748b",
+        "votes": 16178,
+        "share": 1.361351,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stajerska-demokratska-krscanska-stranka",
+        "name": "ŠTAJERSKA DEMOKRATSKA KRŠČANSKA STRANKA",
+        "party": "ŠTAJERSKA DEMOKRATSKA KRŠČANSKA STRANKA",
+        "color": "#64748b",
+        "votes": 8022,
+        "share": 0.675038,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zdruzena-lista",
+        "name": "ZDRUŽENA LISTA",
+        "party": "ZDRUŽENA LISTA",
+        "color": "#64748b",
+        "votes": 161349,
+        "share": 13.577246,
+        "seats": 14,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zdruzenje-smer-slovenije",
+        "name": "ZDRUŽENJE \"SMER\" SLOVENIJE",
+        "party": "ZDRUŽENJE \"SMER\" SLOVENIJE",
+        "color": "#64748b",
+        "votes": 6674,
+        "share": 0.561606,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zeleni-slovenije",
+        "name": "ZELENI SLOVENIJE",
+        "party": "ZELENI SLOVENIJE",
+        "color": "#64748b",
+        "votes": 44019,
+        "share": 3.704124,
+        "seats": 5,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zeleno-gibanje-obcine-ljubljana-moste-polje",
+        "name": "ZELENO GIBANJE OBČINE LJUBLJANA MOSTE POLJE",
+        "party": "ZELENO GIBANJE OBČINE LJUBLJANA MOSTE POLJE",
+        "color": "#64748b",
+        "votes": 708,
+        "share": 0.059577,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zveza-za-primorsko",
+        "name": "ZVEZA ZA PRIMORSKO",
+        "party": "ZVEZA ZA PRIMORSKO",
+        "color": "#64748b",
+        "votes": 10059,
+        "share": 0.846448,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "neodvisni-kandidati",
+        "name": "NEODVISNI KANDIDATI",
+        "party": "NEODVISNI KANDIDATI",
+        "color": "#64748b",
+        "votes": 11850,
+        "share": 0.997157,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-4/"
+      },
+      {
+        "label": "DVK chamber composition diagram",
+        "url": "https://www.dvk-rs.si/arhivi/dz1992/files/arhivi/dz1992_sestava.gif"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Source turnout: 85.6%; eligible voters 1,491,374. The landing page reports 1,277,604 ballots cast; a separate participant count is not established. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. General-list seat allocations are transcribed from the DVK chamber composition diagram; the two national-community seats have not been entered. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-1996-11-10-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "1996-11-10",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-1996",
+    "snap": false,
+    "summary": "LDS - Liberalna demokracija Slovenije received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 73.704172,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 1,069,204 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "lds-liberalna-demokracija-slovenije",
+        "name": "LDS - Liberalna demokracija Slovenije",
+        "party": "LDS - Liberalna demokracija Slovenije",
+        "color": "#64748b",
+        "votes": 288783,
+        "share": 27.009158,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sls-slovenska-ljudska-stranka",
+        "name": "SLS - Slovenska ljudska stranka",
+        "party": "SLS - Slovenska ljudska stranka",
+        "color": "#64748b",
+        "votes": 207186,
+        "share": 19.377593,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sds-socialdemokratska-stranka-slovenije",
+        "name": "SDS - Socialdemokratska stranka Slovenije",
+        "party": "SDS - Socialdemokratska stranka Slovenije",
+        "color": "#64748b",
+        "votes": 172470,
+        "share": 16.130692,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "skd-slovenski-krscanski-demokrati",
+        "name": "SKD - Slovenski krščanski demokrati",
+        "party": "SKD - Slovenski krščanski demokrati",
+        "color": "#64748b",
+        "votes": 102852,
+        "share": 9.619493,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zl-zdruzena-lista-socialnih-demokratov",
+        "name": "ZL - Združena lista socialnih demokratov",
+        "party": "ZL - Združena lista socialnih demokratov",
+        "color": "#64748b",
+        "votes": 96597,
+        "share": 9.034478,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "desus-demokraticna-stranka-upokojencev-slovenije",
+        "name": "DeSUS - Demokratična stranka upokojencev Slovenije",
+        "party": "DeSUS - Demokratična stranka upokojencev Slovenije",
+        "color": "#64748b",
+        "votes": 46152,
+        "share": 4.316482,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sns-slovenska-nacionalna-stranka",
+        "name": "SNS - Slovenska nacionalna stranka",
+        "party": "SNS - Slovenska nacionalna stranka",
+        "color": "#64748b",
+        "votes": 34422,
+        "share": 3.219404,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "ds-demokratska-stranka-slovenije-demokrati-slovenije",
+        "name": "DS - Demokratska stranka Slovenije - Demokrati Slovenije",
+        "party": "DS - Demokratska stranka Slovenije - Demokrati Slovenije",
+        "color": "#64748b",
+        "votes": 28624,
+        "share": 2.677132,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zeleni-zeleni-slovenije",
+        "name": "ZELENI - Zeleni Slovenije",
+        "party": "ZELENI - Zeleni Slovenije",
+        "color": "#64748b",
+        "votes": 18853,
+        "share": 1.763274,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sops-slovenska-obrtnisko-podjetniska-stranka-stranka-centra",
+        "name": "SOPS - Slovenska obrtniško podjetniška stranka - Stranka centra",
+        "party": "SOPS - Slovenska obrtniško podjetniška stranka - Stranka centra",
+        "color": "#64748b",
+        "votes": 12335,
+        "share": 1.153662,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sf-slovenski-forum-in-dezelni-stranki-zveza-za-primorsko-zveza-za-gorenjsko",
+        "name": "SF - Slovenski forum in deželni stranki: Zveza za Primorsko, Zveza za Gorenjsko",
+        "party": "SF - Slovenski forum in deželni stranki: Zveza za Primorsko, Zveza za Gorenjsko",
+        "color": "#64748b",
+        "votes": 11383,
+        "share": 1.064624,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "ls-liberalna-stranka",
+        "name": "LS - Liberalna stranka",
+        "party": "LS - Liberalna stranka",
+        "color": "#64748b",
+        "votes": 7972,
+        "share": 0.745601,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nsd-nacionalna-stranka-dela",
+        "name": "NSD - Nacionalna stranka dela",
+        "party": "NSD - Nacionalna stranka dela",
+        "color": "#64748b",
+        "votes": 5827,
+        "share": 0.544985,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "za-zelena-alternativa-slovenije-zelena-alternativa",
+        "name": "ZA - Zelena alternativa Slovenije - Zelena alternativa",
+        "party": "ZA - Zelena alternativa Slovenije - Zelena alternativa",
+        "color": "#64748b",
+        "votes": 5602,
+        "share": 0.523941,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "rzs-republikanska-zveza-slovenije-republikanci-slovenije-republikanci",
+        "name": "RZS - Republikanska zveza Slovenije, Republikanci Slovenije, Republikanci",
+        "party": "RZS - Republikanska zveza Slovenije, Republikanci Slovenije, Republikanci",
+        "color": "#64748b",
+        "votes": 5071,
+        "share": 0.474278,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "kps-komunisticna-partija-slovenije",
+        "name": "KPS - Komunistična partija Slovenije",
+        "party": "KPS - Komunistična partija Slovenije",
+        "color": "#64748b",
+        "votes": 5027,
+        "share": 0.470163,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "ksu-krscansko-socialna-unija",
+        "name": "KSU - Krščansko socialna unija",
+        "party": "KSU - Krščansko socialna unija",
+        "color": "#64748b",
+        "votes": 4767,
+        "share": 0.445846,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "snd-slovenska-nacionalna-desnica",
+        "name": "SND - Slovenska nacionalna desnica",
+        "party": "SND - Slovenska nacionalna desnica",
+        "color": "#64748b",
+        "votes": 3327,
+        "share": 0.311166,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "deus-lzs-domoljubna-enotna-upokojenska-stranka-liga-za-slovenijo",
+        "name": "DEUS-LZS - Domoljubna enotna upokojenska stranka - Liga za Slovenijo",
+        "party": "DEUS-LZS - Domoljubna enotna upokojenska stranka - Liga za Slovenijo",
+        "color": "#64748b",
+        "votes": 2025,
+        "share": 0.189393,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "ns-nova-stranka",
+        "name": "NS - Nova stranka",
+        "party": "NS - Nova stranka",
+        "color": "#64748b",
+        "votes": 1104,
+        "share": 0.103254,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nps-naprej-slovenija",
+        "name": "NPS - Naprej Slovenija",
+        "party": "NPS - Naprej Slovenija",
+        "color": "#64748b",
+        "votes": 886,
+        "share": 0.082865,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sed-stranka-enakopravnih-dezel",
+        "name": "SED - Stranka enakopravnih dežel",
+        "party": "SED - Stranka enakopravnih dežel",
+        "color": "#64748b",
+        "votes": 541,
+        "share": 0.050598,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-1/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 1,136,679 voters / 1,542,218 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. The source national table omits 7,398 votes, apparently local/independent lists; no invented residual row is added. Party seat allocations remain untranscribed from the source diagram; seats are null. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-2000-10-15-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "2000-10-15",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-2000",
+    "snap": false,
+    "summary": "LIBERALNA DEMOKRACIJA SLOVENIJE received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 70.138518,
+    "totalSeats": 90,
+    "resultStatus": "provisional",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 1,076,520 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "liberalna-demokracija-slovenije",
+        "name": "LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "party": "LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 390306,
+        "share": 36.25627,
+        "seats": 34,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "socialdemokratska-stranka-slovenije",
+        "name": "SOCIALDEMOKRATSKA STRANKA SLOVENIJE",
+        "party": "SOCIALDEMOKRATSKA STRANKA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 170228,
+        "share": 15.812804,
+        "seats": 14,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zdruzena-lista-socialnih-demokratov",
+        "name": "ZDRUŽENA LISTA SOCIALNIH DEMOKRATOV",
+        "party": "ZDRUŽENA LISTA SOCIALNIH DEMOKRATOV",
+        "color": "#64748b",
+        "votes": 130079,
+        "share": 12.083287,
+        "seats": 11,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sls-skd-slovenska-ljudska-stranka",
+        "name": "SLS + SKD SLOVENSKA LJUDSKA STRANKA",
+        "party": "SLS + SKD SLOVENSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 102691,
+        "share": 9.539163,
+        "seats": 9,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nova-slovenija-krscanska-ljudska-stranka",
+        "name": "NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "party": "NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 93247,
+        "share": 8.661892,
+        "seats": 8,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "demokraticna-stranka-upokojencev-slovenije",
+        "name": "DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "party": "DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "color": "#64748b",
+        "votes": 55634,
+        "share": 5.167949,
+        "seats": 4,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-nacionalna-stranka",
+        "name": "SLOVENSKA NACIONALNA STRANKA",
+        "party": "SLOVENSKA NACIONALNA STRANKA",
+        "color": "#64748b",
+        "votes": 47214,
+        "share": 4.385799,
+        "seats": 4,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-mladih-slovenije",
+        "name": "STRANKA MLADIH SLOVENIJE",
+        "party": "STRANKA MLADIH SLOVENIJE",
+        "color": "#64748b",
+        "votes": 46674,
+        "share": 4.335637,
+        "seats": 4,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zdruzeni-zeleni-zeleni-slovenije-in-zelena-alternativa",
+        "name": "ZDRUŽENI ZELENI - ZELENI SLOVENIJE IN ZELENA ALTERNATIVA",
+        "party": "ZDRUŽENI ZELENI - ZELENI SLOVENIJE IN ZELENA ALTERNATIVA",
+        "color": "#64748b",
+        "votes": 9691,
+        "share": 0.900216,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "demokratska-stranka-slovenije",
+        "name": "DEMOKRATSKA STRANKA SLOVENIJE",
+        "party": "DEMOKRATSKA STRANKA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 8079,
+        "share": 0.750474,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nova-stranka",
+        "name": "NOVA STRANKA",
+        "party": "NOVA STRANKA",
+        "color": "#64748b",
+        "votes": 6338,
+        "share": 0.588749,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "glas-zensk-slovenije",
+        "name": "GLAS ŽENSK SLOVENIJE",
+        "party": "GLAS ŽENSK SLOVENIJE",
+        "color": "#64748b",
+        "votes": 4745,
+        "share": 0.440772,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "naprej-slovenija",
+        "name": "NAPREJ SLOVENIJA",
+        "party": "NAPREJ SLOVENIJA",
+        "color": "#64748b",
+        "votes": 3300,
+        "share": 0.306543,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-demokratske-akcije-slovenije",
+        "name": "STRANKA DEMOKRATSKE AKCIJE SLOVENIJE",
+        "party": "STRANKA DEMOKRATSKE AKCIJE SLOVENIJE",
+        "color": "#64748b",
+        "votes": 3208,
+        "share": 0.297997,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "komunisticna-partija-slovenije",
+        "name": "KOMUNISTIČNA PARTIJA SLOVENIJE",
+        "party": "KOMUNISTIČNA PARTIJA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 1945,
+        "share": 0.180675,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "dezelna-stranka-stajerske",
+        "name": "DEŽELNA STRANKA ŠTAJERSKE",
+        "party": "DEŽELNA STRANKA ŠTAJERSKE",
+        "color": "#64748b",
+        "votes": 732,
+        "share": 0.067997,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "mojca",
+        "name": "MOJCA",
+        "party": "MOJCA",
+        "color": "#64748b",
+        "votes": 697,
+        "share": 0.064746,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "neodvisni-kandidat-planinsic-franc",
+        "name": "NEODVISNI KANDIDAT - PLANINŠIČ FRANC",
+        "party": "NEODVISNI KANDIDAT - PLANINŠIČ FRANC",
+        "color": "#64748b",
+        "votes": 518,
+        "share": 0.048118,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "mirko-justin-in-skupina-volivcev",
+        "name": "MIRKO JUSTIN IN SKUPINA VOLIVCEV",
+        "party": "MIRKO JUSTIN IN SKUPINA VOLIVCEV",
+        "color": "#64748b",
+        "votes": 404,
+        "share": 0.037528,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "peter-crtomir-gorjanc",
+        "name": "PETER - ČRTOMIR GORJANC",
+        "party": "PETER - ČRTOMIR GORJANC",
+        "color": "#64748b",
+        "votes": 276,
+        "share": 0.025638,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "milan-robic-in-skupina-volivcev",
+        "name": "MILAN ROBIČ IN SKUPINA VOLIVCEV",
+        "party": "MILAN ROBIČ IN SKUPINA VOLIVCEV",
+        "color": "#64748b",
+        "votes": 261,
+        "share": 0.024245,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "valter-skok-in-skupina-volivcev",
+        "name": "VALTER SKOK IN SKUPINA VOLIVCEV",
+        "party": "VALTER SKOK IN SKUPINA VOLIVCEV",
+        "color": "#64748b",
+        "votes": 178,
+        "share": 0.016535,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "izumitelj-hinko-stakne",
+        "name": "IZUMITELJ HINKO STAKNE",
+        "party": "IZUMITELJ HINKO STAKNE",
+        "color": "#64748b",
+        "votes": 75,
+        "share": 0.006967,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-2/"
+      },
+      {
+        "label": "DVK chamber composition diagram",
+        "url": "https://www.dvk-rs.si/arhivi/dz2000/slika_dz/dz.gif"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 1,114,170 voters / 1,588,528 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. General-list seat allocations are transcribed from the DVK chamber composition diagram; the two national-community seats have not been entered. The detailed source identifies these figures as unofficial and reports 99.93% of ballots counted. The landing-page turnout numerator is the 19:00 participant count, not a subsequently verified final count. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-2004-10-03-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "2004-10-03",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-2004",
+    "snap": false,
+    "summary": "SLOVENSKA DEMOKRATSKA STRANKA - SDS received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 60.649889,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 968,772 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "slovenska-demokratska-stranka-sds",
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "color": "#64748b",
+        "votes": 281710,
+        "share": 29.079082,
+        "seats": 29,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "lds-liberalna-demokracija-slovenije",
+        "name": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "party": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 220848,
+        "share": 22.796695,
+        "seats": 23,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zdruzena-lista-socialnih-demokratov",
+        "name": "ZDRUŽENA LISTA SOCIALNIH DEMOKRATOV",
+        "party": "ZDRUŽENA LISTA SOCIALNIH DEMOKRATOV",
+        "color": "#64748b",
+        "votes": 98527,
+        "share": 10.170298,
+        "seats": 10,
+        "previousSeats": 11,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nsi-nova-slovenija-krscanska-ljudska-stranka",
+        "name": "NSi - NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "party": "NSi - NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 88073,
+        "share": 9.0912,
+        "seats": 9,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sls-slovenska-ljudska-stranka",
+        "name": "SLS SLOVENSKA LJUDSKA STRANKA",
+        "party": "SLS SLOVENSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 66032,
+        "share": 6.816052,
+        "seats": 7,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-nacionalna-stranka-sns",
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "color": "#64748b",
+        "votes": 60750,
+        "share": 6.270825,
+        "seats": 6,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "demokraticna-stranka-upokojencev-slovenije-desus",
+        "name": "DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE - DeSUS",
+        "party": "DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE - DeSUS",
+        "color": "#64748b",
+        "votes": 39150,
+        "share": 4.041199,
+        "seats": 4,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "as-aktivna-slovenija",
+        "name": "AS - AKTIVNA SLOVENIJA",
+        "party": "AS - AKTIVNA SLOVENIJA",
+        "color": "#64748b",
+        "votes": 28767,
+        "share": 2.969429,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenija-je-nasa-sjn",
+        "name": "SLOVENIJA JE NAŠA - SJN",
+        "party": "SLOVENIJA JE NAŠA - SJN",
+        "color": "#64748b",
+        "votes": 25343,
+        "share": 2.615992,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sms-stranka-mladih-slovenije",
+        "name": "SMS - STRANKA MLADIH SLOVENIJE",
+        "party": "SMS - STRANKA MLADIH SLOVENIJE",
+        "color": "#64748b",
+        "votes": 20174,
+        "share": 2.08243,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "junijska-lista",
+        "name": "JUNIJSKA LISTA",
+        "party": "JUNIJSKA LISTA",
+        "color": "#64748b",
+        "votes": 8733,
+        "share": 0.90145,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zeleni-slovenije",
+        "name": "ZELENI SLOVENIJE",
+        "party": "ZELENI SLOVENIJE",
+        "color": "#64748b",
+        "votes": 6703,
+        "share": 0.691907,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "za-podjetno-slovenijo",
+        "name": "ZA PODJETNO SLOVENIJO",
+        "party": "ZA PODJETNO SLOVENIJO",
+        "color": "#64748b",
+        "votes": 5435,
+        "share": 0.56102,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "glas-zensk-slovenije-gzs-zveza-za-primorsko-zzp-zveza-neodvisnih-slovenije-zns-nova-demokr",
+        "name": "GLAS ŽENSK SLOVENIJE - GŽS, ZVEZA ZA PRIMORSKO - ZZP, ZVEZA NEODVISNIH SLOVENIJE - ZNS, NOVA DEMOKRACIJA SLOVENIJE - NDS",
+        "party": "GLAS ŽENSK SLOVENIJE - GŽS, ZVEZA ZA PRIMORSKO - ZZP, ZVEZA NEODVISNIH SLOVENIJE - ZNS, NOVA DEMOKRACIJA SLOVENIJE - NDS",
+        "color": "#64748b",
+        "votes": 5229,
+        "share": 0.539755,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "seg-stranka-ekoloskih-gibanj-slovenije",
+        "name": "SEG - STRANKA EKOLOŠKIH GIBANJ SLOVENIJE",
+        "party": "SEG - STRANKA EKOLOŠKIH GIBANJ SLOVENIJE",
+        "color": "#64748b",
+        "votes": 3991,
+        "share": 0.411965,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "demokratska-stranka-slovenije",
+        "name": "DEMOKRATSKA STRANKA SLOVENIJE",
+        "party": "DEMOKRATSKA STRANKA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 2670,
+        "share": 0.275607,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-slovenskega-naroda",
+        "name": "STRANKA SLOVENSKEGA NARODA",
+        "party": "STRANKA SLOVENSKEGA NARODA",
+        "color": "#64748b",
+        "votes": 2574,
+        "share": 0.265697,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zdruzeni-za-samostojno-pravicno-slovenijo-zdruzeni",
+        "name": "ZDRUŽENI ZA SAMOSTOJNO PRAVIČNO SLOVENIJO - ZDRUŽENI",
+        "party": "ZDRUŽENI ZA SAMOSTOJNO PRAVIČNO SLOVENIJO - ZDRUŽENI",
+        "color": "#64748b",
+        "votes": 1496,
+        "share": 0.154422,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "naprej-slovenija",
+        "name": "NAPREJ SLOVENIJA",
+        "party": "NAPREJ SLOVENIJA",
+        "color": "#64748b",
+        "votes": 995,
+        "share": 0.102707,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "socialna-liberalna-stranka",
+        "name": "SOCIALNA LIBERALNA STRANKA",
+        "party": "SOCIALNA LIBERALNA STRANKA",
+        "color": "#64748b",
+        "votes": 713,
+        "share": 0.073598,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "marko-brecelj",
+        "name": "MARKO BRECELJ",
+        "party": "MARKO BRECELJ",
+        "color": "#64748b",
+        "votes": 523,
+        "share": 0.053986,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "mihael-svanjak",
+        "name": "MIHAEL SVANJAK",
+        "party": "MIHAEL SVANJAK",
+        "color": "#64748b",
+        "votes": 191,
+        "share": 0.019716,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "samostojni-kandidat-stefan-hudobivnik",
+        "name": "SAMOSTOJNI KANDIDAT ŠTEFAN HUDOBIVNIK",
+        "party": "SAMOSTOJNI KANDIDAT ŠTEFAN HUDOBIVNIK",
+        "color": "#64748b",
+        "votes": 145,
+        "share": 0.014967,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-3/"
+      },
+      {
+        "label": "DVK national list result table",
+        "url": "https://www.dvk-rs.si/arhivi/dz2004/html/rez_si.html"
+      },
+      {
+        "label": "Previous comparable general election (seat changes)",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-2/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 991,263 voters / 1,634,402 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-2008-09-21-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "2008-09-21",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-2008",
+    "snap": false,
+    "summary": "SOCIALNI DEMOKRATI received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 63.1042,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 1,051,827 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "socialni-demokrati",
+        "name": "SOCIALNI DEMOKRATI",
+        "party": "SOCIALNI DEMOKRATI",
+        "color": "#64748b",
+        "votes": 320248,
+        "share": 30.446832,
+        "seats": 29,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-demokratska-stranka-sds",
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "color": "#64748b",
+        "votes": 307735,
+        "share": 29.257188,
+        "seats": 28,
+        "previousSeats": 29,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zares-nova-politika",
+        "name": "ZARES - NOVA POLITIKA",
+        "party": "ZARES - NOVA POLITIKA",
+        "color": "#64748b",
+        "votes": 98526,
+        "share": 9.36713,
+        "seats": 9,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "desus-demokraticna-stranka-upokojencev",
+        "name": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV",
+        "party": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV",
+        "color": "#64748b",
+        "votes": 78353,
+        "share": 7.449229,
+        "seats": 7,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-nacionalna-stranka-sns",
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "color": "#64748b",
+        "votes": 56832,
+        "share": 5.40317,
+        "seats": 5,
+        "previousSeats": 6,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sls-slovenska-ljudska-stranka-in-sms-stranka-mladih-slovenije",
+        "name": "SLS - SLOVENSKA LJUDSKA STRANKA IN SMS - STRANKA MLADIH SLOVENIJE",
+        "party": "SLS - SLOVENSKA LJUDSKA STRANKA IN SMS - STRANKA MLADIH SLOVENIJE",
+        "color": "#64748b",
+        "votes": 54809,
+        "share": 5.210838,
+        "seats": 5,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "lds-liberalna-demokracija-slovenije",
+        "name": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "party": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 54771,
+        "share": 5.207225,
+        "seats": 5,
+        "previousSeats": 23,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nova-slovenija-krsanska-ljudska-stranka",
+        "name": "NOVA SLOVENIJA KRŠANSKA LJUDSKA STRANKA",
+        "party": "NOVA SLOVENIJA KRŠANSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 35774,
+        "share": 3.40113,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "lipa",
+        "name": "LIPA",
+        "party": "LIPA",
+        "color": "#64748b",
+        "votes": 19068,
+        "share": 1.812846,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "lpr-lista-za-pravicnost-in-razvoj",
+        "name": "LPR - LISTA ZA PRAVIČNOST IN RAZVOJ",
+        "party": "LPR - LISTA ZA PRAVIČNOST IN RAZVOJ",
+        "color": "#64748b",
+        "votes": 5897,
+        "share": 0.560644,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zeleni-slovenije",
+        "name": "ZELENI SLOVENIJE",
+        "party": "ZELENI SLOVENIJE",
+        "color": "#64748b",
+        "votes": 5367,
+        "share": 0.510255,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "krscansko-demokratska-stranka",
+        "name": "KRŠČANSKO DEMOKRATSKA STRANKA",
+        "party": "KRŠČANSKO DEMOKRATSKA STRANKA",
+        "color": "#64748b",
+        "votes": 4724,
+        "share": 0.449123,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "lista-za-cisto-pitno-vodo",
+        "name": "LISTA ZA ČISTO PITNO VODO",
+        "party": "LISTA ZA ČISTO PITNO VODO",
+        "color": "#64748b",
+        "votes": 4140,
+        "share": 0.393601,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-slovenskega-naroda-ssn",
+        "name": "STRANKA SLOVENSKEGA NARODA (SSN)",
+        "party": "STRANKA SLOVENSKEGA NARODA (SSN)",
+        "color": "#64748b",
+        "votes": 2629,
+        "share": 0.249946,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zelena-koalicija-zelena-stranka-in-zeleni-progres",
+        "name": "ZELENA KOALICIJA: ZELENA STRANKA IN ZELENI PROGRES",
+        "party": "ZELENA KOALICIJA: ZELENA STRANKA IN ZELENI PROGRES",
+        "color": "#64748b",
+        "votes": 2230,
+        "share": 0.212012,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "naprej-slovenija-nps",
+        "name": "NAPREJ SLOVENIJA - NPS",
+        "party": "NAPREJ SLOVENIJA - NPS",
+        "color": "#64748b",
+        "votes": 475,
+        "share": 0.04516,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "akacije",
+        "name": "AKACIJE",
+        "party": "AKACIJE",
+        "color": "#64748b",
+        "votes": 249,
+        "share": 0.023673,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs/"
+      },
+      {
+        "label": "DVK national list result table",
+        "url": "https://www.dvk-rs.si/arhivi/dz2008/rezultati/rezultati_slo.html"
+      },
+      {
+        "label": "Previous comparable general election (seat changes)",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-3/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 1,070,523 voters / 1,696,437 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-2011-12-04-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "2011-12-04",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-2011",
+    "snap": true,
+    "summary": "LISTA ZORANA JANKOVIĆA - POZITIVNA SLOVENIJA received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 65.60088,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 1,102,256 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "lista-zorana-jankovica-pozitivna-slovenija",
+        "name": "LISTA ZORANA JANKOVIĆA - POZITIVNA SLOVENIJA",
+        "party": "LISTA ZORANA JANKOVIĆA - POZITIVNA SLOVENIJA",
+        "color": "#64748b",
+        "votes": 314273,
+        "share": 28.511798,
+        "seats": 28,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-demokratska-stranka-sds",
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "color": "#64748b",
+        "votes": 288719,
+        "share": 26.193461,
+        "seats": 26,
+        "previousSeats": 28,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sd-socialni-demokrati",
+        "name": "SD - SOCIALNI DEMOKRATI",
+        "party": "SD - SOCIALNI DEMOKRATI",
+        "color": "#64748b",
+        "votes": 115952,
+        "share": 10.519516,
+        "seats": 10,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "drzavljanska-lista-gregorja-viranta",
+        "name": "DRŽAVLJANSKA LISTA GREGORJA VIRANTA",
+        "party": "DRŽAVLJANSKA LISTA GREGORJA VIRANTA",
+        "color": "#64748b",
+        "votes": 92282,
+        "share": 8.372102,
+        "seats": 8,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "desus-demokraticna-stranka-upokojencev-slovenije",
+        "name": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "party": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "color": "#64748b",
+        "votes": 76853,
+        "share": 6.972337,
+        "seats": 6,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sls-radovana-zerjava-slovenska-ljudska-stranka",
+        "name": "SLS RADOVANA ŽERJAVA - SLOVENSKA LJUDSKA STRANKA",
+        "party": "SLS RADOVANA ŽERJAVA - SLOVENSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 75311,
+        "share": 6.832442,
+        "seats": 6,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nova-slovenija-krscanska-ljudska-stranka",
+        "name": "NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "party": "NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 53758,
+        "share": 4.877088,
+        "seats": 4,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-nacionalna-stranka-sns",
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "color": "#64748b",
+        "votes": 19786,
+        "share": 1.795046,
+        "seats": 0,
+        "previousSeats": 5,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "lds-liberalna-demokracija-slovenije",
+        "name": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "party": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 16268,
+        "share": 1.475882,
+        "seats": 0,
+        "previousSeats": 5,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-za-trajnostni-razvoj-slovenije-trs",
+        "name": "STRANKA ZA TRAJNOSTNI RAZVOJ SLOVENIJE - TRS",
+        "party": "STRANKA ZA TRAJNOSTNI RAZVOJ SLOVENIJE - TRS",
+        "color": "#64748b",
+        "votes": 13477,
+        "share": 1.222674,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sms-zeleni",
+        "name": "SMS ZELENI",
+        "party": "SMS ZELENI",
+        "color": "#64748b",
+        "votes": 9532,
+        "share": 0.864772,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zares-socialno-liberalni",
+        "name": "ZARES - SOCIALNO LIBERALNI",
+        "party": "ZARES - SOCIALNO LIBERALNI",
+        "color": "#64748b",
+        "votes": 7218,
+        "share": 0.654839,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "demokraticna-stranka-dela-dsd",
+        "name": "DEMOKRATIĆNA STRANKA DELA - DSD",
+        "party": "DEMOKRATIĆNA STRANKA DELA - DSD",
+        "color": "#64748b",
+        "votes": 7118,
+        "share": 0.645767,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zeleni-slovenije",
+        "name": "ZELENI SLOVENIJE",
+        "party": "ZELENI SLOVENIJE",
+        "color": "#64748b",
+        "votes": 4000,
+        "share": 0.362892,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "gibanje-za-slovenijo",
+        "name": "GIBANJE ZA SLOVENIJO",
+        "party": "GIBANJE ZA SLOVENIJO",
+        "color": "#64748b",
+        "votes": 3339,
+        "share": 0.302924,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-enakih-moznosti-slovenije-sem-si",
+        "name": "STRANKA ENAKIH MOŽNOSTI SLOVENIJE (SEM-Si)",
+        "party": "STRANKA ENAKIH MOŽNOSTI SLOVENIJE (SEM-Si)",
+        "color": "#64748b",
+        "votes": 1787,
+        "share": 0.162122,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "naprej-slovenija-nps",
+        "name": "NAPREJ SLOVENIJA - NPS",
+        "party": "NAPREJ SLOVENIJA - NPS",
+        "color": "#64748b",
+        "votes": 1100,
+        "share": 0.099795,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "ssn-stranka-slovenskega-naroda",
+        "name": "SSN - STRANKA SLOVENSKEGA NARODA",
+        "party": "SSN - STRANKA SLOVENSKEGA NARODA",
+        "color": "#64748b",
+        "votes": 976,
+        "share": 0.088546,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-humana-slovenija",
+        "name": "STRANKA HUMANA SLOVENIJA",
+        "party": "STRANKA HUMANA SLOVENIJA",
+        "color": "#64748b",
+        "votes": 295,
+        "share": 0.026763,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "akacije",
+        "name": "AKACIJE",
+        "party": "AKACIJE",
+        "color": "#64748b",
+        "votes": 212,
+        "share": 0.019233,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-predcasne-volitve/"
+      },
+      {
+        "label": "DVK national list result table",
+        "url": "https://www.dvk-rs.si/arhivi/dz2011/rezultati/rezultati_slo.html"
+      },
+      {
+        "label": "Previous comparable general election (seat changes)",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 1,121,573 voters / 1,709,692 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-2014-07-13-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "2014-07-13",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-2014",
+    "snap": true,
+    "summary": "SMC STRANKA MIRA CERARJA received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 51.72734,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 874,291 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "smc-stranka-mira-cerarja",
+        "name": "SMC STRANKA MIRA CERARJA",
+        "party": "SMC STRANKA MIRA CERARJA",
+        "color": "#64748b",
+        "votes": 301563,
+        "share": 34.492291,
+        "seats": 36,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-demokratska-stranka-sds",
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "color": "#64748b",
+        "votes": 181052,
+        "share": 20.708437,
+        "seats": 21,
+        "previousSeats": 26,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "desus-demokraticna-stranka-upokojencev-slovenije",
+        "name": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "party": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "color": "#64748b",
+        "votes": 88968,
+        "share": 10.176017,
+        "seats": 10,
+        "previousSeats": 6,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sd-socialni-demokrati",
+        "name": "SD - SOCIALNI DEMOKRATI",
+        "party": "SD - SOCIALNI DEMOKRATI",
+        "color": "#64748b",
+        "votes": 52249,
+        "share": 5.976157,
+        "seats": 6,
+        "previousSeats": 10,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "koalicija-zdruzena-levica-dsd-ids-in-stranka-trs",
+        "name": "KOALICIJA ZDRUŽENA LEVICA (DSD, IDS IN STRANKA TRS)",
+        "party": "KOALICIJA ZDRUŽENA LEVICA (DSD, IDS IN STRANKA TRS)",
+        "color": "#64748b",
+        "votes": 52189,
+        "share": 5.969294,
+        "seats": 6,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nova-slovenija-krscanski-demokrati",
+        "name": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+        "party": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+        "color": "#64748b",
+        "votes": 48846,
+        "share": 5.586927,
+        "seats": 5,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zaveznistvo-alenke-bratusek",
+        "name": "ZAVEZNIŠTVO ALENKE BRATUŠEK",
+        "party": "ZAVEZNIŠTVO ALENKE BRATUŠEK",
+        "color": "#64748b",
+        "votes": 38293,
+        "share": 4.379892,
+        "seats": 4,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sls-slovenska-ljudska-stranka",
+        "name": "SLS - SLOVENSKA LJUDSKA STRANKA",
+        "party": "SLS - SLOVENSKA LJUDSKA STRANKA",
+        "color": "#64748b",
+        "votes": 34548,
+        "share": 3.951545,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "pozitivna-slovenija",
+        "name": "POZITIVNA SLOVENIJA",
+        "party": "POZITIVNA SLOVENIJA",
+        "color": "#64748b",
+        "votes": 25975,
+        "share": 2.970979,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-nacionalna-stranka-sns",
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "color": "#64748b",
+        "votes": 19218,
+        "share": 2.198124,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "piratska-stranka-slovenije",
+        "name": "PIRATSKA STRANKA SLOVENIJE",
+        "party": "PIRATSKA STRANKA SLOVENIJE",
+        "color": "#64748b",
+        "votes": 11737,
+        "share": 1.342459,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-verjamem",
+        "name": "STRANKA VERJAMEM",
+        "party": "STRANKA VERJAMEM",
+        "color": "#64748b",
+        "votes": 6800,
+        "share": 0.777773,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "drzavljanska-lista",
+        "name": "DRŽAVLJANSKA LISTA",
+        "party": "DRŽAVLJANSKA LISTA",
+        "color": "#64748b",
+        "votes": 5556,
+        "share": 0.635486,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zeleni-slovenije",
+        "name": "ZELENI SLOVENIJE",
+        "party": "ZELENI SLOVENIJE",
+        "color": "#64748b",
+        "votes": 4629,
+        "share": 0.529458,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "enakopravni-dezelani-naprej-slovenija",
+        "name": "ENAKOPRAVNI DEŽELANI - NAPREJ SLOVENIJA",
+        "party": "ENAKOPRAVNI DEŽELANI - NAPREJ SLOVENIJA",
+        "color": "#64748b",
+        "votes": 2125,
+        "share": 0.243054,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "liberalno-gospodarska-stranka",
+        "name": "LIBERALNO GOSPODARSKA STRANKA",
+        "party": "LIBERALNO GOSPODARSKA STRANKA",
+        "color": "#64748b",
+        "votes": 458,
+        "share": 0.052385,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-humana-slovenija",
+        "name": "STRANKA HUMANA SLOVENIJA",
+        "party": "STRANKA HUMANA SLOVENIJA",
+        "color": "#64748b",
+        "votes": 85,
+        "share": 0.009722,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-leto-2014-predcasne-volitve/"
+      },
+      {
+        "label": "DVK national list result table",
+        "url": "https://www.dvk-rs.si/arhivi/dz2014/rezultati/rezultati_slo.html"
+      },
+      {
+        "label": "Previous comparable general election (seat changes)",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-predcasne-volitve/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 886,124 voters / 1,713,067 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-2018-06-03-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "2018-06-03",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-2018",
+    "snap": true,
+    "summary": "SLOVENSKA DEMOKRATSKA STRANKA - SDS received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 52.637627,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 891,097 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "andrej-cus-in-zeleni-slovenije",
+        "name": "ANDREJ ČUŠ IN ZELENI SLOVENIJE",
+        "party": "ZELENI",
+        "color": "#81D742",
+        "votes": 9708,
+        "share": 1.089444,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "desus-demokraticna-stranka-upokojencev-slovenije",
+        "name": "DeSUS – DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "party": "DeSUS",
+        "color": "#1CA5B8",
+        "votes": 43889,
+        "share": 4.925277,
+        "seats": 5,
+        "previousSeats": 10,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "dd-dobra-drzava",
+        "name": "DD DOBRA DRŽAVA",
+        "party": "DD",
+        "color": "#4AC9F6",
+        "votes": 13540,
+        "share": 1.519475,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "gas-gospodarsko-aktivna-stranka",
+        "name": "GAS - GOSPODARSKO AKTIVNA STRANKA",
+        "party": "GAS",
+        "color": "#2E83A2",
+        "votes": 3132,
+        "share": 0.351477,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "gibanje-zedinjena-slovenija",
+        "name": "GIBANJE ZEDINJENA SLOVENIJA",
+        "party": "Zsi",
+        "color": "#669966",
+        "votes": 5287,
+        "share": 0.593314,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "gibanjeskupajnaprej",
+        "name": "GIBANJESKUPAJNAPREJ",
+        "party": "GSN",
+        "color": "#FBB7D9",
+        "votes": 4345,
+        "share": 0.487601,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "kangler-primc-zdruzena-desnica-glas-za-otroke-in-druzine-nova-ljudska-stranka",
+        "name": "KANGLER & PRIMC  ZDRUŽENA DESNICA - GLAS ZA OTROKE IN DRUŽINE, NOVA LJUDSKA STRANKA",
+        "party": "ZDRUŽENA DESNICA",
+        "color": "#B7DEE8",
+        "votes": 2141,
+        "share": 0.240266,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "levica",
+        "name": "LEVICA",
+        "party": "LEVICA",
+        "color": "#F80000",
+        "votes": 83108,
+        "share": 9.326482,
+        "seats": 9,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "9ea80070-151e-5b2d-9907-a382853870e8"
+      },
+      {
+        "id": "lista-marjana-sarca",
+        "name": "LISTA MARJANA ŠARCA",
+        "party": "LMŠ",
+        "color": "#2D587B",
+        "votes": 112250,
+        "share": 12.596833,
+        "seats": 13,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "lista-novinarja-bojana-pozarja",
+        "name": "LISTA NOVINARJA BOJANA POŽARJA",
+        "party": "LNBP",
+        "color": "#ED58A0",
+        "votes": 7835,
+        "share": 0.879253,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "naprej-slovenija",
+        "name": "NAPREJ SLOVENIJA",
+        "party": "NPS",
+        "color": "#CCC0DA",
+        "votes": 187,
+        "share": 0.020985,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nova-slovenija-krscanski-demokrati",
+        "name": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+        "party": "NSi",
+        "color": "#0061D5",
+        "votes": 63792,
+        "share": 7.158817,
+        "seats": 7,
+        "previousSeats": 5,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "piratska-stranka-slovenije",
+        "name": "PIRATSKA STRANKA SLOVENIJE",
+        "party": "PIRATI",
+        "color": "#000000",
+        "votes": 19182,
+        "share": 2.152628,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "53536ae9-a033-5b03-a9d4-d9085ae4a149"
+      },
+      {
+        "id": "reset-resimo-slovenijo-elite-in-tajkunov",
+        "name": "ReSET - REŠIMO SLOVENIJO ELITE IN TAJKUNOV",
+        "party": "ReSET",
+        "color": "#934939",
+        "votes": 3672,
+        "share": 0.412076,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-demokratska-stranka-sds",
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SDS",
+        "color": "#FFE53F",
+        "votes": 222042,
+        "share": 24.917826,
+        "seats": 25,
+        "previousSeats": 21,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "956b12ab-87cb-509d-a50a-3d153dcefdee"
+      },
+      {
+        "id": "sls-slovenska-ljudska-stranka",
+        "name": "SLS SLOVENSKA LJUDSKA STRANKA",
+        "party": "SLS",
+        "color": "#10A851",
+        "votes": 23329,
+        "share": 2.618009,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-nacionalna-stranka-sns",
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SNS",
+        "color": "#DA9694",
+        "votes": 37182,
+        "share": 4.17261,
+        "seats": 4,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "smc-stranka-modernega-centra",
+        "name": "SMC - STRANKA MODERNEGA CENTRA",
+        "party": "SMC",
+        "color": "#13314D",
+        "votes": 86868,
+        "share": 9.748434,
+        "seats": 10,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "socialisticna-partija-slovenije",
+        "name": "SOCIALISTIČNA PARTIJA SLOVENIJE",
+        "party": "SPS",
+        "color": "#530282",
+        "votes": 1551,
+        "share": 0.174055,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "socialni-demokrati",
+        "name": "SOCIALNI DEMOKRATI",
+        "party": "SD",
+        "color": "#A62424",
+        "votes": 88524,
+        "share": 9.934272,
+        "seats": 10,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "cbb2d8d7-2e41-5fb5-b815-464ea424a63f"
+      },
+      {
+        "id": "solidarnost-za-pravicno-druzbo",
+        "name": "SOLIDARNOST, ZA PRAVIČNO DRUŽBO",
+        "party": "SOLIDARNOST",
+        "color": "#AB81FF",
+        "votes": 2184,
+        "share": 0.245091,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "ssn-stranka-slovenskega-naroda",
+        "name": "SSN - STRANKA SLOVENSKEGA NARODA",
+        "party": "SSN",
+        "color": "#002060",
+        "votes": 1237,
+        "share": 0.138818,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stranka-alenke-bratusek",
+        "name": "STRANKA ALENKE BRATUŠEK",
+        "party": "STRANKA AB",
+        "color": "#F3808A",
+        "votes": 45492,
+        "share": 5.105168,
+        "seats": 5,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "za-zdravo-druzbo",
+        "name": "ZA ZDRAVO DRUŽBO",
+        "party": "ZD",
+        "color": "#ADA702",
+        "votes": 5548,
+        "share": 0.622603,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zdruzena-levica-in-sloga",
+        "name": "ZDRUŽENA LEVICA IN SLOGA",
+        "party": "ZDRUŽENA LEVICA",
+        "color": "#F9AA06",
+        "votes": 5072,
+        "share": 0.569186,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/predcasne-volitve-v-drzavni-zbor-rs-2018/"
+      },
+      {
+        "label": "DVK national results JSON snapshot",
+        "url": "https://www.dvk-rs.si/arhivi/dz2018/data/rezultati.json"
+      },
+      {
+        "label": "Previous comparable general election (seat changes)",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-leto-2014-predcasne-volitve/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 901,512 voters / 1,712,676 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. General ballots cast 901,454; invalid 10,357; valid 891,097. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-2022-04-24-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "2022-04-24",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-2022",
+    "snap": false,
+    "summary": "GIBANJE SVOBODA received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 70.970919,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 1,192,293 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "desus-demokraticna-stranka-upokojencev-slovenije",
+        "name": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "party": "DeSUS",
+        "color": "#8DBC15",
+        "votes": 7840,
+        "share": 0.657556,
+        "seats": 0,
+        "previousSeats": 5,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "domovinska-liga-dom",
+        "name": "DOMOVINSKA LIGA - DOM",
+        "party": "DOM",
+        "color": "#023463",
+        "votes": 2117,
+        "share": 0.177557,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "drzavljansko-gibanje-resni-ca",
+        "name": "Državljansko gibanje Resni.ca",
+        "party": "Resni.ca",
+        "color": "#67359A",
+        "votes": 34107,
+        "share": 2.860622,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "e71696f1-35b2-57e9-98cd-40497a07ba44"
+      },
+      {
+        "id": "gibanje-svoboda",
+        "name": "GIBANJE SVOBODA",
+        "party": "SVOBODA",
+        "color": "#005DA3",
+        "votes": 410769,
+        "share": 34.452018,
+        "seats": 41,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "12680b65-0cc4-50f4-947a-040491921f75"
+      },
+      {
+        "id": "gibanje-zedinjena-slovenija-zsi",
+        "name": "Gibanje Zedinjena Slovenija - ZSi",
+        "party": "ZSi",
+        "color": "#C6EFFA",
+        "votes": 168,
+        "share": 0.01409,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "levica",
+        "name": "LEVICA",
+        "party": "LEVICA",
+        "color": "#FB4C48",
+        "votes": 53234,
+        "share": 4.464842,
+        "seats": 5,
+        "previousSeats": 9,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "9ea80070-151e-5b2d-9907-a382853870e8"
+      },
+      {
+        "id": "lista-borisa-popovica-digitalizirajmo-slovenijo",
+        "name": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+        "party": "L'BP",
+        "color": "#0089CD",
+        "votes": 5174,
+        "share": 0.433954,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "lista-marjana-sarca-lms",
+        "name": "LISTA MARJANA ŠARCA - LMŠ",
+        "party": "LMŠ",
+        "color": "#23A567",
+        "votes": 44401,
+        "share": 3.724001,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nasa-dezela-stranka-dr-aleksandre-pivec",
+        "name": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+        "party": "NAŠA DEŽELA",
+        "color": "#126C00",
+        "votes": 17846,
+        "share": 1.49678,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nasa-prihodnost-in-dobra-drzava",
+        "name": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+        "party": "SNP-DD",
+        "color": "#8DE0FD",
+        "votes": 20279,
+        "share": 1.70084,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nestrankarska-ljudska-lista-gibanja-zdrava-druzba",
+        "name": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+        "party": "NESTRANKARSKA",
+        "color": "#ADA702",
+        "votes": 21021,
+        "share": 1.763073,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "nova-slovenija-krscanski-demokrati",
+        "name": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+        "party": "NSi",
+        "color": "#009AC7",
+        "votes": 81794,
+        "share": 6.860226,
+        "seats": 8,
+        "previousSeats": 7,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "piratska-stranka-slovenije",
+        "name": "PIRATSKA STRANKA SLOVENIJE",
+        "party": "Pirati",
+        "color": "#000000",
+        "votes": 19480,
+        "share": 1.633827,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "53536ae9-a033-5b03-a9d4-d9085ae4a149"
+      },
+      {
+        "id": "povezimo-slovenijo-konkretno-zeleni-sls-nls-ns",
+        "name": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+        "party": "POVEŽIMO",
+        "color": "#E8AB02",
+        "votes": 40612,
+        "share": 3.40621,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-demokratska-stranka-sds",
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SDS",
+        "color": "#FFE53F",
+        "votes": 279897,
+        "share": 23.475522,
+        "seats": 27,
+        "previousSeats": 25,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "956b12ab-87cb-509d-a50a-3d153dcefdee"
+      },
+      {
+        "id": "slovenska-nacionalna-stranka-sns",
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SNS",
+        "color": "#4D4D4D",
+        "votes": 17736,
+        "share": 1.487554,
+        "seats": 0,
+        "previousSeats": 4,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "socialni-demokrati-sd",
+        "name": "SOCIALNI DEMOKRATI - SD",
+        "party": "SD",
+        "color": "#CB000D",
+        "votes": 79709,
+        "share": 6.685353,
+        "seats": 7,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "cbb2d8d7-2e41-5fb5-b815-464ea424a63f"
+      },
+      {
+        "id": "stranka-alenke-bratusek",
+        "name": "STRANKA ALENKE BRATUŠEK",
+        "party": "SAB",
+        "color": "#F3808A",
+        "votes": 31117,
+        "share": 2.609845,
+        "seats": 0,
+        "previousSeats": 5,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "vesna-zelena-stranka",
+        "name": "VESNA - zelena stranka",
+        "party": "VESNA",
+        "color": "#C9FFA1",
+        "votes": 16089,
+        "share": 1.349417,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "za-ljudstvo-slovenije-zls",
+        "name": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+        "party": "ZLS",
+        "color": "#89AEDB",
+        "votes": 8340,
+        "share": 0.699492,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zos-zaveznistvo-osvobodimo-slovenijo-gibanje-zedinjena-slovenija-zsi-in-stranka-slovenskeg",
+        "name": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+        "party": "ZOS",
+        "color": "#129847",
+        "votes": 563,
+        "share": 0.04722,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/"
+      },
+      {
+        "label": "DVK national results JSON snapshot",
+        "url": "https://www.dvk-rs.si/arhivi/dz2022/data/rezultati.json"
+      },
+      {
+        "label": "Previous comparable general election (seat changes)",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/predcasne-volitve-v-drzavni-zbor-rs-2018/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 1,203,522 voters / 1,695,796 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. General ballots cast 1,203,373; invalid 11,080; valid 1,192,293. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-2026-03-22-assembly",
+    "countryId": "si",
+    "title": "National Assembly election",
+    "type": "parliamentary",
+    "body": "National Assembly (Državni zbor)",
+    "startDate": "2026-03-22",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "General election",
+    "seriesId": "slovenia-assembly-2026",
+    "snap": false,
+    "summary": "GIBANJE SVOBODA received the most national list votes. The National Assembly has 90 seats, including two seats reserved for the Italian and Hungarian national communities.",
+    "government": "",
+    "turnout": 70.248959,
+    "totalSeats": 90,
+    "resultStatus": "final",
+    "resultCoverage": "partial",
+    "voteBasis": "National list votes; 1,179,769 valid general-election ballots (minority ballots excluded)",
+    "results": [
+      {
+        "id": "socialni-demokrati",
+        "name": "SOCIALNI DEMOKRATI",
+        "party": "SD",
+        "color": "#fc0010",
+        "votes": 79175,
+        "share": 6.71106,
+        "seats": 6,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "cbb2d8d7-2e41-5fb5-b815-464ea424a63f"
+      },
+      {
+        "id": "drzavljansko-gibanje-resni-ca",
+        "name": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+        "party": "RESNI.CA",
+        "color": "#7e5096",
+        "votes": 64799,
+        "share": 5.492516,
+        "seats": 5,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "e71696f1-35b2-57e9-98cd-40497a07ba44"
+      },
+      {
+        "id": "mi-socialisti",
+        "name": "MI, SOCIALISTI!",
+        "party": "MI, SOCIALISTI!",
+        "color": "#fb4c48",
+        "votes": 5657,
+        "share": 0.479501,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "glas-upokojencev-pavla-ruparja",
+        "name": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+        "party": "GLAS UPOKOJENCEV",
+        "color": "#020437",
+        "votes": 4193,
+        "share": 0.355409,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-demokratska-stranka-sds",
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SDS",
+        "color": "#FFE53F",
+        "votes": 328923,
+        "share": 27.880288,
+        "seats": 28,
+        "previousSeats": 27,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "956b12ab-87cb-509d-a50a-3d153dcefdee"
+      },
+      {
+        "id": "levica-in-vesna",
+        "name": "LEVICA IN VESNA",
+        "party": "LEVICA IN VESNA",
+        "color": "#b30020",
+        "votes": 67183,
+        "share": 5.694589,
+        "seats": 5,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "karl-erjavec-stranka-zaupanje",
+        "name": "KARL ERJAVEC STRANKA ZAUPANJE",
+        "party": "ZAUPANJE",
+        "color": "#89aedb",
+        "votes": 2995,
+        "share": 0.253863,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "prerod-stranka-vladimirja-prebilica",
+        "name": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+        "party": "PREROD",
+        "color": "#ed0990",
+        "votes": 35976,
+        "share": 3.049411,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "piratska-stranka-slovenije",
+        "name": "PIRATSKA STRANKA SLOVENIJE",
+        "party": "PIRATI",
+        "color": "#000000",
+        "votes": 27811,
+        "share": 2.357326,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "53536ae9-a033-5b03-a9d4-d9085ae4a149"
+      },
+      {
+        "id": "nova-slovenija-slovenska-ljudska-stranka-fokus-marka-lotrica",
+        "name": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+        "party": "NSi, SLS, FOKUS",
+        "color": "#009ac7",
+        "votes": 109201,
+        "share": 9.256134,
+        "seats": 9,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "gibanje-svoboda",
+        "name": "GIBANJE SVOBODA",
+        "party": "SVOBODA",
+        "color": "#0063a6",
+        "votes": 338102,
+        "share": 28.658322,
+        "seats": 29,
+        "previousSeats": 41,
+        "electoralVotes": null,
+        "winner": false,
+        "partyId": "12680b65-0cc4-50f4-947a-040491921f75"
+      },
+      {
+        "id": "zeleni-slovenije-sg-stranka-generacij",
+        "name": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+        "party": "ZELENI+SG",
+        "color": "#75a948",
+        "votes": 5277,
+        "share": 0.447291,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "sloga",
+        "name": "SLOGA",
+        "party": "SLOGA",
+        "color": "#023463",
+        "votes": 251,
+        "share": 0.021275,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "resitev-stranka-upokojencev-velenje-slovenija",
+        "name": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+        "party": "REŠITEV",
+        "color": "#ADA702",
+        "votes": 164,
+        "share": 0.013901,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "demokrati-anzeta-logarja",
+        "name": "DEMOKRATI. ANŽETA LOGARJA",
+        "party": "DEMOKRATI.",
+        "color": "#01beac",
+        "votes": 78902,
+        "share": 6.687919,
+        "seats": 6,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "slovenska-nacionalna-stranka-sns",
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SNS",
+        "color": "#4d4d4d",
+        "votes": 26375,
+        "share": 2.235607,
+        "seats": 0,
+        "previousSeats": 0,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "koalicija-alternativa-za-slovenijo-stranka-nic-od-tega-in-stranka-za-zdravo-druzbo",
+        "name": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+        "party": "ALTERNATIVA",
+        "color": "#F3808A",
+        "votes": 4785,
+        "share": 0.405588,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive and results",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-drzavni-zbor/"
+      },
+      {
+        "label": "DVK national results JSON snapshot",
+        "url": "https://www.dvk-rs.si/arhivi/dz2026/data/rezultati.json"
+      },
+      {
+        "label": "Previous comparable general election (seat changes)",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "88 seats are allocated from the general list ballot. National-community elections have separate ballots and denominators. Minority candidate results have not been transcribed; coverage is partial. Turnout: 1,190,932 voters / 1,695,302 eligible voters; the voter count is distinct from ballots cast. General ballot: eight 11-seat constituencies, proportional representation with national allocation; the four-percent national threshold applies from 2000. Earlier elections used the earlier allocation rules. General ballots cast 1,190,819; invalid 11,050; valid 1,179,769. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": 46
+  },
+  {
+    "id": "world-slovenia-1992-12-06-president-round-1",
+    "countryId": "si",
+    "title": "Presidential election — first round",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "1992-12-06",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 1",
+    "seriesId": "slovenia-president-1992",
+    "snap": false,
+    "summary": "Milan Kučan was elected president.",
+    "government": "",
+    "turnout": 85.843792,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 1,242,358 valid ballots in this round",
+    "results": [
+      {
+        "id": "ivan-bizjak",
+        "name": "Ivan Bizjak",
+        "party": "Slovenski krščanski demokrati (SKD)",
+        "color": "#64748b",
+        "votes": 262847,
+        "share": 21.157106,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1992,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "stanislav-buser",
+        "name": "Stanislav Buser",
+        "party": "Slovenska ljudska stranka (SLS)",
+        "color": "#64748b",
+        "votes": 24042,
+        "share": 1.935191,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1992,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "jelko-kacin",
+        "name": "Jelko Kacin",
+        "party": "Demokratska stranka Slovenije (DSS)",
+        "color": "#64748b",
+        "votes": 90711,
+        "share": 7.301519,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1992,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "milan-kucan",
+        "name": "Milan Kučan",
+        "party": "skupina volivcev (priloženih 43.834 podpisov)",
+        "color": "#64748b",
+        "votes": 793851,
+        "share": 63.898731,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1992,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "darja-lavtizar-bebler",
+        "name": "Darja Lavtižar Bebler",
+        "party": "Socialistična stranka Slovenije (SSS)",
+        "color": "#64748b",
+        "votes": 22681,
+        "share": 1.825641,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1992,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "ljubo-sirc",
+        "name": "Ljubo Sirc",
+        "party": "Liberalno demokratska stranka (LDS)",
+        "color": "#64748b",
+        "votes": 18774,
+        "share": 1.511159,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1992,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "france-tomsic",
+        "name": "France Tomšič",
+        "party": "Socialdemokratska stranka Slovenije (SDS)",
+        "color": "#64748b",
+        "votes": 7849,
+        "share": 0.631782,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1992,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "alenka-zagar-slana",
+        "name": "Alenka Žagar Slana",
+        "party": "Narodni demokrati (NDS)",
+        "color": "#64748b",
+        "votes": 21603,
+        "share": 1.738871,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1992,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-1992/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      },
+      {
+        "label": "Certified 1992 final report",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/predsednika_rs_1992/porocilo_pr_1992.pdf"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 1,280,252 voters / 1,491,374 eligible voters. Ballots cast 1,278,155; invalid 35,797; valid 1,242,358. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. Eligible total includes 940 voters admitted by certificate, omitted from the retrospective denominator. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null
+  },
+  {
+    "id": "world-slovenia-1997-11-23-president-round-1",
+    "countryId": "si",
+    "title": "Presidential election — first round",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "1997-11-23",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 1",
+    "seriesId": "slovenia-president-1997",
+    "snap": false,
+    "summary": "Milan Kučan was elected president.",
+    "government": "",
+    "turnout": 68.645161,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 1,042,344 valid ballots in this round",
+    "results": [
+      {
+        "id": "jozef-bernik",
+        "name": "Jožef Bernik",
+        "party": "Socialdemokratska stranka Slovenije (SDS) in Slovenski krščanski demokrati (SKD)",
+        "color": "#64748b",
+        "votes": 98996,
+        "share": 9.49744,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1997,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "marjan-cerar",
+        "name": "Marjan Cerar",
+        "party": "Aleš Orel in skupina volivcev",
+        "color": "#64748b",
+        "votes": 73439,
+        "share": 7.045563,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1997,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "bogomir-kovac",
+        "name": "Bogomir Kovač",
+        "party": "Liberalna demokracija Slovenije (LDS)",
+        "color": "#64748b",
+        "votes": 28110,
+        "share": 2.696806,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1997,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "milan-kucan",
+        "name": "Milan Kučan",
+        "party": "dr. Matjaž Kmecl in skupina volivcev",
+        "color": "#64748b",
+        "votes": 578925,
+        "share": 55.540685,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1997,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "franc-miklavcic",
+        "name": "Franc Miklavčič",
+        "party": "Krščansko-socialna unija (KSU)",
+        "color": "#64748b",
+        "votes": 5713,
+        "share": 0.548092,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1997,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "anton-persak",
+        "name": "Anton Peršak",
+        "party": "Demokratska stranka Slovenije (DSS)",
+        "color": "#64748b",
+        "votes": 32039,
+        "share": 3.073745,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1997,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "janez-podobnik",
+        "name": "Janez Podobnik",
+        "party": "Slovenska ljudska stranka (SLS)",
+        "color": "#64748b",
+        "votes": 191645,
+        "share": 18.385965,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1997,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "marjan-poljsak",
+        "name": "Marjan Poljšak",
+        "party": "Nacionalna stranka dela (NSD)",
+        "color": "#64748b",
+        "votes": 33477,
+        "share": 3.211704,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 1997,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-1997/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      },
+      {
+        "label": "Certified final report in Official Gazette",
+        "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/1997-01-3661/porocilo-o-izidu-volitev-predsednika-republike"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 1,064,532 voters / 1,550,775 eligible voters. Ballots cast 1,064,446; invalid 22,102; valid 1,042,344. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. The certified report supersedes erroneous voter and ballot totals in the retrospective overview. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null
+  },
+  {
+    "id": "world-slovenia-2002-11-10-president-round-1",
+    "countryId": "si",
+    "title": "Presidential election — first round",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2002-11-10",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 1",
+    "seriesId": "slovenia-president-2002",
+    "snap": false,
+    "summary": "Janez Drnovšek led the first round; the two highest-polling candidates advanced to the runoff.",
+    "government": "",
+    "turnout": 72.069553,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 1,144,472 valid ballots in this round",
+    "results": [
+      {
+        "id": "franc-arhar",
+        "name": "Franc Arhar",
+        "party": "dr. Jože Mencinger in skupina volivcev, s podporo SLS",
+        "color": "#64748b",
+        "votes": 86836,
+        "share": 7.587429,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "anton-bebler",
+        "name": "Anton Bebler",
+        "party": "Demokratična stranka upokojencev Slovenije (DeSUS)",
+        "color": "#64748b",
+        "votes": 21165,
+        "share": 1.849324,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "barbara-brezigar",
+        "name": "Barbara Brezigar",
+        "party": "dr. Vasko Simoniti in skupina volivcev, s podporo SDS in NSi",
+        "color": "#64748b",
+        "votes": 352520,
+        "share": 30.801977,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "franc-bucar",
+        "name": "Franc Bučar",
+        "party": "dr. Viljem Kovač in skupina volivcev, s podporo SMS in zunajparlamentarne stranke Demokratov",
+        "color": "#64748b",
+        "votes": 37069,
+        "share": 3.238961,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "jure-jurcek-cekuta",
+        "name": "Jure Jurček Cekuta",
+        "party": "Stanislav Gradišnik in skupina volivcev",
+        "color": "#64748b",
+        "votes": 6184,
+        "share": 0.540337,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "gorazd-drevensek",
+        "name": "Gorazd Drevenšek",
+        "party": "NOVA stranka – zunajparlamentarna stranka",
+        "color": "#64748b",
+        "votes": 9791,
+        "share": 0.855504,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "janez-drnovsek",
+        "name": "Janez Drnovšek",
+        "party": "Liberalna demokracija Slovenije (LDS)",
+        "color": "#64748b",
+        "votes": 508014,
+        "share": 44.388504,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "zmago-jelincic-plemeniti",
+        "name": "Zmago Jelinčič Plemeniti",
+        "party": "Slovenska nacionalna stranka (SNS)",
+        "color": "#64748b",
+        "votes": 97178,
+        "share": 8.491077,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "lev-kreft",
+        "name": "Lev Kreft",
+        "party": "Združena lista socialnih demokratov (ZLSD)",
+        "color": "#64748b",
+        "votes": 25715,
+        "share": 2.246888,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2002/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 1,160,309 voters / 1,609,985 eligible voters. Ballots cast 1,159,681; invalid 15,209; valid 1,144,472. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. Runoff voters: 1,052,795 in the contemporary DVK report; the retrospective overview misprints 1,052,759. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2002-12-01-president-round-2"
+    ]
+  },
+  {
+    "id": "world-slovenia-2002-12-01-president-round-2",
+    "countryId": "si",
+    "title": "Presidential election — runoff",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2002-12-01",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 2",
+    "seriesId": "slovenia-president-2002",
+    "snap": false,
+    "summary": "Janez Drnovšek was elected president.",
+    "government": "",
+    "turnout": 65.38543,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 1,038,219 valid ballots in this round",
+    "results": [
+      {
+        "id": "janez-drnovsek",
+        "name": "Janez Drnovšek",
+        "party": "Liberalna demokracija Slovenije (LDS)",
+        "color": "#64748b",
+        "votes": 586847,
+        "share": 56.524394,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "barbara-brezigar",
+        "name": "Barbara Brezigar",
+        "party": "dr. Vasko Simoniti in skupina volivcev, s podporo SDS in NSi",
+        "color": "#64748b",
+        "votes": 451372,
+        "share": 43.475606,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2002,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2002/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 1,052,795 voters / 1,610,137 eligible voters. Ballots cast 1,052,494; invalid 14,275; valid 1,038,219. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. Runoff voters: 1,052,795 in the contemporary DVK report; the retrospective overview misprints 1,052,759. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2002-11-10-president-round-1"
+    ]
+  },
+  {
+    "id": "world-slovenia-2007-10-21-president-round-1",
+    "countryId": "si",
+    "title": "Presidential election — first round",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2007-10-21",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 1",
+    "seriesId": "slovenia-president-2007",
+    "snap": false,
+    "summary": "Lojze Peterle led the first round; the two highest-polling candidates advanced to the runoff.",
+    "government": "",
+    "turnout": 57.672535,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 986,429 valid ballots in this round",
+    "results": [
+      {
+        "id": "mitja-gaspari",
+        "name": "Mitja Gaspari",
+        "party": "dr. Jože Mencinger in skupina volivcev, s podporo LDS",
+        "color": "#64748b",
+        "votes": 237632,
+        "share": 24.090127,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "zmago-jelincic-plemeniti",
+        "name": "Zmago Jelinčič Plemeniti",
+        "party": "Slovenska nacionalna stranka (SNS)",
+        "color": "#64748b",
+        "votes": 188951,
+        "share": 19.155053,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "darko-krajnc",
+        "name": "Darko Krajnc",
+        "party": "Stranka mladih Slovenije (SMS)",
+        "color": "#64748b",
+        "votes": 21526,
+        "share": 2.182215,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "elena-pecaric",
+        "name": "Elena Pečarič",
+        "party": "stranka Akacije",
+        "color": "#64748b",
+        "votes": 8830,
+        "share": 0.895148,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "lojze-peterle",
+        "name": "Lojze Peterle",
+        "party": "Ivo Boscarol (Lista za Slovenijo) in skupina volivcev",
+        "color": "#64748b",
+        "votes": 283412,
+        "share": 28.73111,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "monika-piberl",
+        "name": "Monika Piberl",
+        "party": "Glas žensk Slovenije",
+        "color": "#64748b",
+        "votes": 4729,
+        "share": 0.479406,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "danilo-turk",
+        "name": "Danilo Türk",
+        "party": "dr. Dragica Wedam Lukič in skupina volivcev, s podporo SD, DeSUS in Zares",
+        "color": "#64748b",
+        "votes": 241349,
+        "share": 24.466941,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2007/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 992,245 voters / 1,720,481 eligible voters. Ballots cast 991,708; invalid 5,279; valid 986,429. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2007-11-11-president-round-2"
+    ]
+  },
+  {
+    "id": "world-slovenia-2007-11-11-president-round-2",
+    "countryId": "si",
+    "title": "Presidential election — runoff",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2007-11-11",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 2",
+    "seriesId": "slovenia-president-2007",
+    "snap": false,
+    "summary": "Danilo Türk was elected president.",
+    "government": "",
+    "turnout": 58.458912,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 995,621 valid ballots in this round",
+    "results": [
+      {
+        "id": "danilo-turk",
+        "name": "Danilo Türk",
+        "party": "dr. Dragica Wedam Lukič in skupina volivcev, s podporo SD, DeSUS in Zares",
+        "color": "#64748b",
+        "votes": 677333,
+        "share": 68.031209,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "lojze-peterle",
+        "name": "Lojze Peterle",
+        "party": "Ivo Boscarol (Lista za Slovenijo) in skupina volivcev",
+        "color": "#64748b",
+        "votes": 318288,
+        "share": 31.968791,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2007,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2007/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 1,005,595 voters / 1,720,174 eligible voters. Ballots cast 1,005,359; invalid 9,738; valid 995,621. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2007-10-21-president-round-1"
+    ]
+  },
+  {
+    "id": "world-slovenia-2012-11-11-president-round-1",
+    "countryId": "si",
+    "title": "Presidential election — first round",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2012-11-11",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 1",
+    "seriesId": "slovenia-president-2012",
+    "snap": false,
+    "summary": "Borut Pahor led the first round; the two highest-polling candidates advanced to the runoff.",
+    "government": "",
+    "turnout": 48.414972,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 817,772 valid ballots in this round",
+    "results": [
+      {
+        "id": "borut-pahor",
+        "name": "Borut Pahor",
+        "party": "Socialni demokrati (SD) – priloženih 4456 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 326006,
+        "share": 39.865146,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2012,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "danilo-turk",
+        "name": "Danilo Türk",
+        "party": "dr. Dragica Wedam Lukič in skupina volivcev – priloženih 13.078 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 293429,
+        "share": 35.881517,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2012,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "milan-zver",
+        "name": "Milan Zver",
+        "party": "Slovenska demokratska stranka (SDS) in Nova Slovenija – Krščanska ljudska stranka (NSi)",
+        "color": "#64748b",
+        "votes": 198337,
+        "share": 24.253337,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2012,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2012/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      },
+      {
+        "label": "DVK certified first-round results",
+        "url": "https://www.dvk-rs.si/arhivi/vp2012/rezultati/rezultati.html"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 828,752 voters / 1,711,768 eligible voters. Ballots cast 828,624; invalid 10,852; valid 817,772. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. The retrospective overview swaps Türk and Zver first-round totals; corrected from the certified result table. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2012-12-02-president-round-2"
+    ]
+  },
+  {
+    "id": "world-slovenia-2012-12-02-president-round-2",
+    "countryId": "si",
+    "title": "Presidential election — runoff",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2012-12-02",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 2",
+    "seriesId": "slovenia-president-2012",
+    "snap": false,
+    "summary": "Borut Pahor was elected president.",
+    "government": "",
+    "turnout": 42.406342,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 710,830 valid ballots in this round",
+    "results": [
+      {
+        "id": "borut-pahor",
+        "name": "Borut Pahor",
+        "party": "Socialni demokrati (SD) – priloženih 4456 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 478859,
+        "share": 67.366178,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2012,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "danilo-turk",
+        "name": "Danilo Türk",
+        "party": "dr. Dragica Wedam Lukič in skupina volivcev – priloženih 13.078 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 231971,
+        "share": 32.633822,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2012,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2012/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      },
+      {
+        "label": "DVK certified first-round results",
+        "url": "https://www.dvk-rs.si/arhivi/vp2012/rezultati/rezultati.html"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 725,768 voters / 1,711,461 eligible voters. Ballots cast 725,700; invalid 14,870; valid 710,830. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. The retrospective overview swaps Türk and Zver first-round totals; corrected from the certified result table. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2012-11-11-president-round-1"
+    ]
+  },
+  {
+    "id": "world-slovenia-2017-10-22-president-round-1",
+    "countryId": "si",
+    "title": "Presidential election — first round",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2017-10-22",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 1",
+    "seriesId": "slovenia-president-2017",
+    "snap": false,
+    "summary": "Borut Pahor led the first round; the two highest-polling candidates advanced to the runoff.",
+    "government": "",
+    "turnout": 44.235314,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 752,264 valid ballots in this round",
+    "results": [
+      {
+        "id": "ljudmila-novak",
+        "name": "Ljudmila Novak",
+        "party": "Nova Slovenija – krščanski demokrati (NSi)",
+        "color": "#64748b",
+        "votes": 54437,
+        "share": 7.236422,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "marjan-sarec",
+        "name": "Marjan Šarec",
+        "party": "Lista Marjana Šarca (LMŠ) – priloženih 4.473 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 186235,
+        "share": 24.756601,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "maja-makovec-brencic",
+        "name": "Maja Makovec Brenčič",
+        "party": "Stranka modernega centra (SMC)",
+        "color": "#64748b",
+        "votes": 13052,
+        "share": 1.735029,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "borut-pahor",
+        "name": "Borut Pahor",
+        "party": "mag. Dejan Židan in skupina volivcev – priloženih 5.077 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 355117,
+        "share": 47.206433,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "angela-angelca-likovic",
+        "name": "Angela (Angelca) Likovič",
+        "party": "Glas za otroke in družine – priloženih 3.195 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 4418,
+        "share": 0.587294,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "boris-popovic",
+        "name": "Boris Popovič",
+        "party": "Slovenija za vedno – priloženih 4.627 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 13559,
+        "share": 1.802426,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "romana-tomc",
+        "name": "Romana Tomc",
+        "party": "Slovenska demokratska stranka (SDS)",
+        "color": "#64748b",
+        "votes": 102925,
+        "share": 13.682032,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "suzana-lara-krause",
+        "name": "Suzana Lara Krause",
+        "party": "Slovenska ljudska stranka (SLS) – priloženih 3.688 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 5885,
+        "share": 0.782305,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "andrej-sisko",
+        "name": "Andrej Šiško",
+        "party": "Gibanje Zedinjena Slovenija – priloženih 3.688 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 16636,
+        "share": 2.211458,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2017/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 758,088 voters / 1,713,762 eligible voters. Ballots cast 757,898; invalid 5,634; valid 752,264. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. Turnout is calculated from voter counts, rather than the inconsistent rounded percentages in the retrospective overview. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2017-11-12-president-round-2"
+    ]
+  },
+  {
+    "id": "world-slovenia-2017-11-12-president-round-2",
+    "countryId": "si",
+    "title": "Presidential election — runoff",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2017-11-12",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 2",
+    "seriesId": "slovenia-president-2017",
+    "snap": false,
+    "summary": "Borut Pahor was elected president.",
+    "government": "",
+    "turnout": 42.130457,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 712,546 valid ballots in this round",
+    "results": [
+      {
+        "id": "borut-pahor",
+        "name": "Borut Pahor",
+        "party": "mag. Dejan Židan in skupina volivcev – priloženih 5.077 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 378307,
+        "share": 53.092292,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "marjan-sarec",
+        "name": "Marjan Šarec",
+        "party": "Lista Marjana Šarca (LMŠ) – priloženih 4.473 obrazcev podpisov podpore",
+        "color": "#64748b",
+        "votes": 334239,
+        "share": 46.907708,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2017,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2017/"
+      },
+      {
+        "label": "DVK historical candidates, proposers and turnout overview (cross-checked)",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/VOLITVE_PREDSEDNIKA_REPUBLIKE__1992_do_2017__-_podatki_o_kandidatih__prejetih_glasovih_in_udelezbi.doc"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 721,894 voters / 1,713,473 eligible voters. Ballots cast 721,801; invalid 9,255; valid 712,546. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. Turnout is calculated from voter counts, rather than the inconsistent rounded percentages in the retrospective overview. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2017-10-22-president-round-1"
+    ]
+  },
+  {
+    "id": "world-slovenia-2022-10-23-president-round-1",
+    "countryId": "si",
+    "title": "Presidential election — first round",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2022-10-23",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 1",
+    "seriesId": "slovenia-president-2022",
+    "snap": false,
+    "summary": "Anže Logar led the first round; the two highest-polling candidates advanced to the runoff.",
+    "government": "",
+    "turnout": 51.73901,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 871,941 valid ballots in this round",
+    "results": [
+      {
+        "id": "milan-brglez",
+        "name": "Milan Brglez",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 134726,
+        "share": 15.451275,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "anze-logar",
+        "name": "Anže Logar",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 296000,
+        "share": 33.947251,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "janez-cigler-kralj",
+        "name": "Janez Cigler Kralj",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 38113,
+        "share": 4.371053,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "miha-kordis",
+        "name": "Miha Kordiš",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 24518,
+        "share": 2.811888,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "natasa-pirc-musar",
+        "name": "Nataša Pirc Musar",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 234361,
+        "share": 26.87808,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        },
+        "advanced": true
+      },
+      {
+        "id": "vladimir-prebilic",
+        "name": "Vladimir Prebilič",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 92456,
+        "share": 10.60347,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "sabina-sencar",
+        "name": "Sabina Senčar",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 51767,
+        "share": 5.936984,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2022-01-3446/zapisnik-o-ugotovitvi-izida-volitev-predsednika-republike-23--10--2022"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 876,687 voters / 1,694,441 eligible voters. Ballots cast 876,566; invalid 4,625; valid 871,941. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2022-11-13-president-round-2"
+    ]
+  },
+  {
+    "id": "world-slovenia-2022-11-13-president-round-2",
+    "countryId": "si",
+    "title": "Presidential election — runoff",
+    "type": "presidential",
+    "body": "President of the Republic",
+    "startDate": "2022-11-13",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Round 2",
+    "seriesId": "slovenia-president-2022",
+    "snap": false,
+    "summary": "Nataša Pirc Musar was elected president.",
+    "government": "",
+    "turnout": 53.5971,
+    "totalSeats": null,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 897,841 valid ballots in this round",
+    "results": [
+      {
+        "id": "anze-logar",
+        "name": "Anže Logar",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 414029,
+        "share": 46.113844,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      },
+      {
+        "id": "natasa-pirc-musar",
+        "name": "Nataša Pirc Musar",
+        "party": "Voter-nominated / proposer not assessed",
+        "color": "#64748b",
+        "votes": 483812,
+        "share": 53.886156,
+        "seats": null,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true,
+        "ideologyBasis": {
+          "kind": "unassessed",
+          "year": 2022,
+          "note": "No election-era ideological assessment has been made; proposer labels are not ideological classifications.",
+          "sources": []
+        }
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK election archive",
+        "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2022-01-3743/zapisnik-o-ugotoviti-koncnega-izida-volitev-predsednika-republike-13--11--2022"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "Direct election by absolute majority of valid votes; if no candidate wins a majority, the two leading candidates contest a separate runoff. Five-year term. Turnout: 908,138 voters / 1,694,379 eligible voters. Ballots cast 908,065; invalid 10,224; valid 897,841. Candidate shares use only this round. Proposer labels retain election-era support and do not imply party membership. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2022-10-23-president-round-1"
+    ]
+  },
+  {
+    "id": "world-slovenia-1997-04-20-council-local-interests-electoral-district-8",
+    "countryId": "si",
+    "title": "National Council replacement election: Local interests — electoral district 8",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "1997-04-20",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-1997",
+    "snap": false,
+    "summary": "Miroslav Steržaj was elected to the National Council for Local interests — electoral district 8.",
+    "government": "",
+    "turnout": 18.94437,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 10455 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "jozef-kocuvan",
+        "name": "Jožef Kocuvan",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 4559,
+        "share": 43.60593,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "miroslav-sterzaj",
+        "name": "Miroslav Steržaj",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 5896,
+        "share": 56.39407,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-nadomestne-volitve-1997/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/1997-01-1495/porocilo-o-izidu-nadomestnih-volitev-clana-drzavnega-sveta"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible voters: 58619; participants: 11105; valid ballots: 10455. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. This historical replacement contest was a direct public vote, as stated in the certified report, rather than the modern indirect electoral-college procedure. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "direct",
+    "majorityThreshold": null
+  },
+  {
+    "id": "world-slovenia-2008-03-12-council-independent-professions",
+    "countryId": "si",
+    "title": "National Council replacement election: Independent professions",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2008-03-12",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2008",
+    "snap": false,
+    "summary": "Mihael Jenčič was elected to the National Council for Independent professions.",
+    "government": "",
+    "turnout": 95.454545,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 21 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "mihael-jencic",
+        "name": "Mihael Jenčič",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 12,
+        "share": 57.142857,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      },
+      {
+        "id": "andrej-pengov-bitenc",
+        "name": "Andrej Pengov Bitenc",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 4,
+        "share": 19.047619,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "crtomir-remec",
+        "name": "Črtomir Remec",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 0,
+        "share": 0.0,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "igor-setinc",
+        "name": "Igor Šetinc",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 5,
+        "share": 23.809524,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-2/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2008/Porocilo-o-izidu-naknadnih-volitev---samostojni-poklici.pdf"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 22; participants: 21; valid ballots: 21. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2008-04-09-council-local-interests-electoral-district-18"
+    ]
+  },
+  {
+    "id": "world-slovenia-2008-04-09-council-local-interests-electoral-district-18",
+    "countryId": "si",
+    "title": "National Council replacement election: Local interests — electoral district 18",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2008-04-09",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2008",
+    "snap": false,
+    "summary": "Boris Popovič was elected to the National Council for Local interests — electoral district 18.",
+    "government": "",
+    "turnout": 94.444444,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 17 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "marijan-toncic",
+        "name": "Marijan Tončić",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 2,
+        "share": 11.764706,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "darko-grad",
+        "name": "Darko Grad",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 3,
+        "share": 17.647059,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "boris-popovic",
+        "name": "Boris Popovič",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 12,
+        "share": 70.588235,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-2/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2008/Porocilo-o-izidu-ponovnih-volitev-clana-DS---lokalni-interesi.pdf"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 18; participants: 17; valid ballots: 17. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2008-03-12-council-independent-professions"
+    ]
+  },
+  {
+    "id": "world-slovenia-2014-05-29-council-local-interests-electoral-district-3",
+    "countryId": "si",
+    "title": "National Council replacement election: Local interests — electoral district 3",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2014-05-29",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2014",
+    "snap": false,
+    "summary": "Rudi Matjašič was elected to the National Council for Local interests — electoral district 3.",
+    "government": "",
+    "turnout": 97.368421,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 36 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "zeljko-vogrin",
+        "name": "Željko Vogrin",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 6,
+        "share": 16.666667,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "rajko-jaklin",
+        "name": "Rajko Jaklin",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 6,
+        "share": 16.666667,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "rudi-matjasic",
+        "name": "Rudi Matjašič",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 24,
+        "share": 66.666667,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-nadomestne-volitve/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2014/Porocilo-o-izidu-nadomestnih-volitevh---anonimizirano.pdf"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 38; participants: 37; valid ballots: 36. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2014-05-29-council-local-interests-electoral-district-6"
+    ]
+  },
+  {
+    "id": "world-slovenia-2014-05-29-council-local-interests-electoral-district-6",
+    "countryId": "si",
+    "title": "National Council replacement election: Local interests — electoral district 6",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2014-05-29",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2014",
+    "snap": false,
+    "summary": "Bojan Kontič was elected to the National Council for Local interests — electoral district 6.",
+    "government": "",
+    "turnout": 93.333333,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 14 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "bojan-kontic",
+        "name": "Bojan Kontič",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 14,
+        "share": 100.0,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-nadomestne-volitve/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2014/Porocilo-o-izidu-nadomestnih-volitevh---anonimizirano.pdf"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 15; participants: 14; valid ballots: 14. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2014-05-29-council-local-interests-electoral-district-3"
+    ]
+  },
+  {
+    "id": "world-slovenia-2018-12-17-council-social-welfare",
+    "countryId": "si",
+    "title": "National Council replacement election: Social welfare",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2018-12-17",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2018",
+    "snap": false,
+    "summary": "Danijel Kastelic was elected to the National Council for Social welfare.",
+    "government": "",
+    "turnout": 55.555556,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 20 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "danijel-kastelic",
+        "name": "Danijel Kastelic",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 20,
+        "share": 100.0,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      },
+      {
+        "id": "darja-kuzmanic-korva",
+        "name": "Darja Kuzmanič Korva",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 0,
+        "share": 0.0,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "stefan-leposa",
+        "name": "Štefan Lepoša",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 0,
+        "share": 0.0,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2018-nadomestne-volitve/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2018-nadomestne-volitve/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 36; participants: 20; valid ballots: 20. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. The certified report confirms Monday 17 December; the archive landing page incorrectly describes the day as Thursday. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null
+  },
+  {
+    "id": "world-slovenia-2020-06-18-council-local-interests-electoral-district-3",
+    "countryId": "si",
+    "title": "National Council replacement election: Local interests — electoral district 3",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2020-06-18",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2020",
+    "snap": false,
+    "summary": "Željko Vogrin was elected to the National Council for Local interests — electoral district 3.",
+    "government": "",
+    "turnout": 92.105263,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 34 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "iztok-peterlin",
+        "name": "Iztok Peterlin",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 1,
+        "share": 2.941176,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zeljko-vogrin",
+        "name": "Željko Vogrin",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 28,
+        "share": 82.352941,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      },
+      {
+        "id": "leopold-hanzic",
+        "name": "Leopold Hanžič",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 4,
+        "share": 11.764706,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "franjo-mihalic",
+        "name": "Franjo Mihalič",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 0,
+        "share": 0.0,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "bostjan-munda",
+        "name": "Boštjan Munda",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 1,
+        "share": 2.941176,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2020-1-nadomestne-volitve/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2020/Koncni-izid-nadomestnih-volitev-clana-drzavnega-sveta---predstavnika-lokalnih-interesov.pdf"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 38; participants: 35; valid ballots: 34. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2020-10-15-council-local-interests-electoral-district-6"
+    ]
+  },
+  {
+    "id": "world-slovenia-2020-10-15-council-local-interests-electoral-district-6",
+    "countryId": "si",
+    "title": "National Council replacement election: Local interests — electoral district 6",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2020-10-15",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2020",
+    "snap": false,
+    "summary": "Franjo Naraločnik was elected to the National Council for Local interests — electoral district 6.",
+    "government": "",
+    "turnout": 100.0,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 17 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "jozef-jelen",
+        "name": "Jožef Jelen",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 3,
+        "share": 17.647059,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "janko-kopusar",
+        "name": "Janko Kopušar",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 1,
+        "share": 5.882353,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "franjo-naralocnik",
+        "name": "Franjo Naraločnik",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 13,
+        "share": 76.470588,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2020-2-nadomestne-volitve-clana-ds-2020-6-ve-velenje-1/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2020-2-nadomestne-volitve-clana-ds-2020-6-ve-velenje-1/"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 17; participants: 17; valid ballots: 17. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null,
+    "linkedElectionIds": [
+      "world-slovenia-2020-06-18-council-local-interests-electoral-district-3"
+    ]
+  },
+  {
+    "id": "world-slovenia-2023-05-31-council-culture-and-sport",
+    "countryId": "si",
+    "title": "National Council replacement election: Culture and sport",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2023-05-31",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2023",
+    "snap": false,
+    "summary": "Luka Steiner was elected to the National Council for Culture and sport.",
+    "government": "",
+    "turnout": 80.952381,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 17 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "borut-pelko",
+        "name": "Borut Pelko",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 0,
+        "share": 0.0,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "zoran-poznic",
+        "name": "Zoran Poznič",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 5,
+        "share": 29.411765,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "tomaz-simetinger",
+        "name": "Tomaž Simetinger",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 2,
+        "share": 11.764706,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "luka-steiner",
+        "name": "Luka Steiner",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 10,
+        "share": 58.823529,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/ponovne-volitve-v-drzavni-svet-kultura-in-sport/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/Zapisnik_koncni_izid_ponovnih_volitev_v_DS_kultura_in_sport_8.6.2023.pdf"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 21; participants: 17; valid ballots: 17. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. Repeat vote after the Constitutional Court annulled the culture-and-sport contest. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null
+  },
+  {
+    "id": "world-slovenia-2024-11-14-council-local-interests-electoral-district-13",
+    "countryId": "si",
+    "title": "National Council replacement election: Local interests — electoral district 13",
+    "type": "parliamentary",
+    "body": "National Council (Državni svet)",
+    "startDate": "2024-11-14",
+    "endDate": "",
+    "precision": "day",
+    "dateStatus": "confirmed",
+    "status": "held",
+    "publication": "draft",
+    "round": "Replacement election",
+    "seriesId": "slovenia-council-2024",
+    "snap": false,
+    "summary": "Oton Bratuž was elected to the National Council for Local interests — electoral district 13.",
+    "government": "",
+    "turnout": 88.888889,
+    "totalSeats": 1,
+    "resultStatus": "final",
+    "resultCoverage": "complete",
+    "voteBasis": "Candidate votes / 8 valid ballots in this electoral body",
+    "results": [
+      {
+        "id": "robert-sinkovec",
+        "name": "Robert Šinkovec",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 1,
+        "share": 12.5,
+        "seats": 0,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": false
+      },
+      {
+        "id": "oton-bratuz",
+        "name": "Oton Bratuž",
+        "party": "Proposer / party affiliation unassessed",
+        "color": "#64748b",
+        "votes": 7,
+        "share": 87.5,
+        "seats": 1,
+        "previousSeats": null,
+        "electoralVotes": null,
+        "winner": true
+      }
+    ],
+    "sources": [
+      {
+        "label": "DVK contest archive",
+        "url": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/nadomestne-volitve-v-drzavni-svet-2024-lokalni-interesi/"
+      },
+      {
+        "label": "Certified result report",
+        "url": "https://www.dvk-rs.si/fileadmin/user_upload/Sklep_o_izidu_nadomestnih_volitev_v_DS_26.11.2024.pdf"
+      }
+    ],
+    "checked": "2026-10-06",
+    "notes": "One replacement seat in the 40-member National Council. Eligible electors: 9; participants: 8; valid ballots: 8. Separate electoral bodies are not combined into one percentage table. The Council represents local and functional interests. Party affiliations and ideology are unassessed. ",
+    "articleId": "",
+    "version": 0,
+    "electionMethod": "indirect",
+    "majorityThreshold": null
+  }
+]
