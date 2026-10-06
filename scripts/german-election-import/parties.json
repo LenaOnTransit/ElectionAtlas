@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "4b246d4c-08f7-5d43-99be-e6f9c0e87a8c",
+    "country_id": "de",
+    "name": "SPD",
+    "short_name": "SPD",
+    "color": "#e3000f",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "3538242a-515a-57a0-9001-59ed7d085f6a",
+    "country_id": "de",
+    "name": "CDU",
+    "short_name": "CDU",
+    "color": "#151518",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "935e4767-7407-5a92-b739-9a805f66fc35",
+    "country_id": "de",
+    "name": "FDP",
+    "short_name": "FDP",
+    "color": "#ffcc00",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "73c21594-26ab-5f75-a121-847ab86c3a9e",
+    "country_id": "de",
+    "name": "CSU",
+    "short_name": "CSU",
+    "color": "#008ac5",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "202eb6f7-853a-5a26-8e40-59a7b581087d",
+    "country_id": "de",
+    "name": "BP",
+    "short_name": "BP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "2769256e-b8e5-55b3-b70b-064e5a185b97",
+    "country_id": "de",
+    "name": "DKP/DRP",
+    "short_name": "DKP/DRP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "a99badb7-d83a-5e1c-bda3-a79592b65a6a",
+    "country_id": "de",
+    "name": "DP",
+    "short_name": "DP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "3e1a8832-1ed3-5f9f-8658-52d7db24ed0f",
+    "country_id": "de",
+    "name": "EVD",
+    "short_name": "EVD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "a6432d43-6c06-517a-8f33-70aee78a1bf5",
+    "country_id": "de",
+    "name": "KPD",
+    "short_name": "KPD",
+    "color": "#d60000",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "a265b014-b1a5-5bef-9267-02dc4fc189a8",
+    "country_id": "de",
+    "name": "RSF",
+    "short_name": "RSF",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "6f601683-5d54-50c1-a070-b667d4e203e9",
+    "country_id": "de",
+    "name": "RWVP",
+    "short_name": "RWVP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "a72cd31d-1520-5914-a8c7-24e0878f62c9",
+    "country_id": "de",
+    "name": "SSW",
+    "short_name": "SSW",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "094d8d2f-56fb-5d6c-838f-d1c3e01bd830",
+    "country_id": "de",
+    "name": "WAV",
+    "short_name": "WAV",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "ea7ffbbd-5ebb-5949-ad6c-a72e3beba6f7",
+    "country_id": "de",
+    "name": "Zentrum",
+    "short_name": "Zentrum",
+    "color": "#333333",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "306a8d51-f315-52fd-99d7-1442c1105015",
+    "country_id": "de",
+    "name": "DNS",
+    "short_name": "DNS",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "d74fc5b3-c54a-52f7-a0c3-28d340b9595f",
+    "country_id": "de",
+    "name": "DRP",
+    "short_name": "DRP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "33c5397b-50d5-53c2-b2bf-ad141d87eaf2",
+    "country_id": "de",
+    "name": "GB/BHE",
+    "short_name": "GB/BHE",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "931c69a8-75d2-538b-a95a-85f24107ca0b",
+    "country_id": "de",
+    "name": "GVP",
+    "short_name": "GVP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "149ec0d8-f29b-52c6-9a71-e1dc24ae0c34",
+    "country_id": "de",
+    "name": "PdgD",
+    "short_name": "PdgD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "da36076e-f080-5277-8c8b-baf8b3b95b15",
+    "country_id": "de",
+    "name": "SHLP",
+    "short_name": "SHLP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "47b8b11a-1276-5838-b8f3-ff27d6dadb4e",
+    "country_id": "de",
+    "name": "VU",
+    "short_name": "VU",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "648bf8d4-d12b-555f-a26e-39f9443dc3e8",
+    "country_id": "de",
+    "name": "BdD",
+    "short_name": "BdD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "49be43f8-cc17-5a7c-b8d3-f8c01c9b6675",
+    "country_id": "de",
+    "name": "DG",
+    "short_name": "DG",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "2455653f-1dfb-5dd0-85c9-c946ecee432a",
+    "country_id": "de",
+    "name": "FDV",
+    "short_name": "FDV",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "bf5d10e6-8709-5e3f-ba05-75a1ddcc2fc2",
+    "country_id": "de",
+    "name": "FU",
+    "short_name": "FU",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "1237f453-2a3b-589d-8b17-39c6eb0d2ed6",
+    "country_id": "de",
+    "name": "Mittelstand",
+    "short_name": "Mittelstand",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "0125cc2b-92a7-54d8-be56-8455947d3c90",
+    "country_id": "de",
+    "name": "DFU",
+    "short_name": "DFU",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "822a3796-21e2-53b3-b1ad-5b2f1d852b0d",
+    "country_id": "de",
+    "name": "GDP (DP-BHE)",
+    "short_name": "GDP (DP-BHE)",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "336afb7b-8df4-5442-915d-16ba1229458f",
+    "country_id": "de",
+    "name": "WGnD",
+    "short_name": "WGnD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "284ea547-7a51-574f-a3c6-0c0dc80de888",
+    "country_id": "de",
+    "name": "AUD",
+    "short_name": "AUD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "b71419d9-6ff9-5ecc-a5b3-e1f9d4c83c44",
+    "country_id": "de",
+    "name": "CVP",
+    "short_name": "CVP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "2a9655cb-80f6-58e7-814a-6f2f8dd2539f",
+    "country_id": "de",
+    "name": "EFP",
+    "short_name": "EFP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "87f039c7-c0cd-596f-8e5e-9b450d33f9ad",
+    "country_id": "de",
+    "name": "HEIMAT",
+    "short_name": "HEIMAT",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "1e89594b-fcea-508a-b11c-3738f1b36ca7",
+    "country_id": "de",
+    "name": "HUMANWIRTSCHAFTSPARTEI",
+    "short_name": "HUMANWIRTSCHAFTSPARTEI",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "1d7f31cf-e7d7-5069-9d6e-986e52cb4e7c",
+    "country_id": "de",
+    "name": "UAP",
+    "short_name": "UAP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "52546e41-2acf-50b9-b64b-ad3f8efb2543",
+    "country_id": "de",
+    "name": "ADF",
+    "short_name": "ADF",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e7e9d2e7-1e46-58a5-acc0-3786ff2e84e5",
+    "country_id": "de",
+    "name": "DV",
+    "short_name": "DV",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "16be338a-28fb-5563-93a4-82e1d7bb1662",
+    "country_id": "de",
+    "name": "EP",
+    "short_name": "EP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "eac7fa23-0ee7-5ea4-a1c8-a8d13d8e476f",
+    "country_id": "de",
+    "name": "GPD",
+    "short_name": "GPD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "5a4201b7-012d-5a09-9c8d-893f20c39206",
+    "country_id": "de",
+    "name": "DKP",
+    "short_name": "DKP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "af6e2ea1-f8e9-5353-b902-110f29b54cfb",
+    "country_id": "de",
+    "name": "5%-Block",
+    "short_name": "5%-Block",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "22a81bff-dea6-59f1-be98-6dd1a451397c",
+    "country_id": "de",
+    "name": "AVP",
+    "short_name": "AVP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "df84b67d-2c9c-56c4-aad9-2fdf58c8313f",
+    "country_id": "de",
+    "name": "C.B.V.",
+    "short_name": "C.B.V.",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "ea9cc404-33c0-5b8d-877d-ad6b03857f27",
+    "country_id": "de",
+    "name": "EAP",
+    "short_name": "EAP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "c7f613ce-71d9-5170-867f-fb52f496ba83",
+    "country_id": "de",
+    "name": "GIM",
+    "short_name": "GIM",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e04586da-d406-52ee-9cc2-49effbea9012",
+    "country_id": "de",
+    "name": "KBW",
+    "short_name": "KBW",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "95b2fdae-ca25-5e88-8260-80549f571315",
+    "country_id": "de",
+    "name": "RFP",
+    "short_name": "RFP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e18d88dc-1fa8-50df-8769-685c71a8e07b",
+    "country_id": "de",
+    "name": "VL",
+    "short_name": "VL",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "51370778-caf3-50a3-b9a7-429a45099b0a",
+    "country_id": "de",
+    "name": "GRÜNE",
+    "short_name": "GRÜNE",
+    "color": "#64a12d",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "bebd0cc5-51b6-5cc4-b4fa-20f5c5c8f9a5",
+    "country_id": "de",
+    "name": "Bürgerpartei",
+    "short_name": "Bürgerpartei",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "1e244129-210e-5b6d-a8ed-88b62d567d80",
+    "country_id": "de",
+    "name": "DFP",
+    "short_name": "DFP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "c4c7e19d-2b25-522c-9e76-45f2a43e5206",
+    "country_id": "de",
+    "name": "DU",
+    "short_name": "DU",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "0074e5f5-efd7-5dfa-b8c1-3dc700b7415a",
+    "country_id": "de",
+    "name": "V",
+    "short_name": "V",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "d2dc562c-68b6-5b7a-af87-fd2de98ed3e7",
+    "country_id": "de",
+    "name": "BWK",
+    "short_name": "BWK",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "b4c23d39-35ec-59b7-a8bd-03d14c186aa1",
+    "country_id": "de",
+    "name": "ÖDP",
+    "short_name": "ÖDP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "d347f396-0d60-5f17-a990-6a0e01c632c2",
+    "country_id": "de",
+    "name": "USD",
+    "short_name": "USD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "83bfc470-98bc-50bc-8709-e35b5e466fe5",
+    "country_id": "de",
+    "name": "ASD",
+    "short_name": "ASD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "15eeb9bb-8979-5949-a4b9-4d76744e969e",
+    "country_id": "de",
+    "name": "BüSo",
+    "short_name": "BüSo",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e350e576-5c94-5e18-950e-e961b3b6b5ee",
+    "country_id": "de",
+    "name": "Familie",
+    "short_name": "Familie",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "97324bbe-7651-5f06-a6d9-f9d687852469",
+    "country_id": "de",
+    "name": "FAP",
+    "short_name": "FAP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "440b044a-f197-5bff-9bec-1ab21f00870b",
+    "country_id": "de",
+    "name": "FRAUEN",
+    "short_name": "FRAUEN",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "05050fa9-c9ba-5e9a-b923-7f5e6c0373e1",
+    "country_id": "de",
+    "name": "HP",
+    "short_name": "HP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "30ff49b6-cd3e-5461-b54e-09a8a34330e7",
+    "country_id": "de",
+    "name": "MLPD",
+    "short_name": "MLPD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "4dbff2fe-ca7e-56e6-ab1d-8d6cbf623300",
+    "country_id": "de",
+    "name": "Mündige Bürger",
+    "short_name": "Mündige Bürger",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "6687da8c-28a1-5a2a-a31c-e821a7bb67ee",
+    "country_id": "de",
+    "name": "ÖKO-UNION",
+    "short_name": "ÖKO-UNION",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "8f309a6d-a156-5489-a792-24df3a544821",
+    "country_id": "de",
+    "name": "ZENTRUM",
+    "short_name": "ZENTRUM",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "002c9623-6f0f-5411-80c7-1cc5bc62dda6",
+    "country_id": "de",
+    "name": "B90/Gr",
+    "short_name": "B90/Gr",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "0fc6af68-cde6-5dd7-9b4b-eb7275fa5826",
+    "country_id": "de",
+    "name": "Die Linke",
+    "short_name": "Die Linke",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "0821593b-754c-5301-a8f8-0c56ff572751",
+    "country_id": "de",
+    "name": "CM",
+    "short_name": "CM",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "91f4d0f8-bcf5-52c8-96df-fdc86b7793a9",
+    "country_id": "de",
+    "name": "DDD",
+    "short_name": "DDD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "7ac50e63-03e0-548c-9e9a-bd21adb4d19c",
+    "country_id": "de",
+    "name": "DSU",
+    "short_name": "DSU",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "df669838-e91d-56af-b774-5848a6b9552f",
+    "country_id": "de",
+    "name": "GRAUE",
+    "short_name": "GRAUE",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "bce52ec3-5181-5e63-90b1-b4c1ebcf17fe",
+    "country_id": "de",
+    "name": "KPD (Ost)",
+    "short_name": "KPD (Ost)",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "d4144115-d7a3-5af2-98fb-c9fe32b633d1",
+    "country_id": "de",
+    "name": "LIGA",
+    "short_name": "LIGA",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "6a57b447-5e6d-5c5f-8701-e0ccda39be64",
+    "country_id": "de",
+    "name": "REP",
+    "short_name": "REP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "761bdd87-b4e4-5715-b67c-e7505a4c746d",
+    "country_id": "de",
+    "name": "SGP",
+    "short_name": "SGP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "bfc2918a-234d-5d6a-9d9b-85e4a8ed7388",
+    "country_id": "de",
+    "name": "SpAD",
+    "short_name": "SpAD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "8009faff-280b-5e77-9b32-d47a7e5a28fe",
+    "country_id": "de",
+    "name": "VAA",
+    "short_name": "VAA",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "cfdb8f0e-7c5e-539c-a558-5cf02189f846",
+    "country_id": "de",
+    "name": "APD",
+    "short_name": "APD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "249ae936-92a0-59d5-8071-6ceed961d46d",
+    "country_id": "de",
+    "name": "BGD",
+    "short_name": "BGD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "87f22ea6-2a67-5bb4-97d6-acd73217313e",
+    "country_id": "de",
+    "name": "DEMOKRATEN",
+    "short_name": "DEMOKRATEN",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "566678c8-d643-5633-9a56-b7c1eec1a254",
+    "country_id": "de",
+    "name": "DVP",
+    "short_name": "DVP",
+    "color": "#d6b63f",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "01c4ffdb-0a29-522f-b5bc-b1001e39dfc9",
+    "country_id": "de",
+    "name": "FBU",
+    "short_name": "FBU",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "1a92cea5-a4ae-5bce-8e68-5e574bdf29b9",
+    "country_id": "de",
+    "name": "LD",
+    "short_name": "LD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "f143b298-7401-5010-ad71-f0d9ce87ce6d",
+    "country_id": "de",
+    "name": "NATURGESETZ",
+    "short_name": "NATURGESETZ",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "8679b7bd-dacc-5d1a-b5c6-3bf93e0c7d94",
+    "country_id": "de",
+    "name": "PASS",
+    "short_name": "PASS",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e6375b80-0db4-53d5-b36c-48bde06f4462",
+    "country_id": "de",
+    "name": "PBC",
+    "short_name": "PBC",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "51f2132a-d347-55bf-bc28-36c6ca22906f",
+    "country_id": "de",
+    "name": "STATT Partei",
+    "short_name": "STATT Partei",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "ed32939f-b29a-5997-8b84-152a38676808",
+    "country_id": "de",
+    "name": "Tierschutzpartei",
+    "short_name": "Tierschutzpartei",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "909bc6d4-8c12-55ee-8eaf-2ef28d70695c",
+    "country_id": "de",
+    "name": "AB 2000",
+    "short_name": "AB 2000",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "c2a9318c-be2d-50de-ab0a-0596350ccf27",
+    "country_id": "de",
+    "name": "APPD",
+    "short_name": "APPD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "cf246db6-d4ef-5f22-a6e4-8c5675064f1b",
+    "country_id": "de",
+    "name": "BFB – Die Offensive",
+    "short_name": "BFB – Die Offensive",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "c485f1a0-7069-5a0e-806f-4b6947499df0",
+    "country_id": "de",
+    "name": "CHANCE 2000",
+    "short_name": "CHANCE 2000",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "a2c1a6a4-9a03-5a7f-9c9d-aee146b316e0",
+    "country_id": "de",
+    "name": "DIE FRAUEN",
+    "short_name": "DIE FRAUEN",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "822f4539-78ad-5736-89f8-b6211bd9e619",
+    "country_id": "de",
+    "name": "DMP",
+    "short_name": "DMP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "ec55fedb-074c-5b14-8f60-d6d349d71579",
+    "country_id": "de",
+    "name": "DPD",
+    "short_name": "DPD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "296d8522-d9c0-5388-8530-4d949ee227e7",
+    "country_id": "de",
+    "name": "DVU",
+    "short_name": "DVU",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "202de1b5-8009-5fa3-b008-2f4951aca083",
+    "country_id": "de",
+    "name": "FAMILIE",
+    "short_name": "FAMILIE",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "28b2c074-ac07-5443-843d-b8d32a11ce3f",
+    "country_id": "de",
+    "name": "FORUM",
+    "short_name": "FORUM",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "fa7d3bf6-f177-5f6f-829a-87235a430c89",
+    "country_id": "de",
+    "name": "FP Deutschlands",
+    "short_name": "FP Deutschlands",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "9eaf5928-db25-59e3-abd4-ad0fcdd1d6b8",
+    "country_id": "de",
+    "name": "Nichtwähler",
+    "short_name": "Nichtwähler",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "37f800da-49fb-58cd-8a93-af8a3d514d0b",
+    "country_id": "de",
+    "name": "ödp",
+    "short_name": "ödp",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "ebe4a5f6-4f75-5e71-8fdd-3cb2c5c0625a",
+    "country_id": "de",
+    "name": "Pro DM",
+    "short_name": "Pro DM",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "ceb1b70f-a0f4-5146-bb59-c10e3a09121e",
+    "country_id": "de",
+    "name": "Volksabstimmung",
+    "short_name": "Volksabstimmung",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "3be4b40c-2376-53af-ba6c-1801835eb507",
+    "country_id": "de",
+    "name": "AUFBRUCH",
+    "short_name": "AUFBRUCH",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "173fce9c-c08e-5ddf-884b-e445d8a5191d",
+    "country_id": "de",
+    "name": "Die Violetten",
+    "short_name": "Die Violetten",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e3a73fc3-6c36-5a88-b407-4191a4321aec",
+    "country_id": "de",
+    "name": "Offensive D",
+    "short_name": "Offensive D",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "3012cbdb-199f-542a-b3c5-bb84f2e2e911",
+    "country_id": "de",
+    "name": "PRG",
+    "short_name": "PRG",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "7d735a9b-5bf3-5f53-a477-26ff361f4b30",
+    "country_id": "de",
+    "name": "50Plus",
+    "short_name": "50Plus",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "ca423295-688d-5b10-be3c-43463e5e83c3",
+    "country_id": "de",
+    "name": "AGFG",
+    "short_name": "AGFG",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "51f091db-3caf-5239-aa8a-8e928a18215e",
+    "country_id": "de",
+    "name": "Die PARTEI",
+    "short_name": "Die PARTEI",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "0d88bed8-c53a-5c7d-908b-bd0a6bf83d22",
+    "country_id": "de",
+    "name": "Unabhängige",
+    "short_name": "Unabhängige",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "55a9316e-26fc-5b88-af50-0139a524fe37",
+    "country_id": "de",
+    "name": "ADM",
+    "short_name": "ADM",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "f2486d75-ad83-53f0-9cef-02b50a83de90",
+    "country_id": "de",
+    "name": "Bündnis 21/RRP",
+    "short_name": "Bündnis 21/RRP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "8b7a6316-d9bd-5dfb-93a1-691f129bb81e",
+    "country_id": "de",
+    "name": "DIE VIOLETTEN",
+    "short_name": "DIE VIOLETTEN",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "08c5f4cb-be23-5e55-ba2d-acc8ed11c8b9",
+    "country_id": "de",
+    "name": "Freie Union",
+    "short_name": "Freie Union",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "2ba8eaa2-220c-5bb4-b16d-51bf121a5763",
+    "country_id": "de",
+    "name": "FWD",
+    "short_name": "FWD",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "bd112337-5353-5b51-9592-8c3a48070373",
+    "country_id": "de",
+    "name": "PIRATEN",
+    "short_name": "PIRATEN",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "f588e76b-cc14-5517-8bd8-4f61d3c8bb0d",
+    "country_id": "de",
+    "name": "RENTNER",
+    "short_name": "RENTNER",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "4f019bc6-5108-5765-8aa4-9026dd309196",
+    "country_id": "de",
+    "name": "AfD",
+    "short_name": "AfD",
+    "color": "#009ee0",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "de2a25d2-92fb-5dfa-bceb-765972409613",
+    "country_id": "de",
+    "name": "B* ",
+    "short_name": "B* ",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "fd884cf3-ce6a-5823-82b6-f7a273b9bbb5",
+    "country_id": "de",
+    "name": "BIG",
+    "short_name": "BIG",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "831ea487-5f35-50ff-99f7-10f748a53427",
+    "country_id": "de",
+    "name": "DIE RECHTE",
+    "short_name": "DIE RECHTE",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "adf364a6-f1f3-568e-8bc1-19b4aa77b9e8",
+    "country_id": "de",
+    "name": "FREIE WÄHLER",
+    "short_name": "FREIE WÄHLER",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "864b3e47-9ea2-5c56-ab93-ba66b572bb28",
+    "country_id": "de",
+    "name": "NEIN!",
+    "short_name": "NEIN!",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "0c824295-0a42-5477-81c1-2e23c4a7b6e7",
+    "country_id": "de",
+    "name": "PDV",
+    "short_name": "PDV",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "7772c9a7-005f-55c8-979a-989e17a44227",
+    "country_id": "de",
+    "name": "pro Deutschland",
+    "short_name": "pro Deutschland",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e02bf7e5-5182-5d90-8401-19c49708e94b",
+    "country_id": "de",
+    "name": "AD-DEMOKRATEN",
+    "short_name": "AD-DEMOKRATEN",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "ffa874f7-0bef-5b04-bebf-6a1f493af660",
+    "country_id": "de",
+    "name": "BGE",
+    "short_name": "BGE",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "7875b592-fba5-54f2-9d99-7054794558d2",
+    "country_id": "de",
+    "name": "Bündnis C",
+    "short_name": "Bündnis C",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "d15101b4-4384-51b1-aff7-d9a4b3958f68",
+    "country_id": "de",
+    "name": "DiB",
+    "short_name": "DiB",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "aa40fb0e-c74e-57de-b3eb-55f67bebb781",
+    "country_id": "de",
+    "name": "DIE EINHEIT",
+    "short_name": "DIE EINHEIT",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "88bbf71d-98bb-50e9-8e39-0b87db70af81",
+    "country_id": "de",
+    "name": "Die Grauen",
+    "short_name": "Die Grauen",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e8628554-d853-5ec0-9b0d-d5f9388c8274",
+    "country_id": "de",
+    "name": "DM",
+    "short_name": "DM",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "af4a6feb-8289-5351-bba5-c323a1a02062",
+    "country_id": "de",
+    "name": "du.",
+    "short_name": "du.",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "f2c6a309-e91f-5390-a927-fdae37f5a00a",
+    "country_id": "de",
+    "name": "Gartenpartei",
+    "short_name": "Gartenpartei",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "87b2ba76-fcd2-5255-af2d-4bc1cf23a30d",
+    "country_id": "de",
+    "name": "MENSCHLICHE WELT",
+    "short_name": "MENSCHLICHE WELT",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "8aa1c022-aa68-5b39-bf1b-4243cec38e3c",
+    "country_id": "de",
+    "name": "MIETERPARTEI",
+    "short_name": "MIETERPARTEI",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "337f5da1-7352-57df-89b4-2bf2e5596a06",
+    "country_id": "de",
+    "name": "Neue Liberale",
+    "short_name": "Neue Liberale",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e44e8e94-baa3-53c7-9e51-fc5ca957a320",
+    "country_id": "de",
+    "name": "PdH",
+    "short_name": "PdH",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "7739b0da-f41f-597b-97ca-6f7ae10c116f",
+    "country_id": "de",
+    "name": "Tierschutzallianz",
+    "short_name": "Tierschutzallianz",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "983cd3df-af7a-591b-a6f6-21686395c936",
+    "country_id": "de",
+    "name": "UNABHÄNGIGE",
+    "short_name": "UNABHÄNGIGE",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "753289fd-50fc-5b39-ae78-c97a42b6f0ed",
+    "country_id": "de",
+    "name": "Verjüngungsforschung",
+    "short_name": "Verjüngungsforschung",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "8a27b5d2-137f-53c9-8a98-ae2bb4118cae",
+    "country_id": "de",
+    "name": "V-Partei³",
+    "short_name": "V-Partei³",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "33095711-bc41-5c0d-9142-ab9bbc26527b",
+    "country_id": "de",
+    "name": "III. Weg",
+    "short_name": "III. Weg",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "a28853f7-7cde-562b-bd8c-0fa0e86c3650",
+    "country_id": "de",
+    "name": "BÜNDNIS21",
+    "short_name": "BÜNDNIS21",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "37021d39-ae13-5964-9c17-fcf0e036dbbd",
+    "country_id": "de",
+    "name": "BÜRGERBEWEGUNG",
+    "short_name": "BÜRGERBEWEGUNG",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "4692cd87-adf8-5af1-9cb0-62b2e27a4a93",
+    "country_id": "de",
+    "name": "dieBasis",
+    "short_name": "dieBasis",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "627425ee-b226-5be3-ba9d-06c08fe67dfa",
+    "country_id": "de",
+    "name": "Graue Panther",
+    "short_name": "Graue Panther",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "f137d9a4-6ca7-5b43-86a0-eb7b2bd567c9",
+    "country_id": "de",
+    "name": "KlimalisteBW",
+    "short_name": "KlimalisteBW",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "c89813d3-2e6e-591b-8b13-122da43e4ddd",
+    "country_id": "de",
+    "name": "LfK",
+    "short_name": "LfK",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e5420675-3d17-58d6-9877-47ca5a707bdf",
+    "country_id": "de",
+    "name": "LIEBE",
+    "short_name": "LIEBE",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "6dda80f3-fa6a-57ff-a617-ff46977887c8",
+    "country_id": "de",
+    "name": "PdF",
+    "short_name": "PdF",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "66c691d6-c769-5f05-97d0-a8ccb0710c3c",
+    "country_id": "de",
+    "name": "sonstige ",
+    "short_name": "sonstige ",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "af47b2dc-1ffc-57d8-a56c-5ecbac674fcc",
+    "country_id": "de",
+    "name": "Team Todenhöfer",
+    "short_name": "Team Todenhöfer",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "c2a70633-d56e-5a86-9bb9-f302a9136f97",
+    "country_id": "de",
+    "name": "THP",
+    "short_name": "THP",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "209f893b-a0b7-5536-9de4-d13ec0897dfa",
+    "country_id": "de",
+    "name": "Volt",
+    "short_name": "Volt",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "3acf2c2f-9f7d-5ba6-9433-49e7a6359ca0",
+    "country_id": "de",
+    "name": "Wir Bürger",
+    "short_name": "Wir Bürger",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "059774f6-a4ca-59af-a793-a424ac04ceb8",
+    "country_id": "de",
+    "name": "BSW",
+    "short_name": "BSW",
+    "color": "#792351",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "45c0f904-e360-5ea6-8cb6-0ca1f7079666",
+    "country_id": "de",
+    "name": "BÜNDNIS DEUTSCHLAND",
+    "short_name": "BÜNDNIS DEUTSCHLAND",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "672154f8-a2ce-5059-aa42-507e626cf4e5",
+    "country_id": "de",
+    "name": "MERA25",
+    "short_name": "MERA25",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "64f0664e-557f-5ef4-a209-871cc24ea6b4",
+    "country_id": "de",
+    "name": "WerteUnion",
+    "short_name": "WerteUnion",
+    "color": "#808080",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "9a7bb45a-7ffd-5516-934a-e074ba757929",
+    "country_id": "de",
+    "name": "DRP / Free Conservatives",
+    "short_name": "DRP / Free Conservatives",
+    "color": "#446084",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "4a3716cb-1c61-5935-a6f0-4cdabee6fba5",
+    "country_id": "de",
+    "name": "German-Hanoverian Party",
+    "short_name": "German-Hanoverian Party",
+    "color": "#e0b431",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "7f4c6a63-489b-5dc5-931c-c7186a14c930",
+    "country_id": "de",
+    "name": "USPD",
+    "short_name": "USPD",
+    "color": "#b52b3a",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "38181cbf-9089-51a8-ba2a-63beb4fdf280",
+    "country_id": "de",
+    "name": "DDP",
+    "short_name": "DDP",
+    "color": "#e8cc51",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "0c963892-b793-59b1-8ab4-656052c8832a",
+    "country_id": "de",
+    "name": "BVP",
+    "short_name": "BVP",
+    "color": "#4678a3",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "e8cc697a-dd90-5d72-bffc-f855945295bf",
+    "country_id": "de",
+    "name": "DNVP",
+    "short_name": "DNVP",
+    "color": "#25456b",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "9bd3a359-4aae-5c78-9dd1-df4878166c98",
+    "country_id": "de",
+    "name": "NSDAP",
+    "short_name": "NSDAP",
+    "color": "#b40000",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  },
+  {
+    "id": "6207c5aa-4a12-593e-a488-255ea5d18ee8",
+    "country_id": "de",
+    "name": "DStP",
+    "short_name": "DStP",
+    "color": "#e8cc51",
+    "ideology_ids": [],
+    "notes": "German archive party/list label. Election records retain their period-specific classifications; no present-day ideology is backfilled into historical elections.",
+    "archived": false
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "checked": "2026-10-06",
+  "recordCount": 49,
+  "partyCount": 170,
+  "sources": [
+    {
+      "url": "https://www.bundeswahlleiterin.de/dam/jcr/24d8e745-920d-431a-893a-12805bc7ef40/btw_ab49_datenbank_ergebnisse.csv",
+      "cacheFile": "bundestag.csv",
+      "sha256": "9efffc24b559679ade291d8da63462e5523b43ac62064e759737c3ae01418484"
+    },
+    {
+      "url": "https://www.bundeswahlleiterin.de/dam/jcr/397735e3-0585-46f6-a0b5-2c60c5b83de6/btw_ab49_gesamt.pdf",
+      "cacheFile": "bundestag.pdf",
+      "sha256": "c2d2bb5daa111cb3e960549c1a3983196a0b428b40173c8ec0eb971f025327a1"
+    },
+    {
+      "url": "https://germanhistorydocs.org/en/forging-an-empire-bismarckian-germany-1866-1890/elections-to-the-german-reichstag-1871-1890-a-statistical-overview",
+      "cacheFile": "imperial.html",
+      "sha256": "8a397623efd49e5f21583557882a15abd7bc8046818e906a0648288e2bf4f625"
+    },
+    {
+      "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/elections-to-the-reichstag-1890-1912",
+      "cacheFile": "imperial-late.html",
+      "sha256": "4a56d5b6f4afb5c2583823ed5149709d688d72008d1903bb8a838924ba18a31c"
+    },
+    {
+      "url": "https://www.wahlen-in-deutschland.de/krtw.htm",
+      "cacheFile": "imperial-detail.html",
+      "sha256": "6587ab61544f2df0d866c109cf23f5c528fa512a86a1f9068f49690f1e64a7dc"
+    },
+    {
+      "url": "https://www.wahlen-in-deutschland.de/wrtw.htm",
+      "cacheFile": "weimar.html",
+      "sha256": "53ba04448cfbdb08b97bbbd06a7b1baa282b6c81657c4ca00519ca6113fdd507"
+    },
+    {
+      "url": "https://www.kas.de/de/web/geschichte-der-cdu/wahlen-zum-reichtag-in-der-weimarer-republik-1919-1933-",
+      "cacheFile": "weimar-kas.html",
+      "sha256": "56c700bf17a6b1c9203d75a0e9113a50e372b31cae1c41a116211e7051852c04"
+    }
+  ]
+}
