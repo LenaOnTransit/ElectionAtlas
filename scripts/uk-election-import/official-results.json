@@ -1,0 +1,3563 @@
+[
+  {
+    "year": 2010,
+    "dateISO": "2010-05-06",
+    "valid": 29687604,
+    "electorate": 45597461,
+    "invalid": 81879,
+    "rows": [
+      {
+        "party": "Conservative",
+        "contested": 631,
+        "votes": 10703654,
+        "officialShare": 36.1,
+        "seats": 306
+      },
+      {
+        "party": "Labour",
+        "contested": 631,
+        "votes": 8606517,
+        "officialShare": 29,
+        "seats": 258
+      },
+      {
+        "party": "Liberal Democrat",
+        "contested": 631,
+        "votes": 6836248,
+        "officialShare": 23,
+        "seats": 57
+      },
+      {
+        "party": "Democratic Unionist Party",
+        "contested": 16,
+        "votes": 168216,
+        "officialShare": 0.6,
+        "seats": 8
+      },
+      {
+        "party": "Scottish National Party",
+        "contested": 59,
+        "votes": 491386,
+        "officialShare": 1.7,
+        "seats": 6
+      },
+      {
+        "party": "Sinn Féin",
+        "contested": 17,
+        "votes": 171942,
+        "officialShare": 0.6,
+        "seats": 5
+      },
+      {
+        "party": "Plaid Cymru",
+        "contested": 40,
+        "votes": 165394,
+        "officialShare": 0.6,
+        "seats": 3
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "contested": 18,
+        "votes": 110970,
+        "officialShare": 0.4,
+        "seats": 3
+      },
+      {
+        "party": "Green Party",
+        "contested": 311,
+        "votes": 265243,
+        "officialShare": 0.9,
+        "seats": 1
+      },
+      {
+        "party": "Alliance",
+        "contested": 18,
+        "votes": 42762,
+        "officialShare": 0.1,
+        "seats": 1
+      },
+      {
+        "party": "UK Independence Party",
+        "contested": 558,
+        "votes": 919471,
+        "officialShare": 3.1,
+        "seats": 0
+      },
+      {
+        "party": "British National Party",
+        "contested": 338,
+        "votes": 564321,
+        "officialShare": 1.9,
+        "seats": 0
+      },
+      {
+        "party": "English Democrats",
+        "contested": 107,
+        "votes": 64826,
+        "officialShare": 0.2,
+        "seats": 0
+      },
+      {
+        "party": "Respect Party",
+        "contested": 11,
+        "votes": 33251,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "contested": 10,
+        "votes": 26300,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Christian Party, Proclaiming Christ's Lordship",
+        "contested": 71,
+        "votes": 18622,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Green Party",
+        "contested": 20,
+        "votes": 16827,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Independent Kidderminster Hospital and Health Concern",
+        "contested": 1,
+        "votes": 16150,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Independent Save Our Green Belt",
+        "contested": 1,
+        "votes": 12174,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Trade Unionist and Socialist Coalition",
+        "contested": 37,
+        "votes": 11913,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "National Front",
+        "contested": 17,
+        "votes": 10784,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "contested": 27,
+        "votes": 7510,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Labour Party",
+        "contested": 23,
+        "votes": 7196,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Liberal",
+        "contested": 5,
+        "votes": 6781,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Blaenau Gwent People's Voice",
+        "contested": 1,
+        "votes": 6458,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "contested": 17,
+        "votes": 6276,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Mebyon Kernow - The Party for Cornwall",
+        "contested": 6,
+        "votes": 5379,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Lincolnshire Independents Lincolnshire First",
+        "contested": 3,
+        "votes": 5311,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Mansfield Independents",
+        "contested": 1,
+        "votes": 4339,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "contested": 4,
+        "votes": 3542,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Alternative",
+        "contested": 4,
+        "votes": 3298,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Trust",
+        "contested": 2,
+        "votes": 3233,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Socialist Party",
+        "contested": 10,
+        "votes": 3157,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "People Before Profit Alliance",
+        "contested": 1,
+        "votes": 2936,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Macclesfield Independent",
+        "contested": 1,
+        "votes": 2590,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Bromsgrove Independent Conservative",
+        "contested": 1,
+        "votes": 2182,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Local Liberals People Before Politics Party",
+        "contested": 1,
+        "votes": 1964,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alliance for Green Socialism",
+        "contested": 6,
+        "votes": 1581,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Social Democratic Party",
+        "contested": 2,
+        "votes": 1551,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Bushra Irfan of Blackburn",
+        "contested": 1,
+        "votes": 1424,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Pirate Party UK",
+        "contested": 9,
+        "votes": 1348,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Staffordshire Independent Group",
+        "contested": 1,
+        "votes": 1208,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Common Sense Party",
+        "contested": 2,
+        "votes": 1173,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Tendring First",
+        "contested": 1,
+        "votes": 1078,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Solihull and Meriden Residents Association",
+        "contested": 2,
+        "votes": 977,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist Party of Britain",
+        "contested": 6,
+        "votes": 947,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Democratic Labour Party",
+        "contested": 1,
+        "votes": 842,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "English Independence Party",
+        "contested": 1,
+        "votes": 803,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Democratic Nationalists",
+        "contested": 2,
+        "votes": 753,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Save King George Hospital",
+        "contested": 1,
+        "votes": 746,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "contested": 7,
+        "votes": 738,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Peace Party - Non-violence, Justice, Environment",
+        "contested": 3,
+        "votes": 737,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Voice for Halifax",
+        "contested": 1,
+        "votes": 722,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Animal Protection Party",
+        "contested": 4,
+        "votes": 675,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Middle England Party",
+        "contested": 1,
+        "votes": 616,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Movement for Great Britain",
+        "contested": 2,
+        "votes": 598,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "New Millennium Bean Party",
+        "contested": 1,
+        "votes": 558,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Islam Zinda Baad Platform",
+        "contested": 1,
+        "votes": 545,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Unity for Peace and Socialism",
+        "contested": 1,
+        "votes": 494,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Impact Party",
+        "contested": 3,
+        "votes": 477,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "A Vote Against MP Expense Abuse",
+        "contested": 1,
+        "votes": 475,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Best of a Bad Bunch",
+        "contested": 2,
+        "votes": 474,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Justice & Anti-Corruption Party",
+        "contested": 2,
+        "votes": 427,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Cornish Democrats",
+        "contested": 1,
+        "votes": 396,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independents to Save Queen Mary's Hospital",
+        "contested": 1,
+        "votes": 393,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Reform 2000 Party",
+        "contested": 1,
+        "votes": 379,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Cambridge Socialists",
+        "contested": 1,
+        "votes": 362,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "People Before Profit",
+        "contested": 1,
+        "votes": 332,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The P.N.D.P.",
+        "contested": 1,
+        "votes": 331,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independents Federation UK",
+        "contested": 4,
+        "votes": 327,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "No Candidate Deserves My Vote!",
+        "contested": 1,
+        "votes": 327,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Northampton - Save Our Public Services",
+        "contested": 1,
+        "votes": 325,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Equal Parenting Alliance",
+        "contested": 2,
+        "votes": 319,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "You Party",
+        "contested": 2,
+        "votes": 319,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Citizens for Undead Rights and Equality",
+        "contested": 4,
+        "votes": 317,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Common Good",
+        "contested": 1,
+        "votes": 305,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "City Independents",
+        "contested": 1,
+        "votes": 303,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The True English (Poetry) Party",
+        "contested": 1,
+        "votes": 298,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Scottish Jacobite Party",
+        "contested": 2,
+        "votes": 290,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Freedom and Responsibility",
+        "contested": 1,
+        "votes": 270,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent People Together",
+        "contested": 1,
+        "votes": 265,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Justice Party",
+        "contested": 1,
+        "votes": 265,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Your Right To Democracy Party Limited",
+        "contested": 3,
+        "votes": 264,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Get Snouts Out The Trough",
+        "contested": 1,
+        "votes": 259,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "INDEPENDENT Leave-the-EU Alliance",
+        "contested": 1,
+        "votes": 236,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Movement for Active Democracy (M.A.D.)",
+        "contested": 1,
+        "votes": 233,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Integrity UK",
+        "contested": 1,
+        "votes": 230,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Clause 28, Children's Protection Christian Democrats",
+        "contested": 1,
+        "votes": 217,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "United Voice",
+        "contested": 1,
+        "votes": 209,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Fancy Dress Party",
+        "contested": 1,
+        "votes": 207,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Direct Democracy (Communist) Party",
+        "contested": 1,
+        "votes": 202,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Science Party",
+        "contested": 1,
+        "votes": 197,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "New Independent Centralists",
+        "contested": 1,
+        "votes": 196,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Ealing Acton Communities Public Services",
+        "contested": 1,
+        "votes": 190,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Libertarian Party",
+        "contested": 2,
+        "votes": 182,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Money Reform Party",
+        "contested": 1,
+        "votes": 173,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Equality Party",
+        "contested": 2,
+        "votes": 170,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Hugh Salmon for Battersea Party",
+        "contested": 1,
+        "votes": 168,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Campaign for Independent Politicians",
+        "contested": 1,
+        "votes": 167,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist League Election Campaign",
+        "contested": 2,
+        "votes": 158,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Reduce Tax On Beer",
+        "contested": 1,
+        "votes": 153,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Animal Welfare Party",
+        "contested": 1,
+        "votes": 149,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Socialist Party of Great Britain",
+        "contested": 1,
+        "votes": 143,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scotland Against Crooked Lawyers",
+        "contested": 1,
+        "votes": 138,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Tamsin Omond to the Commons",
+        "contested": 1,
+        "votes": 123,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scrap Members Allowances",
+        "contested": 2,
+        "votes": 119,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The New Party",
+        "contested": 1,
+        "votes": 118,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Church of the Militant Elvis Party",
+        "contested": 1,
+        "votes": 112,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Anticapitalists - Workers Power",
+        "contested": 1,
+        "votes": 109,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Medway Independent Party",
+        "contested": 1,
+        "votes": 109,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Cut The Deficit",
+        "contested": 1,
+        "votes": 107,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Matriarchal Party United Kingdom Great Britain",
+        "contested": 1,
+        "votes": 100,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Apolitical Democrats",
+        "contested": 1,
+        "votes": 95,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Youth Party",
+        "contested": 1,
+        "votes": 95,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "National Liberal Party - True Liberalism",
+        "contested": 1,
+        "votes": 93,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Joy of Talk",
+        "contested": 1,
+        "votes": 93,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Fight For an Anti-War Government",
+        "contested": 1,
+        "votes": 91,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Nationwide Reform Party",
+        "contested": 1,
+        "votes": 84,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Virtue Currency Cognitive Appraisal Party",
+        "contested": 1,
+        "votes": 84,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alliance for Workers' Liberty",
+        "contested": 1,
+        "votes": 75,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Nobody Party",
+        "contested": 1,
+        "votes": 73,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Magna Carta Party",
+        "contested": 2,
+        "votes": 68,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Wessex Regionalists",
+        "contested": 1,
+        "votes": 62,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Land Party",
+        "contested": 1,
+        "votes": 57,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Humanity",
+        "contested": 1,
+        "votes": 50,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Restoration Party",
+        "contested": 1,
+        "votes": 45,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Magna Carta Conservation Party Great Britain",
+        "contested": 1,
+        "votes": 44,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Peoples Party Essex",
+        "contested": 1,
+        "votes": 35,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Better Britain Party",
+        "contested": 1,
+        "votes": 35,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "All The South Party",
+        "contested": 1,
+        "votes": 31,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Blue Environment Party",
+        "contested": 1,
+        "votes": 17,
+        "officialShare": 0,
+        "seats": 0
+      }
+    ],
+    "partyUrl": "https://electionresults.parliament.uk/general-elections/1",
+    "nonPartyUrl": "https://electionresults.parliament.uk/general-elections/1/uncertified-candidacies",
+    "libraryUrl": "https://commonslibrary.parliament.uk/research-briefings/rp10-36/",
+    "speaker": {
+      "votes": 22860
+    }
+  },
+  {
+    "year": 2015,
+    "dateISO": "2015-05-07",
+    "valid": 30697525,
+    "electorate": 46354197,
+    "invalid": 102639,
+    "rows": [
+      {
+        "party": "Conservative",
+        "contested": 647,
+        "votes": 11299609,
+        "officialShare": 36.8,
+        "seats": 330
+      },
+      {
+        "party": "Labour",
+        "contested": 631,
+        "votes": 9347273,
+        "officialShare": 30.4,
+        "seats": 232
+      },
+      {
+        "party": "Scottish National Party",
+        "contested": 59,
+        "votes": 1454436,
+        "officialShare": 4.7,
+        "seats": 56
+      },
+      {
+        "party": "Liberal Democrat",
+        "contested": 631,
+        "votes": 2415916,
+        "officialShare": 7.9,
+        "seats": 8
+      },
+      {
+        "party": "Democratic Unionist Party",
+        "contested": 16,
+        "votes": 184260,
+        "officialShare": 0.6,
+        "seats": 8
+      },
+      {
+        "party": "Sinn Féin",
+        "contested": 18,
+        "votes": 176232,
+        "officialShare": 0.6,
+        "seats": 4
+      },
+      {
+        "party": "Plaid Cymru",
+        "contested": 40,
+        "votes": 181704,
+        "officialShare": 0.6,
+        "seats": 3
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "contested": 18,
+        "votes": 99809,
+        "officialShare": 0.3,
+        "seats": 3
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "contested": 15,
+        "votes": 114935,
+        "officialShare": 0.4,
+        "seats": 2
+      },
+      {
+        "party": "UK Independence Party",
+        "contested": 624,
+        "votes": 3881099,
+        "officialShare": 12.6,
+        "seats": 1
+      },
+      {
+        "party": "Green Party",
+        "contested": 537,
+        "votes": 1111603,
+        "officialShare": 3.6,
+        "seats": 1
+      },
+      {
+        "party": "Alliance",
+        "contested": 18,
+        "votes": 61556,
+        "officialShare": 0.2,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Green Party",
+        "contested": 31,
+        "votes": 39205,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Trade Unionist and Socialist Coalition",
+        "contested": 128,
+        "votes": 34061,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "contested": 7,
+        "votes": 16538,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "National Health Action Party",
+        "contested": 11,
+        "votes": 12999,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Respect Party",
+        "contested": 4,
+        "votes": 9989,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Cannabis Is Safer Than Alcohol",
+        "contested": 32,
+        "votes": 8419,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Kidderminster Hospital and Health Concern",
+        "contested": 1,
+        "votes": 7211,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "contested": 5,
+        "votes": 6822,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Yorkshire First",
+        "contested": 14,
+        "votes": 6811,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "People Before Profit Alliance",
+        "contested": 1,
+        "votes": 6798,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "English Democrats",
+        "contested": 32,
+        "votes": 6531,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Mebyon Kernow - The Party for Cornwall",
+        "contested": 6,
+        "votes": 5675,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Lincolnshire Independents Lincolnshire First",
+        "contested": 5,
+        "votes": 5407,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Liberal",
+        "contested": 4,
+        "votes": 4480,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "contested": 16,
+        "votes": 3898,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Save Withybush Save Lives",
+        "contested": 1,
+        "votes": 3729,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Labour Party",
+        "contested": 8,
+        "votes": 3481,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "contested": 17,
+        "votes": 3260,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Party, Proclaiming Christ's Lordship",
+        "contested": 9,
+        "votes": 3205,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Left Unity",
+        "contested": 10,
+        "votes": 2884,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Workers' Party",
+        "contested": 5,
+        "votes": 2724,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The North East Party",
+        "contested": 4,
+        "votes": 2138,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Party for Poole People Ltd.",
+        "contested": 1,
+        "votes": 1766,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "British National Party",
+        "contested": 8,
+        "votes": 1667,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Residents for Uttlesford",
+        "contested": 1,
+        "votes": 1658,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Rochdale First Party",
+        "contested": 1,
+        "votes": 1535,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist Party of Britain",
+        "contested": 9,
+        "votes": 1229,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Pirate Party UK",
+        "contested": 6,
+        "votes": 1130,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "National Front",
+        "contested": 7,
+        "votes": 1114,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communities United Party",
+        "contested": 5,
+        "votes": 1102,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "People Before Profit",
+        "contested": 2,
+        "votes": 1056,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "We Are The Reality Party",
+        "contested": 3,
+        "votes": 1029,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Southport Party",
+        "contested": 1,
+        "votes": 992,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "All People's Party",
+        "contested": 4,
+        "votes": 981,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Peace Party - Non-violence, Justice, Environment",
+        "contested": 4,
+        "votes": 957,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Bournemouth Independent Alliance",
+        "contested": 1,
+        "votes": 903,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Socialist Party of Great Britain",
+        "contested": 10,
+        "votes": 899,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Socialist Party",
+        "contested": 4,
+        "votes": 875,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alliance for Green Socialism",
+        "contested": 4,
+        "votes": 852,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Save Hartlepool Hospital",
+        "contested": 1,
+        "votes": 849,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Animal Welfare Party",
+        "contested": 4,
+        "votes": 736,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Something New",
+        "contested": 2,
+        "votes": 695,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Consensus",
+        "contested": 1,
+        "votes": 637,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "National Liberal Party - True Liberalism",
+        "contested": 2,
+        "votes": 627,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independence from Europe",
+        "contested": 5,
+        "votes": 578,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Whig Party",
+        "contested": 4,
+        "votes": 561,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Guildford Greenbelt Group",
+        "contested": 1,
+        "votes": 538,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Class War",
+        "contested": 7,
+        "votes": 526,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Above and Beyond Party",
+        "contested": 5,
+        "votes": 522,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "contested": 7,
+        "votes": 488,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "People First - Gwerin Gyntaf",
+        "contested": 1,
+        "votes": 407,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Northern Party",
+        "contested": 3,
+        "votes": 332,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Movement for Great Britain",
+        "contested": 1,
+        "votes": 292,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Liberty GB",
+        "contested": 2,
+        "votes": 260,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Common Sense Party",
+        "contested": 1,
+        "votes": 256,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Apolitical Democrats",
+        "contested": 1,
+        "votes": 228,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Putting Croydon First!",
+        "contested": 1,
+        "votes": 221,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Justice for Men & Boys",
+        "contested": 2,
+        "votes": 216,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "British Democratic Party",
+        "contested": 1,
+        "votes": 210,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Patria",
+        "contested": 2,
+        "votes": 205,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independents for Bristol",
+        "contested": 1,
+        "votes": 204,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Party for a United Thanet",
+        "contested": 2,
+        "votes": 199,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Ubuntu Party",
+        "contested": 2,
+        "votes": 197,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Islam Zinda Baad Platform",
+        "contested": 1,
+        "votes": 191,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Manston Airport Independent Party",
+        "contested": 1,
+        "votes": 191,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Rebooting Democracy",
+        "contested": 1,
+        "votes": 187,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist League Election Campaign",
+        "contested": 2,
+        "votes": 174,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Justice & Anti-Corruption Party",
+        "contested": 2,
+        "votes": 171,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Equality Party",
+        "contested": 2,
+        "votes": 166,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "World Peace Through Song",
+        "contested": 1,
+        "votes": 165,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Movement for Active Democracy (M.A.D.)",
+        "contested": 1,
+        "votes": 164,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Apni Party",
+        "contested": 1,
+        "votes": 156,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Vapers In Power",
+        "contested": 2,
+        "votes": 152,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Young People's Party",
+        "contested": 2,
+        "votes": 152,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "War Veteran's Pro-Traditional Family Party",
+        "contested": 1,
+        "votes": 150,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Humanity",
+        "contested": 1,
+        "votes": 149,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Red Flag - Anti-Corruption",
+        "contested": 2,
+        "votes": 147,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "British Independents",
+        "contested": 1,
+        "votes": 143,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Pilgrim Party",
+        "contested": 1,
+        "votes": 143,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Digital Democracy",
+        "contested": 1,
+        "votes": 139,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Beer, Baccy and Scratchings",
+        "contested": 1,
+        "votes": 133,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Social Democratic Party",
+        "contested": 2,
+        "votes": 125,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Keep It Real Party",
+        "contested": 1,
+        "votes": 116,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Sustainable Population Party",
+        "contested": 1,
+        "votes": 116,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Wessex Regionalists",
+        "contested": 1,
+        "votes": 110,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Patriotic Socialist Party",
+        "contested": 2,
+        "votes": 106,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Magna Carta Conservation Party Great Britain",
+        "contested": 2,
+        "votes": 103,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Free Public Transport Party",
+        "contested": 1,
+        "votes": 100,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Mainstream",
+        "contested": 1,
+        "votes": 86,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Children of the Atom",
+        "contested": 1,
+        "votes": 83,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Population Party UK",
+        "contested": 1,
+        "votes": 83,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Birthday Party",
+        "contested": 1,
+        "votes": 81,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alter Change - Politics. Only Different.",
+        "contested": 1,
+        "votes": 78,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The 30-50 Coalition",
+        "contested": 1,
+        "votes": 78,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The U(niversal) Party",
+        "contested": 1,
+        "votes": 77,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Democratic Reform Party",
+        "contested": 1,
+        "votes": 74,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Roman Party. Ave",
+        "contested": 1,
+        "votes": 64,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The UK Progressive Democracy Party",
+        "contested": 1,
+        "votes": 57,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Reduce VAT in Sport",
+        "contested": 1,
+        "votes": 56,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Independent Political Alliance Party",
+        "contested": 1,
+        "votes": 56,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Restore the Family For Children's Sake",
+        "contested": 1,
+        "votes": 52,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Eccentric Party of Great Britain",
+        "contested": 1,
+        "votes": 50,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Hoi Polloi",
+        "contested": 1,
+        "votes": 45,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Evolution Party",
+        "contested": 1,
+        "votes": 41,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Europeans Party",
+        "contested": 1,
+        "votes": 39,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Give Me Back Elmo",
+        "contested": 1,
+        "votes": 37,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Principles of Politics Party",
+        "contested": 1,
+        "votes": 37,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Land Party",
+        "contested": 1,
+        "votes": 35,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Democratic Party",
+        "contested": 1,
+        "votes": 33,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Al-Zebabist Nation of Ooog",
+        "contested": 1,
+        "votes": 30,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Campaign",
+        "contested": 1,
+        "votes": 28,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "New Independent Centralists",
+        "contested": 1,
+        "votes": 23,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The New Society of Worth",
+        "contested": 1,
+        "votes": 23,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Pluralist Party",
+        "contested": 1,
+        "votes": 23,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Republican Socialist Party",
+        "contested": 1,
+        "votes": 20,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Realists' Party",
+        "contested": 1,
+        "votes": 18,
+        "officialShare": 0,
+        "seats": 0
+      }
+    ],
+    "partyUrl": "https://electionresults.parliament.uk/general-elections/2",
+    "nonPartyUrl": "https://electionresults.parliament.uk/general-elections/2/uncertified-candidacies",
+    "libraryUrl": "https://commonslibrary.parliament.uk/research-briefings/cbp-7186/",
+    "speaker": {
+      "votes": 34617
+    }
+  },
+  {
+    "year": 2017,
+    "dateISO": "2017-06-08",
+    "valid": 32204184,
+    "electorate": 46836533,
+    "invalid": 74188,
+    "rows": [
+      {
+        "party": "Conservative",
+        "contested": 638,
+        "votes": 13636684,
+        "officialShare": 42.3,
+        "seats": 317
+      },
+      {
+        "party": "Labour",
+        "contested": 631,
+        "votes": 12877918,
+        "officialShare": 40,
+        "seats": 262
+      },
+      {
+        "party": "Scottish National Party",
+        "contested": 59,
+        "votes": 977568,
+        "officialShare": 3,
+        "seats": 35
+      },
+      {
+        "party": "Liberal Democrat",
+        "contested": 629,
+        "votes": 2371861,
+        "officialShare": 7.4,
+        "seats": 12
+      },
+      {
+        "party": "Democratic Unionist Party",
+        "contested": 17,
+        "votes": 292316,
+        "officialShare": 0.9,
+        "seats": 10
+      },
+      {
+        "party": "Sinn Féin",
+        "contested": 18,
+        "votes": 238915,
+        "officialShare": 0.7,
+        "seats": 7
+      },
+      {
+        "party": "Plaid Cymru",
+        "contested": 40,
+        "votes": 164466,
+        "officialShare": 0.5,
+        "seats": 4
+      },
+      {
+        "party": "Green Party",
+        "contested": 457,
+        "votes": 512327,
+        "officialShare": 1.6,
+        "seats": 1
+      },
+      {
+        "party": "UK Independence Party",
+        "contested": 378,
+        "votes": 594068,
+        "officialShare": 1.8,
+        "seats": 0
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "contested": 18,
+        "votes": 95419,
+        "officialShare": 0.3,
+        "seats": 0
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "contested": 14,
+        "votes": 83280,
+        "officialShare": 0.3,
+        "seats": 0
+      },
+      {
+        "party": "Alliance",
+        "contested": 18,
+        "votes": 64553,
+        "officialShare": 0.2,
+        "seats": 0
+      },
+      {
+        "party": "The Yorkshire Party",
+        "contested": 21,
+        "votes": 20958,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "National Health Action Party",
+        "contested": 5,
+        "votes": 16119,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "contested": 7,
+        "votes": 7452,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Green Party",
+        "contested": 3,
+        "votes": 5886,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "contested": 31,
+        "votes": 5869,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "People Before Profit Alliance",
+        "contested": 2,
+        "votes": 5509,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Ashfield Independents",
+        "contested": 1,
+        "votes": 4612,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "British National Party",
+        "contested": 10,
+        "votes": 4580,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "contested": 12,
+        "votes": 3890,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Liberal",
+        "contested": 4,
+        "votes": 3672,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Women's Equality Party",
+        "contested": 7,
+        "votes": 3580,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "contested": 1,
+        "votes": 3282,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The North East Party",
+        "contested": 1,
+        "votes": 2355,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Pirate Party UK",
+        "contested": 10,
+        "votes": 2321,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "English Democrats",
+        "contested": 7,
+        "votes": 1913,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Party, Proclaiming Christ's Lordship",
+        "contested": 2,
+        "votes": 1720,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Save Withybush Save Lives",
+        "contested": 1,
+        "votes": 1209,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Labour Party",
+        "contested": 3,
+        "votes": 1154,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Justice & Anti-Corruption Party",
+        "contested": 3,
+        "votes": 991,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Animal Welfare Party",
+        "contested": 4,
+        "votes": 955,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Southampton Independents",
+        "contested": 1,
+        "votes": 816,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "contested": 5,
+        "votes": 771,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Workers' Party",
+        "contested": 2,
+        "votes": 708,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Something New",
+        "contested": 2,
+        "votes": 552,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Demos Direct Initiative Party",
+        "contested": 1,
+        "votes": 551,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Libertarian Party",
+        "contested": 4,
+        "votes": 524,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Social Democratic Party",
+        "contested": 6,
+        "votes": 469,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Peace Party - Non-violence, Justice, Environment",
+        "contested": 2,
+        "votes": 468,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Friends Party",
+        "contested": 3,
+        "votes": 435,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Better for Bradford",
+        "contested": 1,
+        "votes": 420,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Citizens Independent Social Thought Alliance",
+        "contested": 1,
+        "votes": 393,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Radical Party",
+        "contested": 1,
+        "votes": 392,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "North of England Community Alliance",
+        "contested": 1,
+        "votes": 353,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Southend Independent Association",
+        "contested": 1,
+        "votes": 305,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Apolitical Democrats",
+        "contested": 1,
+        "votes": 304,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Blue Revolution",
+        "contested": 1,
+        "votes": 283,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Humanity",
+        "contested": 1,
+        "votes": 282,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "War Veteran's Pro-Traditional Family Party",
+        "contested": 1,
+        "votes": 269,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Greater Manchester Homeless Voice",
+        "contested": 1,
+        "votes": 242,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Sovereign Democratic Britain",
+        "contested": 1,
+        "votes": 224,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Wessex Regionalists",
+        "contested": 1,
+        "votes": 223,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alliance for Green Socialism",
+        "contested": 3,
+        "votes": 212,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Young People's Party",
+        "contested": 3,
+        "votes": 198,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Church of the Militant Elvis Party",
+        "contested": 1,
+        "votes": 195,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Common Good",
+        "contested": 1,
+        "votes": 155,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Socialist Party of Great Britain",
+        "contested": 3,
+        "votes": 145,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Movement for Active Democracy (M.A.D.)",
+        "contested": 1,
+        "votes": 142,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Rebooting Democracy",
+        "contested": 1,
+        "votes": 133,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scotland's Independence Referendum Party",
+        "contested": 1,
+        "votes": 132,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Money Free Party",
+        "contested": 1,
+        "votes": 101,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Open Borders Party",
+        "contested": 1,
+        "votes": 99,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Concordia",
+        "contested": 1,
+        "votes": 85,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Patria",
+        "contested": 1,
+        "votes": 84,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Space Navies Party",
+        "contested": 1,
+        "votes": 81,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Realists' Party",
+        "contested": 1,
+        "votes": 61,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Just Political Party",
+        "contested": 1,
+        "votes": 52,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Populist Party",
+        "contested": 1,
+        "votes": 50,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Compass Party",
+        "contested": 1,
+        "votes": 38,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist League Election Campaign",
+        "contested": 2,
+        "votes": 34,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The New Society of Worth",
+        "contested": 1,
+        "votes": 31,
+        "officialShare": 0,
+        "seats": 0
+      }
+    ],
+    "partyUrl": "https://electionresults.parliament.uk/general-elections/3",
+    "nonPartyUrl": "https://electionresults.parliament.uk/general-elections/3/uncertified-candidacies",
+    "libraryUrl": "https://commonslibrary.parliament.uk/research-briefings/CBP-7979/",
+    "speaker": {
+      "votes": 34299
+    }
+  },
+  {
+    "year": 2019,
+    "dateISO": "2019-12-12",
+    "valid": 32014110,
+    "electorate": 47562702,
+    "invalid": 117919,
+    "rows": [
+      {
+        "party": "Conservative",
+        "contested": 635,
+        "votes": 13966454,
+        "officialShare": 43.6,
+        "seats": 365
+      },
+      {
+        "party": "Labour",
+        "contested": 631,
+        "votes": 10269051,
+        "officialShare": 32.1,
+        "seats": 202
+      },
+      {
+        "party": "Scottish National Party",
+        "contested": 59,
+        "votes": 1242380,
+        "officialShare": 3.9,
+        "seats": 48
+      },
+      {
+        "party": "Liberal Democrat",
+        "contested": 611,
+        "votes": 3696419,
+        "officialShare": 11.5,
+        "seats": 11
+      },
+      {
+        "party": "Democratic Unionist Party",
+        "contested": 17,
+        "votes": 244128,
+        "officialShare": 0.8,
+        "seats": 8
+      },
+      {
+        "party": "Sinn Féin",
+        "contested": 15,
+        "votes": 181853,
+        "officialShare": 0.6,
+        "seats": 7
+      },
+      {
+        "party": "Plaid Cymru",
+        "contested": 36,
+        "votes": 153265,
+        "officialShare": 0.5,
+        "seats": 4
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "contested": 15,
+        "votes": 118737,
+        "officialShare": 0.4,
+        "seats": 2
+      },
+      {
+        "party": "Green Party",
+        "contested": 472,
+        "votes": 835597,
+        "officialShare": 2.6,
+        "seats": 1
+      },
+      {
+        "party": "Alliance",
+        "contested": 18,
+        "votes": 134115,
+        "officialShare": 0.4,
+        "seats": 1
+      },
+      {
+        "party": "The Brexit Party",
+        "contested": 275,
+        "votes": 644257,
+        "officialShare": 2,
+        "seats": 0
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "contested": 16,
+        "votes": 93123,
+        "officialShare": 0.3,
+        "seats": 0
+      },
+      {
+        "party": "The Yorkshire Party",
+        "contested": 28,
+        "votes": 29201,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Green Party",
+        "contested": 22,
+        "votes": 28122,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "UK Independence Party",
+        "contested": 44,
+        "votes": 22817,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Ashfield Independents",
+        "contested": 1,
+        "votes": 13498,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Liberal",
+        "contested": 19,
+        "votes": 10876,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Independent Group for Change",
+        "contested": 3,
+        "votes": 10006,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Aontú",
+        "contested": 7,
+        "votes": 9814,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "contested": 24,
+        "votes": 9739,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "People Before Profit Alliance",
+        "contested": 2,
+        "votes": 7526,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Birkenhead Social Justice Party",
+        "contested": 1,
+        "votes": 7285,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "contested": 29,
+        "votes": 6486,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Heavy Woollen District Independents",
+        "contested": 1,
+        "votes": 6432,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Social Democratic Party",
+        "contested": 20,
+        "votes": 3295,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Animal Welfare Party",
+        "contested": 6,
+        "votes": 3086,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The North East Party",
+        "contested": 2,
+        "votes": 2637,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Lincolnshire Independents Lincolnshire First",
+        "contested": 1,
+        "votes": 1999,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "contested": 3,
+        "votes": 1996,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "English Democrats",
+        "contested": 5,
+        "votes": 1987,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Libertarian Party",
+        "contested": 6,
+        "votes": 1780,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Mebyon Kernow - The Party for Cornwall",
+        "contested": 1,
+        "votes": 1660,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Proud of Oldham & Saddleworth",
+        "contested": 2,
+        "votes": 1606,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Network",
+        "contested": 1,
+        "votes": 1542,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Gwlad Gwlad",
+        "contested": 3,
+        "votes": 1515,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Cynon Valley Party",
+        "contested": 1,
+        "votes": 1322,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Veterans and People's Party",
+        "contested": 2,
+        "votes": 1219,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Burnley and Padiham Independent Party",
+        "contested": 1,
+        "votes": 1162,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Shropshire Party",
+        "contested": 1,
+        "votes": 1141,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Cumbria First",
+        "contested": 1,
+        "votes": 1070,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Peace Party - Non-violence, Justice, Environment",
+        "contested": 2,
+        "votes": 960,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Wycombe Independents",
+        "contested": 1,
+        "votes": 926,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Justice & Anti-Corruption Party",
+        "contested": 3,
+        "votes": 728,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Party, Proclaiming Christ's Lordship",
+        "contested": 2,
+        "votes": 705,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Renew",
+        "contested": 4,
+        "votes": 545,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "contested": 5,
+        "votes": 524,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "British National Party",
+        "contested": 1,
+        "votes": 510,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Labour Party",
+        "contested": 1,
+        "votes": 494,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Family Party",
+        "contested": 2,
+        "votes": 465,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Women's Equality Party",
+        "contested": 3,
+        "votes": 416,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communities United Party",
+        "contested": 2,
+        "votes": 393,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Psychedelic Movement",
+        "contested": 1,
+        "votes": 367,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Universal Good Party",
+        "contested": 1,
+        "votes": 363,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Advance Together",
+        "contested": 5,
+        "votes": 351,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Young People's Party",
+        "contested": 3,
+        "votes": 311,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alliance for Green Socialism",
+        "contested": 3,
+        "votes": 278,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Motherworld Party",
+        "contested": 1,
+        "votes": 270,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Best for Luton Party",
+        "contested": 1,
+        "votes": 268,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Citizens Movement Party UK",
+        "contested": 1,
+        "votes": 257,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Yeshua",
+        "contested": 2,
+        "votes": 204,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Constitution and Reform Party",
+        "contested": 1,
+        "votes": 186,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Equality Party",
+        "contested": 3,
+        "votes": 172,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Church of the Militant Elvis Party",
+        "contested": 1,
+        "votes": 172,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Socialist Party of Great Britain",
+        "contested": 2,
+        "votes": 157,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Common People",
+        "contested": 1,
+        "votes": 132,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Space Navies Party",
+        "contested": 1,
+        "votes": 118,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Patria",
+        "contested": 1,
+        "votes": 109,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist League Election Campaign",
+        "contested": 2,
+        "votes": 100,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Rebooting Democracy",
+        "contested": 1,
+        "votes": 67,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Touch Love Worldwide (UK)",
+        "contested": 1,
+        "votes": 47,
+        "officialShare": 0,
+        "seats": 0
+      }
+    ],
+    "partyUrl": "https://electionresults.parliament.uk/general-elections/4",
+    "nonPartyUrl": "https://electionresults.parliament.uk/general-elections/4/uncertified-candidacies",
+    "libraryUrl": "https://commonslibrary.parliament.uk/research-briefings/cbp-8749/",
+    "speaker": {
+      "votes": 26831
+    }
+  },
+  {
+    "year": 2024,
+    "dateISO": "2024-07-04",
+    "valid": 28809340,
+    "electorate": 48224212,
+    "invalid": 116253,
+    "rows": [
+      {
+        "party": "Labour",
+        "contested": 631,
+        "votes": 9708716,
+        "officialShare": 33.7,
+        "seats": 411
+      },
+      {
+        "party": "Conservative",
+        "contested": 635,
+        "votes": 6828925,
+        "officialShare": 23.7,
+        "seats": 121
+      },
+      {
+        "party": "Liberal Democrat",
+        "contested": 630,
+        "votes": 3519143,
+        "officialShare": 12.2,
+        "seats": 72
+      },
+      {
+        "party": "Scottish National Party",
+        "contested": 57,
+        "votes": 724758,
+        "officialShare": 2.5,
+        "seats": 9
+      },
+      {
+        "party": "Sinn Féin",
+        "contested": 14,
+        "votes": 210891,
+        "officialShare": 0.7,
+        "seats": 7
+      },
+      {
+        "party": "Reform UK",
+        "contested": 609,
+        "votes": 4117610,
+        "officialShare": 14.3,
+        "seats": 5
+      },
+      {
+        "party": "Democratic Unionist Party",
+        "contested": 16,
+        "votes": 172058,
+        "officialShare": 0.6,
+        "seats": 5
+      },
+      {
+        "party": "Green Party",
+        "contested": 574,
+        "votes": 1843124,
+        "officialShare": 6.4,
+        "seats": 4
+      },
+      {
+        "party": "Plaid Cymru",
+        "contested": 32,
+        "votes": 194811,
+        "officialShare": 0.7,
+        "seats": 4
+      },
+      {
+        "party": "Social Democratic & Labour Party",
+        "contested": 18,
+        "votes": 86861,
+        "officialShare": 0.3,
+        "seats": 2
+      },
+      {
+        "party": "Alliance",
+        "contested": 18,
+        "votes": 117191,
+        "officialShare": 0.4,
+        "seats": 1
+      },
+      {
+        "party": "Ulster Unionist Party",
+        "contested": 17,
+        "votes": 94779,
+        "officialShare": 0.3,
+        "seats": 1
+      },
+      {
+        "party": "Traditional Unionist Voice",
+        "contested": 14,
+        "votes": 48685,
+        "officialShare": 0.2,
+        "seats": 1
+      },
+      {
+        "party": "Workers Party of Britain",
+        "contested": 152,
+        "votes": 210252,
+        "officialShare": 0.7,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Green Party",
+        "contested": 44,
+        "votes": 92685,
+        "officialShare": 0.3,
+        "seats": 0
+      },
+      {
+        "party": "Social Democratic Party",
+        "contested": 122,
+        "votes": 33811,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "The Yorkshire Party",
+        "contested": 27,
+        "votes": 17236,
+        "officialShare": 0.1,
+        "seats": 0
+      },
+      {
+        "party": "Independent Network",
+        "contested": 5,
+        "votes": 13663,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Trade Unionist and Socialist Coalition",
+        "contested": 40,
+        "votes": 12901,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alba Party",
+        "contested": 19,
+        "votes": 11784,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Rejoin EU",
+        "contested": 26,
+        "votes": 9288,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Green Party Northern Ireland",
+        "contested": 11,
+        "votes": 8692,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "People Before Profit Alliance",
+        "contested": 3,
+        "votes": 8438,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Aontú",
+        "contested": 10,
+        "votes": 7466,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Newham Independents Party",
+        "contested": 1,
+        "votes": 7180,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Heritage Party",
+        "contested": 41,
+        "votes": 6597,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "UK Independence Party",
+        "contested": 24,
+        "votes": 6530,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Liberal",
+        "contested": 12,
+        "votes": 6375,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Ashfield Independents",
+        "contested": 1,
+        "votes": 6276,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Official Monster Raving Loony Party",
+        "contested": 22,
+        "votes": 5814,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Peoples Alliance",
+        "contested": 22,
+        "votes": 5604,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Family Party",
+        "contested": 16,
+        "votes": 5425,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "English Democrats",
+        "contested": 15,
+        "votes": 5182,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Party of Women",
+        "contested": 16,
+        "votes": 5077,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Lincolnshire Independents Lincolnshire First",
+        "contested": 2,
+        "votes": 4277,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "One Leicester",
+        "contested": 2,
+        "votes": 4008,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Labour Party",
+        "contested": 12,
+        "votes": 3609,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Liverpool Community Independents",
+        "contested": 1,
+        "votes": 3294,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Swale Independents",
+        "contested": 1,
+        "votes": 3238,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Hampshire Independents",
+        "contested": 10,
+        "votes": 2872,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist Party of Britain",
+        "contested": 14,
+        "votes": 2622,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Democracy for Chorley",
+        "contested": 1,
+        "votes": 2424,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Oxford Alliance",
+        "contested": 1,
+        "votes": 2381,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Climate Party",
+        "contested": 13,
+        "votes": 1967,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "South Devon Alliance",
+        "contested": 1,
+        "votes": 1924,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "British Democratic Party",
+        "contested": 4,
+        "votes": 1860,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alliance for Democracy and Freedom",
+        "contested": 9,
+        "votes": 1769,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "True & Fair Party",
+        "contested": 4,
+        "votes": 1695,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The North East Party",
+        "contested": 1,
+        "votes": 1581,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "English Constitution Party",
+        "contested": 4,
+        "votes": 1563,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Abolish the Welsh Assembly Party",
+        "contested": 3,
+        "votes": 1521,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Animal Welfare Party",
+        "contested": 4,
+        "votes": 1486,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Consensus",
+        "contested": 1,
+        "votes": 1289,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Women's Equality Party",
+        "contested": 4,
+        "votes": 1275,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Workers Revolutionary Party",
+        "contested": 5,
+        "votes": 1190,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Kingston Independent Residents Group",
+        "contested": 1,
+        "votes": 1177,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Propel",
+        "contested": 1,
+        "votes": 1041,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Socialist Party",
+        "contested": 2,
+        "votes": 1007,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independent Alliance (Kent)",
+        "contested": 1,
+        "votes": 926,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Freedom Alliance",
+        "contested": 5,
+        "votes": 895,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Christian Party, Proclaiming Christ's Lordship",
+        "contested": 2,
+        "votes": 806,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Confelicity",
+        "contested": 2,
+        "votes": 750,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Portsmouth Independent Party",
+        "contested": 1,
+        "votes": 733,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independence for Scotland Party",
+        "contested": 2,
+        "votes": 678,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Shared Ground",
+        "contested": 2,
+        "votes": 664,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Cross-Community Labour Alternative",
+        "contested": 1,
+        "votes": 624,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "British Unionist Party B.U.P.",
+        "contested": 2,
+        "votes": 614,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Transform Party",
+        "contested": 2,
+        "votes": 595,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Putting Crewe First, Independent Residents Group",
+        "contested": 1,
+        "votes": 588,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Scottish Libertarian Party",
+        "contested": 4,
+        "votes": 536,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Peace Party - Non-violence, Justice, Environment",
+        "contested": 2,
+        "votes": 531,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Taking The Initiative Party",
+        "contested": 1,
+        "votes": 503,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Blue Revolution",
+        "contested": 1,
+        "votes": 397,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Alliance for Green Socialism",
+        "contested": 2,
+        "votes": 378,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Chesterfield And North Derbyshire Independents (CANDI)",
+        "contested": 1,
+        "votes": 363,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Mitre TW9",
+        "contested": 1,
+        "votes": 349,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Count Binface Party",
+        "contested": 1,
+        "votes": 308,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Sovereignty",
+        "contested": 2,
+        "votes": 304,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Social Justice party",
+        "contested": 1,
+        "votes": 285,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Volt United Kingdom",
+        "contested": 2,
+        "votes": 267,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Rebooting Democracy",
+        "contested": 1,
+        "votes": 265,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Yoruba Party in the UK",
+        "contested": 1,
+        "votes": 261,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "National Health Action Party",
+        "contested": 1,
+        "votes": 247,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Fairer Voting Party",
+        "contested": 1,
+        "votes": 240,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Socialist Equality Party",
+        "contested": 2,
+        "votes": 239,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist League Election Campaign",
+        "contested": 2,
+        "votes": 230,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Common Good",
+        "contested": 1,
+        "votes": 215,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Socialist Party of Great Britain",
+        "contested": 2,
+        "votes": 193,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Stockport Fights Austerity No To Cuts",
+        "contested": 1,
+        "votes": 193,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "New Open Non-Political Organised Leadership",
+        "contested": 1,
+        "votes": 186,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Save Us Now",
+        "contested": 1,
+        "votes": 170,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "UK Voice",
+        "contested": 1,
+        "votes": 150,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Communist Future",
+        "contested": 1,
+        "votes": 131,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Libertarian Party",
+        "contested": 2,
+        "votes": 113,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Psychedelic Movement",
+        "contested": 1,
+        "votes": 99,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "The Common People",
+        "contested": 1,
+        "votes": 91,
+        "officialShare": 0,
+        "seats": 0
+      },
+      {
+        "party": "Independents for Direct Democracy",
+        "contested": 1,
+        "votes": 45,
+        "officialShare": 0,
+        "seats": 0
+      }
+    ],
+    "partyUrl": "https://electionresults.parliament.uk/general-elections/6",
+    "nonPartyUrl": "https://electionresults.parliament.uk/general-elections/6/uncertified-candidacies",
+    "libraryUrl": "https://commonslibrary.parliament.uk/research-briefings/cbp-10009/",
+    "speaker": {
+      "votes": 25238
+    }
+  }
+]

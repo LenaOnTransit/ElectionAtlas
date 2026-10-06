@@ -1,0 +1,172 @@
+[
+  {
+    "id": "67387ae9-0243-5527-96f2-428c68523cf4",
+    "country_id": "gb",
+    "name": "Alliance",
+    "short_name": "Alliance",
+    "color": "#f6cb2f",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "f3ded04c-904a-5c87-9409-18595d620da2",
+    "country_id": "gb",
+    "name": "British National Party",
+    "short_name": "British National Party",
+    "color": "#777777",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "4d59c0b2-1677-5f40-8b62-c6c1e1b2620c",
+    "country_id": "gb",
+    "name": "Conservative",
+    "short_name": "Conservative",
+    "color": "#0087dc",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "fb7447f5-de5d-5762-b60c-54a90d71b87b",
+    "country_id": "gb",
+    "name": "Democratic Unionist Party",
+    "short_name": "Democratic Unionist Party",
+    "color": "#d46a4a",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "3c9b13c8-6be0-51a4-bf59-7bc82c5632cd",
+    "country_id": "gb",
+    "name": "Green Party",
+    "short_name": "Green Party",
+    "color": "#6ab023",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "cdaceaf7-791e-5c51-842b-cde35740eff6",
+    "country_id": "gb",
+    "name": "Labour",
+    "short_name": "Labour",
+    "color": "#e4003b",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "7bd46066-e331-5115-a8df-a1556b7dd4a0",
+    "country_id": "gb",
+    "name": "Liberal Democrat",
+    "short_name": "Liberal Democrat",
+    "color": "#fdbb30",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "693adb9f-7de6-5f2b-a6ea-0ecac26acd18",
+    "country_id": "gb",
+    "name": "Plaid Cymru",
+    "short_name": "Plaid Cymru",
+    "color": "#005b54",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "13c478b1-bcf6-556e-8ef7-a84dee0767c5",
+    "country_id": "gb",
+    "name": "Reform UK",
+    "short_name": "Reform UK",
+    "color": "#12b6cf",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "19a27845-587f-5bc5-b6f1-2834121d1577",
+    "country_id": "gb",
+    "name": "Scottish National Party",
+    "short_name": "Scottish National Party",
+    "color": "#fff95d",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "24b222de-7d47-54d7-8939-919b31143129",
+    "country_id": "gb",
+    "name": "Sinn Féin",
+    "short_name": "Sinn Féin",
+    "color": "#326760",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "ac661b4b-7353-5031-8945-8fdd62fe0efd",
+    "country_id": "gb",
+    "name": "Social Democratic & Labour Party",
+    "short_name": "Social Democratic & Labour Party",
+    "color": "#2aa82c",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "1bc99aad-3339-5967-8853-bec1c584c26a",
+    "country_id": "gb",
+    "name": "The Brexit Party",
+    "short_name": "The Brexit Party",
+    "color": "#12b6cf",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "6f8174d5-7d1b-5a32-8345-c8904e01ddab",
+    "country_id": "gb",
+    "name": "Traditional Unionist Voice",
+    "short_name": "Traditional Unionist Voice",
+    "color": "#123b5d",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "8f069aa9-be9c-56ec-b6ea-10cc3c645050",
+    "country_id": "gb",
+    "name": "UK Independence Party",
+    "short_name": "UK Independence Party",
+    "color": "#70147a",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "73f3d19a-3041-57e1-955e-d9fd417b8e52",
+    "country_id": "gb",
+    "name": "Ulster Unionist Party",
+    "short_name": "Ulster Unionist Party",
+    "color": "#1683c4",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  },
+  {
+    "id": "e99231df-c8fb-53d4-9eb8-ecde03fb90f8",
+    "country_id": "gb",
+    "name": "Workers Party of Britain",
+    "short_name": "Workers Party of Britain",
+    "color": "#777777",
+    "ideology_ids": [],
+    "notes": "Reusable UK election party profile. Election records retain period-specific results; no unsourced ideology classification is applied.",
+    "archived": false
+  }
+]

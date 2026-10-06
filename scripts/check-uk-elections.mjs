@@ -1,0 +1,11 @@
+import fs from 'node:fs';import ts from 'typescript';import assert from 'node:assert/strict';
+function moduleUrl(file,imports={}){let source=fs.readFileSync(file,'utf8');for(const [from,to]of Object.entries(imports))source=source.replaceAll("'"+from+"'","'"+to+"'");return 'data:text/javascript;base64,'+Buffer.from(ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText).toString('base64');}
+const model=await import(moduleUrl('lib/world.ts',{'./house':moduleUrl('lib/house.ts'),'./legitimacy':moduleUrl('lib/legitimacy.ts')}));
+const records=JSON.parse(fs.readFileSync('scripts/uk-election-import/records.json'));const parties=JSON.parse(fs.readFileSync('scripts/uk-election-import/parties.json'));const input=JSON.parse(fs.readFileSync('scripts/uk-election-import/official-results.json'));const partyIds=new Set(parties.map(p=>p.id));
+assert.equal(records.length,5);assert.deepEqual(records.map(e=>e.startDate),['2010-05-06','2015-05-07','2017-06-08','2019-12-12','2024-07-04']);
+for(let i=0;i<records.length;i++){
+ const e=records[i],src=input[i];model.validateWorldElection(e);assert.equal(e.countryId,'gb');assert.equal(e.publication,'published');assert.equal(e.totalSeats,650);assert.equal(e.results.reduce((n,r)=>n+(r.seats||0),0),650);assert.equal(e.results.reduce((n,r)=>n+(r.votes||0),0),src.valid);assert.ok(Math.abs(e.results.reduce((n,r)=>n+(r.share||0),0)-100)<.01);assert.ok(e.results.every(r=>!r.partyId||partyIds.has(r.partyId)));
+ assert.equal(e.results.at(-1).name,'Commons Speaker');assert.equal(e.results.at(-1).seats,1);assert.equal(e.results.at(-2).votes,src.valid-src.rows.reduce((n,r)=>n+r.votes,0)-src.speaker.votes);
+}
+assert.equal(records[0].id,'world-uk-general-2010');assert.equal(records[4].id,'world-uk-commons-2024');assert.equal(records[4].results.find(r=>r.name==='Labour').seats,411);assert.equal(records[4].results.find(r=>r.name==='Reform UK').votes,4117610);assert.equal(records[4].results.find(r=>r.name==='Independent and other non-party candidates').seats,6);assert.equal(records[2].results.find(r=>r.name==='Independent and other non-party candidates').seats,1);
+console.log('UK archive: five official results sets, vote and seat reconciliation, party references and existing 2024 record passed.');

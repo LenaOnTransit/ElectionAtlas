@@ -1,0 +1,53 @@
+{
+  "checked": "2026-10-06",
+  "records": 5,
+  "savedParties": 17,
+  "sources": [
+    {
+      "url": "https://electionresults.parliament.uk/general-elections/1",
+      "validVotes": 29687604,
+      "electorate": 45597461,
+      "registeredParties": 131,
+      "partyVotes": 29363578,
+      "nonPartyVotes": 301166,
+      "speakerVotes": 22860
+    },
+    {
+      "url": "https://electionresults.parliament.uk/general-elections/2",
+      "validVotes": 30697525,
+      "electorate": 46354197,
+      "registeredParties": 128,
+      "partyVotes": 30559482,
+      "nonPartyVotes": 103426,
+      "speakerVotes": 34617
+    },
+    {
+      "url": "https://electionresults.parliament.uk/general-elections/3",
+      "validVotes": 32204184,
+      "electorate": 46836533,
+      "registeredParties": 72,
+      "partyVotes": 32018414,
+      "nonPartyVotes": 151471,
+      "speakerVotes": 34299
+    },
+    {
+      "url": "https://electionresults.parliament.uk/general-elections/4",
+      "validVotes": 32014110,
+      "electorate": 47562702,
+      "registeredParties": 70,
+      "partyVotes": 31780793,
+      "nonPartyVotes": 206486,
+      "speakerVotes": 26831
+    },
+    {
+      "url": "https://electionresults.parliament.uk/general-elections/6",
+      "validVotes": 28809340,
+      "electorate": 48224212,
+      "registeredParties": 97,
+      "partyVotes": 28220060,
+      "nonPartyVotes": 564042,
+      "speakerVotes": 25238
+    }
+  ],
+  "sha256": "d2b215ec4176d8fb324cad7ec8f3a620ddda6b0d0b9657563fe6aeaa0b58fdea"
+}
