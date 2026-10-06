@@ -1,0 +1,187 @@
+{
+  "checked": "2026-10-06",
+  "countryId": "me",
+  "recordCount": 59,
+  "partyCount": 20,
+  "nationalElections": [
+    {
+      "id": "world-montenegro-1990-12-09-parliament",
+      "validVotes": 295262,
+      "recordedVotes": 295262,
+      "unallocatedVotes": 0,
+      "electorate": 402905,
+      "voters": 305025,
+      "seats": 125,
+      "recordedSeats": 125,
+      "primarySourceReference": "\"Pobjeda\" from 8 December 1990 (list of parties and candidates); \"Pobjeda\" from 18 December 1990 (seats and seat percentage, electorate and votes cast); Official Gazette of the Socialist Republic of Montenegro 49/1990 from 29 December 1990 (number of seats per party - important); Pavicevic (2007); SNP's old web site for the verification of total number of votes won by the party/coalition (Web archives: https://web.archive.org/web/20160506174042/http://snp.co.me/strana.asp?kat=1&id=4905)",
+      "sourceNotes": [
+        "Votes and seats per party cross-checked among listed sources; total electorate, votes cast, seats won and percentage of seats provided in the official report by REC while votes_valid was calculated based on votes for all parties",
+        "Votes and seats per party cross-checked among listed sources; total electorate, votes cast, seats won and percentage of seats provided in the official report by REC while votes_valid was calculated based on votes for all parties and coalitions (and a list of independent candidates)"
+      ]
+    },
+    {
+      "id": "world-montenegro-1992-12-20-parliament",
+      "validVotes": 287722,
+      "recordedVotes": 287722,
+      "unallocatedVotes": 0,
+      "electorate": 429047,
+      "voters": 295698,
+      "seats": 85,
+      "recordedSeats": 85,
+      "primarySourceReference": "Official results reported in \"Pobjeda\" on 26 December 1992; Republic Electoral Commission results published in daily newspaper \"Pobjeda\" on 11 January 1993",
+      "sourceNotes": [
+        "Votes valid was not reported in official results but was calculated based on votes each party won"
+      ]
+    },
+    {
+      "id": "world-montenegro-1996-11-03-parliament",
+      "validVotes": 293184,
+      "recordedVotes": 293184,
+      "unallocatedVotes": 0,
+      "electorate": 449835,
+      "voters": 300926,
+      "seats": 71,
+      "recordedSeats": 71,
+      "primarySourceReference": "Republic Electoral Commission (results published in daily newspaper \"Pobjeda\" on 14 November 1996)",
+      "sourceNotes": [
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-1998-05-31-parliament",
+      "validVotes": 343350,
+      "recordedVotes": 343350,
+      "unallocatedVotes": 0,
+      "electorate": 457633,
+      "voters": 347985,
+      "seats": 78,
+      "recordedSeats": 78,
+      "primarySourceReference": "Republic Electoral Commission (results published in daily newspaper \"Pobjeda\" on 17 June 1998), Pobjeda from 13 June 1997 (on electorate and valid votes), article by Vukicevic and Vujovic (2012)",
+      "sourceNotes": [
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-2001-04-22-parliament",
+      "validVotes": 363404,
+      "recordedVotes": 363404,
+      "unallocatedVotes": 0,
+      "electorate": 447673,
+      "voters": 366152,
+      "seats": 77,
+      "recordedSeats": 77,
+      "primarySourceReference": "Republic Electoral Commission (results published in daily newspaper \"Pobjeda\" on 12 May 2001), also Pobjeda from 6 May 2001",
+      "sourceNotes": [
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-2002-10-20-parliament",
+      "validVotes": 348398,
+      "recordedVotes": 348398,
+      "unallocatedVotes": 0,
+      "electorate": 455791,
+      "voters": 353102,
+      "seats": 75,
+      "recordedSeats": 75,
+      "primarySourceReference": "Republic Electoral Commission (results published in daily newspaper \"Pobjeda\" on 2 November 2002)",
+      "sourceNotes": [
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-2006-09-10-parliament",
+      "validVotes": 338835,
+      "recordedVotes": 338833,
+      "unallocatedVotes": 2,
+      "electorate": 484430,
+      "voters": 345757,
+      "seats": 81,
+      "recordedSeats": 81,
+      "primarySourceReference": "Republic Electoral Commission (results published on official website of State Electoral Commission - www.dik.co.me)",
+      "sourceNotes": [
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-2009-03-29-parliament",
+      "validVotes": 323992,
+      "recordedVotes": 323992,
+      "unallocatedVotes": 0,
+      "electorate": 498305,
+      "voters": 329819,
+      "seats": 81,
+      "recordedSeats": 81,
+      "primarySourceReference": "State Electoral Commission (results published on official website www.dik.co.me)",
+      "sourceNotes": [
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-2012-10-14-parliament",
+      "validVotes": 356950,
+      "recordedVotes": 356950,
+      "unallocatedVotes": 0,
+      "electorate": 514055,
+      "voters": 362714,
+      "seats": 81,
+      "recordedSeats": 81,
+      "primarySourceReference": "State Electoral Commission (results published on official website www.dik.co.me)",
+      "sourceNotes": [
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-2016-10-16-parliament",
+      "validVotes": 382706,
+      "recordedVotes": 382706,
+      "unallocatedVotes": 0,
+      "electorate": 528817,
+      "voters": 388220,
+      "seats": 81,
+      "recordedSeats": 81,
+      "primarySourceReference": "State Electoral Commission (results published on official website www.dik.co.me)",
+      "sourceNotes": [
+        "Liberal Party actually in alliance with DPS here, although DPS formally submitted the necessary documentation as a single party, hence coding 0 (not a coalition). LP later gained 1 seat from this cooperation with DPS. See more from: https://www.dps.me/me/istorijat (search part on 2016 elections); Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report",
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-2020-08-30-parliament",
+      "validVotes": 409393,
+      "recordedVotes": 409393,
+      "unallocatedVotes": 0,
+      "electorate": 540026,
+      "voters": 413894,
+      "seats": 81,
+      "recordedSeats": 81,
+      "primarySourceReference": "State Electoral Commission (results published on official website www.dik.co.me)",
+      "sourceNotes": [
+        "Votes per party, seats per party, total electorate, votes cast and valid votes provided in the official report"
+      ]
+    },
+    {
+      "id": "world-montenegro-2023-06-11-parliament",
+      "validVotes": 302436,
+      "recordedVotes": 302436,
+      "unallocatedVotes": 0,
+      "electorate": 542468,
+      "voters": 305324,
+      "seats": 81,
+      "recordedSeats": 81,
+      "primarySourceReference": "State Electoral Commission (results published on official website www.dik.co.me)",
+      "sourceNotes": []
+    }
+  ],
+  "historicalQualifications": [
+    "Historical popular-vote and turnout data unavailable; no party affiliation assigned to aggregates.",
+    "1905–1911 realised chamber denominators unresolved in checked accounts.",
+    "1953/1958 Producers’ Council direct/indirect mechanism not asserted.",
+    "1963 Organisational and Political Council month differs from other council dates in UNDP.",
+    "1965/1967 records cover half-renewals; retained members are not election wins."
+  ],
+  "sourceExtractHashes": {
+    "national-results.json": "1ffb56aca25bb5710e1a463802f198c050c2db18a7142a69d1e764285c73c92d",
+    "party-name-reference.json": "d309185f03968f23f71d310d994151ce78c34cc16bd52a1011c0b4ba26f02706"
+  }
+}
