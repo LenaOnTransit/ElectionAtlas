@@ -1,0 +1,128 @@
+[
+  {
+    "id": "world-tl-2001-08-30-assembly",
+    "validVotes": 363501,
+    "ballotsCast": 384248,
+    "registeredVoters": null,
+    "unenteredValidVotes": 0,
+    "seatTotal": 88,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-tl-2007-06-30-parliament",
+    "validVotes": 415604,
+    "ballotsCast": 426210,
+    "registeredVoters": 529198,
+    "unenteredValidVotes": 0,
+    "seatTotal": 65,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2012-07-07-parliament",
+    "validVotes": 471389,
+    "ballotsCast": 482792,
+    "registeredVoters": 645624,
+    "unenteredValidVotes": 0,
+    "seatTotal": 65,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2017-07-22-parliament",
+    "validVotes": 568070,
+    "ballotsCast": 583956,
+    "registeredVoters": 760907,
+    "unenteredValidVotes": 0,
+    "seatTotal": 65,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2018-05-12-parliament",
+    "validVotes": 624525,
+    "ballotsCast": 635116,
+    "registeredVoters": 784286,
+    "unenteredValidVotes": 0,
+    "seatTotal": 65,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2023-05-21-parliament",
+    "validVotes": 692521,
+    "ballotsCast": 705692,
+    "registeredVoters": 890145,
+    "unenteredValidVotes": 0,
+    "seatTotal": 65,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-tl-2002-04-14-president-r1",
+    "validVotes": 364780,
+    "ballotsCast": 378548,
+    "registeredVoters": 446256,
+    "unenteredValidVotes": 0,
+    "seatTotal": null,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2007-04-09-president-r1",
+    "validVotes": 403941,
+    "ballotsCast": 427198,
+    "registeredVoters": 522933,
+    "unenteredValidVotes": 0,
+    "seatTotal": null,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2007-05-09-president-r2",
+    "validVotes": 413177,
+    "ballotsCast": 424475,
+    "registeredVoters": 524073,
+    "unenteredValidVotes": 0,
+    "seatTotal": null,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2012-03-17-president-r1",
+    "validVotes": 464661,
+    "ballotsCast": 489933,
+    "registeredVoters": 626503,
+    "unenteredValidVotes": 0,
+    "seatTotal": null,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2012-04-16-president-r2",
+    "validVotes": 449879,
+    "ballotsCast": 458703,
+    "registeredVoters": 627295,
+    "unenteredValidVotes": 0,
+    "seatTotal": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-tl-2017-03-20-president-r1",
+    "validVotes": 516881,
+    "ballotsCast": 528813,
+    "registeredVoters": 743150,
+    "unenteredValidVotes": 0,
+    "seatTotal": null,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2022-03-19-president-r1",
+    "validVotes": 651859,
+    "ballotsCast": 664106,
+    "registeredVoters": 859613,
+    "unenteredValidVotes": 0,
+    "seatTotal": null,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-tl-2022-04-19-president-r2",
+    "validVotes": 640967,
+    "ballotsCast": 646389,
+    "registeredVoters": 859925,
+    "unenteredValidVotes": 0,
+    "seatTotal": null,
+    "coverage": "complete"
+  }
+]
