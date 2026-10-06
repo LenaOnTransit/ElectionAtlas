@@ -1,0 +1,202 @@
+[
+  {
+    "id": "494f9dd5-d152-5db2-b28f-224b035e33de",
+    "country_id": "me",
+    "name": "League of Communists of Montenegro",
+    "short_name": "SKCG",
+    "color": "#c62828",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred. Historical name used in 1990; renamed DPS in 1991. Kept as a historical-name profile rather than relabelling the 1990 ballot.",
+    "archived": true
+  },
+  {
+    "id": "0512aafb-dbca-5707-9925-a1285b10f3fd",
+    "country_id": "me",
+    "name": "Democratic Party of Socialists of Montenegro",
+    "short_name": "DPS",
+    "color": "#e52b39",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "1f9ece23-aa66-509a-a8da-7af792ff2ae5",
+    "country_id": "me",
+    "name": "People’s Party (founded 1990)",
+    "short_name": "NSCG",
+    "color": "#315b96",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred. The party founded in 1990 is distinct from the royal-era People’s Party.",
+    "archived": true
+  },
+  {
+    "id": "8443964c-efb7-5b1b-9b46-8bfb62bae4a2",
+    "country_id": "me",
+    "name": "Liberal Alliance of Montenegro",
+    "short_name": "LSCG",
+    "color": "#25a6aa",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": true
+  },
+  {
+    "id": "cf828abc-4b07-51a4-b21c-e9d39e5b712d",
+    "country_id": "me",
+    "name": "Social Democratic Party of Reformists",
+    "short_name": "SDPR",
+    "color": "#b84343",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": true
+  },
+  {
+    "id": "c9b0a4c4-dd15-5624-bd4f-76ac58c37c21",
+    "country_id": "me",
+    "name": "Social Democratic Party of Montenegro",
+    "short_name": "SDP",
+    "color": "#c8242a",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "c8665c8b-f3cb-56ac-8dbf-ebbaab8d3eac",
+    "country_id": "me",
+    "name": "Socialist People’s Party of Montenegro",
+    "short_name": "SNP",
+    "color": "#315b96",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "588f4152-91e1-5248-b5a3-cfef3f8a4d4f",
+    "country_id": "me",
+    "name": "Serb People’s Party",
+    "short_name": "SNS",
+    "color": "#4169a1",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": true
+  },
+  {
+    "id": "a0e839b5-97a7-50ef-8d10-989345cb0b05",
+    "country_id": "me",
+    "name": "Democratic Union of Albanians",
+    "short_name": "DUA",
+    "color": "#227947",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "217fc2a9-79e9-5b38-b4ab-f12ba093ec05",
+    "country_id": "me",
+    "name": "Democratic Alliance in Montenegro",
+    "short_name": "DSCG",
+    "color": "#247052",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "b00fe08d-00be-57e7-acc0-e1172016ba9f",
+    "country_id": "me",
+    "name": "Party of Democratic Prosperity",
+    "short_name": "PDP",
+    "color": "#468766",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "0a412071-3dbb-5952-9d40-98d9ad264bce",
+    "country_id": "me",
+    "name": "Movement for Changes",
+    "short_name": "PZP",
+    "color": "#ef9a23",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "9fb91671-9184-594d-a873-059b7bc32e3a",
+    "country_id": "me",
+    "name": "Bosniak Party",
+    "short_name": "BS",
+    "color": "#248748",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "e1dc6aa0-04ff-535e-948c-533a4d63d9b6",
+    "country_id": "me",
+    "name": "Croatian Civic Initiative",
+    "short_name": "HGI",
+    "color": "#cf3f43",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "7b3738a7-2c12-5f89-a4df-e89b1f335989",
+    "country_id": "me",
+    "name": "New Democratic Power – FORCA",
+    "short_name": "FORCA",
+    "color": "#e2942b",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "265c7368-db25-595c-8a36-c43fec1ed73e",
+    "country_id": "me",
+    "name": "Albanian Alternative",
+    "short_name": "AA",
+    "color": "#e34c38",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "66cc4ab9-a77e-5bf9-8089-0c7eae034318",
+    "country_id": "me",
+    "name": "Positive Montenegro",
+    "short_name": "PCG",
+    "color": "#ed7e29",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "412c5b05-45bf-5cbf-a494-48f4398fb6c2",
+    "country_id": "me",
+    "name": "Democratic Montenegro",
+    "short_name": "DCG",
+    "color": "#e23b3b",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "17336f9e-3bf0-5cba-8e23-f1c630aab6a1",
+    "country_id": "me",
+    "name": "Social Democrats of Montenegro",
+    "short_name": "SD",
+    "color": "#d84648",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  },
+  {
+    "id": "7ff11285-dc70-5871-b51e-33776d0c2de2",
+    "country_id": "me",
+    "name": "Europe Now Movement",
+    "short_name": "PES",
+    "color": "#efb724",
+    "ideology_ids": [],
+    "notes": "Archive profile. Names and colours on results are election-era snapshots. Colour is an editorial display convention, not evidence of ideology. No ideology classification has been inferred.",
+    "archived": false
+  }
+]
