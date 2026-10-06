@@ -1,0 +1,272 @@
+[
+  {
+    "date": "1997-04-20",
+    "area": "Local interests — electoral district 8",
+    "rows": [
+      {
+        "name": "Jožef Kocuvan",
+        "votes": 4559,
+        "winner": false
+      },
+      {
+        "name": "Miroslav Steržaj",
+        "votes": 5896,
+        "winner": true
+      }
+    ],
+    "eligible": 58619,
+    "voters": 11105,
+    "valid": 10455,
+    "method": "direct",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-nadomestne-volitve-1997/",
+    "report": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/1997-01-1495/porocilo-o-izidu-nadomestnih-volitev-clana-drzavnega-sveta"
+  },
+  {
+    "date": "2008-03-12",
+    "area": "Independent professions",
+    "rows": [
+      {
+        "name": "Mihael Jenčič",
+        "votes": 12,
+        "winner": true
+      },
+      {
+        "name": "Andrej Pengov Bitenc",
+        "votes": 4,
+        "winner": false
+      },
+      {
+        "name": "Črtomir Remec",
+        "votes": 0,
+        "winner": false
+      },
+      {
+        "name": "Igor Šetinc",
+        "votes": 5,
+        "winner": false
+      }
+    ],
+    "eligible": 22,
+    "voters": 21,
+    "valid": 21,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-2/",
+    "report": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2008/Porocilo-o-izidu-naknadnih-volitev---samostojni-poklici.pdf"
+  },
+  {
+    "date": "2008-04-09",
+    "area": "Local interests — electoral district 18",
+    "rows": [
+      {
+        "name": "Marijan Tončić",
+        "votes": 2,
+        "winner": false
+      },
+      {
+        "name": "Darko Grad",
+        "votes": 3,
+        "winner": false
+      },
+      {
+        "name": "Boris Popovič",
+        "votes": 12,
+        "winner": true
+      }
+    ],
+    "eligible": 18,
+    "voters": 17,
+    "valid": 17,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-2/",
+    "report": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2008/Porocilo-o-izidu-ponovnih-volitev-clana-DS---lokalni-interesi.pdf"
+  },
+  {
+    "date": "2014-05-29",
+    "area": "Local interests — electoral district 3",
+    "rows": [
+      {
+        "name": "Željko Vogrin",
+        "votes": 6,
+        "winner": false
+      },
+      {
+        "name": "Rajko Jaklin",
+        "votes": 6,
+        "winner": false
+      },
+      {
+        "name": "Rudi Matjašič",
+        "votes": 24,
+        "winner": true
+      }
+    ],
+    "eligible": 38,
+    "voters": 37,
+    "valid": 36,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-nadomestne-volitve/",
+    "report": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2014/Porocilo-o-izidu-nadomestnih-volitevh---anonimizirano.pdf"
+  },
+  {
+    "date": "2014-05-29",
+    "area": "Local interests — electoral district 6",
+    "rows": [
+      {
+        "name": "Bojan Kontič",
+        "votes": 14,
+        "winner": true
+      }
+    ],
+    "eligible": 15,
+    "voters": 14,
+    "valid": 14,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-nadomestne-volitve/",
+    "report": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2014/Porocilo-o-izidu-nadomestnih-volitevh---anonimizirano.pdf"
+  },
+  {
+    "date": "2018-12-17",
+    "area": "Social welfare",
+    "rows": [
+      {
+        "name": "Danijel Kastelic",
+        "votes": 20,
+        "winner": true
+      },
+      {
+        "name": "Darja Kuzmanič Korva",
+        "votes": 0,
+        "winner": false
+      },
+      {
+        "name": "Štefan Lepoša",
+        "votes": 0,
+        "winner": false
+      }
+    ],
+    "eligible": 36,
+    "voters": 20,
+    "valid": 20,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2018-nadomestne-volitve/",
+    "report": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2018-nadomestne-volitve/"
+  },
+  {
+    "date": "2020-06-18",
+    "area": "Local interests — electoral district 3",
+    "rows": [
+      {
+        "name": "Iztok Peterlin",
+        "votes": 1,
+        "winner": false
+      },
+      {
+        "name": "Željko Vogrin",
+        "votes": 28,
+        "winner": true
+      },
+      {
+        "name": "Leopold Hanžič",
+        "votes": 4,
+        "winner": false
+      },
+      {
+        "name": "Franjo Mihalič",
+        "votes": 0,
+        "winner": false
+      },
+      {
+        "name": "Boštjan Munda",
+        "votes": 1,
+        "winner": false
+      }
+    ],
+    "eligible": 38,
+    "voters": 35,
+    "valid": 34,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2020-1-nadomestne-volitve/",
+    "report": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2020/Koncni-izid-nadomestnih-volitev-clana-drzavnega-sveta---predstavnika-lokalnih-interesov.pdf"
+  },
+  {
+    "date": "2020-10-15",
+    "area": "Local interests — electoral district 6",
+    "rows": [
+      {
+        "name": "Jožef Jelen",
+        "votes": 3,
+        "winner": false
+      },
+      {
+        "name": "Janko Kopušar",
+        "votes": 1,
+        "winner": false
+      },
+      {
+        "name": "Franjo Naraločnik",
+        "votes": 13,
+        "winner": true
+      }
+    ],
+    "eligible": 17,
+    "voters": 17,
+    "valid": 17,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2020-2-nadomestne-volitve-clana-ds-2020-6-ve-velenje-1/",
+    "report": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/volitve-v-drzavni-svet-rs-leto-2020-2-nadomestne-volitve-clana-ds-2020-6-ve-velenje-1/"
+  },
+  {
+    "date": "2023-05-31",
+    "area": "Culture and sport",
+    "rows": [
+      {
+        "name": "Borut Pelko",
+        "votes": 0,
+        "winner": false
+      },
+      {
+        "name": "Zoran Poznič",
+        "votes": 5,
+        "winner": false
+      },
+      {
+        "name": "Tomaž Simetinger",
+        "votes": 2,
+        "winner": false
+      },
+      {
+        "name": "Luka Steiner",
+        "votes": 10,
+        "winner": true
+      }
+    ],
+    "eligible": 21,
+    "voters": 17,
+    "valid": 17,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/ponovne-volitve-v-drzavni-svet-kultura-in-sport/",
+    "report": "https://www.dvk-rs.si/fileadmin/user_upload/Zapisnik_koncni_izid_ponovnih_volitev_v_DS_kultura_in_sport_8.6.2023.pdf"
+  },
+  {
+    "date": "2024-11-14",
+    "area": "Local interests — electoral district 13",
+    "rows": [
+      {
+        "name": "Robert Šinkovec",
+        "votes": 1,
+        "winner": false
+      },
+      {
+        "name": "Oton Bratuž",
+        "votes": 7,
+        "winner": true
+      }
+    ],
+    "eligible": 9,
+    "voters": 8,
+    "valid": 8,
+    "method": "indirect",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-svet-rs/volitve-drzavnega-sveta-rs/nadomestne-volitve-v-drzavni-svet-2024-lokalni-interesi/",
+    "report": "https://www.dvk-rs.si/fileadmin/user_upload/Sklep_o_izidu_nadomestnih_volitev_v_DS_26.11.2024.pdf"
+  }
+]

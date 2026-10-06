@@ -1,0 +1,62 @@
+[
+  {
+    "id": "12680b65-0cc4-50f4-947a-040491921f75",
+    "country_id": "si",
+    "name": "GIBANJE SVOBODA",
+    "short_name": "SVOBODA",
+    "color": "#0063a6",
+    "ideology_ids": [],
+    "notes": "Election-era name and presentation colour from DVK national results snapshots, 2022–2026. No ideology assessment. https://www.dvk-rs.si/arhivi/dz2026/data/rezultati.json",
+    "archived": false
+  },
+  {
+    "id": "956b12ab-87cb-509d-a50a-3d153dcefdee",
+    "country_id": "si",
+    "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+    "short_name": "SDS",
+    "color": "#ffe53f",
+    "ideology_ids": [],
+    "notes": "Election-era name and presentation colour from DVK national results snapshots, 2022–2026. No ideology assessment. https://www.dvk-rs.si/arhivi/dz2026/data/rezultati.json",
+    "archived": false
+  },
+  {
+    "id": "cbb2d8d7-2e41-5fb5-b815-464ea424a63f",
+    "country_id": "si",
+    "name": "SOCIALNI DEMOKRATI",
+    "short_name": "SD",
+    "color": "#fc0010",
+    "ideology_ids": [],
+    "notes": "Election-era name and presentation colour from DVK national results snapshots, 2022–2026. No ideology assessment. https://www.dvk-rs.si/arhivi/dz2026/data/rezultati.json",
+    "archived": false
+  },
+  {
+    "id": "9ea80070-151e-5b2d-9907-a382853870e8",
+    "country_id": "si",
+    "name": "LEVICA",
+    "short_name": "Levica",
+    "color": "#b30020",
+    "ideology_ids": [],
+    "notes": "Election-era name and presentation colour from DVK national results snapshots, 2022–2026. No ideology assessment. https://www.dvk-rs.si/arhivi/dz2026/data/rezultati.json",
+    "archived": false
+  },
+  {
+    "id": "53536ae9-a033-5b03-a9d4-d9085ae4a149",
+    "country_id": "si",
+    "name": "PIRATSKA STRANKA SLOVENIJE",
+    "short_name": "PIRATI",
+    "color": "#000000",
+    "ideology_ids": [],
+    "notes": "Election-era name and presentation colour from DVK national results snapshots, 2022–2026. No ideology assessment. https://www.dvk-rs.si/arhivi/dz2026/data/rezultati.json",
+    "archived": false
+  },
+  {
+    "id": "e71696f1-35b2-57e9-98cd-40497a07ba44",
+    "country_id": "si",
+    "name": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+    "short_name": "Resni.ca",
+    "color": "#7e5096",
+    "ideology_ids": [],
+    "notes": "Election-era name and presentation colour from DVK national results snapshots, 2022–2026. No ideology assessment. https://www.dvk-rs.si/arhivi/dz2026/data/rezultati.json",
+    "archived": false
+  }
+]

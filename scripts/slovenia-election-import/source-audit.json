@@ -1,0 +1,200 @@
+[
+  {
+    "file": "dz1992-rezultati.html",
+    "sha256": "5e3f20e6399e11822ed02af071ef88a1844d4f74e5d4f60df342d097ef9143f1",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-4/"
+  },
+  {
+    "file": "dz1996-rezultati_sl.html",
+    "sha256": "cb13892702ac067d09e91409e0649f77edb65fab0bd0550e6b8cb051dcf31087",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-1/"
+  },
+  {
+    "file": "dz-drzavni-zbor-rs-2.html",
+    "sha256": "0ba1ea1bd1fc6795ab8904c202dada4d74cc5dcba621fe912ae17d60be1a9dc5",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-2/"
+  },
+  {
+    "file": "dz2004-html-rez_si.html",
+    "sha256": "c48af6cdf1f797777119b2bc92cc08d52ed7aef6d20736ac433157fdf5345d66",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-3/"
+  },
+  {
+    "file": "dz-drzavni-zbor-rs.html",
+    "sha256": "eccd76bc1f14806c68ac4751f4a637aa11ed8d374704422f0df7c5e4e644d7c5",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs/"
+  },
+  {
+    "file": "dz-drzavni-zbor-rs-predcasne-volitve.html",
+    "sha256": "127a37f420656f7a550dbcda6279d368b75f102c48df8d93a8f22d01385aeb0a",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-predcasne-volitve/"
+  },
+  {
+    "file": "dz2014-rezultati-rezultati_slo.html",
+    "sha256": "d202fd88fe0127ae99216741928cc3cd39f7c9832fd7f0852d8fcc82111b21b7",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-leto-2014-predcasne-volitve/"
+  },
+  {
+    "file": "dz2018-data-rezultati.json",
+    "sha256": "9eba35c8d5feeca61e3ab642cd7eb0d5b7020542d1fe47e72e838a0fba5e1674",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/predcasne-volitve-v-drzavni-zbor-rs-2018/"
+  },
+  {
+    "file": "dz2022-data-rezultati.json",
+    "sha256": "2c1de5fd6c8daca3b09e22a2702702111d1e63da8b42379d46af1a0b2348c297",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/"
+  },
+  {
+    "file": "dz2026-data-rezultati.json",
+    "sha256": "175ed0c963270bc11c3709033098a900f9144a03da54bc6f06b640731cc2928e",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-drzavni-zbor/"
+  },
+  {
+    "file": "pres-history.doc",
+    "sha256": "a24a52ccaa29d82d251df4085339619a60005c5b249d8aa24bebff7a24cc1d24",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-1992/"
+  },
+  {
+    "file": "pres-history.doc",
+    "sha256": "a24a52ccaa29d82d251df4085339619a60005c5b249d8aa24bebff7a24cc1d24",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-1997/"
+  },
+  {
+    "file": "pres-history.doc",
+    "sha256": "a24a52ccaa29d82d251df4085339619a60005c5b249d8aa24bebff7a24cc1d24",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2002/"
+  },
+  {
+    "file": "pres-history.doc",
+    "sha256": "a24a52ccaa29d82d251df4085339619a60005c5b249d8aa24bebff7a24cc1d24",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2007/"
+  },
+  {
+    "file": "pres-history.doc",
+    "sha256": "a24a52ccaa29d82d251df4085339619a60005c5b249d8aa24bebff7a24cc1d24",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2012/"
+  },
+  {
+    "file": "pres-history.doc",
+    "sha256": "a24a52ccaa29d82d251df4085339619a60005c5b249d8aa24bebff7a24cc1d24",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2017/"
+  },
+  {
+    "file": "2022p1-final.html",
+    "sha256": "215158afb183d9352183962760161d114554575c0547389e23b18b559e890c8f",
+    "checked": "2026-10-06",
+    "source": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2022-01-3446/zapisnik-o-ugotovitvi-izida-volitev-predsednika-republike-23--10--2022"
+  },
+  {
+    "file": "2022p2-final.html",
+    "sha256": "b0bff33535cc1a212cd5fd0b1cfc5e9d929294586340af5aa8eda67231afa2a2",
+    "checked": "2026-10-06",
+    "source": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2022-01-3743/zapisnik-o-ugotoviti-koncnega-izida-volitev-predsednika-republike-13--11--2022"
+  },
+  {
+    "file": "ds-nadomestne-volitve-v-drzavni-svet-2024-lokalni-interesi--Sklep_o_izidu_nadomestnih_volitev_v_DS_26.11.2024.pdf",
+    "sha256": "7df28b69f913706808102ec2599728d4c068a9275b459d794f36d598b427b49d",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/Sklep_o_izidu_nadomestnih_volitev_v_DS_26.11.2024.pdf"
+  },
+  {
+    "file": "ds-nadomestne-volitve-v-drzavni-svet-2024-lokalni-interesi--Sklep_o_izidu_nadomestnih_volitev_v_DS_26.11.2024.pdf",
+    "sha256": "7df28b69f913706808102ec2599728d4c068a9275b459d794f36d598b427b49d",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/Sklep_o_izidu_nadomestnih_volitev_v_DS_26.11.2024.pdf"
+  },
+  {
+    "file": "ds-ponovne-volitve-v-drzavni-svet-kultura-in-sport--Zapisnik_koncni_izid_ponovnih_volitev_v_DS_kultura_in_sport_8.6.2023.pdf",
+    "sha256": "94355da5878b09f1ea5fde98b6b8e0b77936c4019982a37f2a02ce5faba0d03c",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/Zapisnik_koncni_izid_ponovnih_volitev_v_DS_kultura_in_sport_8.6.2023.pdf"
+  },
+  {
+    "file": "ds-volitve-v-drzavni-svet-rs-leto-2020-2-nadomestne-volitve-clana-ds-2020-6-ve-velenje-1--KONC__NI_IZZID_VOLITEV_-_NADOMESTNE_VOLITVE_C__LANA_DS_2020_-_6._VE.pdf",
+    "sha256": "118a107eda7ac0f9620a6045d89e4a3fa2613ec2a4099d974c053e22309415ad",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2020/KONC__NI_IZZID_VOLITEV_-_NADOMESTNE_VOLITVE_C__LANA_DS_2020_-_6._VE.pdf"
+  },
+  {
+    "file": "ds-volitve-v-drzavni-svet-rs-leto-2020-1-nadomestne-volitve--Koncni-izid-nadomestnih-volitev-clana-drzavnega-sveta---predstavnika-lokalnih-interesov.pdf",
+    "sha256": "b44b26faaa55b9c22536eaedb986a2b06b4d8edf4c6ec4258bae6665d3af41ad",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2020/Koncni-izid-nadomestnih-volitev-clana-drzavnega-sveta---predstavnika-lokalnih-interesov.pdf"
+  },
+  {
+    "file": "ds-volitve-v-drzavni-svet-rs-leto-2018-nadomestne-volitve--00wetsi0.pdf",
+    "sha256": "05dd2502e0759dc0b3daee6e831f9d26ae340f56859d91980cca529ffc796a76",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/00wetsi0.pdf"
+  },
+  {
+    "file": "ds-volitve-v-drzavni-svet-rs-2017--Konc__ni_izzid_-_volitve_c__lanov_DS_2017.pdf",
+    "sha256": "24d8ef0533d9f40465eed7cfe4a87293d61e42267b6ee2a8bb4638b1fb0a4760",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2017/Konc__ni_izzid_-_volitve_c__lanov_DS_2017.pdf"
+  },
+  {
+    "file": "ds2-volitve-v-drzavni-svet-rs-nadomestne-volitve--Porocilo-o-izidu-nadomestnih-volitevh---anonimizirano.pdf",
+    "sha256": "5e38ad70071e1a72ad157d6d4c17d92b01f02feab1b033388893757c9807229c",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2014/Porocilo-o-izidu-nadomestnih-volitevh---anonimizirano.pdf"
+  },
+  {
+    "file": "ds2-volitve-v-drzavni-svet-rs-1--Porociloo-o-izidu---anonim.pdf",
+    "sha256": "8fb0398fd48b72e1c3bf2c1cea4cb6e9191a9e36f640bc5ed8e89eec5ec4fca5",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2012/Porociloo-o-izidu---anonim.pdf"
+  },
+  {
+    "file": "ds2-volitve-v-drzavni-svet-rs-2--Porocilo-o-izidu-naknadnih-volitev---samostojni-poklici.pdf",
+    "sha256": "93eb26ab6b1c42973dd035a64922960b941cba121fd01e2cdf476422c5b606a3",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2008/Porocilo-o-izidu-naknadnih-volitev---samostojni-poklici.pdf"
+  },
+  {
+    "file": "ds2-volitve-v-drzavni-svet-rs-2--Porocilo-o-izidu-ponovnih-volitev-clana-DS---lokalni-interesi.pdf",
+    "sha256": "e5c928102933045566244e7ab935a2141507665399b9e97aef96157401c4e92f",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2008/Porocilo-o-izidu-ponovnih-volitev-clana-DS---lokalni-interesi.pdf"
+  },
+  {
+    "file": "ds2-volitve-v-drzavni-svet-rs-3--Porocilo-o-delnem-izidu-volitev-clanov-drzavnega-sveta---2007.pdf",
+    "sha256": "c26f3ebe27ebe5291e7af2509da982b6c22aa6086dc07c7569b5dcc714d24064",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2007/Porocilo-o-delnem-izidu-volitev-clanov-drzavnega-sveta---2007.pdf"
+  },
+  {
+    "file": "ds2-volitve-v-drzavni-svet-rs-4--koncno-porocilo-o-izidu-volitev-clanov-Drzavnega-sveta.pdf",
+    "sha256": "3d9a69b26ae94a46f697974e420c3894c351ba8a7c8279f9465ffad1b5ab867c",
+    "checked": "2026-10-06",
+    "source": "https://www.dvk-rs.si/fileadmin/user_upload/dokumenti/volitve/drzavni_svet_2002/koncno-porocilo-o-izidu-volitev-clanov-Drzavnega-sveta.pdf"
+  },
+  {
+    "file": "seats1992.gif",
+    "source": "https://www.dvk-rs.si/arhivi/dz1992/files/arhivi/dz1992_sestava.gif",
+    "checked": "2026-10-06",
+    "sha256": "180fb53d54e290d83e5660feb3151e25a10f86ed1d923d361fabf42f03a6c32c"
+  },
+  {
+    "file": "seats2000.gif",
+    "source": "https://www.dvk-rs.si/arhivi/dz2000/slika_dz/dz.gif",
+    "checked": "2026-10-06",
+    "sha256": "b5ee5dc846b236dcf34607899cff1743761217b4dedc5270dc553f5020780e2c"
+  }
+]

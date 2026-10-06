@@ -1,0 +1,1610 @@
+[
+  {
+    "office": "assembly",
+    "year": 1992,
+    "rows": [
+      {
+        "name": "DEŽELNA STRANKA SLOVENIJE",
+        "votes": 912,
+        "seats": 0
+      },
+      {
+        "name": "DEMOKRATSKA STRANKA",
+        "votes": 59487,
+        "seats": 6
+      },
+      {
+        "name": "DEMOS, KRAMBERGERJEVA ZDRUŽENA LISTA, DONS, REPSS",
+        "votes": 9143,
+        "seats": 0
+      },
+      {
+        "name": "GIBANJE ZA OBČO DEMOKRACIJO",
+        "votes": 6707,
+        "seats": 0
+      },
+      {
+        "name": "IDZ - DDI",
+        "votes": 1125,
+        "seats": 0
+      },
+      {
+        "name": "KRŠČANSKI SOCIALISTI-DS NAPREJ-SVOBODNA STRANKA",
+        "votes": 13592,
+        "seats": 0
+      },
+      {
+        "name": "LIBERALNO DEMOKRATSKA STRANKA",
+        "votes": 278851,
+        "seats": 22
+      },
+      {
+        "name": "LIBERALNA STRANKA",
+        "votes": 18069,
+        "seats": 0
+      },
+      {
+        "name": "LIBERALNO DEMOKRATSKA STRANKA SLOVENIJE",
+        "votes": 16892,
+        "seats": 0
+      },
+      {
+        "name": "NARODNI DEMOKRATI IN SLOVENSKA GOSPODARSKA STRANKA",
+        "votes": 25852,
+        "seats": 0
+      },
+      {
+        "name": "REPUBLIKANSKA ZVEZA SLOVENIJE",
+        "votes": 5378,
+        "seats": 0
+      },
+      {
+        "name": "SLOVENSKA LJUDSKA STRANKA",
+        "votes": 103300,
+        "seats": 10
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA",
+        "votes": 119091,
+        "seats": 12
+      },
+      {
+        "name": "SLOVENSKI KRŠČANSKI DEMOKRATI",
+        "votes": 172424,
+        "seats": 15
+      },
+      {
+        "name": "SLOVENSKO EKOLOŠKO GIBANJE",
+        "votes": 7360,
+        "seats": 0
+      },
+      {
+        "name": "SOCIALDEMOKRATSKA STRANKA SLOVENIJE",
+        "votes": 39675,
+        "seats": 4
+      },
+      {
+        "name": "SOCIALISTIČNA STRANKA SLOVENIJE",
+        "votes": 32696,
+        "seats": 0
+      },
+      {
+        "name": "SLOVENSKA OBRTNO PODJETNIŠKA STRANKA",
+        "votes": 18965,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA NEODVISNIH",
+        "votes": 16178,
+        "seats": 0
+      },
+      {
+        "name": "ŠTAJERSKA DEMOKRATSKA KRŠČANSKA STRANKA",
+        "votes": 8022,
+        "seats": 0
+      },
+      {
+        "name": "ZDRUŽENA LISTA",
+        "votes": 161349,
+        "seats": 14
+      },
+      {
+        "name": "ZDRUŽENJE \"SMER\" SLOVENIJE",
+        "votes": 6674,
+        "seats": 0
+      },
+      {
+        "name": "ZELENI SLOVENIJE",
+        "votes": 44019,
+        "seats": 5
+      },
+      {
+        "name": "ZELENO GIBANJE OBČINE LJUBLJANA MOSTE POLJE",
+        "votes": 708,
+        "seats": 0
+      },
+      {
+        "name": "ZVEZA ZA PRIMORSKO",
+        "votes": 10059,
+        "seats": 0
+      },
+      {
+        "name": "NEODVISNI KANDIDATI",
+        "votes": 11850,
+        "seats": 0
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-4/",
+    "file": "dz1992-rezultati.html",
+    "valid": 1188378
+  },
+  {
+    "office": "assembly",
+    "year": 1996,
+    "rows": [
+      {
+        "name": "LDS - Liberalna demokracija Slovenije",
+        "votes": 288783,
+        "seats": null
+      },
+      {
+        "name": "SLS - Slovenska ljudska stranka",
+        "votes": 207186,
+        "seats": null
+      },
+      {
+        "name": "SDS - Socialdemokratska stranka Slovenije",
+        "votes": 172470,
+        "seats": null
+      },
+      {
+        "name": "SKD - Slovenski krščanski demokrati",
+        "votes": 102852,
+        "seats": null
+      },
+      {
+        "name": "ZL - Združena lista socialnih demokratov",
+        "votes": 96597,
+        "seats": null
+      },
+      {
+        "name": "DeSUS - Demokratična stranka upokojencev Slovenije",
+        "votes": 46152,
+        "seats": null
+      },
+      {
+        "name": "SNS - Slovenska nacionalna stranka",
+        "votes": 34422,
+        "seats": null
+      },
+      {
+        "name": "DS - Demokratska stranka Slovenije - Demokrati Slovenije",
+        "votes": 28624,
+        "seats": null
+      },
+      {
+        "name": "ZELENI - Zeleni Slovenije",
+        "votes": 18853,
+        "seats": null
+      },
+      {
+        "name": "SOPS - Slovenska obrtniško podjetniška stranka - Stranka centra",
+        "votes": 12335,
+        "seats": null
+      },
+      {
+        "name": "SF - Slovenski forum in deželni stranki: Zveza za Primorsko, Zveza za Gorenjsko",
+        "votes": 11383,
+        "seats": null
+      },
+      {
+        "name": "LS - Liberalna stranka",
+        "votes": 7972,
+        "seats": null
+      },
+      {
+        "name": "NSD - Nacionalna stranka dela",
+        "votes": 5827,
+        "seats": null
+      },
+      {
+        "name": "ZA - Zelena alternativa Slovenije - Zelena alternativa",
+        "votes": 5602,
+        "seats": null
+      },
+      {
+        "name": "RZS - Republikanska zveza Slovenije, Republikanci Slovenije, Republikanci",
+        "votes": 5071,
+        "seats": null
+      },
+      {
+        "name": "KPS - Komunistična partija Slovenije",
+        "votes": 5027,
+        "seats": null
+      },
+      {
+        "name": "KSU - Krščansko socialna unija",
+        "votes": 4767,
+        "seats": null
+      },
+      {
+        "name": "SND - Slovenska nacionalna desnica",
+        "votes": 3327,
+        "seats": null
+      },
+      {
+        "name": "DEUS-LZS - Domoljubna enotna upokojenska stranka - Liga za Slovenijo",
+        "votes": 2025,
+        "seats": null
+      },
+      {
+        "name": "NS - Nova stranka",
+        "votes": 1104,
+        "seats": null
+      },
+      {
+        "name": "NPS - Naprej Slovenija",
+        "votes": 886,
+        "seats": null
+      },
+      {
+        "name": "SED - Stranka enakopravnih dežel",
+        "votes": 541,
+        "seats": null
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-1/",
+    "file": "dz1996-rezultati_sl.html",
+    "valid": 1069204
+  },
+  {
+    "office": "assembly",
+    "year": 2000,
+    "rows": [
+      {
+        "name": "LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "votes": 390306,
+        "seats": 34
+      },
+      {
+        "name": "SOCIALDEMOKRATSKA STRANKA SLOVENIJE",
+        "votes": 170228,
+        "seats": 14
+      },
+      {
+        "name": "ZDRUŽENA LISTA SOCIALNIH DEMOKRATOV",
+        "votes": 130079,
+        "seats": 11
+      },
+      {
+        "name": "SLS + SKD SLOVENSKA LJUDSKA STRANKA",
+        "votes": 102691,
+        "seats": 9
+      },
+      {
+        "name": "NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "votes": 93247,
+        "seats": 8
+      },
+      {
+        "name": "DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "votes": 55634,
+        "seats": 4
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA",
+        "votes": 47214,
+        "seats": 4
+      },
+      {
+        "name": "STRANKA MLADIH SLOVENIJE",
+        "votes": 46674,
+        "seats": 4
+      },
+      {
+        "name": "ZDRUŽENI ZELENI - ZELENI SLOVENIJE IN ZELENA ALTERNATIVA",
+        "votes": 9691,
+        "seats": 0
+      },
+      {
+        "name": "DEMOKRATSKA STRANKA SLOVENIJE",
+        "votes": 8079,
+        "seats": 0
+      },
+      {
+        "name": "NOVA STRANKA",
+        "votes": 6338,
+        "seats": 0
+      },
+      {
+        "name": "GLAS ŽENSK SLOVENIJE",
+        "votes": 4745,
+        "seats": 0
+      },
+      {
+        "name": "NAPREJ SLOVENIJA",
+        "votes": 3300,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA DEMOKRATSKE AKCIJE SLOVENIJE",
+        "votes": 3208,
+        "seats": 0
+      },
+      {
+        "name": "KOMUNISTIČNA PARTIJA SLOVENIJE",
+        "votes": 1945,
+        "seats": 0
+      },
+      {
+        "name": "DEŽELNA STRANKA ŠTAJERSKE",
+        "votes": 732,
+        "seats": 0
+      },
+      {
+        "name": "MOJCA",
+        "votes": 697,
+        "seats": 0
+      },
+      {
+        "name": "NEODVISNI KANDIDAT - PLANINŠIČ FRANC",
+        "votes": 518,
+        "seats": 0
+      },
+      {
+        "name": "MIRKO JUSTIN IN SKUPINA VOLIVCEV",
+        "votes": 404,
+        "seats": 0
+      },
+      {
+        "name": "PETER - ČRTOMIR GORJANC",
+        "votes": 276,
+        "seats": 0
+      },
+      {
+        "name": "MILAN ROBIČ IN SKUPINA VOLIVCEV",
+        "votes": 261,
+        "seats": 0
+      },
+      {
+        "name": "VALTER SKOK IN SKUPINA VOLIVCEV",
+        "votes": 178,
+        "seats": 0
+      },
+      {
+        "name": "IZUMITELJ HINKO STAKNE",
+        "votes": 75,
+        "seats": 0
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-2/",
+    "file": "dz-drzavni-zbor-rs-2.html",
+    "valid": 1076520
+  },
+  {
+    "office": "assembly",
+    "year": 2004,
+    "rows": [
+      {
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "votes": 281710,
+        "seats": 29
+      },
+      {
+        "name": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "votes": 220848,
+        "seats": 23
+      },
+      {
+        "name": "ZDRUŽENA LISTA SOCIALNIH DEMOKRATOV",
+        "votes": 98527,
+        "seats": 10
+      },
+      {
+        "name": "NSi - NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "votes": 88073,
+        "seats": 9
+      },
+      {
+        "name": "SLS SLOVENSKA LJUDSKA STRANKA",
+        "votes": 66032,
+        "seats": 7
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "votes": 60750,
+        "seats": 6
+      },
+      {
+        "name": "DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE - DeSUS",
+        "votes": 39150,
+        "seats": 4
+      },
+      {
+        "name": "AS - AKTIVNA SLOVENIJA",
+        "votes": 28767,
+        "seats": 0
+      },
+      {
+        "name": "SLOVENIJA JE NAŠA - SJN",
+        "votes": 25343,
+        "seats": 0
+      },
+      {
+        "name": "SMS - STRANKA MLADIH SLOVENIJE",
+        "votes": 20174,
+        "seats": 0
+      },
+      {
+        "name": "JUNIJSKA LISTA",
+        "votes": 8733,
+        "seats": 0
+      },
+      {
+        "name": "ZELENI SLOVENIJE",
+        "votes": 6703,
+        "seats": 0
+      },
+      {
+        "name": "ZA PODJETNO SLOVENIJO",
+        "votes": 5435,
+        "seats": 0
+      },
+      {
+        "name": "GLAS ŽENSK SLOVENIJE - GŽS, ZVEZA ZA PRIMORSKO - ZZP, ZVEZA NEODVISNIH SLOVENIJE - ZNS, NOVA DEMOKRACIJA SLOVENIJE - NDS",
+        "votes": 5229,
+        "seats": 0
+      },
+      {
+        "name": "SEG - STRANKA EKOLOŠKIH GIBANJ SLOVENIJE",
+        "votes": 3991,
+        "seats": 0
+      },
+      {
+        "name": "DEMOKRATSKA STRANKA SLOVENIJE",
+        "votes": 2670,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA SLOVENSKEGA NARODA",
+        "votes": 2574,
+        "seats": 0
+      },
+      {
+        "name": "ZDRUŽENI ZA SAMOSTOJNO PRAVIČNO SLOVENIJO - ZDRUŽENI",
+        "votes": 1496,
+        "seats": 0
+      },
+      {
+        "name": "NAPREJ SLOVENIJA",
+        "votes": 995,
+        "seats": 0
+      },
+      {
+        "name": "SOCIALNA LIBERALNA STRANKA",
+        "votes": 713,
+        "seats": 0
+      },
+      {
+        "name": "MARKO BRECELJ",
+        "votes": 523,
+        "seats": 0
+      },
+      {
+        "name": "MIHAEL SVANJAK",
+        "votes": 191,
+        "seats": 0
+      },
+      {
+        "name": "SAMOSTOJNI KANDIDAT ŠTEFAN HUDOBIVNIK",
+        "votes": 145,
+        "seats": 0
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-3/",
+    "file": "dz2004-html-rez_si.html",
+    "valid": 968772
+  },
+  {
+    "office": "assembly",
+    "year": 2008,
+    "rows": [
+      {
+        "name": "SOCIALNI DEMOKRATI",
+        "votes": 320248,
+        "seats": 29
+      },
+      {
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "votes": 307735,
+        "seats": 28
+      },
+      {
+        "name": "ZARES - NOVA POLITIKA",
+        "votes": 98526,
+        "seats": 9
+      },
+      {
+        "name": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV",
+        "votes": 78353,
+        "seats": 7
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "votes": 56832,
+        "seats": 5
+      },
+      {
+        "name": "SLS - SLOVENSKA LJUDSKA STRANKA IN SMS - STRANKA MLADIH SLOVENIJE",
+        "votes": 54809,
+        "seats": 5
+      },
+      {
+        "name": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "votes": 54771,
+        "seats": 5
+      },
+      {
+        "name": "NOVA SLOVENIJA KRŠANSKA LJUDSKA STRANKA",
+        "votes": 35774,
+        "seats": 0
+      },
+      {
+        "name": "LIPA",
+        "votes": 19068,
+        "seats": 0
+      },
+      {
+        "name": "LPR - LISTA ZA PRAVIČNOST IN RAZVOJ",
+        "votes": 5897,
+        "seats": 0
+      },
+      {
+        "name": "ZELENI SLOVENIJE",
+        "votes": 5367,
+        "seats": 0
+      },
+      {
+        "name": "KRŠČANSKO DEMOKRATSKA STRANKA",
+        "votes": 4724,
+        "seats": 0
+      },
+      {
+        "name": "LISTA ZA ČISTO PITNO VODO",
+        "votes": 4140,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA SLOVENSKEGA NARODA (SSN)",
+        "votes": 2629,
+        "seats": 0
+      },
+      {
+        "name": "ZELENA KOALICIJA: ZELENA STRANKA IN ZELENI PROGRES",
+        "votes": 2230,
+        "seats": 0
+      },
+      {
+        "name": "NAPREJ SLOVENIJA - NPS",
+        "votes": 475,
+        "seats": 0
+      },
+      {
+        "name": "AKACIJE",
+        "votes": 249,
+        "seats": 0
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs/",
+    "file": "dz-drzavni-zbor-rs.html",
+    "valid": 1051827
+  },
+  {
+    "office": "assembly",
+    "year": 2011,
+    "rows": [
+      {
+        "name": "LISTA ZORANA JANKOVIĆA - POZITIVNA SLOVENIJA",
+        "votes": 314273,
+        "seats": 28
+      },
+      {
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "votes": 288719,
+        "seats": 26
+      },
+      {
+        "name": "SD - SOCIALNI DEMOKRATI",
+        "votes": 115952,
+        "seats": 10
+      },
+      {
+        "name": "DRŽAVLJANSKA LISTA GREGORJA VIRANTA",
+        "votes": 92282,
+        "seats": 8
+      },
+      {
+        "name": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "votes": 76853,
+        "seats": 6
+      },
+      {
+        "name": "SLS RADOVANA ŽERJAVA - SLOVENSKA LJUDSKA STRANKA",
+        "votes": 75311,
+        "seats": 6
+      },
+      {
+        "name": "NOVA SLOVENIJA - KRŠČANSKA LJUDSKA STRANKA",
+        "votes": 53758,
+        "seats": 4
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "votes": 19786,
+        "seats": 0
+      },
+      {
+        "name": "LDS LIBERALNA DEMOKRACIJA SLOVENIJE",
+        "votes": 16268,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA ZA TRAJNOSTNI RAZVOJ SLOVENIJE - TRS",
+        "votes": 13477,
+        "seats": 0
+      },
+      {
+        "name": "SMS ZELENI",
+        "votes": 9532,
+        "seats": 0
+      },
+      {
+        "name": "ZARES - SOCIALNO LIBERALNI",
+        "votes": 7218,
+        "seats": 0
+      },
+      {
+        "name": "DEMOKRATIĆNA STRANKA DELA - DSD",
+        "votes": 7118,
+        "seats": 0
+      },
+      {
+        "name": "ZELENI SLOVENIJE",
+        "votes": 4000,
+        "seats": 0
+      },
+      {
+        "name": "GIBANJE ZA SLOVENIJO",
+        "votes": 3339,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA ENAKIH MOŽNOSTI SLOVENIJE (SEM-Si)",
+        "votes": 1787,
+        "seats": 0
+      },
+      {
+        "name": "NAPREJ SLOVENIJA - NPS",
+        "votes": 1100,
+        "seats": 0
+      },
+      {
+        "name": "SSN - STRANKA SLOVENSKEGA NARODA",
+        "votes": 976,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA HUMANA SLOVENIJA",
+        "votes": 295,
+        "seats": 0
+      },
+      {
+        "name": "AKACIJE",
+        "votes": 212,
+        "seats": 0
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-predcasne-volitve/",
+    "file": "dz-drzavni-zbor-rs-predcasne-volitve.html",
+    "valid": 1102256
+  },
+  {
+    "office": "assembly",
+    "year": 2014,
+    "rows": [
+      {
+        "name": "SMC STRANKA MIRA CERARJA",
+        "votes": 301563,
+        "seats": 36
+      },
+      {
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "votes": 181052,
+        "seats": 21
+      },
+      {
+        "name": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "votes": 88968,
+        "seats": 10
+      },
+      {
+        "name": "SD - SOCIALNI DEMOKRATI",
+        "votes": 52249,
+        "seats": 6
+      },
+      {
+        "name": "KOALICIJA ZDRUŽENA LEVICA (DSD, IDS IN STRANKA TRS)",
+        "votes": 52189,
+        "seats": 6
+      },
+      {
+        "name": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+        "votes": 48846,
+        "seats": 5
+      },
+      {
+        "name": "ZAVEZNIŠTVO ALENKE BRATUŠEK",
+        "votes": 38293,
+        "seats": 4
+      },
+      {
+        "name": "SLS - SLOVENSKA LJUDSKA STRANKA",
+        "votes": 34548,
+        "seats": 0
+      },
+      {
+        "name": "POZITIVNA SLOVENIJA",
+        "votes": 25975,
+        "seats": 0
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "votes": 19218,
+        "seats": 0
+      },
+      {
+        "name": "PIRATSKA STRANKA SLOVENIJE",
+        "votes": 11737,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA VERJAMEM",
+        "votes": 6800,
+        "seats": 0
+      },
+      {
+        "name": "DRŽAVLJANSKA LISTA",
+        "votes": 5556,
+        "seats": 0
+      },
+      {
+        "name": "ZELENI SLOVENIJE",
+        "votes": 4629,
+        "seats": 0
+      },
+      {
+        "name": "ENAKOPRAVNI DEŽELANI - NAPREJ SLOVENIJA",
+        "votes": 2125,
+        "seats": 0
+      },
+      {
+        "name": "LIBERALNO GOSPODARSKA STRANKA",
+        "votes": 458,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA HUMANA SLOVENIJA",
+        "votes": 85,
+        "seats": 0
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/drzavni-zbor-rs-leto-2014-predcasne-volitve/",
+    "file": "dz2014-rezultati-rezultati_slo.html",
+    "valid": 874291
+  },
+  {
+    "office": "assembly",
+    "year": 2018,
+    "rows": [
+      {
+        "name": "ANDREJ ČUŠ IN ZELENI SLOVENIJE",
+        "party": "ZELENI",
+        "color": "#81D742",
+        "votes": 9708,
+        "seats": 0
+      },
+      {
+        "name": "DeSUS – DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "party": "DeSUS",
+        "color": "#1CA5B8",
+        "votes": 43889,
+        "seats": 5
+      },
+      {
+        "name": "DD DOBRA DRŽAVA",
+        "party": "DD",
+        "color": "#4AC9F6",
+        "votes": 13540,
+        "seats": 0
+      },
+      {
+        "name": "GAS - GOSPODARSKO AKTIVNA STRANKA",
+        "party": "GAS",
+        "color": "#2E83A2",
+        "votes": 3132,
+        "seats": 0
+      },
+      {
+        "name": "GIBANJE ZEDINJENA SLOVENIJA",
+        "party": "Zsi",
+        "color": "#669966",
+        "votes": 5287,
+        "seats": 0
+      },
+      {
+        "name": "GIBANJESKUPAJNAPREJ",
+        "party": "GSN",
+        "color": "#FBB7D9",
+        "votes": 4345,
+        "seats": 0
+      },
+      {
+        "name": "KANGLER & PRIMC  ZDRUŽENA DESNICA - GLAS ZA OTROKE IN DRUŽINE, NOVA LJUDSKA STRANKA",
+        "party": "ZDRUŽENA DESNICA",
+        "color": "#B7DEE8",
+        "votes": 2141,
+        "seats": 0
+      },
+      {
+        "name": "LEVICA",
+        "party": "LEVICA",
+        "color": "#F80000",
+        "votes": 83108,
+        "seats": 9
+      },
+      {
+        "name": "LISTA MARJANA ŠARCA",
+        "party": "LMŠ",
+        "color": "#2D587B",
+        "votes": 112250,
+        "seats": 13
+      },
+      {
+        "name": "LISTA NOVINARJA BOJANA POŽARJA",
+        "party": "LNBP",
+        "color": "#ED58A0",
+        "votes": 7835,
+        "seats": 0
+      },
+      {
+        "name": "NAPREJ SLOVENIJA",
+        "party": "NPS",
+        "color": "#CCC0DA",
+        "votes": 187,
+        "seats": 0
+      },
+      {
+        "name": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+        "party": "NSi",
+        "color": "#0061D5",
+        "votes": 63792,
+        "seats": 7
+      },
+      {
+        "name": "PIRATSKA STRANKA SLOVENIJE",
+        "party": "PIRATI",
+        "color": "#000000",
+        "votes": 19182,
+        "seats": 0
+      },
+      {
+        "name": "ReSET - REŠIMO SLOVENIJO ELITE IN TAJKUNOV",
+        "party": "ReSET",
+        "color": "#934939",
+        "votes": 3672,
+        "seats": 0
+      },
+      {
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SDS",
+        "color": "#FFE53F",
+        "votes": 222042,
+        "seats": 25
+      },
+      {
+        "name": "SLS SLOVENSKA LJUDSKA STRANKA",
+        "party": "SLS",
+        "color": "#10A851",
+        "votes": 23329,
+        "seats": 0
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SNS",
+        "color": "#DA9694",
+        "votes": 37182,
+        "seats": 4
+      },
+      {
+        "name": "SMC - STRANKA MODERNEGA CENTRA",
+        "party": "SMC",
+        "color": "#13314D",
+        "votes": 86868,
+        "seats": 10
+      },
+      {
+        "name": "SOCIALISTIČNA PARTIJA SLOVENIJE",
+        "party": "SPS",
+        "color": "#530282",
+        "votes": 1551,
+        "seats": 0
+      },
+      {
+        "name": "SOCIALNI DEMOKRATI",
+        "party": "SD",
+        "color": "#A62424",
+        "votes": 88524,
+        "seats": 10
+      },
+      {
+        "name": "SOLIDARNOST, ZA PRAVIČNO DRUŽBO",
+        "party": "SOLIDARNOST",
+        "color": "#AB81FF",
+        "votes": 2184,
+        "seats": 0
+      },
+      {
+        "name": "SSN - STRANKA SLOVENSKEGA NARODA",
+        "party": "SSN",
+        "color": "#002060",
+        "votes": 1237,
+        "seats": 0
+      },
+      {
+        "name": "STRANKA ALENKE BRATUŠEK",
+        "party": "STRANKA AB",
+        "color": "#F3808A",
+        "votes": 45492,
+        "seats": 5
+      },
+      {
+        "name": "ZA ZDRAVO DRUŽBO",
+        "party": "ZD",
+        "color": "#ADA702",
+        "votes": 5548,
+        "seats": 0
+      },
+      {
+        "name": "ZDRUŽENA LEVICA IN SLOGA",
+        "party": "ZDRUŽENA LEVICA",
+        "color": "#F9AA06",
+        "votes": 5072,
+        "seats": 0
+      }
+    ],
+    "valid": 891097,
+    "cast": 901454,
+    "invalid": 10357,
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/predcasne-volitve-v-drzavni-zbor-rs-2018/",
+    "file": "dz2018-data-rezultati.json"
+  },
+  {
+    "office": "assembly",
+    "year": 2022,
+    "rows": [
+      {
+        "name": "DeSUS - DEMOKRATIČNA STRANKA UPOKOJENCEV SLOVENIJE",
+        "party": "DeSUS",
+        "color": "#8DBC15",
+        "votes": 7840,
+        "seats": 0
+      },
+      {
+        "name": "DOMOVINSKA LIGA - DOM",
+        "party": "DOM",
+        "color": "#023463",
+        "votes": 2117,
+        "seats": 0
+      },
+      {
+        "name": "Državljansko gibanje Resni.ca",
+        "party": "Resni.ca",
+        "color": "#67359A",
+        "votes": 34107,
+        "seats": 0
+      },
+      {
+        "name": "GIBANJE SVOBODA",
+        "party": "SVOBODA",
+        "color": "#005DA3",
+        "votes": 410769,
+        "seats": 41
+      },
+      {
+        "name": "Gibanje Zedinjena Slovenija - ZSi",
+        "party": "ZSi",
+        "color": "#C6EFFA",
+        "votes": 168,
+        "seats": 0
+      },
+      {
+        "name": "LEVICA",
+        "party": "LEVICA",
+        "color": "#FB4C48",
+        "votes": 53234,
+        "seats": 5
+      },
+      {
+        "name": "Lista Borisa Popoviča - Digitalizirajmo Slovenijo",
+        "party": "L'BP",
+        "color": "#0089CD",
+        "votes": 5174,
+        "seats": 0
+      },
+      {
+        "name": "LISTA MARJANA ŠARCA - LMŠ",
+        "party": "LMŠ",
+        "color": "#23A567",
+        "votes": 44401,
+        "seats": 0
+      },
+      {
+        "name": "NAŠA DEŽELA stranka dr. ALEKSANDRE PIVEC",
+        "party": "NAŠA DEŽELA",
+        "color": "#126C00",
+        "votes": 17846,
+        "seats": 0
+      },
+      {
+        "name": "NAŠA PRIHODNOST IN DOBRA DRŽAVA",
+        "party": "SNP-DD",
+        "color": "#8DE0FD",
+        "votes": 20279,
+        "seats": 0
+      },
+      {
+        "name": "NESTRANKARSKA LJUDSKA LISTA GIBANJA ZDRAVA DRUŽBA",
+        "party": "NESTRANKARSKA",
+        "color": "#ADA702",
+        "votes": 21021,
+        "seats": 0
+      },
+      {
+        "name": "NOVA SLOVENIJA - KRŠČANSKI DEMOKRATI",
+        "party": "NSi",
+        "color": "#009AC7",
+        "votes": 81794,
+        "seats": 8
+      },
+      {
+        "name": "PIRATSKA STRANKA SLOVENIJE",
+        "party": "Pirati",
+        "color": "#000000",
+        "votes": 19480,
+        "seats": 0
+      },
+      {
+        "name": "POVEŽIMO SLOVENIJO (KONKRETNO, ZELENI, SLS, NLS, NS)",
+        "party": "POVEŽIMO",
+        "color": "#E8AB02",
+        "votes": 40612,
+        "seats": 0
+      },
+      {
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SDS",
+        "color": "#FFE53F",
+        "votes": 279897,
+        "seats": 27
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SNS",
+        "color": "#4D4D4D",
+        "votes": 17736,
+        "seats": 0
+      },
+      {
+        "name": "SOCIALNI DEMOKRATI - SD",
+        "party": "SD",
+        "color": "#CB000D",
+        "votes": 79709,
+        "seats": 7
+      },
+      {
+        "name": "STRANKA ALENKE BRATUŠEK",
+        "party": "SAB",
+        "color": "#F3808A",
+        "votes": 31117,
+        "seats": 0
+      },
+      {
+        "name": "VESNA - zelena stranka",
+        "party": "VESNA",
+        "color": "#C9FFA1",
+        "votes": 16089,
+        "seats": 0
+      },
+      {
+        "name": "ZA LJUDSTVO SLOVENIJE  - ZLS",
+        "party": "ZLS",
+        "color": "#89AEDB",
+        "votes": 8340,
+        "seats": 0
+      },
+      {
+        "name": "ZOS - ZAVEZNIŠTVO OSVOBODIMO SLOVENIJO (GIBANJE ZEDINJENA SLOVENIJA - ZSI IN STRANKA SLOVENSKEGA NARODA - SSN)",
+        "party": "ZOS",
+        "color": "#129847",
+        "votes": 563,
+        "seats": 0
+      }
+    ],
+    "valid": 1192293,
+    "cast": 1203373,
+    "invalid": 11080,
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-dz-2022/",
+    "file": "dz2022-data-rezultati.json"
+  },
+  {
+    "office": "assembly",
+    "year": 2026,
+    "rows": [
+      {
+        "name": "SOCIALNI DEMOKRATI",
+        "party": "SD",
+        "color": "#fc0010",
+        "votes": 79175,
+        "seats": 6
+      },
+      {
+        "name": "DRŽAVLJANSKO GIBANJE RESNI.CA",
+        "party": "RESNI.CA",
+        "color": "#7e5096",
+        "votes": 64799,
+        "seats": 5
+      },
+      {
+        "name": "MI, SOCIALISTI!",
+        "party": "MI, SOCIALISTI!",
+        "color": "#fb4c48",
+        "votes": 5657,
+        "seats": 0
+      },
+      {
+        "name": "GLAS UPOKOJENCEV PAVLA RUPARJA",
+        "party": "GLAS UPOKOJENCEV",
+        "color": "#020437",
+        "votes": 4193,
+        "seats": 0
+      },
+      {
+        "name": "SLOVENSKA DEMOKRATSKA STRANKA - SDS",
+        "party": "SDS",
+        "color": "#FFE53F",
+        "votes": 328923,
+        "seats": 28
+      },
+      {
+        "name": "LEVICA IN VESNA",
+        "party": "LEVICA IN VESNA",
+        "color": "#b30020",
+        "votes": 67183,
+        "seats": 5
+      },
+      {
+        "name": "KARL ERJAVEC STRANKA ZAUPANJE",
+        "party": "ZAUPANJE",
+        "color": "#89aedb",
+        "votes": 2995,
+        "seats": 0
+      },
+      {
+        "name": "PREROD - STRANKA VLADIMIRJA PREBILIČA",
+        "party": "PREROD",
+        "color": "#ed0990",
+        "votes": 35976,
+        "seats": 0
+      },
+      {
+        "name": "PIRATSKA STRANKA SLOVENIJE",
+        "party": "PIRATI",
+        "color": "#000000",
+        "votes": 27811,
+        "seats": 0
+      },
+      {
+        "name": "NOVA SLOVENIJA, SLOVENSKA LJUDSKA STRANKA, FOKUS MARKA LOTRIČA",
+        "party": "NSi, SLS, FOKUS",
+        "color": "#009ac7",
+        "votes": 109201,
+        "seats": 9
+      },
+      {
+        "name": "GIBANJE SVOBODA",
+        "party": "SVOBODA",
+        "color": "#0063a6",
+        "votes": 338102,
+        "seats": 29
+      },
+      {
+        "name": "ZELENI SLOVENIJE + SG STRANKA GENERACIJ",
+        "party": "ZELENI+SG",
+        "color": "#75a948",
+        "votes": 5277,
+        "seats": 0
+      },
+      {
+        "name": "SLOGA",
+        "party": "SLOGA",
+        "color": "#023463",
+        "votes": 251,
+        "seats": 0
+      },
+      {
+        "name": "REŠITEV - STRANKA UPOKOJENCEV VELENJE, SLOVENIJA",
+        "party": "REŠITEV",
+        "color": "#ADA702",
+        "votes": 164,
+        "seats": 0
+      },
+      {
+        "name": "DEMOKRATI. ANŽETA LOGARJA",
+        "party": "DEMOKRATI.",
+        "color": "#01beac",
+        "votes": 78902,
+        "seats": 6
+      },
+      {
+        "name": "SLOVENSKA NACIONALNA STRANKA - SNS",
+        "party": "SNS",
+        "color": "#4d4d4d",
+        "votes": 26375,
+        "seats": 0
+      },
+      {
+        "name": "KOALICIJA ALTERNATIVA ZA SLOVENIJO (STRANKA NIČ OD TEGA IN STRANKA ZA ZDRAVO DRUŽBO)",
+        "party": "ALTERNATIVA",
+        "color": "#F3808A",
+        "votes": 4785,
+        "seats": 0
+      }
+    ],
+    "valid": 1179769,
+    "cast": 1190819,
+    "invalid": 11050,
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/drzavni-zbor-rs/volitve-drzavnega-zbora-rs/volitve-v-drzavni-zbor/",
+    "file": "dz2026-data-rezultati.json"
+  },
+  {
+    "office": "president",
+    "year": 1992,
+    "rows": [
+      {
+        "name": "Ivan Bizjak",
+        "party": "Slovenski krščanski demokrati (SKD)",
+        "votes": 262847
+      },
+      {
+        "name": "Stanislav Buser",
+        "party": "Slovenska ljudska stranka (SLS)",
+        "votes": 24042
+      },
+      {
+        "name": "Jelko Kacin",
+        "party": "Demokratska stranka Slovenije (DSS)",
+        "votes": 90711
+      },
+      {
+        "name": "Milan Kučan",
+        "party": "skupina volivcev (priloženih 43.834 podpisov)",
+        "votes": 793851
+      },
+      {
+        "name": "Darja Lavtižar Bebler",
+        "party": "Socialistična stranka Slovenije (SSS)",
+        "votes": 22681
+      },
+      {
+        "name": "Ljubo Sirc",
+        "party": "Liberalno demokratska stranka (LDS)",
+        "votes": 18774
+      },
+      {
+        "name": "France Tomšič",
+        "party": "Socialdemokratska stranka Slovenije (SDS)",
+        "votes": 7849
+      },
+      {
+        "name": "Alenka Žagar Slana",
+        "party": "Narodni demokrati (NDS)",
+        "votes": 21603
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-1992/",
+    "file": "pres-history.doc"
+  },
+  {
+    "office": "president",
+    "year": 1997,
+    "rows": [
+      {
+        "name": "Jožef Bernik",
+        "party": "Socialdemokratska stranka Slovenije (SDS) in Slovenski krščanski demokrati (SKD)",
+        "votes": 98996
+      },
+      {
+        "name": "Marjan Cerar",
+        "party": "Aleš Orel in skupina volivcev",
+        "votes": 73439
+      },
+      {
+        "name": "Bogomir Kovač",
+        "party": "Liberalna demokracija Slovenije (LDS)",
+        "votes": 28110
+      },
+      {
+        "name": "Milan Kučan",
+        "party": "dr. Matjaž Kmecl in skupina volivcev",
+        "votes": 578925
+      },
+      {
+        "name": "Franc Miklavčič",
+        "party": "Krščansko-socialna unija (KSU)",
+        "votes": 5713
+      },
+      {
+        "name": "Anton Peršak",
+        "party": "Demokratska stranka Slovenije (DSS)",
+        "votes": 32039
+      },
+      {
+        "name": "Janez Podobnik",
+        "party": "Slovenska ljudska stranka (SLS)",
+        "votes": 191645
+      },
+      {
+        "name": "Marjan Poljšak",
+        "party": "Nacionalna stranka dela (NSD)",
+        "votes": 33477
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-1997/",
+    "file": "pres-history.doc"
+  },
+  {
+    "office": "president",
+    "year": 2002,
+    "rows": [
+      {
+        "name": "Franc Arhar",
+        "party": "dr. Jože Mencinger in skupina volivcev, s podporo SLS",
+        "votes": 86836
+      },
+      {
+        "name": "Anton Bebler",
+        "party": "Demokratična stranka upokojencev Slovenije (DeSUS)",
+        "votes": 21165
+      },
+      {
+        "name": "Barbara Brezigar",
+        "party": "dr. Vasko Simoniti in skupina volivcev, s podporo SDS in NSi",
+        "votes": 352520
+      },
+      {
+        "name": "Franc Bučar",
+        "party": "dr. Viljem Kovač in skupina volivcev, s podporo SMS in zunajparlamentarne stranke Demokratov",
+        "votes": 37069
+      },
+      {
+        "name": "Jure Jurček Cekuta",
+        "party": "Stanislav Gradišnik in skupina volivcev",
+        "votes": 6184
+      },
+      {
+        "name": "Gorazd Drevenšek",
+        "party": "NOVA stranka – zunajparlamentarna stranka",
+        "votes": 9791
+      },
+      {
+        "name": "Janez Drnovšek",
+        "party": "Liberalna demokracija Slovenije (LDS)",
+        "votes": 508014
+      },
+      {
+        "name": "Zmago Jelinčič Plemeniti",
+        "party": "Slovenska nacionalna stranka (SNS)",
+        "votes": 97178
+      },
+      {
+        "name": "Lev Kreft",
+        "party": "Združena lista socialnih demokratov (ZLSD)",
+        "votes": 25715
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2002/",
+    "file": "pres-history.doc"
+  },
+  {
+    "office": "president",
+    "year": 2007,
+    "rows": [
+      {
+        "name": "Mitja Gaspari",
+        "party": "dr. Jože Mencinger in skupina volivcev, s podporo LDS",
+        "votes": 237632
+      },
+      {
+        "name": "Zmago Jelinčič Plemeniti",
+        "party": "Slovenska nacionalna stranka (SNS)",
+        "votes": 188951
+      },
+      {
+        "name": "Darko Krajnc",
+        "party": "Stranka mladih Slovenije (SMS)",
+        "votes": 21526
+      },
+      {
+        "name": "Elena Pečarič",
+        "party": "stranka Akacije",
+        "votes": 8830
+      },
+      {
+        "name": "Lojze Peterle",
+        "party": "Ivo Boscarol (Lista za Slovenijo) in skupina volivcev",
+        "votes": 283412
+      },
+      {
+        "name": "Monika Piberl",
+        "party": "Glas žensk Slovenije",
+        "votes": 4729
+      },
+      {
+        "name": "Danilo Türk",
+        "party": "dr. Dragica Wedam Lukič in skupina volivcev, s podporo SD, DeSUS in Zares",
+        "votes": 241349
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2007/",
+    "file": "pres-history.doc"
+  },
+  {
+    "office": "president",
+    "year": 2012,
+    "rows": [
+      {
+        "name": "Borut Pahor",
+        "party": "Socialni demokrati (SD) – priloženih 4456 obrazcev podpisov podpore",
+        "votes": 326006
+      },
+      {
+        "name": "Danilo Türk",
+        "party": "dr. Dragica Wedam Lukič in skupina volivcev – priloženih 13.078 obrazcev podpisov podpore",
+        "votes": 293429
+      },
+      {
+        "name": "Milan Zver",
+        "party": "Slovenska demokratska stranka (SDS) in Nova Slovenija – Krščanska ljudska stranka (NSi)",
+        "votes": 198337
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2012/",
+    "file": "pres-history.doc"
+  },
+  {
+    "office": "president",
+    "year": 2017,
+    "rows": [
+      {
+        "name": "Ljudmila Novak",
+        "party": "Nova Slovenija – krščanski demokrati (NSi)",
+        "votes": 54437
+      },
+      {
+        "name": "Marjan Šarec",
+        "party": "Lista Marjana Šarca (LMŠ) – priloženih 4.473 obrazcev podpisov podpore",
+        "votes": 186235
+      },
+      {
+        "name": "Maja Makovec Brenčič",
+        "party": "Stranka modernega centra (SMC)",
+        "votes": 13052
+      },
+      {
+        "name": "Borut Pahor",
+        "party": "mag. Dejan Židan in skupina volivcev – priloženih 5.077 obrazcev podpisov podpore",
+        "votes": 355117
+      },
+      {
+        "name": "Angela (Angelca) Likovič",
+        "party": "Glas za otroke in družine – priloženih 3.195 obrazcev podpisov podpore",
+        "votes": 4418
+      },
+      {
+        "name": "Boris Popovič",
+        "party": "Slovenija za vedno – priloženih 4.627 obrazcev podpisov podpore",
+        "votes": 13559
+      },
+      {
+        "name": "Romana Tomc",
+        "party": "Slovenska demokratska stranka (SDS)",
+        "votes": 102925
+      },
+      {
+        "name": "Suzana Lara Krause",
+        "party": "Slovenska ljudska stranka (SLS) – priloženih 3.688 obrazcev podpisov podpore",
+        "votes": 5885
+      },
+      {
+        "name": "Andrej Šiško",
+        "party": "Gibanje Zedinjena Slovenija – priloženih 3.688 obrazcev podpisov podpore",
+        "votes": 16636
+      }
+    ],
+    "source": "https://www.dvk-rs.si/volitve-in-referendumi/predsednik-republike/volitve-predsednika-rs/volitve-predsednika-rs-leto-2017/",
+    "file": "pres-history.doc"
+  },
+  {
+    "office": "president",
+    "year": 2022,
+    "round": 1,
+    "rows": [
+      {
+        "name": "Milan Brglez",
+        "party": "",
+        "votes": 134726
+      },
+      {
+        "name": "Anže Logar",
+        "party": "",
+        "votes": 296000
+      },
+      {
+        "name": "Janez Cigler Kralj",
+        "party": "",
+        "votes": 38113
+      },
+      {
+        "name": "Miha Kordiš",
+        "party": "",
+        "votes": 24518
+      },
+      {
+        "name": "Nataša Pirc Musar",
+        "party": "",
+        "votes": 234361
+      },
+      {
+        "name": "Vladimir Prebilič",
+        "party": "",
+        "votes": 92456
+      },
+      {
+        "name": "Sabina Senčar",
+        "party": "",
+        "votes": 51767
+      }
+    ],
+    "source": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2022-01-3446/zapisnik-o-ugotovitvi-izida-volitev-predsednika-republike-23--10--2022",
+    "file": "2022p1-final.html"
+  },
+  {
+    "office": "president",
+    "year": 2022,
+    "round": 2,
+    "rows": [
+      {
+        "name": "Anže Logar",
+        "party": "",
+        "votes": 414029
+      },
+      {
+        "name": "Nataša Pirc Musar",
+        "party": "",
+        "votes": 483812
+      }
+    ],
+    "source": "https://www.uradni-list.si/glasilo-uradni-list-rs/vsebina/2022-01-3743/zapisnik-o-ugotoviti-koncnega-izida-volitev-predsednika-republike-13--11--2022",
+    "file": "2022p2-final.html"
+  }
+]
