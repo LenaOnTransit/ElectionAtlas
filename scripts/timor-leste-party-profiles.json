@@ -1,0 +1,462 @@
+[
+  {
+    "id": "40cee4d0-5037-5761-b99e-208d321790df",
+    "country_id": "tl",
+    "name": "Democratic Alliance (KOTA–PPT)",
+    "short_name": "AD (KOTA–PPT)",
+    "color": "#998140",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2007-06-30. Sources: https://aceproject.org/ero-en/regions/pacific/TL/timor-leste-final-report-presidential-and/at_download/file",
+    "archived": false
+  },
+  {
+    "id": "df891cc0-4b61-59fb-8b0c-791611a53fbe",
+    "country_id": "tl",
+    "name": "Democratic Alliance (KOTA–PTT)",
+    "short_name": "AD (KOTA–PTT)",
+    "color": "#a99452",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2012-07-07. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "45675068-53b4-5eab-9c87-43fe31ff35c8",
+    "country_id": "tl",
+    "name": "Alliance for Change and Progress (CNRT–PLP–KHUNTO)",
+    "short_name": "AMP",
+    "color": "#326bbb",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2018-05-12. Sources: https://data.ipu.org/parliament/TL/TL-LC01/election/TL-LC01-E20180512/",
+    "archived": false
+  },
+  {
+    "id": "ec1abcda-82ad-5ee7-a4fb-72dd81fdee58",
+    "country_id": "tl",
+    "name": "Timorese Monarchist People's Association",
+    "short_name": "APMT",
+    "color": "#ad8b3a",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2012-07-07, 2017-07-22, 2023-05-21. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "5cdf9657-3450-5d49-a689-ac8dc79a7630",
+    "country_id": "tl",
+    "name": "Timorese Popular Democratic Association",
+    "short_name": "APODETI",
+    "color": "#608771",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "1f74d433-cf31-52ea-ad2d-baca3966883c",
+    "country_id": "tl",
+    "name": "Timorese Social Democratic Association",
+    "short_name": "ASDT",
+    "color": "#2c8a56",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  CASDT and ASDT have distinct profiles. Election records: 2001-08-30, 2002-04-14, 2007-04-09, 2012-07-07. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "6e3fd38e-ea8f-5fd7-8b00-12e3c1daae0f",
+    "country_id": "tl",
+    "name": "ASDT–PSD electoral coalition",
+    "short_name": "ASDT–PSD",
+    "color": "#ca7c36",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2007-06-30. Sources: https://aceproject.org/ero-en/regions/pacific/TL/timor-leste-final-report-presidential-and/at_download/file",
+    "archived": false
+  },
+  {
+    "id": "bba03fe9-6944-5e2f-bd59-115db5c7a06a",
+    "country_id": "tl",
+    "name": "Coligação Bloco Proclamador (PMD–PARENTIL)",
+    "short_name": "Bloku Proklamador",
+    "color": "#756287",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2012-07-07. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "db71d9dd-2e79-5dbc-b212-fa0a1ee61048",
+    "country_id": "tl",
+    "name": "Bloku Unidade Popular (PMD–PLPA–PDRT)",
+    "short_name": "BUP",
+    "color": "#4f8a94",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2017-07-22. Sources: https://data.ipu.org/election-summary/HTML/2369_17.htm",
+    "archived": false
+  },
+  {
+    "id": "575ef3e8-39b2-506a-8ef3-8eb0426977f5",
+    "country_id": "tl",
+    "name": "Timorese Social Democratic Action Center",
+    "short_name": "CASDT",
+    "color": "#847b40",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  CASDT and ASDT have distinct profiles. Election records: 2017-07-22, 2023-05-21. Sources: https://data.ipu.org/election-summary/HTML/2369_17.htm",
+    "archived": false
+  },
+  {
+    "id": "3af13957-c9da-5408-9f9f-a16ef64f0699",
+    "country_id": "tl",
+    "name": "National Congress for Timorese Reconstruction",
+    "short_name": "CNRT",
+    "color": "#2368ae",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2007-06-30, 2012-07-07, 2017-07-22, 2022-03-19, 2022-04-19, 2023-05-21. Sources: https://aceproject.org/ero-en/regions/pacific/TL/timor-leste-final-report-presidential-and/at_download/file",
+    "archived": false
+  },
+  {
+    "id": "403b0a3c-1758-5102-9947-fb279d0d0d2f",
+    "country_id": "tl",
+    "name": "Democratic Development Forum (PUDD–UDT–FM–PDN)",
+    "short_name": "FDD",
+    "color": "#895397",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2018-05-12. Sources: https://data.ipu.org/parliament/TL/TL-LC01/election/TL-LC01-E20180512/",
+    "archived": false
+  },
+  {
+    "id": "cbbfbdf8-0c35-5498-94bd-0945f88e0d5b",
+    "country_id": "tl",
+    "name": "Frenti-Mudança",
+    "short_name": "FM",
+    "color": "#d49c20",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2012-03-17, 2012-07-07, 2017-03-20, 2017-07-22. Sources: https://www.laohamutuk.org/misc/eleisaun2012/UNMITCompendium19Jun2012.pdf",
+    "archived": false
+  },
+  {
+    "id": "a69c9adc-14a3-539e-aaae-f7930fe6acac",
+    "country_id": "tl",
+    "name": "Hope of the Fatherland Party",
+    "short_name": "Frente Patriótica",
+    "color": "#9776a5",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2017-07-22, 2018-05-12. Sources: https://data.ipu.org/election-summary/HTML/2369_17.htm",
+    "archived": false
+  },
+  {
+    "id": "0973d266-f002-51b8-a52d-86432f1f6217",
+    "country_id": "tl",
+    "name": "Revolutionary Front for an Independent East Timor",
+    "short_name": "FRETILIN",
+    "color": "#d32f2f",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2007-04-09, 2007-05-09, 2007-06-30, 2012-03-17, 2012-04-16, 2012-07-07, 2017-03-20, 2017-07-22, 2018-05-12, 2022-03-19, 2022-04-19, 2023-05-21. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "805418dd-b3c1-5d75-96a7-e2362e398023",
+    "country_id": "tl",
+    "name": "Kmanek Haburas Unidade Nasional Timor Oan",
+    "short_name": "KHUNTO",
+    "color": "#45974e",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2012-07-07, 2017-07-22, 2022-03-19, 2023-05-21. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "5fc9a382-27a0-5d89-9b7e-4b3dcdfbbda3",
+    "country_id": "tl",
+    "name": "Association of Timorese Heroes",
+    "short_name": "KOTA",
+    "color": "#d2ad32",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2007-04-09, 2012-03-17. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "2c8a757f-2e9e-53f6-9a16-f85fe905a281",
+    "country_id": "tl",
+    "name": "National Development Movement (APMT–PLPA–MLPM–UNDERTIM)",
+    "short_name": "MDN",
+    "color": "#6d875d",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2018-05-12. Sources: https://data.ipu.org/parliament/TL/TL-LC01/election/TL-LC01-E20180512/",
+    "archived": false
+  },
+  {
+    "id": "56ae1960-c773-57d8-be73-287ecab80a50",
+    "country_id": "tl",
+    "name": "Maubere People’s Liberation Movement",
+    "short_name": "MLPM",
+    "color": "#b05858",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2017-07-22, 2023-05-21. Sources: https://data.ipu.org/election-summary/HTML/2369_17.htm",
+    "archived": false
+  },
+  {
+    "id": "42cce5ce-c4c7-530f-8dcf-583da99bf79a",
+    "country_id": "tl",
+    "name": "Social Democratic Movement (CASDT–PSD–PST–PDC)",
+    "short_name": "MSD",
+    "color": "#c77b45",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2018-05-12. Sources: https://data.ipu.org/parliament/TL/TL-LC01/election/TL-LC01-E20180512/",
+    "archived": false
+  },
+  {
+    "id": "9c9efde7-8998-5e56-9bdd-ebcc802e008f",
+    "country_id": "tl",
+    "name": "National Republic Party of East Timor",
+    "short_name": "PARENTIL",
+    "color": "#48755b",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "bd8f0954-ed35-5e6e-9e17-4bad9f2406c5",
+    "country_id": "tl",
+    "name": "Democratic Party",
+    "short_name": "PD",
+    "color": "#174b83",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2007-04-09, 2007-06-30, 2012-03-17, 2012-07-07, 2017-03-20, 2017-07-22, 2018-05-12, 2022-03-19, 2023-05-21. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "d1437212-65ef-5504-8d97-c7e87584971e",
+    "country_id": "tl",
+    "name": "Christian Democratic Party",
+    "short_name": "PDC",
+    "color": "#9b703e",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2007-06-30, 2012-07-07, 2017-07-22, 2023-05-21. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "9fe34eed-5143-50be-bace-863a33c16bc1",
+    "country_id": "tl",
+    "name": "Democratic Liberal Party (2012 ballot name)",
+    "short_name": "PDL",
+    "color": "#ad9f29",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Historical Liberal ballot names are kept separate because continuity has not been assessed. Election records: 2012-07-07. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "8658c45b-69cb-5426-8d83-8b2c4a6dc059",
+    "country_id": "tl",
+    "name": "Maubere Democratic Party",
+    "short_name": "PDM",
+    "color": "#667b9d",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "d840b5c7-6675-5a7a-b31b-cda35fb836d0",
+    "country_id": "tl",
+    "name": "National Development Party",
+    "short_name": "PDN",
+    "color": "#886f55",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2012-07-07, 2017-07-22, 2023-05-21. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "9347baac-acfb-5113-af3b-d17648943c99",
+    "country_id": "tl",
+    "name": "People's Development Party",
+    "short_name": "PDP",
+    "color": "#659cb0",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2012-07-07, 2017-07-22. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "4f3b04a1-c2fc-5072-accb-4e0d95d296a7",
+    "country_id": "tl",
+    "name": "Democratic Republic of Timor-Leste Party",
+    "short_name": "PDRT",
+    "color": "#5d8b8e",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2007-06-30, 2022-03-19. Sources: https://aceproject.org/ero-en/regions/pacific/TL/timor-leste-final-report-presidential-and/at_download/file",
+    "archived": false
+  },
+  {
+    "id": "f94c979a-abba-5630-b206-c529917ba977",
+    "country_id": "tl",
+    "name": "Liberal Party (2001 ballot name)",
+    "short_name": "PL",
+    "color": "#b2a21e",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Historical Liberal ballot names are kept separate because continuity has not been assessed. Election records: 2001-08-30. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "053f9a77-f031-5c66-a68d-8c27145f06b1",
+    "country_id": "tl",
+    "name": "People's Liberation Party",
+    "short_name": "PLP",
+    "color": "#edbc30",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2017-07-22, 2023-05-21. Sources: https://data.ipu.org/election-summary/HTML/2369_17.htm",
+    "archived": false
+  },
+  {
+    "id": "b4d0acf1-f28f-5932-ad4c-82fa5c067435",
+    "country_id": "tl",
+    "name": "People's Freedom Party of the Aileba",
+    "short_name": "PLPA",
+    "color": "#587aa3",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2012-03-17, 2023-05-21. Sources: https://www.laohamutuk.org/misc/eleisaun2012/UNMITCompendium19Jun2012.pdf",
+    "archived": false
+  },
+  {
+    "id": "23120558-2cdc-5754-bcc3-3840135da6e0",
+    "country_id": "tl",
+    "name": "PLPA–PDRT electoral coalition",
+    "short_name": "PLPA–PDRT",
+    "color": "#608f9e",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred. This alliance is kept distinct from other alliances or governing coalitions with similar names. Election records: 2012-07-07. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "0d570e76-5ea1-57d7-b89d-46692e9cc2dd",
+    "country_id": "tl",
+    "name": "Millennium Democratic Party",
+    "short_name": "PMD",
+    "color": "#766d96",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2007-06-30. Sources: https://aceproject.org/ero-en/regions/pacific/TL/timor-leste-final-report-presidential-and/at_download/file",
+    "archived": false
+  },
+  {
+    "id": "e2f37809-36b6-516c-86e4-781b22086e86",
+    "country_id": "tl",
+    "name": "Timorese Nationalist Party",
+    "short_name": "PNT",
+    "color": "#91643c",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2007-06-30, 2012-03-17. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "6f5a60be-02f1-5335-b166-0f4f202bed80",
+    "country_id": "tl",
+    "name": "People's Party of Timor",
+    "short_name": "PPT",
+    "color": "#775eaa",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "fa6fffbb-80a0-5326-9268-df5e2e3e52a6",
+    "country_id": "tl",
+    "name": "Republican Party",
+    "short_name": "PR",
+    "color": "#b2673c",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2007-06-30, 2012-07-07, 2017-07-22, 2018-05-12, 2023-05-21. Sources: https://aceproject.org/ero-en/regions/pacific/TL/timor-leste-final-report-presidential-and/at_download/file",
+    "archived": false
+  },
+  {
+    "id": "f4f497c1-6652-5ed1-9093-14cb82c34545",
+    "country_id": "tl",
+    "name": "Social Democratic Party",
+    "short_name": "PSD",
+    "color": "#ed8b23",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2007-04-09, 2012-07-07, 2017-07-22. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "3fce5187-c16d-54f2-9943-cca4fad2c78f",
+    "country_id": "tl",
+    "name": "Socialist Party of Timor",
+    "short_name": "PST",
+    "color": "#a83247",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2007-04-09, 2007-06-30, 2012-07-07, 2017-03-20, 2017-07-22, 2023-05-21. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "7db7e097-943f-5610-90d8-74f5b18bd0fb",
+    "country_id": "tl",
+    "name": "Timorese Labour Party",
+    "short_name": "PT / PTT",
+    "color": "#935045",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2017-03-20. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "0a443f07-f3a6-55b7-8e5c-041d717c79e1",
+    "country_id": "tl",
+    "name": "Timorese Democratic Party",
+    "short_name": "PTD",
+    "color": "#558b99",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2012-07-07, 2017-07-22. Sources: https://data.ipu.org/election-summary/HTML/2369_12.htm",
+    "archived": false
+  },
+  {
+    "id": "7a40b707-5502-576d-944e-44cdeb7ae479",
+    "country_id": "tl",
+    "name": "United Party for Development and Democracy",
+    "short_name": "PUDD",
+    "color": "#c45177",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2017-07-22, 2022-03-19, 2023-05-21. Sources: https://data.ipu.org/election-summary/HTML/2369_17.htm",
+    "archived": false
+  },
+  {
+    "id": "e2b40225-92cd-582e-ad98-2d29903871ac",
+    "country_id": "tl",
+    "name": "National Unity Party",
+    "short_name": "PUN",
+    "color": "#a070a3",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2007-06-30, 2012-07-07. Sources: https://aceproject.org/ero-en/regions/pacific/TL/timor-leste-final-report-presidential-and/at_download/file",
+    "archived": false
+  },
+  {
+    "id": "ad079025-c921-58c9-a11d-2b509cdc3165",
+    "country_id": "tl",
+    "name": "Green Party of Timor",
+    "short_name": "PVT",
+    "color": "#438c3d",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2023-05-21. Sources: https://id.tatoli.tl/2023/05/30/hasil-pilpar-2023-cne-berikan-waktu-48-jam-bagi-parpol-ajukan-pengajuan/",
+    "archived": false
+  },
+  {
+    "id": "c7953ebf-d03b-5b7b-ad76-ac13370a3894",
+    "country_id": "tl",
+    "name": "Christian Democratic Union of Timor",
+    "short_name": "UDC/PDC",
+    "color": "#8d713f",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "145bc2a1-f5aa-5fac-adb5-c7a27e28202e",
+    "country_id": "tl",
+    "name": "Timorese Democratic Union",
+    "short_name": "UDT",
+    "color": "#477ab8",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2001-08-30, 2007-04-09, 2007-06-30, 2012-07-07, 2017-07-22, 2023-05-21. Sources: https://reliefweb.int/report/timor-leste/untaet-daily-briefing-06-sep-2001-final-election-results-east-timor",
+    "archived": false
+  },
+  {
+    "id": "668e30e0-c201-5f11-9013-96bb87b53944",
+    "country_id": "tl",
+    "name": "National Unity of Timorese Resistance",
+    "short_name": "UNDERTIM",
+    "color": "#507d50",
+    "ideology_ids": [],
+    "notes": "Historical ballot identity in the reviewed Timor-Leste election records. Colour is an editorial identifier; no election-era ideology classification is inferred.  Election records: 2007-06-30, 2012-07-07, 2017-07-22, 2023-05-21. Sources: https://aceproject.org/ero-en/regions/pacific/TL/timor-leste-final-report-presidential-and/at_download/file",
+    "archived": false
+  }
+]
