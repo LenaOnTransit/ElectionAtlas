@@ -125,3 +125,16 @@ nav{flex-wrap:wrap}nav a[aria-current=page]{background:#284e6e;box-shadow:inset 
 
 .ideology-book-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,230px),1fr));gap:1rem}.ideology-book{border:1px solid var(--line,#d6dce0);border-radius:12px;padding:1rem;background:var(--card,#fff)}.ideology-book h3{margin:0 0 .35rem}.ideology-book .button{display:inline-block;margin-top:.5rem;padding:.55rem .85rem;border-radius:8px;background:var(--accent,#244c6b);color:#fff;text-decoration:none}.ideology-books>.meta:last-child{margin-top:1rem;font-size:.85rem}
 .ideology-book-cover{display:block;width:auto;max-width:100%;height:170px;object-fit:contain;margin:0 auto 1rem}.ideology-paid-label{display:block;font-size:.8rem;margin-top:.7rem}
+/* Book recommendations follow the reader's selected theme. */
+.ideology-book{background:var(--surface);border-color:var(--border);color:var(--text);box-shadow:0 2px 10px rgba(0,0,0,.06)}
+.ideology-book h3{color:var(--text)}
+.ideology-book p{color:var(--text)}
+.ideology-book .meta,.ideology-book .ideology-paid-label{color:var(--text-secondary)}
+.ideology-book .button{background:#244c6b;color:#fff;border:1px solid transparent;font-weight:600;transition:background .15s ease,transform .15s ease}
+.ideology-book .button:hover{background:#183e60;transform:translateY(-1px)}
+.ideology-book .button:focus-visible{outline:3px solid var(--link);outline-offset:3px}
+:root[data-theme=dark] .ideology-book{background:var(--surface-soft);border-color:var(--border);box-shadow:0 3px 14px rgba(0,0,0,.18)}
+:root[data-theme=dark] .ideology-book .button{background:#9bc9ef;color:#102334}
+:root[data-theme=dark] .ideology-book .button:hover{background:#c2e1f8}
+@media(prefers-reduced-motion:reduce){.ideology-book .button{transition:none}.ideology-book .button:hover{transform:none}}
+.archive-pagination{display:flex;gap:.45rem;flex-wrap:wrap;align-items:center;justify-content:center;margin:1.5rem 0 2.5rem}.archive-pagination button{min-width:2.5rem;padding:.55rem .7rem;border:1px solid var(--border);border-radius:6px;background:var(--surface);color:var(--text);cursor:pointer}.archive-pagination button:hover:not(:disabled){background:var(--surface-hover)}.archive-pagination button[aria-current=page]{background:var(--link);color:var(--page-bg);font-weight:700}.archive-pagination button:disabled{opacity:.5;cursor:default}.archive-pagination button:focus-visible{outline:3px solid var(--link);outline-offset:2px}
