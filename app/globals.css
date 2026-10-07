@@ -138,3 +138,9 @@ nav{flex-wrap:wrap}nav a[aria-current=page]{background:#284e6e;box-shadow:inset 
 :root[data-theme=dark] .ideology-book .button:hover{background:#c2e1f8}
 @media(prefers-reduced-motion:reduce){.ideology-book .button{transition:none}.ideology-book .button:hover{transform:none}}
 .archive-pagination{display:flex;gap:.45rem;flex-wrap:wrap;align-items:center;justify-content:center;margin:1.5rem 0 2.5rem}.archive-pagination button{min-width:2.5rem;padding:.55rem .7rem;border:1px solid var(--border);border-radius:6px;background:var(--surface);color:var(--text);cursor:pointer}.archive-pagination button:hover:not(:disabled){background:var(--surface-hover)}.archive-pagination button[aria-current=page]{background:var(--link);color:var(--page-bg);font-weight:700}.archive-pagination button:disabled{opacity:.5;cursor:default}.archive-pagination button:focus-visible{outline:3px solid var(--link);outline-offset:2px}
+
+/* Fill the entire map slider track at its maximum value. */
+.map-controls input[type=range]{appearance:none;display:block;box-sizing:border-box;width:100%;height:8px;margin:12px 0;padding:0;border:0;border-radius:999px;background:linear-gradient(to right,var(--link) 0%,var(--link) var(--range-progress),var(--border) var(--range-progress),var(--border) 100%);cursor:pointer}
+.map-controls input[type=range]::-webkit-slider-thumb{appearance:none;width:18px;height:18px;border:2px solid var(--surface);border-radius:50%;background:var(--link);box-shadow:0 0 0 1px var(--border)}
+.map-controls input[type=range]::-moz-range-thumb{width:14px;height:14px;border:2px solid var(--surface);border-radius:50%;background:var(--link);box-shadow:0 0 0 1px var(--border)}
+.map-controls input[type=range]:focus-visible{outline:3px solid var(--link);outline-offset:5px}
