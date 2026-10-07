@@ -156,3 +156,14 @@ main.senate{max-width:1480px}
 .senate-layout .race-detail{width:100%;max-width:950px;margin:0 auto}
 .senate .needle-box{max-width:950px;margin:28px auto 0}
 @media(max-width:600px){main.senate{padding-left:14px;padding-right:14px}.senate-geographic-map{padding:4px}.senate-layout .rating-legend{gap:6px 14px}}
+
+/* Keep the Senate map canvas and nonvoting states comfortable in dark mode. */
+:root[data-theme=dark] .senate-geographic-map{border-color:#486075;background:var(--surface-soft)}
+:root[data-theme=dark] .senate-geographic-map svg{background:#182b3d;color:var(--text)}
+:root[data-theme=dark] .senate-state.no-election>path:first-of-type{fill:#354a5e}
+:root[data-theme=dark] .senate-state>path:first-of-type{stroke:#90a3b6}
+:root[data-theme=dark] .senate-state .state-label{fill:#fff;stroke:#172638;stroke-width:2px}
+:root[data-theme=dark] .senate-state.has-race:hover>path:first-of-type,
+:root[data-theme=dark] .senate-state.has-race:focus>path:first-of-type,
+:root[data-theme=dark] .senate-state.is-selected>path:first-of-type{stroke:#f1d789}
+:root[data-theme=dark] .map-inset-label{fill:#c5d4e2}
