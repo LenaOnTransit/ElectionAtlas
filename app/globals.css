@@ -144,3 +144,15 @@ nav{flex-wrap:wrap}nav a[aria-current=page]{background:#284e6e;box-shadow:inset 
 .map-controls input[type=range]::-webkit-slider-thumb{appearance:none;width:18px;height:18px;border:2px solid var(--surface);border-radius:50%;background:var(--link);box-shadow:0 0 0 1px var(--border)}
 .map-controls input[type=range]::-moz-range-thumb{width:14px;height:14px;border:2px solid var(--surface);border-radius:50%;background:var(--link);box-shadow:0 0 0 1px var(--border)}
 .map-controls input[type=range]:focus-visible{outline:3px solid var(--link);outline-offset:5px}
+
+/* Give the Senate geography the full reading width before race details and the control model. */
+main.senate{max-width:1480px}
+.senate-layout{grid-template-columns:minmax(0,1fr);gap:22px}
+.senate-layout>section{min-width:0}
+.senate-geographic-map{margin:12px 0 18px;padding:16px}
+.senate-geographic-map svg{max-width:1320px;margin:auto}
+.senate-layout .rating-legend{display:flex;gap:8px 28px;flex-wrap:wrap;margin-bottom:10px}
+.senate-layout .rating-legend>div{margin:0}
+.senate-layout .race-detail{width:100%;max-width:950px;margin:0 auto}
+.senate .needle-box{max-width:950px;margin:28px auto 0}
+@media(max-width:600px){main.senate{padding-left:14px;padding-right:14px}.senate-geographic-map{padding:4px}.senate-layout .rating-legend{gap:6px 14px}}
