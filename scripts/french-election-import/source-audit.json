@@ -1,0 +1,331 @@
+{
+  "checked": "2026-10-08",
+  "recordCount": 110,
+  "sources": [
+    {
+      "file": "1791_French_legislative_election.html",
+      "sha256": "024ae722a230d6d8d6c1ceeea17fdfd4746cb3325d916a13967e71edae1a30da"
+    },
+    {
+      "file": "1792_French_National_Convention_election.html",
+      "sha256": "24a746c15455f9f44e55e976b805bcbb5cf824d36c7d6c753758056de4d72a5b"
+    },
+    {
+      "file": "1795_French_legislative_election.html",
+      "sha256": "a38561f925d0f27917b8bd7b70ce65e8b6e92c6c41c9ed185e3983740bd69a3d"
+    },
+    {
+      "file": "1797_French_legislative_election.html",
+      "sha256": "478487e834f2aa7525d9dfc0da09def47d5c96cb81e0703a06aa8a76f4bec391"
+    },
+    {
+      "file": "1798_French_legislative_election.html",
+      "sha256": "5b3b0a9662f8207f9fb50a76fb0836ebbfa070c7547897b9077242023a6cb70e"
+    },
+    {
+      "file": "1799_French_legislative_election.html",
+      "sha256": "dcffe90037493183e92a8580a6ca704d3d9156bbb28cd04f409edd776eea20b9"
+    },
+    {
+      "file": "1816_French_legislative_election.html",
+      "sha256": "5d254bf99582fb1c6d5808007990defceffa54dbc42d2d624d0907c9ee433c8e"
+    },
+    {
+      "file": "1817_French_legislative_election.html",
+      "sha256": "f5ccbcd4b37cf4b4badf14946dd8b20f1779af7b2bf95d536d491fbe50f6604c"
+    },
+    {
+      "file": "1818_French_legislative_election.html",
+      "sha256": "c94c76c9cbc1753cc23f35ad0837e25eb0b5789d6b3727e618983c7e620f9369"
+    },
+    {
+      "file": "1819_French_legislative_election.html",
+      "sha256": "48d16040a124ab73c68134e42ca796a9d7c444f98858d8ca546c1e9991dc706d"
+    },
+    {
+      "file": "1820_French_legislative_election.html",
+      "sha256": "35debe7125d9d7580411fb275f78a5dac923d5464dd8ae14deac34a02802b604"
+    },
+    {
+      "file": "1824_French_legislative_election.html",
+      "sha256": "d160009f91691e6b55640c59e01e21de2a2538cde86f921c49e314ea44f3ea60"
+    },
+    {
+      "file": "1827_French_legislative_election.html",
+      "sha256": "fd234703373b805b2f2d4e8f996324f320d55c4953b6eab53a4b605cf64aa2e6"
+    },
+    {
+      "file": "1830_French_legislative_election.html",
+      "sha256": "ea2a979c693949440e46e126d11c3b95767afb20347ff7764e50360e47ddaba8"
+    },
+    {
+      "file": "1831_French_legislative_election.html",
+      "sha256": "b9f977b58e403a7421fb5a79ee45388ceb28545a42ed3e999a74da3e794bb571"
+    },
+    {
+      "file": "1834_French_legislative_election.html",
+      "sha256": "2f10783f4016f57d5b2e998259ca7a7f52d20b8bacbcd759b60cd66a8d920c80"
+    },
+    {
+      "file": "1837_French_legislative_election.html",
+      "sha256": "f9b369c3c55a7fe07ff208d466c183685c9d166ecebac2ecda528a577b8bfc4a"
+    },
+    {
+      "file": "1839_French_legislative_election.html",
+      "sha256": "2597d05a358a1d31e457324249cdf8d22d14862b65d169bb0a5eab37ad449353"
+    },
+    {
+      "file": "1842_French_legislative_election.html",
+      "sha256": "10cae6fd940a855c0ac497aba8deaf09534120cd83193374956e6c009c413b12"
+    },
+    {
+      "file": "1846_French_legislative_election.html",
+      "sha256": "73280b1ff950149dd81c1f14204ec59a4ab9d574f6aff7efc85d222f32ddc17d"
+    },
+    {
+      "file": "1848_French_Constituent_Assembly_election.html",
+      "sha256": "2655c6bbd1004be9ebe82507e976630f504c67e299807f3f2996ba3a7f9a10ee"
+    },
+    {
+      "file": "1849_French_legislative_election.html",
+      "sha256": "e92e6be2aee4b2b4d7738da252e3c8614cec95580c249cafaca216dada71365e"
+    },
+    {
+      "file": "1852_French_legislative_election.html",
+      "sha256": "e49ff2124cc789bf897f22dc063f545db7388a13629611b9ff779a0496a9aa4a"
+    },
+    {
+      "file": "1857_French_legislative_election.html",
+      "sha256": "6f916deb4c9cf17e1ff87f21db5ab5c28c57a73f17ac0eb490567ef470503744"
+    },
+    {
+      "file": "1863_French_legislative_election.html",
+      "sha256": "1a2065dbd19a11e3f7c86071c096db3142ee7d43888ebc9458d0620a4f32c3ce"
+    },
+    {
+      "file": "1869_French_legislative_election.html",
+      "sha256": "15ad4502e66219606850d4d9189da24cbc9db944cb741575c31fb3545a19489e"
+    },
+    {
+      "file": "1871_French_legislative_election.html",
+      "sha256": "a7a932e1c1a3ea3064dc7f6c2160871301b174ec3bb4b045eb8c595d1cb9a2fc"
+    },
+    {
+      "file": "1876_French_legislative_election.html",
+      "sha256": "4083144a33ac1be90924670c1ffdf8efa548cc592d80e7df9b5793bb77de948c"
+    },
+    {
+      "file": "1877_French_legislative_election.html",
+      "sha256": "cd0b1de01c544950711243cbf15814adbb5eb024b7b516f87b090ed453ecaf86"
+    },
+    {
+      "file": "1881_French_legislative_election.html",
+      "sha256": "c554c6ceff501a95d02f3765cc1e92d7d48a9bcb7293cb9c569f1f66437d066f"
+    },
+    {
+      "file": "1885_French_legislative_election.html",
+      "sha256": "0818500918e92f56d616e8741ead4a8fc1b89296664a173619f5acc221554b05"
+    },
+    {
+      "file": "1889_French_legislative_election.html",
+      "sha256": "1ddb41e939b43fe6dc82f7d260a18daefc3469b1c0cbe2f17c09d43931ecdbbc"
+    },
+    {
+      "file": "1893_French_legislative_election.html",
+      "sha256": "67fc4343e146579047174a0e969dc66944702f8fc4301db56c5a00f72f5896a9"
+    },
+    {
+      "file": "1898_French_legislative_election.html",
+      "sha256": "300e00744a37082791f0f5e07add3e2fef65546193f362a13883c8a24e701a0b"
+    },
+    {
+      "file": "1902_French_legislative_election.html",
+      "sha256": "2ddfc6b6f07c517755ccfc537fb12f290e2afec2811b738fb0d31006ffa5e413"
+    },
+    {
+      "file": "1906_French_legislative_election.html",
+      "sha256": "9d1dc841a3c8ed7717f054262dffeb552cb0412c1580cedb7273b098a07c0a9c"
+    },
+    {
+      "file": "1910_French_legislative_election.html",
+      "sha256": "cfb29830ffd554deabdbafde792d0de865954825b0e3161df7cb44f0fbc856d2"
+    },
+    {
+      "file": "1914_French_legislative_election.html",
+      "sha256": "fb3f77330378ab606d069e12222607f98dc27a45f2b4624d00efa21a3b5b56af"
+    },
+    {
+      "file": "1919_French_legislative_election.html",
+      "sha256": "5537b894f6cd813f3cf760d7f978d0d2b31e809565453dc809cc79a89df6abf4"
+    },
+    {
+      "file": "1924_French_legislative_election.html",
+      "sha256": "3488a72abce46b1b198c5c53c0e458552a9a45734023170b769534ce6424cd89"
+    },
+    {
+      "file": "1928_French_legislative_election.html",
+      "sha256": "34975cdbedf64b3506811173251b539417f8aa90dcdaabe53b1bf5dec0fff514"
+    },
+    {
+      "file": "1932_French_legislative_election.html",
+      "sha256": "7493d772d1c3ab962e5b5a00cb5311d50ff9713aed46b694e8115944c923818b"
+    },
+    {
+      "file": "1936_French_legislative_election.html",
+      "sha256": "321d4a873190146a345681b66d37715103fa8fe63508df5b756b378371b0b041"
+    },
+    {
+      "file": "1945_French_legislative_election.html",
+      "sha256": "dad182919820a252cf3a53d0498c4ee5a4059401d437ea16edb9fdfe83837468"
+    },
+    {
+      "file": "1951_French_legislative_election.html",
+      "sha256": "a31c978543ed05ace57830e30edd863a52a66c13fe0f2ccd6a9dafc7bce230c7"
+    },
+    {
+      "file": "1956_French_legislative_election.html",
+      "sha256": "b2e371b197bf3eb5ca439027a02e44ab2cf790531f148dd2a6561ef8859dcd2e"
+    },
+    {
+      "file": "1958_French_legislative_election.html",
+      "sha256": "9982964c9378914c3126e02699eebed78e0385894d0d3dcec016f5bbaeb12021"
+    },
+    {
+      "file": "1962_French_legislative_election.html",
+      "sha256": "22181b9c50f8b31208cc64cfc79cfcea860d77bb5e3c217e8fe2744fd9fbe077"
+    },
+    {
+      "file": "1967_French_legislative_election.html",
+      "sha256": "ced5884d30211e474f580ad73c8bc990de9277145cd4fbfbdf3e8d34441d79bd"
+    },
+    {
+      "file": "1968_French_legislative_election.html",
+      "sha256": "7bd52ddfe54b9cd219d9f9f57db5fc434ff2248d8cad4ed3b59a050d27355cf4"
+    },
+    {
+      "file": "1973_French_legislative_election.html",
+      "sha256": "1ed91f42caa605c9d551735c6e59ae781e046b9588d4e8ec42970f04f1b400ef"
+    },
+    {
+      "file": "1978_French_legislative_election.html",
+      "sha256": "cea87f5cabc465634414d24d5d2e5673fc6d630f2464fc061bdda257417369ff"
+    },
+    {
+      "file": "1981_French_legislative_election.html",
+      "sha256": "2f6e0b331f9e40d60882480aa5870113a0b90a15ee12821e902a09e03f0bb243"
+    },
+    {
+      "file": "1986_French_legislative_election.html",
+      "sha256": "7e665326fe48da22ad5331842514718e085b015574b8af75f264b3fa87b537b4"
+    },
+    {
+      "file": "1988_French_legislative_election.html",
+      "sha256": "0aead68254e7932f1d42c8a5ee2129b52aa70bb386f7f91f9a12563db4aab1df"
+    },
+    {
+      "file": "1993_French_legislative_election.html",
+      "sha256": "4e143ffcdf4be9e1c3fe926426de869ec8ca4aa067d1edcd19da11f5b35c1b94"
+    },
+    {
+      "file": "1997_French_legislative_election.html",
+      "sha256": "105811c2b1a822607af85edc074afd0ba8e6c6e066e9a91e864774371588a7dc"
+    },
+    {
+      "file": "2002_French_legislative_election.html",
+      "sha256": "5b3cec7c95a3e3cc59e2383469ccccd3267e276099c7a5347dc6ff633a1a6a9d"
+    },
+    {
+      "file": "2007_French_legislative_election.html",
+      "sha256": "fc6139974e70e3ec7aa775bf215bce4f9913ec9bb40b4087fed68ba36ddc9870"
+    },
+    {
+      "file": "2012_French_legislative_election.html",
+      "sha256": "8ec27c0bf430733ee2b534a72b9a2cbd187b461f9b93269d248cb4d4b8f7e404"
+    },
+    {
+      "file": "2017_French_legislative_election.html",
+      "sha256": "0f49b13e4d68db1d70324a4d8d127b94a76e61c854bf4cbff3fae899f22b536d"
+    },
+    {
+      "file": "2022_French_legislative_election.html",
+      "sha256": "9485c484455a9db5adb9f4e21770446b616461d9709f07f0ff39f96ab6ebb793"
+    },
+    {
+      "file": "2024_French_legislative_election.html",
+      "sha256": "2cb0bf0072cf090b9d85c91a0aed15e804aee36ddadb6cefe6731240243cbef3"
+    },
+    {
+      "file": "August_1815_French_legislative_election.html",
+      "sha256": "8a8e70b16aeff2180f85b262fc79ce8f8bb8ff8e3aa52b8e2c9480692617b1b2"
+    },
+    {
+      "file": "June_1946_French_legislative_election.html",
+      "sha256": "87a6c2857fa1750b9392e595818a7d0490a55871a7b26a67fa777c98919eac4c"
+    },
+    {
+      "file": "May_1815_French_legislative_election.html",
+      "sha256": "50c54839b80c3a043225cc292cb362d179ce347026f14035586bbdd711128eeb"
+    },
+    {
+      "file": "November_1946_French_legislative_election.html",
+      "sha256": "e9e29d03e536cca892d981e291dbecf3b1c8baf9b19c8d1b2bc6e965ad9a4bee"
+    },
+    {
+      "file": "1848_French_presidential_election.html",
+      "sha256": "311f29cb419e12b66c9208adbb31be74ebaf9a9123a5ece70d9e5a92e511abe6"
+    },
+    {
+      "file": "1965_French_presidential_election.html",
+      "sha256": "034f8b6e4b92cb398e7ffbeb356b7d3090176d11c52de096838921b0f7e598e7"
+    },
+    {
+      "file": "1969_French_presidential_election.html",
+      "sha256": "8f78f6ca7d270c6052f70e21b237328f04727acb46f7cdeba993884eaa3198d7"
+    },
+    {
+      "file": "1974_French_presidential_election.html",
+      "sha256": "fa799a645df30741b20597323677e0ca7dbc4688e47cc316b337a535a3e6069c"
+    },
+    {
+      "file": "1981_French_presidential_election.html",
+      "sha256": "ff2e55a7cb51c4babad89649e894134090342fb2a3ec2e1a647cd859297ad7b8"
+    },
+    {
+      "file": "1988_French_presidential_election.html",
+      "sha256": "99940b391ac64dc295286044498f30e5ca7ef5ff78f1bac277d7cb5bb36562c8"
+    },
+    {
+      "file": "1995_French_presidential_election.html",
+      "sha256": "23a9816a9db376e8ddb86dd5a26f96a37a7e3fee440cb43311b2478bf41c5512"
+    },
+    {
+      "file": "2002_French_presidential_election.html",
+      "sha256": "39cb269bbad6731567ee3b1a3000d98198319e56fd6b46b5f4e57f77cc368e8f"
+    },
+    {
+      "file": "2007_French_presidential_election.html",
+      "sha256": "6aa8c1ae7442ffe45bed69795ab6a95aad18f7200df4d6c7359fe31d29d8315b"
+    },
+    {
+      "file": "2012_French_presidential_election.html",
+      "sha256": "34dfaf0ee57c502a05fa7aef878b395a27b7d843ea2af3f5d7aec63370485073"
+    },
+    {
+      "file": "2017_French_presidential_election.html",
+      "sha256": "c6eea38a572837a1dc94c25f8469ee8ddf5d148b5064763a29796528f7bb99f3"
+    },
+    {
+      "file": "2022_French_presidential_election.html",
+      "sha256": "3b0bc308b9683082094b6ebcc9f4590fe4455eaeb1e28e8ad8f5974cf37eb444"
+    },
+    {
+      "file": "indirect.html",
+      "sha256": "d2e5110dfea5e9cfe5a032340213b3efc35667bc22570aaa3f91ae9b980bc9a1"
+    },
+    {
+      "file": "overview.html",
+      "url": "https://en.wikipedia.org/wiki/Legislative_elections_in_France",
+      "sha256": "e5edec46a223ba92989ac03875eebc70f7f2057b9c61b382251fd1c914d88990"
+    }
+  ]
+}
