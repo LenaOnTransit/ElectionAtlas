@@ -1,0 +1,1519 @@
+{
+  "checked": "2026-10-08",
+  "cutoff": "2027-12-31",
+  "countries": [
+    {
+      "id": "gu",
+      "name": "Guam",
+      "region": "Oceania",
+      "aliases": "",
+      "coverageNote": "Territorial legislature and executive elections; this entry does not imply sovereign statehood."
+    },
+    {
+      "id": "as",
+      "name": "American Samoa",
+      "region": "Oceania",
+      "aliases": "",
+      "coverageNote": "Territorial legislature and executive elections; this entry does not imply sovereign statehood."
+    },
+    {
+      "id": "mp",
+      "name": "Northern Mariana Islands",
+      "region": "Oceania",
+      "aliases": "",
+      "coverageNote": "Territorial legislature and executive elections; this entry does not imply sovereign statehood."
+    },
+    {
+      "id": "vi",
+      "name": "U.S. Virgin Islands",
+      "region": "Americas",
+      "aliases": "",
+      "coverageNote": "Territorial legislature and executive elections; this entry does not imply sovereign statehood."
+    }
+  ],
+  "elections": [
+    {
+      "action": "update",
+      "before": {
+        "id": "world-haiti-deputies-2026",
+        "body": "Chamber of Deputies",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.",
+        "round": "",
+        "title": "Chamber of Deputies",
+        "status": "scheduled",
+        "checked": "2026-10-01",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 0,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "ht",
+        "precision": "day",
+        "startDate": "2026-12-13",
+        "voteBasis": "National vote share",
+        "dateStatus": "confirmed",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      },
+      "after": {
+        "id": "world-haiti-deputies-2026",
+        "body": "Chamber of Deputies",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.\nThe CEP notice of 5 October postpones the campaign, extends candidate registration and says a revised electoral calendar will be published. Reports describe a wider electoral delay, while the primary notice specifically postpones campaigning. The former 13 December polling date cannot be reconfirmed against a revised calendar and is not displayed as a confirmed polling day.",
+        "round": "",
+        "title": "Chamber of Deputies",
+        "status": "scheduled",
+        "checked": "2026-10-08",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          },
+          {
+            "label": "CEP: campaign postponed; revised calendar forthcoming (5 October 2026)",
+            "url": "https://cephaiti.ht/notes-communiques/"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 1,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "ht",
+        "precision": "unknown",
+        "startDate": "",
+        "voteBasis": "National vote share",
+        "dateStatus": "tba",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      }
+    },
+    {
+      "action": "update",
+      "before": {
+        "id": "world-haiti-president-2026",
+        "body": "President",
+        "snap": false,
+        "type": "presidential",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.",
+        "round": "",
+        "title": "President",
+        "status": "scheduled",
+        "checked": "2026-10-01",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 0,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "ht",
+        "precision": "day",
+        "startDate": "2026-12-13",
+        "voteBasis": "National vote share",
+        "dateStatus": "confirmed",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      },
+      "after": {
+        "id": "world-haiti-president-2026",
+        "body": "President",
+        "snap": false,
+        "type": "presidential",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.\nThe CEP notice of 5 October postpones the campaign, extends candidate registration and says a revised electoral calendar will be published. Reports describe a wider electoral delay, while the primary notice specifically postpones campaigning. The former 13 December polling date cannot be reconfirmed against a revised calendar and is not displayed as a confirmed polling day.",
+        "round": "",
+        "title": "President",
+        "status": "scheduled",
+        "checked": "2026-10-08",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          },
+          {
+            "label": "CEP: campaign postponed; revised calendar forthcoming (5 October 2026)",
+            "url": "https://cephaiti.ht/notes-communiques/"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 1,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "ht",
+        "precision": "unknown",
+        "startDate": "",
+        "voteBasis": "National vote share",
+        "dateStatus": "tba",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-cz-senate-2026-runoff",
+        "countryId": "cz",
+        "title": "Senate",
+        "type": "parliamentary",
+        "body": "Senate",
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-17",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "Runoff, if required",
+        "seriesId": "cz-2026-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.velkepritocno.cz/urad-2/volby/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "Second round only where no first-round majority is reached. Announced dates are conditional on a runoff being required.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-as-house-of-representatives-2026",
+        "countryId": "as",
+        "title": "House of Representatives",
+        "type": "parliamentary",
+        "body": "House of Representatives",
+        "startDate": "2026-11-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "as-2026-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5214/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-gu-governor-2026",
+        "countryId": "gu",
+        "title": "Governor",
+        "type": "gubernatorial",
+        "body": "Governor",
+        "startDate": "2026-11-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "gu-2026-gubernatorial",
+        "snap": false,
+        "summary": "Scheduled territorial executive election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5213/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-gu-legislature-2026",
+        "countryId": "gu",
+        "title": "Legislature",
+        "type": "parliamentary",
+        "body": "Legislature",
+        "startDate": "2026-11-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "gu-2026-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5102/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-mp-governor-2026",
+        "countryId": "mp",
+        "title": "Governor",
+        "type": "gubernatorial",
+        "body": "Governor",
+        "startDate": "2026-11-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "mp-2026-gubernatorial",
+        "snap": false,
+        "summary": "Scheduled territorial executive election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5105/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-mp-house-of-representatives-2026",
+        "countryId": "mp",
+        "title": "House of Representatives",
+        "type": "parliamentary",
+        "body": "House of Representatives",
+        "startDate": "2026-11-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "mp-2026-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5103/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-mp-senate-2026",
+        "countryId": "mp",
+        "title": "Senate",
+        "type": "parliamentary",
+        "body": "Senate",
+        "startDate": "2026-11-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "mp-2026-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5104/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-vi-governor-2026",
+        "countryId": "vi",
+        "title": "Governor",
+        "type": "gubernatorial",
+        "body": "Governor",
+        "startDate": "2026-11-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "vi-2026-gubernatorial",
+        "snap": false,
+        "summary": "Scheduled territorial executive election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5216/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-vi-legislature-2026",
+        "countryId": "vi",
+        "title": "Legislature",
+        "type": "parliamentary",
+        "body": "Legislature",
+        "startDate": "2026-11-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "vi-2026-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5215/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-gd-house-of-representatives-2026",
+        "countryId": "gd",
+        "title": "House of Representatives",
+        "type": "parliamentary",
+        "body": "House of Representatives",
+        "startDate": "2026-11-05",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "gd-2026-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://nowgrenada.com/2026/10/grenadians-vote-for-a-new-government-on-5-november/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "The prime minister announced polling for 5 November 2026 following dissolution and issue of writs in October.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-es-congress-of-deputies-2026",
+        "countryId": "es",
+        "title": "Congress of Deputies",
+        "type": "parliamentary",
+        "body": "Congress of Deputies",
+        "startDate": "2026-11-29",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "es-2026-parliamentary",
+        "snap": true,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5256/"
+          },
+          {
+            "label": "Official decree: Real Decreto 806/2026",
+            "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible. Official decree calls both chambers for 29 November 2026.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-es-senate-2026",
+        "countryId": "es",
+        "title": "Senate",
+        "type": "parliamentary",
+        "body": "Senate",
+        "startDate": "2026-11-29",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "es-2026-parliamentary",
+        "snap": true,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5255/"
+          },
+          {
+            "label": "Official decree: Real Decreto 806/2026",
+            "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible. Official decree calls both chambers for 29 November 2026.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ch-president-of-the-confederation-2026",
+        "countryId": "ch",
+        "title": "President of the Confederation",
+        "type": "presidential",
+        "body": "President of the Confederation",
+        "startDate": "2026-12-09",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ch-2026-presidential",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "Electoral college votes",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.ch-info.swiss/fr/die-regierung/mitglieder-des-bundesrats"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "The annual presidential and vice-presidential selection is by the United Federal Assembly, not a popular ballot.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "indirect"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ng-house-of-representatives-2027",
+        "countryId": "ng",
+        "title": "House of Representatives",
+        "type": "parliamentary",
+        "body": "House of Representatives",
+        "startDate": "2027-01-16",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ng-2027-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5202/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ng-president-2027",
+        "countryId": "ng",
+        "title": "President",
+        "type": "presidential",
+        "body": "President",
+        "startDate": "2027-01-16",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ng-2027-presidential",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5204/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ng-senate-2027",
+        "countryId": "ng",
+        "title": "Senate",
+        "type": "parliamentary",
+        "body": "Senate",
+        "startDate": "2027-01-16",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ng-2027-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.electionguide.org/elections/id/5203/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "update",
+      "before": {
+        "id": "world-kyrgyzstan-2027",
+        "body": "President",
+        "snap": false,
+        "type": "presidential",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.",
+        "round": "",
+        "title": "President",
+        "status": "scheduled",
+        "checked": "2026-10-01",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 0,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "kg",
+        "precision": "month",
+        "startDate": "2027-01-27",
+        "voteBasis": "National vote share",
+        "dateStatus": "expected",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      },
+      "after": {
+        "id": "world-kyrgyzstan-2027",
+        "body": "President",
+        "snap": false,
+        "type": "presidential",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.\nParliament set 27 January 2027 in its 24 September 2026 resolution. This supersedes earlier references to 24 January.",
+        "round": "",
+        "title": "President",
+        "status": "scheduled",
+        "checked": "2026-10-08",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          },
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.aa.com.tr/en/eurasia/kyrgyz-parliament-adopts-draft-resolution-on-holding-presidential-vote-on-jan-27/4067521"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 1,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "kg",
+        "precision": "day",
+        "startDate": "2027-01-27",
+        "voteBasis": "National vote share",
+        "dateStatus": "confirmed",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-de-federal-president-2027",
+        "countryId": "de",
+        "title": "Federal President",
+        "type": "presidential",
+        "body": "Federal President",
+        "startDate": "2027-01-30",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "de-2027-presidential",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "Electoral college votes",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-260226-bundesversammlung-1150358"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "The Bundestag President convened the Federal Convention for 30 January 2027. This is an indirect election, not a popular presidential ballot.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "indirect"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-sv-president-2027",
+        "countryId": "sv",
+        "title": "President",
+        "type": "presidential",
+        "body": "President",
+        "startDate": "2027-02-28",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "sv-2027-presidential",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://tse.gob.sv/docs/calendarios/CALENDARIO-TSE-NACIONAL.pdf"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "TSE national calendar, activity 163, sets presidential and legislative election day to 28 February 2027.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "update",
+      "before": {
+        "id": "world-el-salvador-2027",
+        "body": "Legislative Assembly",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.",
+        "round": "",
+        "title": "Legislative Assembly",
+        "status": "scheduled",
+        "checked": "2026-10-01",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 0,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "sv",
+        "precision": "month",
+        "startDate": "2027-02-28",
+        "voteBasis": "National vote share",
+        "dateStatus": "expected",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      },
+      "after": {
+        "id": "world-el-salvador-2027",
+        "body": "Legislative Assembly",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.\nTSE national calendar, activity 163, sets presidential and legislative election day to 28 February 2027.",
+        "round": "",
+        "title": "Legislative Assembly",
+        "status": "scheduled",
+        "checked": "2026-10-08",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          },
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://tse.gob.sv/docs/calendarios/CALENDARIO-TSE-NACIONAL.pdf"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 1,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "sv",
+        "precision": "day",
+        "startDate": "2027-02-28",
+        "voteBasis": "National vote share",
+        "dateStatus": "confirmed",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      }
+    },
+    {
+      "action": "update",
+      "before": {
+        "id": "world-micronesia-2027",
+        "body": "Congress",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.",
+        "round": "",
+        "title": "Congress",
+        "status": "scheduled",
+        "checked": "2026-10-01",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 0,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "fm",
+        "precision": "month",
+        "startDate": "2027-03-02",
+        "voteBasis": "National vote share",
+        "dateStatus": "expected",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      },
+      "after": {
+        "id": "world-micronesia-2027",
+        "body": "Congress",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.\nCongress resolution CR 24-175 (21 September 2026) identifies the 2 March 2027 national election.",
+        "round": "",
+        "title": "Congress",
+        "status": "scheduled",
+        "checked": "2026-10-08",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          },
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.cfsm.gov.fm/24th-resolutions/"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 1,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "fm",
+        "precision": "day",
+        "startDate": "2027-03-02",
+        "voteBasis": "National vote share",
+        "dateStatus": "confirmed",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      }
+    },
+    {
+      "action": "update",
+      "before": {
+        "id": "world-gambia-parliament-2027",
+        "body": "National Assembly",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.",
+        "round": "",
+        "title": "National Assembly",
+        "status": "scheduled",
+        "checked": "2026-10-01",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 0,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "gm",
+        "precision": "month",
+        "startDate": "2027-04-10",
+        "voteBasis": "National vote share",
+        "dateStatus": "expected",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      },
+      "after": {
+        "id": "world-gambia-parliament-2027",
+        "body": "National Assembly",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.\nIEC electoral calendar, section III, specifies election day on 10 April 2027.",
+        "round": "",
+        "title": "National Assembly",
+        "status": "scheduled",
+        "checked": "2026-10-08",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          },
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://iec.gm/electoral-calendar-2026-2027/"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 1,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "gm",
+        "precision": "day",
+        "startDate": "2027-04-10",
+        "voteBasis": "National vote share",
+        "dateStatus": "confirmed",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      }
+    },
+    {
+      "action": "update",
+      "before": {
+        "id": "world-finland-2027",
+        "body": "Parliament",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.",
+        "round": "",
+        "title": "Parliament",
+        "status": "scheduled",
+        "checked": "2026-10-01",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 0,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "fi",
+        "precision": "month",
+        "startDate": "2027-04-18",
+        "voteBasis": "National vote share",
+        "dateStatus": "expected",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      },
+      "after": {
+        "id": "world-finland-2027",
+        "body": "Parliament",
+        "snap": false,
+        "type": "parliamentary",
+        "notes": "Schedule reviewed against IFES ElectionGuide on 1 October 2026. Dates can change; follow the linked source for the latest notice.\nThe Ministry of Justice schedule specifies Sunday 18 April 2027 as election day.",
+        "round": "",
+        "title": "Parliament",
+        "status": "scheduled",
+        "checked": "2026-10-08",
+        "endDate": "",
+        "results": [],
+        "sources": [
+          {
+            "url": "https://www.electionguide.org/elections/type/upcoming/",
+            "label": "IFES ElectionGuide"
+          },
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://vaalit.fi/en/schedule-in-the-parliamentary-elections"
+          }
+        ],
+        "summary": "",
+        "turnout": null,
+        "version": 1,
+        "seriesId": "",
+        "articleId": "",
+        "countryId": "fi",
+        "precision": "day",
+        "startDate": "2027-04-18",
+        "voteBasis": "National vote share",
+        "dateStatus": "confirmed",
+        "government": "",
+        "totalSeats": null,
+        "publication": "published",
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-bi-president-2027",
+        "countryId": "bi",
+        "title": "President",
+        "type": "presidential",
+        "body": "President",
+        "startDate": "2027-05-03",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "First round",
+        "seriesId": "bi-2027-presidential",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://abpinfo.bi/2026/05/11/la-ceni-fixe-au-3-mai-2027-la-date-du-scrutin-de-lelection-presidentielle/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "The public press agency records the CENI announcement of 3 May 2027. Only the announced first round is entered.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-mx-chamber-of-deputies-2027",
+        "countryId": "mx",
+        "title": "Chamber of Deputies",
+        "type": "parliamentary",
+        "body": "Chamber of Deputies",
+        "startDate": "2027-06-06",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "mx-2027-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://portal.ine.mx/"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "INE identifies 6 June as the next election day. This record covers the federal Chamber of Deputies election.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ke-national-assembly-2027",
+        "countryId": "ke",
+        "title": "National Assembly",
+        "type": "parliamentary",
+        "body": "National Assembly",
+        "startDate": "2027-08-10",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ke-2027-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.iebc.or.ke/uploads/resources/tpFfOlBLRh.pdf"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IEBC Election Operations Plan 2025–2027 sets the general election for 10 August 2027.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ke-president-2027",
+        "countryId": "ke",
+        "title": "President",
+        "type": "presidential",
+        "body": "President",
+        "startDate": "2027-08-10",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ke-2027-presidential",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.iebc.or.ke/uploads/resources/tpFfOlBLRh.pdf"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IEBC Election Operations Plan 2025–2027 sets the general election for 10 August 2027.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ke-senate-2027",
+        "countryId": "ke",
+        "title": "Senate",
+        "type": "parliamentary",
+        "body": "Senate",
+        "startDate": "2027-08-10",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ke-2027-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://www.iebc.or.ke/uploads/resources/tpFfOlBLRh.pdf"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "IEBC Election Operations Plan 2025–2027 sets the general election for 10 August 2027.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ch-council-of-states-2027",
+        "countryId": "ch",
+        "title": "Council of States",
+        "type": "parliamentary",
+        "body": "Council of States",
+        "startDate": "2027-10-24",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ch-2027-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://ch-info.swiss/fr/direkte-demokratie/wahlen"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "The official Confederation guide sets 24 October 2027. Council of States dates are governed by canton; almost all vote on this day, with exceptions and possible runoffs. This is a national calendar overview.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    },
+    {
+      "action": "insert",
+      "after": {
+        "id": "world-calendar-ch-national-council-2027",
+        "countryId": "ch",
+        "title": "National Council",
+        "type": "parliamentary",
+        "body": "National Council",
+        "startDate": "2027-10-24",
+        "endDate": "",
+        "precision": "day",
+        "dateStatus": "confirmed",
+        "status": "scheduled",
+        "publication": "published",
+        "round": "General",
+        "seriesId": "ch-2027-parliamentary",
+        "snap": false,
+        "summary": "Scheduled national election.",
+        "government": "",
+        "turnout": null,
+        "totalSeats": null,
+        "resultStatus": "not-entered",
+        "resultCoverage": "partial",
+        "voteBasis": "National vote share",
+        "results": [],
+        "sources": [
+          {
+            "label": "Election schedule / announcement",
+            "url": "https://ch-info.swiss/fr/direkte-demokratie/wahlen"
+          }
+        ],
+        "checked": "2026-10-08",
+        "notes": "The official Confederation guide sets 24 October 2027. Council of States dates are governed by canton; almost all vote on this day, with exceptions and possible runoffs. This is a national calendar overview.",
+        "articleId": "",
+        "version": 0,
+        "electionMethod": "direct"
+      }
+    }
+  ]
+}

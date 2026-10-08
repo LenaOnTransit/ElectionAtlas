@@ -1,0 +1,251 @@
+{
+  "checked": "2026-10-08",
+  "ifesConfirmed": [
+    {
+      "countryId": "cz",
+      "title": "Senate",
+      "date": "2026-10-09",
+      "url": "https://www.electionguide.org/elections/id/5082/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "bg",
+      "title": "President",
+      "date": "2026-10-25",
+      "url": "https://www.electionguide.org/elections/id/5101/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "br",
+      "title": "President",
+      "date": "2026-10-25",
+      "url": "https://www.electionguide.org/elections/id/5254/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "rs",
+      "title": "National Assembly",
+      "date": "2026-10-25",
+      "url": "https://www.electionguide.org/elections/id/5252/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "il",
+      "title": "Knesset",
+      "date": "2026-10-27",
+      "url": "https://www.electionguide.org/elections/id/5092/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "gu",
+      "title": "Governor",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5213/",
+      "decision": "include"
+    },
+    {
+      "countryId": "as",
+      "title": "House of Representatives",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5214/",
+      "decision": "include"
+    },
+    {
+      "countryId": "mp",
+      "title": "Governor",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5105/",
+      "decision": "include"
+    },
+    {
+      "countryId": "mp",
+      "title": "House of Representatives",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5103/",
+      "decision": "include"
+    },
+    {
+      "countryId": "vi",
+      "title": "Legislature",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5215/",
+      "decision": "include"
+    },
+    {
+      "countryId": "mp",
+      "title": "Senate",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5104/",
+      "decision": "include"
+    },
+    {
+      "countryId": "us",
+      "title": "Senate",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5098/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "us",
+      "title": "House of Representatives",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5099/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "gu",
+      "title": "Legislature",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5102/",
+      "decision": "include"
+    },
+    {
+      "countryId": "vi",
+      "title": "Governor",
+      "date": "2026-11-03",
+      "url": "https://www.electionguide.org/elections/id/5216/",
+      "decision": "include"
+    },
+    {
+      "countryId": "nz",
+      "title": "House of Representatives",
+      "date": "2026-11-07",
+      "url": "https://www.electionguide.org/elections/id/5107/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "cv",
+      "title": "President",
+      "date": "2026-11-15",
+      "url": "https://www.electionguide.org/elections/id/5093/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "ps",
+      "title": "Legislative Council",
+      "date": "2026-11-28",
+      "url": "https://www.electionguide.org/elections/id/5201/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "es",
+      "title": "Congress of Deputies",
+      "date": "2026-11-29",
+      "url": "https://www.electionguide.org/elections/id/5256/",
+      "decision": "include"
+    },
+    {
+      "countryId": "es",
+      "title": "Senate",
+      "date": "2026-11-29",
+      "url": "https://www.electionguide.org/elections/id/5255/",
+      "decision": "include"
+    },
+    {
+      "countryId": "gm",
+      "title": "President",
+      "date": "2026-12-05",
+      "url": "https://www.electionguide.org/elections/id/5106/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "ht",
+      "title": "Chamber of Deputies",
+      "date": "2026-12-13",
+      "url": "https://www.electionguide.org/elections/id/4664/",
+      "decision": "excluded pending revised CEP calendar"
+    },
+    {
+      "countryId": "ht",
+      "title": "Senate",
+      "date": "2026-12-13",
+      "url": "https://www.electionguide.org/elections/id/4665/",
+      "decision": "excluded pending revised CEP calendar"
+    },
+    {
+      "countryId": "ht",
+      "title": "President",
+      "date": "2026-12-13",
+      "url": "https://www.electionguide.org/elections/id/4663/",
+      "decision": "excluded pending revised CEP calendar"
+    },
+    {
+      "countryId": "ng",
+      "title": "House of Representatives",
+      "date": "2027-01-16",
+      "url": "https://www.electionguide.org/elections/id/5202/",
+      "decision": "include"
+    },
+    {
+      "countryId": "ng",
+      "title": "President",
+      "date": "2027-01-16",
+      "url": "https://www.electionguide.org/elections/id/5204/",
+      "decision": "include"
+    },
+    {
+      "countryId": "ng",
+      "title": "Senate",
+      "date": "2027-01-16",
+      "url": "https://www.electionguide.org/elections/id/5203/",
+      "decision": "include"
+    },
+    {
+      "countryId": "ee",
+      "title": "Riigikogu",
+      "date": "2027-03-07",
+      "url": "https://www.electionguide.org/elections/id/5211/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "ee",
+      "title": "Riigikogu",
+      "date": "2027-03-07",
+      "url": "https://www.electionguide.org/elections/id/5211/",
+      "decision": "already confirmed"
+    },
+    {
+      "countryId": "ng",
+      "title": "House of Representatives",
+      "date": "2027-01-16",
+      "url": "https://www.electionguide.org/elections/id/5202/",
+      "decision": "include"
+    },
+    {
+      "countryId": "ng",
+      "title": "Senate",
+      "date": "2027-01-16",
+      "url": "https://www.electionguide.org/elections/id/5203/",
+      "decision": "include"
+    },
+    {
+      "countryId": "ng",
+      "title": "President",
+      "date": "2027-01-16",
+      "url": "https://www.electionguide.org/elections/id/5204/",
+      "decision": "include"
+    }
+  ],
+  "sourceHashes": {
+    "ifes-upcoming.html": "40f342e9e6b79388de72cfcc4bc65ece37f56f5a00c1053310fe6f00a4b04204",
+    "ifes2027.html": "524c8ed4e3980fac30cf2a8990e6de374aee670f70aa423886c9f9d119308a57"
+  },
+  "excluded": [
+    {
+      "contest": "Guatemala 2027 presidency and Congress",
+      "reason": "TSE describes 27 June as a preliminary timetable; not upgraded to confirmed."
+    },
+    {
+      "contest": "Angola, Slovakia and other year-only / deadline entries",
+      "reason": "A constitutional deadline or expected year does not establish an announced polling day."
+    },
+    {
+      "contest": "Argentina 2027 presidency and parliament",
+      "reason": "24 October follows the statutory fourth-Sunday rule; no reviewed 2027 official call or published timetable. Not marked as an announced confirmed date."
+    },
+    {
+      "contest": "Referendums and local elections",
+      "reason": "Outside the national legislative/executive calendar scope; existing model has no referendum type."
+    }
+  ]
+}
