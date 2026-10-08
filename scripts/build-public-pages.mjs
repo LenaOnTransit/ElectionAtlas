@@ -17,9 +17,15 @@ const observers=items=>items?.length?`<section><h2>Election observers & reports<
 const source=await fs.readFile('lib/supabase.ts','utf8');
 const api=process.env.VITE_SUPABASE_URL||source.match(/const url.*?'(https:[^']+)'/)[1];
 const key=process.env.VITE_SUPABASE_PUBLISHABLE_KEY||source.match(/const key.*?'(sb_publishable_[^']+)'/)[1];
-const response=await fetch(api+'/rest/v1/rpc/ea_public_records',{method:'POST',headers:{apikey:key,'Content-Type':'application/json'},body:JSON.stringify({record_kinds:['article','world_country','world_election','senate']}),signal:AbortSignal.timeout(60000)});
-if(!response.ok)throw Error(`Public page generation failed (${response.status}); previous deployment stays live.`);
-const rows=await response.json();
+const rows=[];
+const pageSize=500;
+for(let from=0;;from+=pageSize){
+  const response=await fetch(api+'/rest/v1/rpc/ea_public_records',{method:'POST',headers:{apikey:key,'Content-Type':'application/json',Range:`${from}-${from+pageSize-1}`},body:JSON.stringify({record_kinds:['article','world_country','world_election','senate']}),signal:AbortSignal.timeout(60000)});
+  if(!response.ok)throw Error(`Public page generation failed (${response.status}); previous deployment stays live.`);
+  const batch=await response.json();
+  rows.push(...batch);
+  if(batch.length<pageSize)break;
+}
 const now=Date.now();
 const articles=rows.filter(r=>r.kind==='article'&&r.data.status==='published'&&!r.data.archived&&(!r.data.publishAt||Date.parse(r.data.publishAt)<=now)).map(r=>r.data).filter(a=>a.articleType!=='educational'||educationCategory(a.educationCategory));
 const elections=rows.filter(r=>r.kind==='world_election'&&r.data.publication==='published').map(r=>r.data);
