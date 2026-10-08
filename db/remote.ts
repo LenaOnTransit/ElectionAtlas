@@ -1,9 +1,18 @@
 import {supabase} from '../lib/supabase';
 export type RecordRow={id:string;kind:string;data:any;updated:string;is_public:boolean};
 export async function readRecords(kinds:string[],all=false):Promise<RecordRow[]> {
-  if(!all){const {data,error}=await supabase.rpc('ea_public_records',{record_kinds:kinds});if(error)throw error;return data||[];}
-  let query=supabase.from('ea_records').select('id,kind,data,updated,is_public').in('kind',kinds).order('updated',{ascending:false});
-  const {data,error}=await query;if(error)throw error;return data||[];
+  const pageSize=500;
+  const rows:RecordRow[]=[];
+  for(let from=0;;from+=pageSize){
+    const query=all
+      ?supabase.from('ea_records').select('id,kind,data,updated,is_public').in('kind',kinds).order('updated',{ascending:false}).order('id',{ascending:true}).range(from,from+pageSize-1)
+      :supabase.rpc('ea_public_records',{record_kinds:kinds}).range(from,from+pageSize-1);
+    const {data,error}=await query;
+    if(error)throw error;
+    rows.push(...(data||[]));
+    if(!data||data.length<pageSize)break;
+  }
+  return rows;
 }
 export async function writeRecord(kind:string,value:any) {
   const {data,error}=await supabase.rpc('ea_save_record',{record_kind:kind,payload:value});

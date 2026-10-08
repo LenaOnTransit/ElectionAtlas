@@ -6,5 +6,15 @@ export async function saveWorldElection(value:WorldElection,_userId?:string){ret
 export async function saveWorldCountry(value:Country){return writeRecord('world_country',value);}
 export async function worldHistory(id:string){const {data,error}=await supabase.from('ea_revisions').select('created,data').eq('record_id',id).order('created',{ascending:false}).limit(20);if(error)throw error;return (data||[]).map(r=>({date:r.created,election:r.data}));}
 
-async function publicSummaries(){const {data,error}=await supabase.rpc('ea_world_summaries');if(error)throw error;return (data||[]) as {id:string;kind:string;data:any;updated:string}[];}
+async function publicSummaries(){
+  const pageSize=500;
+  const rows:{id:string;kind:string;data:any;updated:string}[]=[];
+  for(let from=0;;from+=pageSize){
+    const {data,error}=await supabase.rpc('ea_world_summaries').range(from,from+pageSize-1);
+    if(error)throw error;
+    rows.push(...(data||[]));
+    if(!data||data.length<pageSize)break;
+  }
+  return rows;
+}
 export async function getWorldElection(id:string):Promise<WorldElection|null>{const {data,error}=await supabase.rpc('ea_public_election',{record_id:id});if(error)throw error;return data as WorldElection|null;}
