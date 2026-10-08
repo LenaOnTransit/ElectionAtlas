@@ -1,0 +1,214 @@
+[
+  {
+    "id": "world-france-president-2022-first",
+    "data": {
+      "id": "world-france-president-2022-first",
+      "body": "President",
+      "snap": false,
+      "type": "presidential",
+      "notes": "First-round vote detail has not yet been entered. The linked runoff record includes the final outcome.",
+      "round": "First round",
+      "title": "President",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/FE.php",
+          "label": "Official election source"
+        }
+      ],
+      "summary": "",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "france-president-2022",
+      "articleId": "",
+      "countryId": "fr",
+      "precision": "day",
+      "startDate": "2022-04-10",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    },
+    "kind": "world_election"
+  },
+  {
+    "id": "world-france-president-2027-runoff",
+    "data": {
+      "id": "world-france-president-2027-runoff",
+      "body": "President",
+      "snap": false,
+      "type": "presidential",
+      "notes": "A runoff is held only if the first round does not produce a winner.",
+      "round": "Runoff, if required",
+      "title": "President",
+      "status": "scheduled",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34852/5_0?lang=en",
+          "label": "Official election source"
+        }
+      ],
+      "summary": "",
+      "turnout": null,
+      "version": 1,
+      "seriesId": "france-president-2027",
+      "articleId": "",
+      "countryId": "fr",
+      "precision": "day",
+      "startDate": "2027-05-02",
+      "voteBasis": "National vote share",
+      "dateStatus": "expected",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    },
+    "kind": "world_election"
+  },
+  {
+    "id": "world-france-president-2022-runoff",
+    "data": {
+      "id": "world-france-president-2022-runoff",
+      "body": "President",
+      "snap": false,
+      "type": "presidential",
+      "notes": "",
+      "round": "Runoff",
+      "title": "President",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [
+        {
+          "id": "emmanuel-macron",
+          "name": "Emmanuel Macron",
+          "color": "#b99c31",
+          "party": "La République En Marche",
+          "seats": null,
+          "share": 58.55,
+          "votes": 18768639,
+          "winner": true,
+          "electoralVotes": null
+        },
+        {
+          "id": "marine-le-pen",
+          "name": "Marine Le Pen",
+          "color": "#25487e",
+          "party": "National Rally",
+          "seats": null,
+          "share": 41.45,
+          "votes": 13288686,
+          "winner": false,
+          "electoralVotes": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.archives-resultats-elections.interieur.gouv.fr/resultats/presidentielle-2022/FE.php",
+          "label": "Official election source"
+        }
+      ],
+      "summary": "Emmanuel Macron won re-election.",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "france-president-2022",
+      "articleId": "",
+      "countryId": "fr",
+      "precision": "day",
+      "startDate": "2022-04-24",
+      "voteBasis": "Valid runoff votes",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "final",
+      "resultCoverage": "complete"
+    },
+    "kind": "world_election"
+  },
+  {
+    "id": "world-france-president-2027",
+    "data": {
+      "id": "world-france-president-2027",
+      "body": "President",
+      "snap": false,
+      "type": "presidential",
+      "notes": "Dates checked against the French government election schedule.",
+      "round": "First round",
+      "title": "President",
+      "status": "scheduled",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [
+        {
+          "id": "add9318c-644a-4563-bc39-4929c59ba8c4",
+          "name": "Marine Le Pen",
+          "color": "#385b82",
+          "party": "National Rally",
+          "seats": null,
+          "share": null,
+          "votes": null,
+          "winner": false,
+          "previousSeats": null,
+          "electoralVotes": null
+        },
+        {
+          "id": "cb26160f-5110-4ced-95b5-f3972239ce8c",
+          "name": "Jean-Luc Mélenchon",
+          "color": "#7300ff",
+          "party": "La France Insoumine",
+          "seats": null,
+          "share": null,
+          "votes": null,
+          "winner": false,
+          "previousSeats": null,
+          "electoralVotes": null
+        },
+        {
+          "id": "5d569e19-ecab-4514-aa67-5137cbf9b952",
+          "name": "Édouard Philippe",
+          "color": "#004a9e",
+          "party": "Horizons",
+          "seats": null,
+          "share": null,
+          "votes": null,
+          "winner": false,
+          "previousSeats": null,
+          "electoralVotes": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34852/5_0?lang=en",
+          "label": "Official election source"
+        }
+      ],
+      "summary": "",
+      "turnout": null,
+      "version": 2,
+      "seriesId": "france-president-2027",
+      "articleId": "",
+      "countryId": "fr",
+      "precision": "day",
+      "startDate": "2027-04-18",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    },
+    "kind": "world_election"
+  }
+]
