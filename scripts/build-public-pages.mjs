@@ -20,7 +20,7 @@ const key=process.env.VITE_SUPABASE_PUBLISHABLE_KEY||source.match(/const key.*?'
 const rows=[];
 const pageSize=500;
 for(let from=0;;from+=pageSize){
-  const response=await fetch(api+'/rest/v1/rpc/ea_public_records',{method:'POST',headers:{apikey:key,'Content-Type':'application/json',Range:`${from}-${from+pageSize-1}`},body:JSON.stringify({record_kinds:['article','world_country','world_election','senate']}),signal:AbortSignal.timeout(60000)});
+  const response=await fetch(api+`/rest/v1/rpc/ea_public_records?limit=${pageSize}&offset=${from}`,{method:'POST',headers:{apikey:key,'Content-Type':'application/json'},body:JSON.stringify({record_kinds:['article','world_country','world_election','senate']}),signal:AbortSignal.timeout(60000)});
   if(!response.ok)throw Error(`Public page generation failed (${response.status}); previous deployment stays live.`);
   const batch=await response.json();
   rows.push(...batch);
