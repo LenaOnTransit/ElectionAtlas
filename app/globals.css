@@ -167,3 +167,5 @@ main.senate{max-width:1480px}
 :root[data-theme=dark] .senate-state.has-race:focus>path:first-of-type,
 :root[data-theme=dark] .senate-state.is-selected>path:first-of-type{stroke:#f1d789}
 :root[data-theme=dark] .map-inset-label{fill:#c5d4e2}
+
+.integrity-main{max-width:1200px;margin:auto;padding:2rem 1rem}.integrity-stats,.integrity-filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:1rem}.integrity-stats>p,.integrity-review,.integrity-finding{border:1px solid var(--line,#888);padding:1rem}.integrity-stats b{font-size:1.5rem}.integrity-filters label,.integrity-review label{display:flex;flex-direction:column;gap:.35rem}.integrity-actions{display:flex;gap:.75rem;flex-wrap:wrap;margin:1rem 0}.integrity-list{display:grid;gap:1rem}.integrity-finding h2{font-size:1.15rem}.integrity-finding.error{border-left:4px solid #ba2833}.integrity-finding.warning{border-left:4px solid #b48014}.integrity-finding.info{border-left:4px solid #397bc2}.integrity-finding pre{overflow:auto;white-space:pre-wrap;overflow-wrap:anywhere}.integrity-review{margin:1rem 0}.integrity-review textarea{width:100%}.integrity-methodology{margin:2rem 0}
