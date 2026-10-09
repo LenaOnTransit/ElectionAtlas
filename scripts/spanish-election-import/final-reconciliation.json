@@ -1,0 +1,1154 @@
+[
+  {
+    "id": "world-spain-senate-1871-03-08-electoral-college",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 200,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1872-04-02-electoral-college",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 200,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1872-08-24-electoral-college",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 200,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1876-01-20-electoral-college",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 200,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1810-01-01",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 276,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1813-01-01",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 149,
+    "totalSeats": 149,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1820-01-01",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 203,
+    "totalSeats": 203,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1822-01-01",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 203,
+    "totalSeats": 203,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1834-06-30",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 188,
+    "totalSeats": 188,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1836-02-26",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 149,
+    "totalSeats": 149,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1836-07-13",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 258,
+    "totalSeats": 258,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1836-10-02",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 190,
+    "totalSeats": 242,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1837-09-22",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 241,
+    "totalSeats": 241,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1839-07-24",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 241,
+    "totalSeats": 241,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1840-01-19",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1841-02-01",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1843-02-27",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1843-09-15",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1844-09-03",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1846-12-06",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1850-08-31",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1851-05-10",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1853-02-04",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1854-10-04",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1857-03-25",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1858-10-31",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1863-10-11",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1864-11-22",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1865-12-01",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1867-03-10",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 352,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1869-01-15",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (13,456,847)",
+    "voteSum": 13456847,
+    "shareSum": 100.0,
+    "seatSum": 381,
+    "totalSeats": 381,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-king-1870-11-16",
+    "voteBasis": "Itemized parliamentary votes; complete ballot denominator not established",
+    "voteSum": 309,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1871-03-08",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 424,
+    "totalSeats": 424,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1872-04-02",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 424,
+    "totalSeats": 424,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1872-08-24",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (1,900,180)",
+    "voteSum": 1900180,
+    "shareSum": 100.0,
+    "seatSum": 424,
+    "totalSeats": 424,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-1873-05-10",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (1,883,778)",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 424,
+    "totalSeats": 424,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1876-01-20",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 406,
+    "totalSeats": 424,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1879-04-20",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (621,436)",
+    "voteSum": 621436,
+    "shareSum": 100.01,
+    "seatSum": 416,
+    "totalSeats": 431,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1879-05-03",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1881-08-21",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (604,758)",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 416,
+    "totalSeats": 432,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1881-09-02",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1884-04-27",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 433,
+    "totalSeats": 433,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1884-05-08",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1886-04-04",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (475,712)",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 434,
+    "totalSeats": 434,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1886-04-25",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1891-02-01",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 446,
+    "totalSeats": 446,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1891-02-15",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1893-03-05",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 447,
+    "totalSeats": 447,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1893-03-19",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1896-04-12",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 447,
+    "totalSeats": 447,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1896-04-26",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1898-03-27",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 447,
+    "totalSeats": 447,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1898-04-10",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1899-04-16",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 402,
+    "totalSeats": 402,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1899-04-30",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1901-05-19",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 402,
+    "totalSeats": 402,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1901-06-02",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1903-04-26",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 403,
+    "totalSeats": 403,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1903-05-10",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1905-09-10",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 404,
+    "totalSeats": 404,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1905-09-24",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1907-04-21",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 404,
+    "totalSeats": 404,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1907-05-05",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1910-05-08",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 404,
+    "totalSeats": 404,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1910-05-22",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1914-03-08",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 408,
+    "totalSeats": 408,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1914-03-22",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1916-04-09",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 409,
+    "totalSeats": 409,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1916-04-23",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1918-02-24",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 409,
+    "totalSeats": 409,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1918-03-10",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1919-06-01",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 409,
+    "totalSeats": 409,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1919-06-15",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1920-12-19",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 409,
+    "totalSeats": 409,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-1921-01-02",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1923-04-29",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (2,056,974)",
+    "voteSum": 2056974,
+    "shareSum": 100.0,
+    "seatSum": 409,
+    "totalSeats": 409,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-1923-05-13",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 180,
+    "totalSeats": 180,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1931-06-28",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 470,
+    "totalSeats": 470,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-president-1931-12-10",
+    "voteBasis": "410 participating parliamentary votes",
+    "voteSum": 362,
+    "shareSum": 88.2927,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1933-11-19",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (8,575,900)",
+    "voteSum": 8575900,
+    "shareSum": 100.12,
+    "seatSum": 473,
+    "totalSeats": 473,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-1936-02-16",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots; popular-vote denominator unavailable",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 473,
+    "totalSeats": 473,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-electors-1936-04-26",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 473,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-president-1936-05-10",
+    "voteBasis": "847 participating electoral-assembly votes",
+    "voteSum": 754,
+    "shareSum": 89.0201,
+    "seatSum": 0,
+    "totalSeats": null,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-family-1967-10-10",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 102,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-family-1971-09-29",
+    "voteBasis": "Source-scoped election results",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 104,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-congress-1977-06-15",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (18,324,333)",
+    "voteSum": 18324333,
+    "shareSum": 99.98,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-1977-06-15",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (51,779,261)",
+    "voteSum": 51779261,
+    "shareSum": 100.0,
+    "seatSum": 207,
+    "totalSeats": 207,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-1979-03-01",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (17,990,915)",
+    "voteSum": 17990915,
+    "shareSum": 100.03,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-1979-03-01",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (49,972,905)",
+    "voteSum": 49972905,
+    "shareSum": 99.9998,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-1982-10-28",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (21,050,038)",
+    "voteSum": 21050038,
+    "shareSum": 100.01,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-1982-10-28",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (58,561,126)",
+    "voteSum": 58561126,
+    "shareSum": 100.0002,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-1986-06-22",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (20,202,919)",
+    "voteSum": 20202919,
+    "shareSum": 100.03,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-1986-06-22",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (55,216,023)",
+    "voteSum": 55216023,
+    "shareSum": 100.0002,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-1987-06-10",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (19,261,226)",
+    "voteSum": 19261226,
+    "shareSum": 100.04,
+    "seatSum": 60,
+    "totalSeats": 60,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-1989-06-15",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (15,858,470)",
+    "voteSum": 15858470,
+    "shareSum": 99.99,
+    "seatSum": 60,
+    "totalSeats": 60,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-1989-10-29",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (20,493,682)",
+    "voteSum": 20493682,
+    "shareSum": 100.0,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-1989-10-29",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (55,147,664)",
+    "voteSum": 55147664,
+    "shareSum": 99.9999,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-1993-06-06",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (23,591,864)",
+    "voteSum": 23591864,
+    "shareSum": 99.97,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-1993-06-06",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (64,826,671)",
+    "voteSum": 64826671,
+    "shareSum": 99.9999,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-1994-06-12",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (18,578,415)",
+    "voteSum": 18578415,
+    "shareSum": 100.0,
+    "seatSum": 64,
+    "totalSeats": 64,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-1996-03-03",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (25,046,276)",
+    "voteSum": 25046276,
+    "shareSum": 99.98,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-1996-03-03",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (68,130,123)",
+    "voteSum": 68130123,
+    "shareSum": 100.0,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-1999-06-13",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (21,166,264)",
+    "voteSum": 21166264,
+    "shareSum": 100.0,
+    "seatSum": 64,
+    "totalSeats": 64,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2000-03-12",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (23,181,290)",
+    "voteSum": 23181274,
+    "shareSum": 99.97,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-2000-03-12",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (61,312,960)",
+    "voteSum": 61312960,
+    "shareSum": 99.9996,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2004-03-14",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (25,891,299)",
+    "voteSum": 25891299,
+    "shareSum": 100.01,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-2004-03-14",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (69,578,219)",
+    "voteSum": 69578219,
+    "shareSum": 99.9998,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-2004-06-13",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (15,512,282)",
+    "voteSum": 15512282,
+    "shareSum": 99.99,
+    "seatSum": 54,
+    "totalSeats": 54,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2008-03-09",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (25,734,863)",
+    "voteSum": 25734866,
+    "shareSum": 100.03,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-spain-senate-2008-03-09",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (69,228,566)",
+    "voteSum": 69228566,
+    "shareSum": 99.9992,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-2009-06-07",
+    "voteBasis": "European Parliament published national-party vote percentages; raw counts not provided",
+    "voteSum": 0,
+    "shareSum": 100.0,
+    "seatSum": 50,
+    "totalSeats": 50,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2011-11-20",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (24,348,886)",
+    "voteSum": 24348886,
+    "shareSum": 99.96,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-2011-11-20",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (62,143,519)",
+    "voteSum": 62143519,
+    "shareSum": 99.9999,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-2014-05-25",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (15,710,216)",
+    "voteSum": 15710216,
+    "shareSum": 100.0,
+    "seatSum": 54,
+    "totalSeats": 54,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2015-12-20",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (25,211,313)",
+    "voteSum": 25211313,
+    "shareSum": 99.98,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-2015-12-20",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (65,357,030)",
+    "voteSum": 65357030,
+    "shareSum": 100.0002,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2016-06-26",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (24,053,755)",
+    "voteSum": 24053755,
+    "shareSum": 99.96,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-2016-06-26",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (64,559,673)",
+    "voteSum": 64559673,
+    "shareSum": 100.0001,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2019-04-28",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (26,201,371)",
+    "voteSum": 26201371,
+    "shareSum": 99.96,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-2019-04-28",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (71,360,632)",
+    "voteSum": 71360632,
+    "shareSum": 100.0,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-2019-05-26",
+    "voteBasis": "European Parliament published national-party vote percentages; raw counts not provided",
+    "voteSum": 0,
+    "shareSum": 100.0,
+    "seatSum": 54,
+    "totalSeats": 54,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2019-11-10",
+    "voteBasis": "Valid list/candidate votes including labelled blank ballots (24,258,228)",
+    "voteSum": 24258228,
+    "shareSum": 99.96,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-2019-11-10",
+    "voteBasis": "Candidate-vote marks, excluding blank ballots; voters may select several candidates (63,167,858)",
+    "voteSum": 63167858,
+    "shareSum": 100.0,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-congress-2023-07-23",
+    "voteBasis": "Certified valid ballots including blank ballots (24,688,087)",
+    "voteSum": 24688087,
+    "shareSum": 100.0005,
+    "seatSum": 350,
+    "totalSeats": 350,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-senate-2023-07-23",
+    "voteBasis": "Certified candidate selections (67,766,271); excludes blank/invalid ballots, not voters",
+    "voteSum": 67766271,
+    "shareSum": 100.0002,
+    "seatSum": 208,
+    "totalSeats": 208,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-spain-european-2024-06-09",
+    "voteBasis": "Certified valid ballots including blank ballots (17,527,438)",
+    "voteSum": 17527438,
+    "shareSum": 100.0,
+    "seatSum": 61,
+    "totalSeats": 61,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-calendar-es-congress-of-deputies-2026",
+    "voteBasis": "National vote share",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 350,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-calendar-es-senate-2026",
+    "voteBasis": "National vote share",
+    "voteSum": 0,
+    "shareSum": 0,
+    "seatSum": 0,
+    "totalSeats": 209,
+    "coverage": "partial"
+  }
+]

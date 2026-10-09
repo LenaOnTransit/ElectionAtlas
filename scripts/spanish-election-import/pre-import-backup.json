@@ -1,0 +1,114 @@
+[
+  {
+    "id": "world-calendar-es-congress-of-deputies-2026",
+    "kind": "world_election",
+    "data": {
+      "id": "world-calendar-es-congress-of-deputies-2026",
+      "body": "Congress of Deputies",
+      "snap": true,
+      "type": "parliamentary",
+      "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible. Official decree calls both chambers for 29 November 2026.",
+      "round": "General",
+      "title": "Congress of Deputies",
+      "status": "scheduled",
+      "checked": "2026-10-08",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/elections/id/5256/",
+          "label": "Election schedule / announcement"
+        },
+        {
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742",
+          "label": "Official decree: Real Decreto 806/2026"
+        }
+      ],
+      "summary": "Scheduled national election.",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "es-2026-parliamentary",
+      "articleId": "",
+      "countryId": "es",
+      "precision": "day",
+      "startDate": "2026-11-29",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "direct",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-country-es",
+    "kind": "world_country",
+    "data": {
+      "id": "es",
+      "name": "Spain",
+      "region": "Europe",
+      "aliases": "",
+      "legitimacy": {
+        "level": "credible",
+        "sources": [
+          {
+            "url": "https://freedomhouse.org/country/spain/freedom-world/2026",
+            "label": "Freedom House: country electoral and political indicators, 2026 edition"
+          },
+          {
+            "url": "https://freedomhouse.org/sites/default/files/2026-03/FIW26%20Methodology.pdf",
+            "label": "Freedom House: 2026 assessment methodology"
+          }
+        ],
+        "summary": "Our assessment: Spain has broadly credible and competitive national electoral institutions. The latest country indicators support meaningful voter choice, sound electoral rules and an opposition able to contest governing power. This is not a guarantee that every contest is flawless, nor a judgement about the popularity of any party.\n\nEvidence baseline: Freedom in the World 2026, covering conditions in 2025. Our review date is not the date of an observer verdict on a later ballot; subsequent contests may require a separate assessment.",
+        "reviewed": "2026-10-05"
+      },
+      "coverageNote": "Selected records only. Earlier elections and additional result detail are still being added."
+    }
+  },
+  {
+    "id": "world-calendar-es-senate-2026",
+    "kind": "world_election",
+    "data": {
+      "id": "world-calendar-es-senate-2026",
+      "body": "Senate",
+      "snap": true,
+      "type": "parliamentary",
+      "notes": "IFES lists this contest as confirmed. The declared schedule was checked on 8 October 2026; future changes remain possible. Official decree calls both chambers for 29 November 2026.",
+      "round": "General",
+      "title": "Senate",
+      "status": "scheduled",
+      "checked": "2026-10-08",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/elections/id/5255/",
+          "label": "Election schedule / announcement"
+        },
+        {
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742",
+          "label": "Official decree: Real Decreto 806/2026"
+        }
+      ],
+      "summary": "Scheduled national election.",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "es-2026-parliamentary",
+      "articleId": "",
+      "countryId": "es",
+      "precision": "day",
+      "startDate": "2026-11-29",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "direct",
+      "resultCoverage": "partial"
+    }
+  }
+]
