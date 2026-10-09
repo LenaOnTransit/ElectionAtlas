@@ -1,0 +1,20 @@
+{
+  "source": "https://results.elections.europa.eu/en/national-results/italy/2024-2029/",
+  "checked": "2026-10-09",
+  "turnout": 48.31,
+  "rows": [
+    {"name":"Brothers of Italy (FdI)","share":28.75,"seats":24,"color":"#003B70"},
+    {"name":"Democratic Party (PD)","share":24.11,"seats":21,"color":"#D71920"},
+    {"name":"Five Star Movement (M5S)","share":9.98,"seats":8,"color":"#F4D03F"},
+    {"name":"Forza Italia – Us Moderates (FI–NM)","share":9.58,"seats":8,"color":"#0087DC"},
+    {"name":"League (Lega)","share":8.97,"seats":8,"color":"#00843D"},
+    {"name":"Greens and Left Alliance (AVS)","share":6.79,"seats":6,"color":"#C62828"},
+    {"name":"United States of Europe","share":3.78,"seats":0,"color":"#E88C2A"},
+    {"name":"Action – We Are Europeans","share":3.36,"seats":0,"color":"#0068A0"},
+    {"name":"Peace Land Dignity","share":2.21,"seats":0,"color":"#8E44AD"},
+    {"name":"Freedom","share":1.22,"seats":0,"color":"#808080"},
+    {"name":"South Tyrolean People's Party (SVP)","share":0.52,"seats":1,"color":"#222222"},
+    {"name":"Sovereign Popular Democracy","share":0.15,"seats":0,"color":"#808080"},
+    {"name":"Other parties","share":0.58,"seats":0,"color":"#808080"}
+  ]
+}

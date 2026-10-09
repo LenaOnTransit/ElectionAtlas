@@ -1,0 +1,32 @@
+{
+  "checked": "2026-10-09",
+  "records": [
+    {
+      "id": "world-country-it",
+      "kind": "world_country",
+      "data": {
+        "id": "it",
+        "name": "Italy",
+        "region": "Europe",
+        "aliases": "",
+        "legitimacy": {
+          "level": "concerns",
+          "sources": [
+            {
+              "url": "https://freedomhouse.org/country/italy/freedom-world/2026",
+              "label": "Freedom House: country electoral and political indicators, 2026 edition"
+            },
+            {
+              "url": "https://freedomhouse.org/sites/default/files/2026-03/FIW26%20Methodology.pdf",
+              "label": "Freedom House: 2026 assessment methodology"
+            }
+          ],
+          "summary": "Our assessment: Italy has significant electoral concerns. The latest country evidence records weaknesses affecting independent media. These conditions warrant caution about equal participation and accountability. The rating does not, by itself, establish that a particular declared winner was incorrect.\n\nEvidence baseline: Freedom in the World 2026, covering conditions in 2025. Our review date is not the date of an observer verdict on a later ballot; subsequent contests may require a separate assessment.",
+          "reviewed": "2026-10-05"
+        },
+        "coverageNote": "Selected records only. Earlier elections and additional result detail are still being added."
+      }
+    }
+  ],
+  "elections": []
+}

@@ -1,0 +1,743 @@
+[
+  {
+    "id": "world-italy-chamber-2006-04-09",
+    "voteTotal": 38153343,
+    "recordedVotes": 38153343,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-senate-2006-04-09",
+    "voteTotal": 34162615,
+    "recordedVotes": 34162615,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-chamber-2008-04-13",
+    "voteTotal": 36457254,
+    "recordedVotes": 36457281,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-senate-2008-04-13",
+    "voteTotal": 32774339,
+    "recordedVotes": 32774339,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-chamber-2013-02-24",
+    "voteTotal": 34005755,
+    "recordedVotes": 34005755,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-senate-2013-02-24",
+    "voteTotal": 31751350,
+    "recordedVotes": 31751350,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-chamber-2018-03-04",
+    "voteTotal": null,
+    "recordedVotes": 31505933,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-senate-2018-03-04",
+    "voteTotal": null,
+    "recordedVotes": 28999835,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-chamber-2022-09-25",
+    "voteTotal": 28087782,
+    "recordedVotes": 28087782,
+    "seatTotal": 400,
+    "recordedSeats": 400,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-constituent-1946-06-02",
+    "voteTotal": 23010479,
+    "recordedVotes": 23010479,
+    "seatTotal": 556,
+    "recordedSeats": 556,
+    "ballots": 24947187,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1948-04-18",
+    "voteTotal": 26264458,
+    "recordedVotes": 26264458,
+    "seatTotal": 574,
+    "recordedSeats": 574,
+    "ballots": 26855741,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1948-04-18",
+    "voteTotal": 22657290,
+    "recordedVotes": 22657290,
+    "seatTotal": 237,
+    "recordedSeats": 237,
+    "ballots": 23842919,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1953-06-07",
+    "voteTotal": 27087701,
+    "recordedVotes": 27087701,
+    "seatTotal": 590,
+    "recordedSeats": 590,
+    "ballots": 28406479,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1953-06-07",
+    "voteTotal": 24296277,
+    "recordedVotes": 24296277,
+    "seatTotal": 237,
+    "recordedSeats": 237,
+    "ballots": 25483201,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1958-05-25",
+    "voteTotal": 29560269,
+    "recordedVotes": 29560269,
+    "seatTotal": 596,
+    "recordedSeats": 596,
+    "ballots": 30434681,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1958-05-25",
+    "voteTotal": 26150002,
+    "recordedVotes": 26150002,
+    "seatTotal": 246,
+    "recordedSeats": 246,
+    "ballots": 27425843,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1963-04-28",
+    "voteTotal": 30752871,
+    "recordedVotes": 30752871,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": 31766009,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1963-04-28",
+    "voteTotal": 27469302,
+    "recordedVotes": 27469302,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": 29742708,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1968-05-19",
+    "voteTotal": 31790428,
+    "recordedVotes": 31790428,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": 33001644,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1968-05-19",
+    "voteTotal": 28616021,
+    "recordedVotes": 28616021,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": 30252921,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1972-05-07",
+    "voteTotal": 33403548,
+    "recordedVotes": 33403548,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": 34525687,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1972-05-07",
+    "voteTotal": 29242530,
+    "recordedVotes": 30116057,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": 31486399,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1976-06-20",
+    "voteTotal": 36709578,
+    "recordedVotes": 36707578,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": 37755090,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1976-06-20",
+    "voteTotal": 30733554,
+    "recordedVotes": 31449431,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": 32621581,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1979-06-03",
+    "voteTotal": 36671308,
+    "recordedVotes": 36671308,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": 38242918,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1979-06-03",
+    "voteTotal": 31330795,
+    "recordedVotes": 31330795,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": 32976304,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1983-06-26",
+    "voteTotal": 36906005,
+    "recordedVotes": 36906005,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": 39188182,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1983-06-26",
+    "voteTotal": 31089011,
+    "recordedVotes": 31089011,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": 33402139,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1987-06-14",
+    "voteTotal": 38571508,
+    "recordedVotes": 38571508,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": 40586573,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1987-06-14",
+    "voteTotal": 32413861,
+    "recordedVotes": 32413861,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": 34421230,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1992-04-05",
+    "voteTotal": 39243506,
+    "recordedVotes": 39243506,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": 41438944,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-senate-1992-04-05",
+    "voteTotal": 33328581,
+    "recordedVotes": 33328581,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": 35633367,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1994-03-27",
+    "voteTotal": null,
+    "recordedVotes": 36274461,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-senate-1994-03-27",
+    "voteTotal": 33074549,
+    "recordedVotes": 32924584,
+    "seatTotal": 315,
+    "recordedSeats": 325,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1996-04-21",
+    "voteTotal": 37484398,
+    "recordedVotes": 37484398,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-senate-1996-04-21",
+    "voteTotal": 32624584,
+    "recordedVotes": 32627069,
+    "seatTotal": 315,
+    "recordedSeats": 315,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-chamber-2001-05-13",
+    "voteTotal": 37259705,
+    "recordedVotes": 37259705,
+    "seatTotal": 630,
+    "recordedSeats": 630,
+    "ballots": null,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-chamber-1861-01-27",
+    "voteTotal": null,
+    "recordedVotes": 0,
+    "seatTotal": 443,
+    "recordedSeats": 443,
+    "ballots": 239583,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1865-10-22",
+    "voteTotal": 259035,
+    "recordedVotes": 0,
+    "seatTotal": 443,
+    "recordedSeats": 443,
+    "ballots": 271923,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1867-03-10",
+    "voteTotal": null,
+    "recordedVotes": 0,
+    "seatTotal": 493,
+    "recordedSeats": 493,
+    "ballots": 276523,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1870-11-20",
+    "voteTotal": 229934,
+    "recordedVotes": 0,
+    "seatTotal": 508,
+    "recordedSeats": 484,
+    "ballots": 240974,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1874-11-08",
+    "voteTotal": 306903,
+    "recordedVotes": 0,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 318517,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1876-11-05",
+    "voteTotal": 346575,
+    "recordedVotes": 346575,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 358263,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1880-05-16",
+    "voteTotal": 358439,
+    "recordedVotes": 358439,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 369684,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1882-10-29",
+    "voteTotal": 1161205,
+    "recordedVotes": 0,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1223851,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1886-05-23",
+    "voteTotal": 1399072,
+    "recordedVotes": 0,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1415801,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1890-11-23",
+    "voteTotal": 1452797,
+    "recordedVotes": 0,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1477173,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1892-11-06",
+    "voteTotal": 1655397,
+    "recordedVotes": 0,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1693298,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1895-05-26",
+    "voteTotal": 1218767,
+    "recordedVotes": 1218767,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1256244,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1897-03-21",
+    "voteTotal": 1199575,
+    "recordedVotes": 0,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1241486,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1900-06-03",
+    "voteTotal": 1269061,
+    "recordedVotes": 1269061,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1307949,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1904-11-06",
+    "voteTotal": 1527180,
+    "recordedVotes": 1527180,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1593886,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1909-03-07",
+    "voteTotal": 1827865,
+    "recordedVotes": 1827865,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 1889365,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1913-10-26",
+    "voteTotal": 5014921,
+    "recordedVotes": 5014921,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 5100615,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1919-11-16",
+    "voteTotal": 5684818,
+    "recordedVotes": 5684818,
+    "seatTotal": 508,
+    "recordedSeats": 508,
+    "ballots": 5793492,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1921-05-15",
+    "voteTotal": 6608141,
+    "recordedVotes": 6608141,
+    "seatTotal": 535,
+    "recordedSeats": 535,
+    "ballots": 6701496,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1924-04-06",
+    "voteTotal": 7165502,
+    "recordedVotes": 7165502,
+    "seatTotal": 535,
+    "recordedSeats": 535,
+    "ballots": 7614451,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1929-03-24",
+    "voteTotal": 8653611,
+    "recordedVotes": 8653611,
+    "seatTotal": 400,
+    "recordedSeats": 400,
+    "ballots": 8661820,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-chamber-1934-03-26",
+    "voteTotal": 10060678,
+    "recordedVotes": 10060678,
+    "seatTotal": 400,
+    "recordedSeats": 400,
+    "ballots": 10061978,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-1979-06-10",
+    "voteTotal": 35042601,
+    "recordedVotes": 35042601,
+    "seatTotal": 81,
+    "recordedSeats": 81,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-1984-06-17",
+    "voteTotal": 37069626,
+    "recordedVotes": 35141553,
+    "seatTotal": 81,
+    "recordedSeats": 81,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-1989-06-18",
+    "voteTotal": 34804317,
+    "recordedVotes": 34804317,
+    "seatTotal": 81,
+    "recordedSeats": 81,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-1994-06-12",
+    "voteTotal": 32949725,
+    "recordedVotes": 32949725,
+    "seatTotal": 87,
+    "recordedSeats": 87,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-1999-06-13",
+    "voteTotal": 31062426,
+    "recordedVotes": 31130646,
+    "seatTotal": 87,
+    "recordedSeats": 87,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-2004-06-12",
+    "voteTotal": 32516246,
+    "recordedVotes": 32516246,
+    "seatTotal": 78,
+    "recordedSeats": 78,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-2009-06-06",
+    "voteTotal": 30623840,
+    "recordedVotes": 30623840,
+    "seatTotal": 72,
+    "recordedSeats": 72,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-2014-05-25",
+    "voteTotal": 27448906,
+    "recordedVotes": 27448906,
+    "seatTotal": 73,
+    "recordedSeats": 73,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-2019-05-26",
+    "voteTotal": null,
+    "recordedVotes": 26783732,
+    "seatTotal": 73,
+    "recordedSeats": 73,
+    "ballots": null,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1948-05-11",
+    "voteTotal": 871,
+    "recordedVotes": 871,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1955-04-29",
+    "voteTotal": 833,
+    "recordedVotes": 833,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1962-05-06",
+    "voteTotal": 842,
+    "recordedVotes": 842,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1964-12-28",
+    "voteTotal": 927,
+    "recordedVotes": 927,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1971-12-24",
+    "voteTotal": 996,
+    "recordedVotes": 996,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1978-07-08",
+    "voteTotal": 995,
+    "recordedVotes": 995,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1985-06-24",
+    "voteTotal": 977,
+    "recordedVotes": 977,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1992-05-25",
+    "voteTotal": 1002,
+    "recordedVotes": 998,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-1999-05-13",
+    "voteTotal": 990,
+    "recordedVotes": 990,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-2013-04-20",
+    "voteTotal": 997,
+    "recordedVotes": 997,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-2006-05-10",
+    "voteTotal": 990,
+    "recordedVotes": 990,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-2015-01-31",
+    "voteTotal": 995,
+    "recordedVotes": 995,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-president-2022-01-29",
+    "voteTotal": 983,
+    "recordedVotes": 983,
+    "seatTotal": null,
+    "recordedSeats": 0,
+    "mixedScope": false
+  },
+  {
+    "id": "world-italy-european-2024-06-08",
+    "voteTotal": null,
+    "recordedVotes": 0,
+    "seatTotal": 76,
+    "recordedSeats": 76,
+    "mixedScope": false,
+    "primaryShares": true
+  },
+  {
+    "id": "world-italy-senate-2001-05-13",
+    "voteTotal": 33873256,
+    "recordedVotes": 33873256,
+    "seatTotal": 315,
+    "recordedSeats": 314,
+    "mixedScope": true
+  },
+  {
+    "id": "world-italy-senate-2022-09-25",
+    "voteTotal": 27568811,
+    "recordedVotes": 27568811,
+    "seatTotal": 200,
+    "recordedSeats": 200,
+    "mixedScope": true
+  }
+]
