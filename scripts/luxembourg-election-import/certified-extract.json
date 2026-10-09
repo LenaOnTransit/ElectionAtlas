@@ -1,0 +1,639 @@
+{
+  "checked": "2026-10-09",
+  "legislative2023": {
+    "id": "world-luxembourg-chamber-2023-10-08",
+    "voteTotal": 3763400,
+    "ballots": 250034,
+    "validBallots": 231343,
+    "registeredVoters": 286739,
+    "registeredSource": "https://elections.public.lu/fr/elections-legislatives/2023/resultats.html",
+    "shareBasis": "Calculated from the sum of raw candidate/list votes in all four certified constituency reports; not voter-weighted theoretical electors",
+    "rows": [
+      {
+        "party": "CSV",
+        "name": "Christian Social People's Party",
+        "color": "#FFC300",
+        "votes": 1099536,
+        "share": 29.22,
+        "seats": 21
+      },
+      {
+        "party": "LSAP",
+        "name": "Luxembourg Socialist Workers' Party",
+        "color": "#F10035",
+        "votes": 711876,
+        "share": 18.92,
+        "seats": 11
+      },
+      {
+        "party": "DP",
+        "name": "Democratic Party",
+        "color": "#002C4F",
+        "votes": 703705,
+        "share": 18.7,
+        "seats": 14
+      },
+      {
+        "party": "ADR",
+        "name": "Alternative Democratic Reform Party",
+        "color": "#00AAE5",
+        "votes": 348959,
+        "share": 9.27,
+        "seats": 5
+      },
+      {
+        "party": "déi gréng",
+        "name": "The Greens",
+        "color": "#8EB74A",
+        "votes": 321899,
+        "share": 8.55,
+        "seats": 4
+      },
+      {
+        "party": "PIRATEN",
+        "name": "Pirate Party Luxembourg",
+        "color": "#993399",
+        "votes": 253557,
+        "share": 6.74,
+        "seats": 3
+      },
+      {
+        "party": "déi Lénk",
+        "name": "The Left",
+        "color": "#8F0109",
+        "votes": 147840,
+        "share": 3.93,
+        "seats": 2
+      },
+      {
+        "party": "FOKUS.",
+        "name": "Fokus",
+        "color": "#63C7C7",
+        "votes": 93832,
+        "share": 2.49,
+        "seats": 0
+      },
+      {
+        "party": "LIBERTE - FRAIHEET !",
+        "name": "Liberté - Fräiheet!",
+        "color": "#000000",
+        "votes": 42653,
+        "share": 1.13,
+        "seats": 0
+      },
+      {
+        "party": "KPL",
+        "name": "Communist Party of Luxembourg",
+        "color": "#CC0000",
+        "votes": 24044,
+        "share": 0.64,
+        "seats": 0
+      },
+      {
+        "party": "déi Konservativ",
+        "name": "The Conservatives",
+        "color": "#05AEF3",
+        "votes": 8496,
+        "share": 0.23,
+        "seats": 0
+      },
+      {
+        "party": "VOLT",
+        "name": "Volt Luxembourg",
+        "color": "#502379",
+        "votes": 7003,
+        "share": 0.19,
+        "seats": 0
+      }
+    ],
+    "reports": [
+      {
+        "region": "sud",
+        "file": "certified-legislative-2023-sud.pdf",
+        "url": "https://elections.public.lu/content/dam/elections/fr/elections-legislatives/2023/pv-du-recensement-gnral-sud.pdf",
+        "votePages": [
+          2
+        ],
+        "seatPages": [
+          8
+        ],
+        "ballots": 98327,
+        "validBallots": 89832,
+        "voteTotal": 1904069,
+        "rows": [
+          {
+            "party": "LSAP",
+            "votes": 467088,
+            "seats": 6
+          },
+          {
+            "party": "DP",
+            "votes": 268591,
+            "seats": 4
+          },
+          {
+            "party": "déi gréng",
+            "votes": 134590,
+            "seats": 2
+          },
+          {
+            "party": "CSV",
+            "votes": 529283,
+            "seats": 7
+          },
+          {
+            "party": "déi Lénk",
+            "votes": 82914,
+            "seats": 1
+          },
+          {
+            "party": "ADR",
+            "votes": 199903,
+            "seats": 2
+          },
+          {
+            "party": "PIRATEN",
+            "votes": 131708,
+            "seats": 1
+          },
+          {
+            "party": "FOKUS.",
+            "votes": 41966,
+            "seats": 0
+          },
+          {
+            "party": "VOLT",
+            "votes": 6449,
+            "seats": 0
+          },
+          {
+            "party": "KPL",
+            "votes": 17715,
+            "seats": 0
+          },
+          {
+            "party": "LIBERTE - FRAIHEET !",
+            "votes": 16736,
+            "seats": 0
+          },
+          {
+            "party": "déi Konservativ",
+            "votes": 7126,
+            "seats": 0
+          }
+        ],
+        "sha256": "dc2a307896cfe664c296669a168c0c44b27c4448aeda6f961667cd4b7e2dd8ee"
+      },
+      {
+        "region": "centre",
+        "file": "certified-legislative-2023-centre.pdf",
+        "url": "https://elections.public.lu/content/dam/elections/fr/elections-legislatives/2023/pv-du-recensement-gnral-centre.pdf",
+        "votePages": [
+          13
+        ],
+        "seatPages": [
+          17
+        ],
+        "ballots": 68615,
+        "validBallots": 64114,
+        "voteTotal": 1255820,
+        "rows": [
+          {
+            "party": "LSAP",
+            "votes": 148046,
+            "seats": 3
+          },
+          {
+            "party": "DP",
+            "votes": 317194,
+            "seats": 6
+          },
+          {
+            "party": "déi gréng",
+            "votes": 144834,
+            "seats": 2
+          },
+          {
+            "party": "CSV",
+            "votes": 376078,
+            "seats": 7
+          },
+          {
+            "party": "déi Lénk",
+            "votes": 49481,
+            "seats": 1
+          },
+          {
+            "party": "ADR",
+            "votes": 82230,
+            "seats": 1
+          },
+          {
+            "party": "PIRATEN",
+            "votes": 81668,
+            "seats": 1
+          },
+          {
+            "party": "FOKUS.",
+            "votes": 34323,
+            "seats": 0
+          },
+          {
+            "party": "VOLT",
+            "votes": 0,
+            "seats": 0
+          },
+          {
+            "party": "KPL",
+            "votes": 5431,
+            "seats": 0
+          },
+          {
+            "party": "LIBERTE - FRAIHEET !",
+            "votes": 16535,
+            "seats": 0
+          },
+          {
+            "party": "déi Konservativ",
+            "votes": 0,
+            "seats": 0
+          }
+        ],
+        "sha256": "fbc7e3e780da0606f16e497734f30ecfa134728604e538980760f62fa03f9066"
+      },
+      {
+        "region": "nord",
+        "file": "certified-legislative-2023-nord.pdf",
+        "url": "https://elections.public.lu/content/dam/elections/fr/elections-legislatives/2023/pv-du-recensement-gnral-nord.pdf",
+        "votePages": [
+          3,
+          4,
+          5,
+          6
+        ],
+        "seatPages": [
+          6,
+          7
+        ],
+        "ballots": 47483,
+        "validBallots": 43913,
+        "voteTotal": 377404,
+        "rows": [
+          {
+            "party": "LSAP",
+            "votes": 57693,
+            "seats": 1
+          },
+          {
+            "party": "DP",
+            "votes": 66110,
+            "seats": 2
+          },
+          {
+            "party": "déi gréng",
+            "votes": 25193,
+            "seats": 0
+          },
+          {
+            "party": "CSV",
+            "votes": 124965,
+            "seats": 4
+          },
+          {
+            "party": "déi Lénk",
+            "votes": 9758,
+            "seats": 0
+          },
+          {
+            "party": "ADR",
+            "votes": 45422,
+            "seats": 1
+          },
+          {
+            "party": "PIRATEN",
+            "votes": 29110,
+            "seats": 1
+          },
+          {
+            "party": "FOKUS.",
+            "votes": 11858,
+            "seats": 0
+          },
+          {
+            "party": "VOLT",
+            "votes": 0,
+            "seats": 0
+          },
+          {
+            "party": "KPL",
+            "votes": 0,
+            "seats": 0
+          },
+          {
+            "party": "LIBERTE - FRAIHEET !",
+            "votes": 5925,
+            "seats": 0
+          },
+          {
+            "party": "déi Konservativ",
+            "votes": 1370,
+            "seats": 0
+          }
+        ],
+        "sha256": "698bc17b4f8d2f1e46027418f00cb97aedee752f094f02245db595c049361422"
+      },
+      {
+        "region": "est",
+        "file": "certified-legislative-2023-est.pdf",
+        "url": "https://elections.public.lu/content/dam/elections/fr/elections-legislatives/2023/pv-du-recensement-gnral-est.pdf",
+        "votePages": [
+          3,
+          4,
+          5
+        ],
+        "seatPages": [
+          5
+        ],
+        "ballots": 35609,
+        "validBallots": 33484,
+        "voteTotal": 226107,
+        "rows": [
+          {
+            "party": "LSAP",
+            "votes": 39049,
+            "seats": 1
+          },
+          {
+            "party": "DP",
+            "votes": 51810,
+            "seats": 2
+          },
+          {
+            "party": "déi gréng",
+            "votes": 17282,
+            "seats": 0
+          },
+          {
+            "party": "CSV",
+            "votes": 69210,
+            "seats": 3
+          },
+          {
+            "party": "déi Lénk",
+            "votes": 5687,
+            "seats": 0
+          },
+          {
+            "party": "ADR",
+            "votes": 21404,
+            "seats": 1
+          },
+          {
+            "party": "PIRATEN",
+            "votes": 11071,
+            "seats": 0
+          },
+          {
+            "party": "FOKUS.",
+            "votes": 5685,
+            "seats": 0
+          },
+          {
+            "party": "VOLT",
+            "votes": 554,
+            "seats": 0
+          },
+          {
+            "party": "KPL",
+            "votes": 898,
+            "seats": 0
+          },
+          {
+            "party": "LIBERTE - FRAIHEET !",
+            "votes": 3457,
+            "seats": 0
+          },
+          {
+            "party": "déi Konservativ",
+            "votes": 0,
+            "seats": 0
+          }
+        ],
+        "sha256": "65071ca4ab6805d97e6a90cbee0ae5742fb6135565c2a79351f7105e3cded293"
+      }
+    ],
+    "eastCandidateVotes": {
+      "LSAP": [
+        14339,
+        5477,
+        3625,
+        3493,
+        5265,
+        3157,
+        3693
+      ],
+      "DP": [
+        13041,
+        10546,
+        6323,
+        5742,
+        5424,
+        5780,
+        4954
+      ],
+      "déi gréng": [
+        3420,
+        3848,
+        2007,
+        1859,
+        2141,
+        1994,
+        2013
+      ],
+      "CSV": [
+        13375,
+        11942,
+        8869,
+        10208,
+        7690,
+        7276,
+        9850
+      ],
+      "déi Lénk": [
+        1193,
+        908,
+        805,
+        774,
+        712,
+        684,
+        611
+      ],
+      "ADR": [
+        4293,
+        3408,
+        2697,
+        3056,
+        2856,
+        2492,
+        2602
+      ],
+      "PIRATEN": [
+        2695,
+        1620,
+        1489,
+        1368,
+        1251,
+        1245,
+        1403
+      ],
+      "FOKUS.": [
+        1090,
+        820,
+        953,
+        547,
+        941,
+        778,
+        556
+      ],
+      "VOLT": [
+        238,
+        169,
+        147
+      ],
+      "KPL": [
+        191,
+        122,
+        163,
+        106,
+        98,
+        111,
+        107
+      ],
+      "LIBERTE - FRAIHEET !": [
+        652,
+        442,
+        420,
+        436,
+        473,
+        475,
+        559
+      ]
+    }
+  },
+  "european2024": {
+    "id": "world-luxembourg-european-2024-06-09",
+    "voteTotal": 1384190,
+    "ballots": 262676,
+    "validBallots": 238602,
+    "registeredVoters": 319410,
+    "rows": [
+      {
+        "name": "Christian Social People's Party",
+        "votes": 317289,
+        "share": 22.92,
+        "seats": 2,
+        "color": "#FFC300"
+      },
+      {
+        "name": "Luxembourg Socialist Workers' Party",
+        "votes": 300649,
+        "share": 21.72,
+        "seats": 1,
+        "color": "#F10035"
+      },
+      {
+        "name": "Democratic Party",
+        "votes": 253102,
+        "share": 18.29,
+        "seats": 1,
+        "color": "#002C4F"
+      },
+      {
+        "name": "Alternative Democratic Reform Party",
+        "votes": 162947,
+        "share": 11.77,
+        "seats": 1,
+        "color": "#00AAE5"
+      },
+      {
+        "name": "The Greens",
+        "votes": 162767,
+        "share": 11.76,
+        "seats": 1,
+        "color": "#8EB74A"
+      },
+      {
+        "name": "Pirate Party Luxembourg",
+        "votes": 68170,
+        "share": 4.92,
+        "seats": 0,
+        "color": "#993399"
+      },
+      {
+        "name": "The Left",
+        "votes": 43663,
+        "share": 3.15,
+        "seats": 0,
+        "color": "#8F0109"
+      },
+      {
+        "name": "Fokus",
+        "votes": 21863,
+        "share": 1.58,
+        "seats": 0,
+        "color": "#63C7C7"
+      },
+      {
+        "name": "Volt Luxembourg",
+        "votes": 14334,
+        "share": 1.04,
+        "seats": 0,
+        "color": "#502379"
+      },
+      {
+        "name": "Communist Party of Luxembourg",
+        "votes": 13372,
+        "share": 0.97,
+        "seats": 0,
+        "color": "#CC0000"
+      },
+      {
+        "name": "We the People",
+        "votes": 11819,
+        "share": 0.85,
+        "seats": 0,
+        "color": "#026EB7"
+      },
+      {
+        "name": "The Conservatives",
+        "votes": 8044,
+        "share": 0.58,
+        "seats": 0,
+        "color": "#05AEF3"
+      },
+      {
+        "name": "Together – The Bridge",
+        "votes": 6171,
+        "share": 0.45,
+        "seats": 0,
+        "color": "#2930BF"
+      }
+    ],
+    "reports": [
+      {
+        "file": "certified-european-2024.pdf",
+        "url": "https://elections.public.lu/dam-assets/fr/elections-europeennes/2024/20240617-elec-ue-pv-recensement-gnral.pdf",
+        "votePages": [
+          10
+        ],
+        "seatPages": [
+          13
+        ],
+        "ballotPages": [
+          3
+        ],
+        "sha256": "c072a78bc12dadc94df2798c6615eaa1acf839afe1df57484c21c4865cb7ce69"
+      }
+    ]
+  }
+}
