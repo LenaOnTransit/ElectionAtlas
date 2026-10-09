@@ -1,0 +1,58 @@
+[
+  {
+    "key": "1984_European_Parliament_election_in_Luxembourg",
+    "scope": "european",
+    "date": "1984-06-17",
+    "source": "https://sip.gouvernement.lu/en/publications/bulletin/1984/BID_1984_5.html",
+    "label": "Luxembourg Government: special legislative and European election bulletin",
+    "note": "Luxembourg voted on 17 June; the 14–17 June interval refers to polling across Europe. "
+  },
+  {
+    "key": "1890_Luxembourg_general_election",
+    "scope": "chamber",
+    "date": "1890-06-10",
+    "source": "https://fr.wikipedia.org/wiki/%C3%89lections_l%C3%A9gislatives_luxembourgeoises_de_1890",
+    "label": "Corroborating chronology and contemporary newspaper bibliography",
+    "note": "The English article misprints the year as 1893 in its lead; the 1890 date is corroborated by the French chronology. "
+  },
+  {
+    "key": "1989_European_Parliament_election_in_Luxembourg",
+    "scope": "european",
+    "date": "1989-06-18",
+    "source": "https://gouvernement.lu/en/publications.gouv2024_sip%2Ben%2Bpublications%2Bbulletin%2B1989%2BBID_1989_2.html",
+    "label": "Luxembourg Government: special election bulletin, 18 June 1989",
+    "note": "The polling day in Luxembourg was 18 June; 15\u201318 June is the Europe-wide interval. "
+  },
+  {
+    "key": "2009_European_Parliament_election_in_Luxembourg",
+    "scope": "european",
+    "date": "2009-06-07",
+    "source": "https://elections.public.lu/fr/actualites/2009/0807-validation.html",
+    "label": "Government: validation of the 7 June 2009 elections",
+    "note": "The polling date is confirmed by the official validation notice. "
+  },
+  {
+    "key": "2014_European_Parliament_election_in_Luxembourg",
+    "scope": "european",
+    "date": "2014-05-25",
+    "source": "https://elections.public.lu/fr/actualites/2014/27-02-depot.html",
+    "label": "Government: electoral-roll notice for 25 May 2014",
+    "note": "The national polling day is confirmed by the electoral-roll notice. "
+  },
+  {
+    "key": "1999_European_Parliament_election_in_Luxembourg",
+    "scope": "european",
+    "date": "1999-06-13",
+    "source": "https://sip.gouvernement.lu/fr/publications/bulletin/1999/BID_1999_edition_speciale_elections.html",
+    "label": "Luxembourg Government: legislative and European election date",
+    "note": "The national polling day is confirmed by the contemporary government publication. "
+  },
+  {
+    "key": "2004_European_Parliament_election_in_Luxembourg",
+    "scope": "european",
+    "date": "2004-06-13",
+    "source": "https://gouvernement.lu/fr/actualites/toutes_actualites/articles/2004/06/13elections.html",
+    "label": "Luxembourg Government: legislative and European election date",
+    "note": "The national polling day is confirmed by the contemporary government publication. "
+  }
+]

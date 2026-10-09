@@ -1,0 +1,302 @@
+[
+  {
+    "id": "world-luxembourg-chamber-2018-10-14",
+    "voteTotal": 3529969,
+    "recordedVotes": 3529969,
+    "seatTotal": 60,
+    "recordedSeats": 60,
+    "validBallots": 216177
+  },
+  {
+    "id": "world-luxembourg-chamber-2023-10-08",
+    "voteTotal": 3763400,
+    "recordedVotes": 3763400,
+    "seatTotal": 60,
+    "recordedSeats": 60,
+    "validBallots": 231343,
+    "ballots": 250034,
+    "basis": "certified recensement"
+  },
+  {
+    "id": "world-luxembourg-european-2014-05-25",
+    "voteTotal": 1172614,
+    "recordedVotes": 1172614,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 203772
+  },
+  {
+    "id": "world-luxembourg-european-2019-05-26",
+    "voteTotal": 1254363,
+    "recordedVotes": 1254363,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 217086
+  },
+  {
+    "id": "world-luxembourg-european-2024-06-09",
+    "voteTotal": 1384190,
+    "recordedVotes": 1384190,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 238602,
+    "ballots": 262676,
+    "basis": "certified recensement"
+  },
+  {
+    "id": "world-luxembourg-european-1999-06-13",
+    "voteTotal": 1013783,
+    "recordedVotes": 1013783,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 184838
+  },
+  {
+    "id": "world-luxembourg-european-2004-06-13",
+    "voteTotal": 1089936,
+    "recordedVotes": 1089936,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 192185
+  },
+  {
+    "id": "world-luxembourg-european-2009-06-07",
+    "voteTotal": 1126032,
+    "recordedVotes": 1126032,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 198364
+  },
+  {
+    "id": "world-luxembourg-chamber-1915-12-23",
+    "voteTotal": 166509,
+    "recordedVotes": 166509,
+    "seatTotal": 52,
+    "recordedSeats": 52,
+    "validBallots": 30133
+  },
+  {
+    "id": "world-luxembourg-chamber-1919-10-26",
+    "voteTotal": 1318740,
+    "recordedVotes": 1318740,
+    "seatTotal": 48,
+    "recordedSeats": 48,
+    "validBallots": null
+  },
+  {
+    "id": "world-luxembourg-chamber-1922-05-28",
+    "voteTotal": 683834,
+    "recordedVotes": 683834,
+    "seatTotal": 25,
+    "recordedSeats": 25,
+    "validBallots": null
+  },
+  {
+    "id": "world-luxembourg-chamber-1925-03-01",
+    "voteTotal": 1332886,
+    "recordedVotes": 1332886,
+    "seatTotal": 47,
+    "recordedSeats": 47,
+    "validBallots": 109216
+  },
+  {
+    "id": "world-luxembourg-chamber-1928-06-03",
+    "voteTotal": 854708,
+    "recordedVotes": 854708,
+    "seatTotal": 28,
+    "recordedSeats": 28,
+    "validBallots": 57884
+  },
+  {
+    "id": "world-luxembourg-chamber-1931-06-07",
+    "voteTotal": 775763,
+    "recordedVotes": 775763,
+    "seatTotal": 27,
+    "recordedSeats": 27,
+    "validBallots": 65620
+  },
+  {
+    "id": "world-luxembourg-chamber-1934-06-03",
+    "voteTotal": 1102396,
+    "recordedVotes": 1102396,
+    "seatTotal": 29,
+    "recordedSeats": 29,
+    "validBallots": 66416
+  },
+  {
+    "id": "world-luxembourg-chamber-1937-06-06",
+    "voteTotal": 928000,
+    "recordedVotes": 928000,
+    "seatTotal": 26,
+    "recordedSeats": 26,
+    "validBallots": 73801
+  },
+  {
+    "id": "world-luxembourg-chamber-1945-10-21",
+    "voteTotal": 2191500,
+    "recordedVotes": 2191500,
+    "seatTotal": 51,
+    "recordedSeats": 51,
+    "validBallots": 153596
+  },
+  {
+    "id": "world-luxembourg-chamber-1948-06-06",
+    "voteTotal": 1162098,
+    "recordedVotes": 1162098,
+    "seatTotal": 26,
+    "recordedSeats": 26,
+    "validBallots": 73674
+  },
+  {
+    "id": "world-luxembourg-chamber-1951-06-03",
+    "voteTotal": 1048895,
+    "recordedVotes": 1048895,
+    "seatTotal": 26,
+    "recordedSeats": 26,
+    "validBallots": 79662
+  },
+  {
+    "id": "world-luxembourg-chamber-1954-05-30",
+    "voteTotal": 2368517,
+    "recordedVotes": 2368517,
+    "seatTotal": 52,
+    "recordedSeats": 52,
+    "validBallots": 162063
+  },
+  {
+    "id": "world-luxembourg-chamber-1959-02-01",
+    "voteTotal": 2429996,
+    "recordedVotes": 2429996,
+    "seatTotal": 52,
+    "recordedSeats": 52,
+    "validBallots": 165596
+  },
+  {
+    "id": "world-luxembourg-chamber-1964-06-07",
+    "voteTotal": 2653845,
+    "recordedVotes": 2653845,
+    "seatTotal": 56,
+    "recordedSeats": 56,
+    "validBallots": 163158
+  },
+  {
+    "id": "world-luxembourg-chamber-1968-12-15",
+    "voteTotal": 2596726,
+    "recordedVotes": 2596726,
+    "seatTotal": 56,
+    "recordedSeats": 56,
+    "validBallots": 160184
+  },
+  {
+    "id": "world-luxembourg-chamber-1974-05-26",
+    "voteTotal": 3005238,
+    "recordedVotes": 3005238,
+    "seatTotal": 59,
+    "recordedSeats": 59,
+    "validBallots": 175376
+  },
+  {
+    "id": "world-luxembourg-chamber-1979-06-10",
+    "voteTotal": 3041253,
+    "recordedVotes": 3041253,
+    "seatTotal": 59,
+    "recordedSeats": 59,
+    "validBallots": 175808
+  },
+  {
+    "id": "world-luxembourg-chamber-1984-06-17",
+    "voteTotal": 3290962,
+    "recordedVotes": 3290962,
+    "seatTotal": 64,
+    "recordedSeats": 64,
+    "validBallots": 179994
+  },
+  {
+    "id": "world-luxembourg-chamber-1989-06-18",
+    "voteTotal": 3077414,
+    "recordedVotes": 3077414,
+    "seatTotal": 60,
+    "recordedSeats": 60,
+    "validBallots": 180733
+  },
+  {
+    "id": "world-luxembourg-chamber-1994-06-12",
+    "voteTotal": 2987553,
+    "recordedVotes": 2987553,
+    "seatTotal": 60,
+    "recordedSeats": 60,
+    "validBallots": 179276
+  },
+  {
+    "id": "world-luxembourg-chamber-1999-06-13",
+    "voteTotal": 2930001,
+    "recordedVotes": 2930001,
+    "seatTotal": 60,
+    "recordedSeats": 60,
+    "validBallots": 178880
+  },
+  {
+    "id": "world-luxembourg-chamber-2004-06-13",
+    "voteTotal": 3082681,
+    "recordedVotes": 3082681,
+    "seatTotal": 60,
+    "recordedSeats": 60,
+    "validBallots": 188910
+  },
+  {
+    "id": "world-luxembourg-chamber-2009-06-07",
+    "voteTotal": 3024954,
+    "recordedVotes": 3024954,
+    "seatTotal": 60,
+    "recordedSeats": 60,
+    "validBallots": 190213
+  },
+  {
+    "id": "world-luxembourg-chamber-2013-10-20",
+    "voteTotal": 3276692,
+    "recordedVotes": 3276692,
+    "seatTotal": 60,
+    "recordedSeats": 60,
+    "validBallots": 203557
+  },
+  {
+    "id": "world-luxembourg-european-1979-06-10",
+    "voteTotal": 974991,
+    "recordedVotes": 974991,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 170759
+  },
+  {
+    "id": "world-luxembourg-european-1984-06-17",
+    "voteTotal": 990142,
+    "recordedVotes": 990142,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 173888
+  },
+  {
+    "id": "world-luxembourg-european-1989-06-18",
+    "voteTotal": 993939,
+    "recordedVotes": 993939,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 174472
+  },
+  {
+    "id": "world-luxembourg-european-1994-06-12",
+    "voteTotal": 1014274,
+    "recordedVotes": 1014274,
+    "seatTotal": 6,
+    "recordedSeats": 6,
+    "validBallots": 178643
+  },
+  {
+    "id": "world-luxembourg-constituent-1918-07-28",
+    "voteTotal": 159053,
+    "recordedVotes": 159053,
+    "seatTotal": 53,
+    "recordedSeats": 53,
+    "validBallots": 28420
+  }
+]

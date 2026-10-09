@@ -1,0 +1,396 @@
+{
+  "checked": "2026-10-09",
+  "recordCount": 63,
+  "sources": [
+    {
+      "file": "overview.html",
+      "url": "https://en.wikipedia.org/wiki/Elections_in_Luxembourg",
+      "sha256": "f718edf362ec0a04b9e24cc1927c9036a051ff572b397c82801096425b28ee8c"
+    },
+    {
+      "file": "2018_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2018_Luxembourg_general_election",
+      "sha256": "9b80d187f616aa8b3ce189f82db017eed165c1868acb45be177c056fe61cf3e8"
+    },
+    {
+      "file": "2023_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2023_Luxembourg_general_election",
+      "sha256": "c4dee4016467d0d042447fd8a44bc4624a64a53fc0c75c641d759ca4e8aed6db"
+    },
+    {
+      "file": "2014_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/2014_European_Parliament_election_in_Luxembourg",
+      "sha256": "18c88c604489066d2387000610304cc087a99cf3eed88f58952a6934ef6184ba"
+    },
+    {
+      "file": "2019_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/2019_European_Parliament_election_in_Luxembourg",
+      "sha256": "5b4da6441ed407d79a1d07867da5be35230f1e8818c3104ef0e7ba0e312b7830"
+    },
+    {
+      "file": "2024_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/2024_European_Parliament_election_in_Luxembourg",
+      "sha256": "2a7270d1d85d2e7449f1729d724fd77fd85d913ecdeca6e6b28317632582cbd7"
+    },
+    {
+      "file": "1999_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/1999_European_Parliament_election_in_Luxembourg",
+      "sha256": "4e32e5fe1c7466504f72e23785b4a511baa87a6f5cdf1de5d92507c09e6e0392"
+    },
+    {
+      "file": "2004_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/2004_European_Parliament_election_in_Luxembourg",
+      "sha256": "4f9bce3974c9299097e01bca29fecbdc6903e3f7d1b1480f3b5c2a6492e00589"
+    },
+    {
+      "file": "2009_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/2009_European_Parliament_election_in_Luxembourg",
+      "sha256": "9a581daf4257502afdcb2d594b9e9ddf0517a3d479123bfd5d7a7d0543cc4949"
+    },
+    {
+      "file": "1845_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1845_Luxembourg_general_election",
+      "sha256": "728afb23c05141b1a3ed7c6ffa808a3eecb1b6f0e0afd68a4d3fc770d586557a"
+    },
+    {
+      "file": "1848_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1848_Luxembourg_general_election",
+      "sha256": "6d551f3ab39696b421c08d0b80668db1bb4297d5e4df9bedf7c083b8723ea8ad"
+    },
+    {
+      "file": "1851_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1851_Luxembourg_general_election",
+      "sha256": "04b0976a865941b7c0850984101cf32ea9f96ea92fe99deb708bfc82589974db"
+    },
+    {
+      "file": "1854_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1854_Luxembourg_general_election",
+      "sha256": "8e2eaadb3b24f5e0634dc914d0d3181fa8fcb165984bb08124267e3e65feb44e"
+    },
+    {
+      "file": "1857_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1857_Luxembourg_general_election",
+      "sha256": "bb2c71a137cd59327065e087a1ea897893736e8feff50e5a3166c363de154539"
+    },
+    {
+      "file": "1860_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1860_Luxembourg_general_election",
+      "sha256": "43c1003f9ddc4d282dbdd1b7f124ce758c6a5e33d6ccf36dd58b03b921d11616"
+    },
+    {
+      "file": "1863_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1863_Luxembourg_general_election",
+      "sha256": "2b3d3940a2763a5332af81dad4e72263aecf952e4980b4f035c7642c3f2874dd"
+    },
+    {
+      "file": "1866_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1866_Luxembourg_general_election",
+      "sha256": "b85371cd0bf441efed959a8bbfd088de84a3a7902668837fae76ffc8388302a1"
+    },
+    {
+      "file": "1868_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1868_Luxembourg_general_election",
+      "sha256": "62510d4f076ed1bd46c2c77d8a76823d2a4d1322ab34de01b49784b0b27bc425"
+    },
+    {
+      "file": "1869_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1869_Luxembourg_general_election",
+      "sha256": "99ed2e760db50b4899677f361e20afe15192e6da9758e1fdac491da40ca779ef"
+    },
+    {
+      "file": "1872_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1872_Luxembourg_general_election",
+      "sha256": "98236449f0d2e83216f329d73adc01e1b884277ea28ca4fb222eabfc05746516"
+    },
+    {
+      "file": "1875_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1875_Luxembourg_general_election",
+      "sha256": "5d3505f53443cc76350603728939b16e45871b2777ab743df3f2e8be89679952"
+    },
+    {
+      "file": "1878_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1878_Luxembourg_general_election",
+      "sha256": "637b496a1a220eb13b92b5deb150e93752819a24481aad4bb74a8eb3c921800b"
+    },
+    {
+      "file": "1881_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1881_Luxembourg_general_election",
+      "sha256": "3e7f6e4c9355f61c2968fd2c5763f88bd35f632dcb8a04986fdbf6fba7dc6539"
+    },
+    {
+      "file": "1884_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1884_Luxembourg_general_election",
+      "sha256": "46475d2a1712c8a9db6f18e45770167a410955b6a4f4648275377bf51d7c01de"
+    },
+    {
+      "file": "1887_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1887_Luxembourg_general_election",
+      "sha256": "14297d4f954f17e24514658277043e4abfdd9d987110578bbf0326a66b915686"
+    },
+    {
+      "file": "1890_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1890_Luxembourg_general_election",
+      "sha256": "cd764b5d285da4739af88f5deac0eb73201ff7df21fbd33ad907ba941042ccd2"
+    },
+    {
+      "file": "1893_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1893_Luxembourg_general_election",
+      "sha256": "3942fe7d04f20e7e2a6889b9a87fded4c7d2c30694c00de3a6152af16a3aaf79"
+    },
+    {
+      "file": "1896_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1896_Luxembourg_general_election",
+      "sha256": "362a33b02e22b949cd8c331e25091a3400c6b9235a70043c900e4abb49c7d5ac"
+    },
+    {
+      "file": "1899_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1899_Luxembourg_general_election",
+      "sha256": "a786bd9c4922a242bc40f0896566631021121793054822dbfcd963dcfdae8cbf"
+    },
+    {
+      "file": "1902_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1902_Luxembourg_general_election",
+      "sha256": "2d606131b1edc906c8e70bf5d05843caea1d4a674e74e28868527833c4bb7a1d"
+    },
+    {
+      "file": "1905_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1905_Luxembourg_general_election",
+      "sha256": "427790a680852d26b95d2cc356b96ad5979e0cbe261c3d88987ea97699bde354"
+    },
+    {
+      "file": "1908_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1908_Luxembourg_general_election",
+      "sha256": "e5720a4d0262ccbb2b7fe038b05c4f987c5ac90087580876b90393659b3b41f9"
+    },
+    {
+      "file": "1911_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1911_Luxembourg_general_election",
+      "sha256": "def32406a35d7db82725be520b5adb3c1de0333eaf37cc9783f991ff7de48630"
+    },
+    {
+      "file": "1914_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1914_Luxembourg_general_election",
+      "sha256": "045ddec54a31eb98f6d7dc25fadc87575ffdfa2f5b58b48365497970659fdd8e"
+    },
+    {
+      "file": "1915_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1915_Luxembourg_general_election",
+      "sha256": "1d0665436d4152fe65ef5e496fbb684e769aae8908d77bc08f1b2d9b5020a626"
+    },
+    {
+      "file": "1919_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1919_Luxembourg_general_election",
+      "sha256": "d8fb8284eea1aa1981305b7e129bfbbcfa0bb4d6b364583cb39ce5144865b766"
+    },
+    {
+      "file": "1922_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1922_Luxembourg_general_election",
+      "sha256": "0b141d4c2646a8c8628163038c2d4bf9db951a1860471efd971b8ff2dafdae4a"
+    },
+    {
+      "file": "1925_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1925_Luxembourg_general_election",
+      "sha256": "11a387697ec17bba40bf4d78a87188fa55c44615b75576da8763f454879d39b7"
+    },
+    {
+      "file": "1928_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1928_Luxembourg_general_election",
+      "sha256": "6c6ad3547ca8c95c8ab7f02c9e092fede200c4dcb02381f378feaefd462d3053"
+    },
+    {
+      "file": "1931_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1931_Luxembourg_general_election",
+      "sha256": "e7bd47cc38d6c0db0245879475db9396f7a1fa0ada1a81adb1b06f57517a176e"
+    },
+    {
+      "file": "1934_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1934_Luxembourg_general_election",
+      "sha256": "7e2ca9f4fe9b2cf37d90cfabb7ec403364186a8437e118f1cbce5acc5a352391"
+    },
+    {
+      "file": "1937_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1937_Luxembourg_general_election",
+      "sha256": "e7212b883571c8927d98fb047c700d2bb2251e1eaab0cbf58ee7d43be409cd29"
+    },
+    {
+      "file": "1945_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1945_Luxembourg_general_election",
+      "sha256": "9011c5c1da296a59fcc553f420eece20f48c4db246758dd93b485399a084d674"
+    },
+    {
+      "file": "1948_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1948_Luxembourg_general_election",
+      "sha256": "9bdb101eebfd5379ae8540fe07778f3b6bc7776648940045163cf3095524b5ac"
+    },
+    {
+      "file": "1951_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1951_Luxembourg_general_election",
+      "sha256": "7d7eb2134779a236be6dad26f9dc8be6e08061777715d8e426def1cabadcd5b2"
+    },
+    {
+      "file": "1954_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1954_Luxembourg_general_election",
+      "sha256": "70560bb79822301d6db3369bb6330a14b257b315e264a99f2aa925a3eca70dc6"
+    },
+    {
+      "file": "1959_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1959_Luxembourg_general_election",
+      "sha256": "40c8f723538c9e58652f9d4567111607ea80a5da7ffd55a787c1c19c0552b2b4"
+    },
+    {
+      "file": "1964_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1964_Luxembourg_general_election",
+      "sha256": "fa2cd9928230cd1fcacc72f656216dd332d2102d67f08fd8e4eec50f491d7bfc"
+    },
+    {
+      "file": "1968_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1968_Luxembourg_general_election",
+      "sha256": "f88b91f22b9ccef39dab611650de22a13d19298fbe5f2e9c33cadc0710ff39e0"
+    },
+    {
+      "file": "1974_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1974_Luxembourg_general_election",
+      "sha256": "75ffa3acf91c5044312af5b072a58553ad154d316d62f24a1af4a274b40f235e"
+    },
+    {
+      "file": "1979_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1979_Luxembourg_general_election",
+      "sha256": "eb823a7211320b0214215335cb32d78487a98c85e0b73c67cb1889ab3192359f"
+    },
+    {
+      "file": "1984_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1984_Luxembourg_general_election",
+      "sha256": "a222615af377d13ea3a061038a8c9320e15b9358f3e0eaba94f0b33f6e0f508b"
+    },
+    {
+      "file": "1989_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1989_Luxembourg_general_election",
+      "sha256": "003e8eb2dfce735c1b0392106fa59cdb918898137dc79dd6fda395925d929d4a"
+    },
+    {
+      "file": "1994_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1994_Luxembourg_general_election",
+      "sha256": "07fd3f00142185561945df0b22fde351c08d145b765f4603b133a21502a323e0"
+    },
+    {
+      "file": "1999_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1999_Luxembourg_general_election",
+      "sha256": "75fa4bfe651be2f0abed6f1c278eed8c57c748d81284e4c2795bf4c406b94ea7"
+    },
+    {
+      "file": "2004_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2004_Luxembourg_general_election",
+      "sha256": "c1046c491c86bf505d07e2b4ca936e88c97dc0e01e1607261cd15e8839b09f4e"
+    },
+    {
+      "file": "2009_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2009_Luxembourg_general_election",
+      "sha256": "f733accf7ab1cb73fad37a4a1ebe624468e704d4510190bb96ebbbef7afb7d2c"
+    },
+    {
+      "file": "2013_Luxembourg_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2013_Luxembourg_general_election",
+      "sha256": "4eb873002a7ee07eaf92e5571c805713be339389090acee288375352b49b9a1e"
+    },
+    {
+      "file": "1979_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/1979_European_Parliament_election_in_Luxembourg",
+      "sha256": "788f0548674c9167da3b25e389aaf56bdf09e9f5f800b391cece7c17604c50e0"
+    },
+    {
+      "file": "1984_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/1984_European_Parliament_election_in_Luxembourg",
+      "sha256": "6e2eee5bf99cc2c9aa5a0903d070421863c2cc6d4704cb45393cfc41f391c451"
+    },
+    {
+      "file": "1989_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/1989_European_Parliament_election_in_Luxembourg",
+      "sha256": "7325ea373d6ed44ddf947f709a8c8dcfdcf6ea81a517549c4bdb99afd9763de5"
+    },
+    {
+      "file": "1994_European_Parliament_election_in_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/1994_European_Parliament_election_in_Luxembourg",
+      "sha256": "4ca2d7c6b892c36e1811c92aebce6e1821ae1b4282fa59aa3c56dc229438b9cd"
+    },
+    {
+      "file": "1918_Luxembourg_Constitutional_Assembly_election.html",
+      "url": "https://en.wikipedia.org/wiki/1918_Luxembourg_Constitutional_Assembly_election",
+      "sha256": "6a5b791e5f996c7691e18221c36d98917308acbfa03d337517a8eaf760678a08"
+    },
+    {
+      "file": "Constituent_Assembly_of_Luxembourg.html",
+      "url": "https://en.wikipedia.org/wiki/Constituent_Assembly_of_Luxembourg",
+      "sha256": "dd0aab1ac2213819530174dd0bd44adf518aefb074d4f84adb7514ac7731e6a4"
+    },
+    {
+      "file": "official-legislative-1994.html",
+      "url": "https://elections.public.lu/fr/elections-legislatives/1994/resultats.html",
+      "sha256": "59a0d008e747d9147bf1f1def751631f6756cee581d29c44fe46a838c0b54219"
+    },
+    {
+      "file": "official-legislative-1999.html",
+      "url": "https://elections.public.lu/fr/elections-legislatives/1999/resultats.html",
+      "sha256": "aea4a79c8f42b625b1b1fcc4fc920fc17115df1ddfe3a8ae90f1816a1793ac06"
+    },
+    {
+      "file": "official-legislative-2004.html",
+      "url": "https://elections.public.lu/fr/elections-legislatives/2004/resultats.html",
+      "sha256": "26b73febf03f20815db271ae3a9d68b85d186e42e641901582b05de0e82a43a4"
+    },
+    {
+      "file": "official-legislative-2009.html",
+      "url": "https://elections.public.lu/fr/elections-legislatives/2009/resultats.html",
+      "sha256": "d9d329a948b92ad21c5c588afd58b54d40ab8014c4677306d003512866425186"
+    },
+    {
+      "file": "official-legislative-2013.html",
+      "url": "https://elections.public.lu/fr/elections-legislatives/2013/resultats.html",
+      "sha256": "af99d53b2471281a65a1acd70c15687e1d7dae48974d8d97a63760459843ba0f"
+    },
+    {
+      "file": "official-legislative-2018.html",
+      "url": "https://elections.public.lu/fr/elections-legislatives/2018/resultats.html",
+      "sha256": "6fe6905f26a3bd9f125b8d825705596dac066e71e9eb2fa6255f4b240438748b"
+    },
+    {
+      "file": "official-legislative-2023.html",
+      "url": "https://elections.public.lu/fr/elections-legislatives/2023/resultats.html",
+      "sha256": "3da6bc3f90b09500f6fb15c820a8788c07002812e6255294360d50fdbb5e694f"
+    },
+    {
+      "file": "official-european-2024.html",
+      "url": "https://elections.public.lu/fr/elections-europeennes/2024/resultats.html",
+      "sha256": "bf43807fd4a325ccb32110385270065a20968fee91c25314b3eb1cfbdf550fe2"
+    },
+    {
+      "file": "parliament-history.html",
+      "url": "https://www.chd.lu/en/elections",
+      "sha256": "5287f40ed98e2d3f10995588238ac8d51a26be635fdf8f2f1042195b025ff4aa"
+    },
+    {
+      "file": "certified-legislative-2023-sud.pdf",
+      "url": "https://elections.public.lu/content/dam/elections/fr/elections-legislatives/2023/pv-du-recensement-gnral-sud.pdf",
+      "sha256": "dc2a307896cfe664c296669a168c0c44b27c4448aeda6f961667cd4b7e2dd8ee"
+    },
+    {
+      "file": "certified-legislative-2023-centre.pdf",
+      "url": "https://elections.public.lu/content/dam/elections/fr/elections-legislatives/2023/pv-du-recensement-gnral-centre.pdf",
+      "sha256": "fbc7e3e780da0606f16e497734f30ecfa134728604e538980760f62fa03f9066"
+    },
+    {
+      "file": "certified-legislative-2023-nord.pdf",
+      "url": "https://elections.public.lu/content/dam/elections/fr/elections-legislatives/2023/pv-du-recensement-gnral-nord.pdf",
+      "sha256": "698bc17b4f8d2f1e46027418f00cb97aedee752f094f02245db595c049361422"
+    },
+    {
+      "file": "certified-legislative-2023-est.pdf",
+      "url": "https://elections.public.lu/content/dam/elections/fr/elections-legislatives/2023/pv-du-recensement-gnral-est.pdf",
+      "sha256": "65071ca4ab6805d97e6a90cbee0ae5742fb6135565c2a79351f7105e3cded293"
+    },
+    {
+      "file": "certified-european-2024.pdf",
+      "url": "https://elections.public.lu/dam-assets/fr/elections-europeennes/2024/20240617-elec-ue-pv-recensement-gnral.pdf",
+      "sha256": "c072a78bc12dadc94df2798c6615eaa1acf839afe1df57484c21c4865cb7ce69"
+    }
+  ]
+}
