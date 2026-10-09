@@ -1,0 +1,866 @@
+[
+  {
+    "id": "world-uk-commons-1802-07-05",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 616,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1806-10-29",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1807-05-04",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 429,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1812-10-05",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 595,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1818-06-17",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 455,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1820-03-06",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 556,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1826-06-07",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 626,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1830-07-29",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 161395,
+    "shareSum": 99.1,
+    "seats": 506,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1831-04-28",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 127655,
+    "shareSum": 100.0,
+    "seats": 605,
+    "totalSeats": 658,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1832-12-10",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 827776,
+    "shareSum": 100.0,
+    "seats": 658,
+    "totalSeats": 658,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1835-01-06",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 611137,
+    "shareSum": 100.0,
+    "seats": 658,
+    "totalSeats": 658,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1837-07-24",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 798025,
+    "shareSum": 100.0,
+    "seats": 658,
+    "totalSeats": 658,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1841-06-29",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 593445,
+    "shareSum": 100.0,
+    "seats": 658,
+    "totalSeats": 658,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1847-07-29",
+    "voteBasis": "Partial historical party/seat reconstruction; complete national vote denominator not established",
+    "votes": 478920,
+    "shareSum": 99.3,
+    "seats": 653,
+    "totalSeats": 656,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-commons-1852-07-07",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 743904,
+    "shareSum": 100.0,
+    "seats": 654,
+    "totalSeats": 654,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1857-03-27",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 716552,
+    "shareSum": 100.01,
+    "seats": 654,
+    "totalSeats": 654,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1859-04-28",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 565500,
+    "shareSum": 100.0,
+    "seats": 654,
+    "totalSeats": 654,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1865-07-11",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 854856,
+    "shareSum": 100.0,
+    "seats": 658,
+    "totalSeats": 658,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1868-11-17",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 2333251,
+    "shareSum": 100.0,
+    "seats": 658,
+    "totalSeats": 658,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1874-01-31",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 2466037,
+    "shareSum": 100.0,
+    "seats": 652,
+    "totalSeats": 652,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1880-03-31",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 3359416,
+    "shareSum": 99.99,
+    "seats": 652,
+    "totalSeats": 652,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1885-11-24",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 4347984,
+    "shareSum": 100.0,
+    "seats": 670,
+    "totalSeats": 670,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1886-07-01",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 2758151,
+    "shareSum": 100.01,
+    "seats": 670,
+    "totalSeats": 670,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1892-07-04",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 4317312,
+    "shareSum": 99.99,
+    "seats": 670,
+    "totalSeats": 670,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1895-07-13",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 3572439,
+    "shareSum": 100.0,
+    "seats": 670,
+    "totalSeats": 670,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1900-10-01",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 3260696,
+    "shareSum": 100.1,
+    "seats": 670,
+    "totalSeats": 670,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1906-01-12",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 5246672,
+    "shareSum": 100.0,
+    "seats": 670,
+    "totalSeats": 670,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1910-01-15",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 6234435,
+    "shareSum": 100.1,
+    "seats": 670,
+    "totalSeats": 670,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1910-12-03",
+    "voteBasis": "Reported historical candidate votes in contested seats; multi-member districts and unopposed returns apply",
+    "votes": 4876409,
+    "shareSum": 100.0,
+    "seats": 670,
+    "totalSeats": 670,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1918-12-14",
+    "voteBasis": "Commons Library reported national vote total (10,786,818); source group definitions retained",
+    "votes": 10786818,
+    "shareSum": 99.9999,
+    "seats": 707,
+    "totalSeats": 707,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1922-11-15",
+    "voteBasis": "Commons Library reported national vote total (14,392,330); source group definitions retained",
+    "votes": 14392330,
+    "shareSum": 100.0,
+    "seats": 615,
+    "totalSeats": 615,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1923-12-06",
+    "voteBasis": "Commons Library reported national vote total (14,547,695); source group definitions retained",
+    "votes": 14547695,
+    "shareSum": 100.0,
+    "seats": 615,
+    "totalSeats": 615,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1924-10-29",
+    "voteBasis": "Commons Library reported national vote total (16,640,279); source group definitions retained",
+    "votes": 16640279,
+    "shareSum": 100.0,
+    "seats": 615,
+    "totalSeats": 615,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1929-05-30",
+    "voteBasis": "Commons Library reported national vote total (22,648,375); source group definitions retained",
+    "votes": 22648375,
+    "shareSum": 100.0,
+    "seats": 615,
+    "totalSeats": 615,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1931-10-27",
+    "voteBasis": "Commons Library reported national vote total (21,656,373); source group definitions retained",
+    "votes": 21656373,
+    "shareSum": 100.0,
+    "seats": 615,
+    "totalSeats": 615,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1935-11-14",
+    "voteBasis": "Commons Library reported national vote total (21,997,054); source group definitions retained",
+    "votes": 21997054,
+    "shareSum": 99.9999,
+    "seats": 615,
+    "totalSeats": 615,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1945-07-05",
+    "voteBasis": "Commons Library reported national vote total (25,095,195); source group definitions retained",
+    "votes": 25095195,
+    "shareSum": 99.9999,
+    "seats": 640,
+    "totalSeats": 640,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1950-02-23",
+    "voteBasis": "Commons Library reported national vote total (28,771,124); source group definitions retained",
+    "votes": 28771124,
+    "shareSum": 99.9999,
+    "seats": 625,
+    "totalSeats": 625,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1951-10-25",
+    "voteBasis": "Commons Library reported national vote total (28,596,594); source group definitions retained",
+    "votes": 28596594,
+    "shareSum": 100.0,
+    "seats": 625,
+    "totalSeats": 625,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1955-05-26",
+    "voteBasis": "Commons Library reported national vote total (26,759,729); source group definitions retained",
+    "votes": 26759729,
+    "shareSum": 100.0,
+    "seats": 630,
+    "totalSeats": 630,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1959-10-08",
+    "voteBasis": "Commons Library reported national vote total (27,862,652); source group definitions retained",
+    "votes": 27862652,
+    "shareSum": 100.0,
+    "seats": 630,
+    "totalSeats": 630,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1964-10-15",
+    "voteBasis": "Commons Library reported national vote total (27,657,148); source group definitions retained",
+    "votes": 27657148,
+    "shareSum": 100.0001,
+    "seats": 630,
+    "totalSeats": 630,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1966-03-31",
+    "voteBasis": "Commons Library reported national vote total (27,264,747); source group definitions retained",
+    "votes": 27264747,
+    "shareSum": 99.9999,
+    "seats": 630,
+    "totalSeats": 630,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1970-06-18",
+    "voteBasis": "Commons Library reported national vote total (28,344,798); source group definitions retained",
+    "votes": 28344798,
+    "shareSum": 100.0,
+    "seats": 630,
+    "totalSeats": 630,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1974-02-28",
+    "voteBasis": "Commons Library reported national vote total (31,340,162); source group definitions retained",
+    "votes": 31340162,
+    "shareSum": 100.0001,
+    "seats": 635,
+    "totalSeats": 635,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1974-10-10",
+    "voteBasis": "Commons Library reported national vote total (29,189,104); source group definitions retained",
+    "votes": 29189104,
+    "shareSum": 100.0002,
+    "seats": 635,
+    "totalSeats": 635,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1979-05-03",
+    "voteBasis": "Commons Library reported national vote total (31,221,362); source group definitions retained",
+    "votes": 31221362,
+    "shareSum": 99.9999,
+    "seats": 635,
+    "totalSeats": 635,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1983-06-09",
+    "voteBasis": "Commons Library reported national vote total (30,671,137); source group definitions retained",
+    "votes": 30671137,
+    "shareSum": 99.9999,
+    "seats": 650,
+    "totalSeats": 650,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1987-06-11",
+    "voteBasis": "Commons Library reported national vote total (32,529,578); source group definitions retained",
+    "votes": 32529578,
+    "shareSum": 100.0,
+    "seats": 650,
+    "totalSeats": 650,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1992-04-09",
+    "voteBasis": "Commons Library reported national vote total (33,614,074); source group definitions retained",
+    "votes": 33614074,
+    "shareSum": 100.0001,
+    "seats": 651,
+    "totalSeats": 651,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-1997-05-01",
+    "voteBasis": "Commons Library reported national vote total (31,286,284); source group definitions retained",
+    "votes": 31286284,
+    "shareSum": 100.0002,
+    "seats": 659,
+    "totalSeats": 659,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-2001-06-07",
+    "voteBasis": "Commons Library reported national vote total (26,367,383); source group definitions retained",
+    "votes": 26367383,
+    "shareSum": 99.9999,
+    "seats": 659,
+    "totalSeats": 659,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-commons-2005-05-05",
+    "voteBasis": "Commons Library reported national vote total (27,148,510); source group definitions retained",
+    "votes": 27148510,
+    "shareSum": 100.0001,
+    "seats": 646,
+    "totalSeats": 646,
+    "coverage": "complete"
+  },
+  {
+    "id": "world-uk-scottish-peers-1802-08-10",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1806-12-04",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1807-06-09",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1812-11-13",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1818-07-24",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1820-04-11",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1826-07-13",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1830-09-02",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1831-06-03",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1833-01-14",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1835-02-10",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1837-08-25",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1841-08-05",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1847-09-08",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1852-07-15",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1857-04-14",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1859-05-10",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1865-07-28",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1868-12-03",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1874-02-18",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1880-04-16",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1885-12-10",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1886-07-20",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1892-07-14",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1895-07-24",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1900-10-05",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1906-01-30",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1910-01-28",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1910-12-15",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1918-12-20",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1922-11-16",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1923-12-10",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1924-11-03",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1929-05-31",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1931-10-29",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1935-11-15",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1945-07-06",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1950-02-21",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1951-10-23",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1955-05-23",
+    "voteBasis": "Selection among eligible Scottish hereditary peers; national public vote not applicable",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 0,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-scottish-peers-1959-10-06",
+    "voteBasis": "Individual peer-candidate endorsements; percentages not inferred from peers present",
+    "votes": 829,
+    "shareSum": 0,
+    "seats": 16,
+    "totalSeats": 16,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-lords-officers-1999-10-27",
+    "voteBasis": "Official winning-member roster; vote counts and percentages not entered",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 15,
+    "totalSeats": 15,
+    "coverage": "partial"
+  },
+  {
+    "id": "world-uk-lords-groups-1999-11-03",
+    "voteBasis": "Official winning-member roster; vote counts and percentages not entered",
+    "votes": 0,
+    "shareSum": 0,
+    "seats": 75,
+    "totalSeats": 75,
+    "coverage": "partial"
+  }
+]

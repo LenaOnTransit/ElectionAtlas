@@ -1,0 +1,8032 @@
+{
+  "checked": "2026-10-09",
+  "seatSource": "https://researchbriefings.files.parliament.uk/documents/SN02384/SN02384.xlsx",
+  "resultSource": "https://researchbriefings.files.parliament.uk/documents/CBP-7529/general-elections-and-governments.xlsx",
+  "seatSha256": "252727e9ca98b90ab888e92a839908b40794334ad73cb0554f86cea9dcc4a241",
+  "resultSha256": "7277ace835bb47771f777cd1f0abdea52d79ef1709ab3575672320ad6be6f44e",
+  "capacities": {
+    "1796": 658,
+    "1802": 658,
+    "1806": 658,
+    "1807": 658,
+    "1812": 658,
+    "1818": 658,
+    "1820": 658,
+    "1826": 658,
+    "1830": 658,
+    "1831": 658,
+    "1832": 658,
+    "1835": 658,
+    "1837": 658,
+    "1841": 658,
+    "1847": 656,
+    "1852": 654,
+    "1857": 654,
+    "1859": 654,
+    "1865": 658,
+    "1868": 658,
+    "1874": 652,
+    "1880": 652,
+    "1885": 670,
+    "1886": 670,
+    "1892": 670,
+    "1895": 670,
+    "1900": 670,
+    "1906": 670,
+    "1910": 670,
+    "1918": 707,
+    "1922": 615,
+    "1923": 615,
+    "1924": 615,
+    "1929": 615,
+    "1931": 615,
+    "1935": 615,
+    "1945": 640,
+    "1950": 625,
+    "1951": 625,
+    "1955": 630,
+    "1959": 630,
+    "1964": 630,
+    "1966": 630,
+    "1970": 630,
+    "1974": 635,
+    "1979": 635,
+    "1983": 650,
+    "1987": 650,
+    "1992": 651,
+    "1997": 659,
+    "2001": 659,
+    "2005": 646,
+    "2010": 650,
+    "2015": 650,
+    "2017": 650,
+    "2019": 650,
+    "2024": 650
+  },
+  "national": {
+    "1918": [
+      {
+        "code": "CON",
+        "votes": 4144192,
+        "seats": 382,
+        "sourceShare": 0.387,
+        "totalVotes": 10786818,
+        "totalSeats": 707
+      },
+      {
+        "code": "LAB",
+        "votes": 2245777,
+        "seats": 57,
+        "sourceShare": 0.208,
+        "totalVotes": 10786818,
+        "totalSeats": 707
+      },
+      {
+        "code": "LD",
+        "votes": 2785374,
+        "seats": 163,
+        "sourceShare": 0.256,
+        "totalVotes": 10786818,
+        "totalSeats": 707
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 0,
+        "seats": 0,
+        "sourceShare": 0.0,
+        "totalVotes": 10786818,
+        "totalSeats": 707
+      },
+      {
+        "code": "Other",
+        "votes": 1611475,
+        "seats": 105,
+        "sourceShare": 0.149,
+        "totalVotes": 10786818,
+        "totalSeats": 707
+      }
+    ],
+    "1922": [
+      {
+        "code": "CON",
+        "votes": 5502298,
+        "seats": 344,
+        "sourceShare": 0.385,
+        "totalVotes": 14392330,
+        "totalSeats": 615
+      },
+      {
+        "code": "LAB",
+        "votes": 4237349,
+        "seats": 142,
+        "sourceShare": 0.297,
+        "totalVotes": 14392330,
+        "totalSeats": 615
+      },
+      {
+        "code": "LD",
+        "votes": 4139460,
+        "seats": 115,
+        "sourceShare": 0.288,
+        "totalVotes": 14392330,
+        "totalSeats": 615
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 0,
+        "seats": 0,
+        "sourceShare": 0.0,
+        "totalVotes": 14392330,
+        "totalSeats": 615
+      },
+      {
+        "code": "Other",
+        "votes": 513223,
+        "seats": 14,
+        "sourceShare": 0.03,
+        "totalVotes": 14392330,
+        "totalSeats": 615
+      }
+    ],
+    "1923": [
+      {
+        "code": "CON",
+        "votes": 5514541,
+        "seats": 258,
+        "sourceShare": 0.38,
+        "totalVotes": 14547695,
+        "totalSeats": 615
+      },
+      {
+        "code": "LAB",
+        "votes": 4439780,
+        "seats": 191,
+        "sourceShare": 0.307,
+        "totalVotes": 14547695,
+        "totalSeats": 615
+      },
+      {
+        "code": "LD",
+        "votes": 4301481,
+        "seats": 158,
+        "sourceShare": 0.297,
+        "totalVotes": 14547695,
+        "totalSeats": 615
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 0,
+        "seats": 0,
+        "sourceShare": 0.0,
+        "totalVotes": 14547695,
+        "totalSeats": 615
+      },
+      {
+        "code": "Other",
+        "votes": 291893,
+        "seats": 8,
+        "sourceShare": 0.016,
+        "totalVotes": 14547695,
+        "totalSeats": 615
+      }
+    ],
+    "1924": [
+      {
+        "code": "CON",
+        "votes": 7854523,
+        "seats": 412,
+        "sourceShare": 0.467999999999999,
+        "totalVotes": 16640279,
+        "totalSeats": 615
+      },
+      {
+        "code": "LAB",
+        "votes": 5489087,
+        "seats": 151,
+        "sourceShare": 0.332999999999999,
+        "totalVotes": 16640279,
+        "totalSeats": 615
+      },
+      {
+        "code": "LD",
+        "votes": 2928737,
+        "seats": 40,
+        "sourceShare": 0.178,
+        "totalVotes": 16640279,
+        "totalSeats": 615
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 0,
+        "seats": 0,
+        "sourceShare": 0.0,
+        "totalVotes": 16640279,
+        "totalSeats": 615
+      },
+      {
+        "code": "Other",
+        "votes": 367932,
+        "seats": 12,
+        "sourceShare": 0.021,
+        "totalVotes": 16640279,
+        "totalSeats": 615
+      }
+    ],
+    "1929": [
+      {
+        "code": "CON",
+        "votes": 8656225,
+        "seats": 260,
+        "sourceShare": 0.381,
+        "totalVotes": 22648375,
+        "totalSeats": 615
+      },
+      {
+        "code": "LAB",
+        "votes": 8370417,
+        "seats": 287,
+        "sourceShare": 0.371,
+        "totalVotes": 22648375,
+        "totalSeats": 615
+      },
+      {
+        "code": "LD",
+        "votes": 5308738,
+        "seats": 59,
+        "sourceShare": 0.235,
+        "totalVotes": 22648375,
+        "totalSeats": 615
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 3922,
+        "seats": 0,
+        "sourceShare": 0.0,
+        "totalVotes": 22648375,
+        "totalSeats": 615
+      },
+      {
+        "code": "Other",
+        "votes": 309073,
+        "seats": 9,
+        "sourceShare": 0.013,
+        "totalVotes": 22648375,
+        "totalSeats": 615
+      }
+    ],
+    "1931": [
+      {
+        "code": "CON",
+        "votes": 13156790,
+        "seats": 522,
+        "sourceShare": 0.607,
+        "totalVotes": 21656373,
+        "totalSeats": 615
+      },
+      {
+        "code": "LAB",
+        "votes": 6649630,
+        "seats": 52,
+        "sourceShare": 0.309,
+        "totalVotes": 21656373,
+        "totalSeats": 615
+      },
+      {
+        "code": "LD",
+        "votes": 1476123,
+        "seats": 36,
+        "sourceShare": 0.07,
+        "totalVotes": 21656373,
+        "totalSeats": 615
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 23004,
+        "seats": 0,
+        "sourceShare": 0.001,
+        "totalVotes": 21656373,
+        "totalSeats": 615
+      },
+      {
+        "code": "Other",
+        "votes": 350826,
+        "seats": 5,
+        "sourceShare": 0.0129999999999997,
+        "totalVotes": 21656373,
+        "totalSeats": 615
+      }
+    ],
+    "1935": [
+      {
+        "code": "CON",
+        "votes": 11755654,
+        "seats": 429,
+        "sourceShare": 0.533,
+        "totalVotes": 21997054,
+        "totalSeats": 615
+      },
+      {
+        "code": "LAB",
+        "votes": 8325491,
+        "seats": 154,
+        "sourceShare": 0.38,
+        "totalVotes": 21997054,
+        "totalSeats": 615
+      },
+      {
+        "code": "LD",
+        "votes": 1443093,
+        "seats": 21,
+        "sourceShare": 0.067,
+        "totalVotes": 21997054,
+        "totalSeats": 615
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 32051,
+        "seats": 0,
+        "sourceShare": 0.001,
+        "totalVotes": 21997054,
+        "totalSeats": 615
+      },
+      {
+        "code": "Other",
+        "votes": 440765,
+        "seats": 11,
+        "sourceShare": 0.019,
+        "totalVotes": 21997054,
+        "totalSeats": 615
+      }
+    ],
+    "1945": [
+      {
+        "code": "CON",
+        "votes": 9972010,
+        "seats": 210,
+        "sourceShare": 0.396,
+        "totalVotes": 25095195,
+        "totalSeats": 640
+      },
+      {
+        "code": "LAB",
+        "votes": 11967746,
+        "seats": 393,
+        "sourceShare": 0.48,
+        "totalVotes": 25095195,
+        "totalSeats": 640
+      },
+      {
+        "code": "LD",
+        "votes": 2252430,
+        "seats": 12,
+        "sourceShare": 0.09,
+        "totalVotes": 25095195,
+        "totalSeats": 640
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 46612,
+        "seats": 0,
+        "sourceShare": 0.002,
+        "totalVotes": 25095195,
+        "totalSeats": 640
+      },
+      {
+        "code": "Other",
+        "votes": 856397,
+        "seats": 25,
+        "sourceShare": 0.032,
+        "totalVotes": 25095195,
+        "totalSeats": 640
+      }
+    ],
+    "1950": [
+      {
+        "code": "CON",
+        "votes": 12492404,
+        "seats": 298,
+        "sourceShare": 0.434199372954633,
+        "totalVotes": 28771124,
+        "totalSeats": 625
+      },
+      {
+        "code": "LAB",
+        "votes": 13266176,
+        "seats": 315,
+        "sourceShare": 0.461093421306724,
+        "totalVotes": 28771124,
+        "totalSeats": 625
+      },
+      {
+        "code": "LD",
+        "votes": 2621487,
+        "seats": 9,
+        "sourceShare": 0.0911152098194008,
+        "totalVotes": 28771124,
+        "totalSeats": 625
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 27288,
+        "seats": 0,
+        "sourceShare": 0.000948450953810494,
+        "totalVotes": 28771124,
+        "totalSeats": 625
+      },
+      {
+        "code": "Other",
+        "votes": 363769,
+        "seats": 3,
+        "sourceShare": 0.0126435449654312,
+        "totalVotes": 28771124,
+        "totalSeats": 625
+      }
+    ],
+    "1951": [
+      {
+        "code": "CON",
+        "votes": 13718199,
+        "seats": 321,
+        "sourceShare": 0.479714437320752,
+        "totalVotes": 28596594,
+        "totalSeats": 625
+      },
+      {
+        "code": "LAB",
+        "votes": 13948883,
+        "seats": 295,
+        "sourceShare": 0.487781272133317,
+        "totalVotes": 28596594,
+        "totalSeats": 625
+      },
+      {
+        "code": "LD",
+        "votes": 730546,
+        "seats": 6,
+        "sourceShare": 0.0255466088024329,
+        "totalVotes": 28596594,
+        "totalSeats": 625
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 18219,
+        "seats": 0,
+        "sourceShare": 0.000637103845304094,
+        "totalVotes": 28596594,
+        "totalSeats": 625
+      },
+      {
+        "code": "Other",
+        "votes": 180747,
+        "seats": 3,
+        "sourceShare": 0.00632057789819306,
+        "totalVotes": 28596594,
+        "totalSeats": 625
+      }
+    ],
+    "1955": [
+      {
+        "code": "CON",
+        "votes": 13310891,
+        "seats": 345,
+        "sourceShare": 0.497422488845085,
+        "totalVotes": 26759729,
+        "totalSeats": 630
+      },
+      {
+        "code": "LAB",
+        "votes": 12405254,
+        "seats": 277,
+        "sourceShare": 0.463579208892586,
+        "totalVotes": 26759729,
+        "totalSeats": 630
+      },
+      {
+        "code": "LD",
+        "votes": 722402,
+        "seats": 6,
+        "sourceShare": 0.0269958638220887,
+        "totalVotes": 26759729,
+        "totalSeats": 630
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 57231,
+        "seats": 0,
+        "sourceShare": 0.00213869878876576,
+        "totalVotes": 26759729,
+        "totalSeats": 630
+      },
+      {
+        "code": "Other",
+        "votes": 263951,
+        "seats": 2,
+        "sourceShare": 0.00986373965147413,
+        "totalVotes": 26759729,
+        "totalSeats": 630
+      }
+    ],
+    "1959": [
+      {
+        "code": "CON",
+        "votes": 13750875,
+        "seats": 365,
+        "sourceShare": 0.493523552603678,
+        "totalVotes": 27862652,
+        "totalSeats": 630
+      },
+      {
+        "code": "LAB",
+        "votes": 12216172,
+        "seats": 258,
+        "sourceShare": 0.438442543085991,
+        "totalVotes": 27862652,
+        "totalSeats": 630
+      },
+      {
+        "code": "LD",
+        "votes": 1640760,
+        "seats": 6,
+        "sourceShare": 0.0588874311031125,
+        "totalVotes": 27862652,
+        "totalSeats": 630
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 99309,
+        "seats": 0,
+        "sourceShare": 0.00356423358408237,
+        "totalVotes": 27862652,
+        "totalSeats": 630
+      },
+      {
+        "code": "Other",
+        "votes": 155536,
+        "seats": 1,
+        "sourceShare": 0.0055822396231342,
+        "totalVotes": 27862652,
+        "totalSeats": 630
+      }
+    ],
+    "1964": [
+      {
+        "code": "CON",
+        "votes": 12002642,
+        "seats": 304,
+        "sourceShare": 0.433979743681452,
+        "totalVotes": 27657148,
+        "totalSeats": 630
+      },
+      {
+        "code": "LAB",
+        "votes": 12205808,
+        "seats": 317,
+        "sourceShare": 0.441325620414657,
+        "totalVotes": 27657148,
+        "totalSeats": 630
+      },
+      {
+        "code": "LD",
+        "votes": 3099283,
+        "seats": 9,
+        "sourceShare": 0.112060831434969,
+        "totalVotes": 27657148,
+        "totalSeats": 630
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 133551,
+        "seats": 0,
+        "sourceShare": 0.00482880592026336,
+        "totalVotes": 27657148,
+        "totalSeats": 630
+      },
+      {
+        "code": "Other",
+        "votes": 215864,
+        "seats": 0,
+        "sourceShare": 0.00780499854865734,
+        "totalVotes": 27657148,
+        "totalSeats": 630
+      }
+    ],
+    "1966": [
+      {
+        "code": "CON",
+        "votes": 11418455,
+        "seats": 253,
+        "sourceShare": 0.418799228175489,
+        "totalVotes": 27264747,
+        "totalSeats": 630
+      },
+      {
+        "code": "LAB",
+        "votes": 13096629,
+        "seats": 364,
+        "sourceShare": 0.48035028529698,
+        "totalVotes": 27264747,
+        "totalSeats": 630
+      },
+      {
+        "code": "LD",
+        "votes": 2327457,
+        "seats": 12,
+        "sourceShare": 0.0853650686727443,
+        "totalVotes": 27264747,
+        "totalSeats": 630
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 189545,
+        "seats": 0,
+        "sourceShare": 0.00695201756319249,
+        "totalVotes": 27264747,
+        "totalSeats": 630
+      },
+      {
+        "code": "Other",
+        "votes": 232661,
+        "seats": 1,
+        "sourceShare": 0.00853340029159266,
+        "totalVotes": 27264747,
+        "totalSeats": 630
+      }
+    ],
+    "1970": [
+      {
+        "code": "CON",
+        "votes": 13145123,
+        "seats": 330,
+        "sourceShare": 0.463757864847017,
+        "totalVotes": 28344798,
+        "totalSeats": 630
+      },
+      {
+        "code": "LAB",
+        "votes": 12208758,
+        "seats": 288,
+        "sourceShare": 0.430723055426254,
+        "totalVotes": 28344798,
+        "totalSeats": 630
+      },
+      {
+        "code": "LD",
+        "votes": 2117035,
+        "seats": 6,
+        "sourceShare": 0.0746886606847577,
+        "totalVotes": 28344798,
+        "totalSeats": 630
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 481818,
+        "seats": 1,
+        "sourceShare": 0.0169984629983956,
+        "totalVotes": 28344798,
+        "totalSeats": 630
+      },
+      {
+        "code": "Other",
+        "votes": 392064,
+        "seats": 5,
+        "sourceShare": 0.0138319560435745,
+        "totalVotes": 28344798,
+        "totalSeats": 630
+      }
+    ],
+    "1974F": [
+      {
+        "code": "CON",
+        "votes": 11872180,
+        "seats": 297,
+        "sourceShare": 0.378816803818691,
+        "totalVotes": 31340162,
+        "totalSeats": 635
+      },
+      {
+        "code": "LAB",
+        "votes": 11645616,
+        "seats": 301,
+        "sourceShare": 0.371587613363325,
+        "totalVotes": 31340162,
+        "totalSeats": 635
+      },
+      {
+        "code": "LD",
+        "votes": 6059519,
+        "seats": 14,
+        "sourceShare": 0.193346767001395,
+        "totalVotes": 31340162,
+        "totalSeats": 635
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 804554,
+        "seats": 9,
+        "sourceShare": 0.0256716605357687,
+        "totalVotes": 31340162,
+        "totalSeats": 635
+      },
+      {
+        "code": "Other",
+        "votes": 958293,
+        "seats": 14,
+        "sourceShare": 0.0305771552808182,
+        "totalVotes": 31340162,
+        "totalSeats": 635
+      }
+    ],
+    "1974O": [
+      {
+        "code": "CON",
+        "votes": 10462565,
+        "seats": 277,
+        "sourceShare": 0.358440772967885,
+        "totalVotes": 29189104,
+        "totalSeats": 635
+      },
+      {
+        "code": "LAB",
+        "votes": 11457079,
+        "seats": 319,
+        "sourceShare": 0.392512185368896,
+        "totalVotes": 29189104,
+        "totalSeats": 635
+      },
+      {
+        "code": "LD",
+        "votes": 5346704,
+        "seats": 13,
+        "sourceShare": 0.183174653117135,
+        "totalVotes": 29189104,
+        "totalSeats": 635
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 1005938,
+        "seats": 14,
+        "sourceShare": 0.0344627913210354,
+        "totalVotes": 29189104,
+        "totalSeats": 635
+      },
+      {
+        "code": "Other",
+        "votes": 916818,
+        "seats": 12,
+        "sourceShare": 0.0314095972250467,
+        "totalVotes": 29189104,
+        "totalSeats": 635
+      }
+    ],
+    "1979": [
+      {
+        "code": "CON",
+        "votes": 13697923,
+        "seats": 339,
+        "sourceShare": 0.438735600323906,
+        "totalVotes": 31221362,
+        "totalSeats": 635
+      },
+      {
+        "code": "LAB",
+        "votes": 11532218,
+        "seats": 269,
+        "sourceShare": 0.369369472094138,
+        "totalVotes": 31221362,
+        "totalSeats": 635
+      },
+      {
+        "code": "LD",
+        "votes": 4313804,
+        "seats": 11,
+        "sourceShare": 0.138168347684511,
+        "totalVotes": 31221362,
+        "totalSeats": 635
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 636803,
+        "seats": 4,
+        "sourceShare": 0.0203963875759167,
+        "totalVotes": 31221362,
+        "totalSeats": 635
+      },
+      {
+        "code": "Other",
+        "votes": 1040614,
+        "seats": 12,
+        "sourceShare": 0.0333301923215265,
+        "totalVotes": 31221362,
+        "totalSeats": 635
+      }
+    ],
+    "1983": [
+      {
+        "code": "CON",
+        "votes": 13012316,
+        "seats": 397,
+        "sourceShare": 0.424252808104244,
+        "totalVotes": 30671137,
+        "totalSeats": 650
+      },
+      {
+        "code": "LAB",
+        "votes": 8456934,
+        "seats": 209,
+        "sourceShare": 0.275729393403316,
+        "totalVotes": 30671137,
+        "totalSeats": 650
+      },
+      {
+        "code": "LD",
+        "votes": 7780949,
+        "seats": 23,
+        "sourceShare": 0.25368961704941,
+        "totalVotes": 30671137,
+        "totalSeats": 650
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 457284,
+        "seats": 4,
+        "sourceShare": 0.0149092614336403,
+        "totalVotes": 30671137,
+        "totalSeats": 650
+      },
+      {
+        "code": "Other",
+        "votes": 963654,
+        "seats": 17,
+        "sourceShare": 0.0314189200093886,
+        "totalVotes": 30671137,
+        "totalSeats": 650
+      }
+    ],
+    "1987": [
+      {
+        "code": "CON",
+        "votes": 13760583,
+        "seats": 376,
+        "sourceShare": 0.42301756881076,
+        "totalVotes": 32529578,
+        "totalSeats": 650
+      },
+      {
+        "code": "LAB",
+        "votes": 10029807,
+        "seats": 229,
+        "sourceShare": 0.308328838449733,
+        "totalVotes": 32529578,
+        "totalSeats": 650
+      },
+      {
+        "code": "LD",
+        "votes": 7341633,
+        "seats": 22,
+        "sourceShare": 0.22569100035666,
+        "totalVotes": 32529578,
+        "totalSeats": 650
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 540072,
+        "seats": 6,
+        "sourceShare": 0.0166024902013791,
+        "totalVotes": 32529578,
+        "totalSeats": 650
+      },
+      {
+        "code": "Other",
+        "votes": 857483,
+        "seats": 17,
+        "sourceShare": 0.026360102181467,
+        "totalVotes": 32529578,
+        "totalSeats": 650
+      }
+    ],
+    "1992": [
+      {
+        "code": "CON",
+        "votes": 14093007,
+        "seats": 336,
+        "sourceShare": 0.419259117475614,
+        "totalVotes": 33614074,
+        "totalSeats": 651
+      },
+      {
+        "code": "LAB",
+        "votes": 11560484,
+        "seats": 271,
+        "sourceShare": 0.343917967218136,
+        "totalVotes": 33614074,
+        "totalSeats": 651
+      },
+      {
+        "code": "LD",
+        "votes": 5999606,
+        "seats": 20,
+        "sourceShare": 0.178484940563884,
+        "totalVotes": 33614074,
+        "totalSeats": 651
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 784511,
+        "seats": 7,
+        "sourceShare": 0.0233387657800717,
+        "totalVotes": 33614074,
+        "totalSeats": 651
+      },
+      {
+        "code": "Other",
+        "votes": 1176466,
+        "seats": 17,
+        "sourceShare": 0.0349992089622935,
+        "totalVotes": 33614074,
+        "totalSeats": 651
+      }
+    ],
+    "1997": [
+      {
+        "code": "CON",
+        "votes": 9600943,
+        "seats": 165,
+        "sourceShare": 0.306873868433847,
+        "totalVotes": 31286284,
+        "totalSeats": 659
+      },
+      {
+        "code": "LAB",
+        "votes": 13518167,
+        "seats": 418,
+        "sourceShare": 0.432079661489999,
+        "totalVotes": 31286284,
+        "totalSeats": 659
+      },
+      {
+        "code": "LD",
+        "votes": 5242947,
+        "seats": 46,
+        "sourceShare": 0.167579729187397,
+        "totalVotes": 31286284,
+        "totalSeats": 659
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 782580,
+        "seats": 10,
+        "sourceShare": 0.025013517105451,
+        "totalVotes": 31286284,
+        "totalSeats": 659
+      },
+      {
+        "code": "Other",
+        "votes": 2141647,
+        "seats": 20,
+        "sourceShare": 0.0684532237833038,
+        "totalVotes": 31286284,
+        "totalSeats": 659
+      }
+    ],
+    "2001": [
+      {
+        "code": "CON",
+        "votes": 8337615,
+        "seats": 166,
+        "sourceShare": 0.316209424348256,
+        "totalVotes": 26367383,
+        "totalSeats": 659
+      },
+      {
+        "code": "LAB",
+        "votes": 10724953,
+        "seats": 412,
+        "sourceShare": 0.406750757176015,
+        "totalVotes": 26367383,
+        "totalSeats": 659
+      },
+      {
+        "code": "LD",
+        "votes": 4814321,
+        "seats": 52,
+        "sourceShare": 0.182586227840662,
+        "totalVotes": 26367383,
+        "totalSeats": 659
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 660207,
+        "seats": 9,
+        "sourceShare": 0.0250387761273085,
+        "totalVotes": 26367383,
+        "totalSeats": 659
+      },
+      {
+        "code": "Other",
+        "votes": 1830287,
+        "seats": 20,
+        "sourceShare": 0.0694148145077575,
+        "totalVotes": 26367383,
+        "totalSeats": 659
+      }
+    ],
+    "2005": [
+      {
+        "code": "CON",
+        "votes": 8784915,
+        "seats": 198,
+        "sourceShare": 0.323587371829982,
+        "totalVotes": 27148510,
+        "totalSeats": 646
+      },
+      {
+        "code": "LAB",
+        "votes": 9552436,
+        "seats": 355,
+        "sourceShare": 0.351858573453939,
+        "totalVotes": 27148510,
+        "totalSeats": 646
+      },
+      {
+        "code": "LD",
+        "votes": 5985454,
+        "seats": 62,
+        "sourceShare": 0.220470810368598,
+        "totalVotes": 27148510,
+        "totalSeats": 646
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 587105,
+        "seats": 9,
+        "sourceShare": 0.0216256803780391,
+        "totalVotes": 27148510,
+        "totalSeats": 646
+      },
+      {
+        "code": "Other",
+        "votes": 2238600,
+        "seats": 22,
+        "sourceShare": 0.0824575639694407,
+        "totalVotes": 27148510,
+        "totalSeats": 646
+      }
+    ],
+    "2010": [
+      {
+        "code": "CON",
+        "votes": 10703654,
+        "seats": 306,
+        "sourceShare": 0.360542871698234,
+        "totalVotes": 29687604,
+        "totalSeats": 650
+      },
+      {
+        "code": "LAB",
+        "votes": 8606517,
+        "seats": 258,
+        "sourceShare": 0.289902714951331,
+        "totalVotes": 29687604,
+        "totalSeats": 650
+      },
+      {
+        "code": "LD",
+        "votes": 6836248,
+        "seats": 57,
+        "sourceShare": 0.230272810160092,
+        "totalVotes": 29687604,
+        "totalSeats": 650
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 656780,
+        "seats": 9,
+        "sourceShare": 0.0221230382889774,
+        "totalVotes": 29687604,
+        "totalSeats": 650
+      },
+      {
+        "code": "Other",
+        "votes": 2884405,
+        "seats": 20,
+        "sourceShare": 0.0971585649013642,
+        "totalVotes": 29687604,
+        "totalSeats": 650
+      }
+    ],
+    "2015": [
+      {
+        "code": "CON",
+        "votes": 11299600,
+        "seats": 330,
+        "sourceShare": 0.368095121752585,
+        "totalVotes": 30697500,
+        "totalSeats": 650
+      },
+      {
+        "code": "LAB",
+        "votes": 9347300,
+        "seats": 232,
+        "sourceShare": 0.304497108885088,
+        "totalVotes": 30697500,
+        "totalSeats": 650
+      },
+      {
+        "code": "LD",
+        "votes": 2415900,
+        "seats": 8,
+        "sourceShare": 0.078700219887613,
+        "totalVotes": 30697500,
+        "totalSeats": 650
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 1636100,
+        "seats": 59,
+        "sourceShare": 0.0532974997964003,
+        "totalVotes": 30697500,
+        "totalSeats": 650
+      },
+      {
+        "code": "Other",
+        "votes": 5998600,
+        "seats": 21,
+        "sourceShare": 0.195410049678312,
+        "totalVotes": 30697500,
+        "totalSeats": 650
+      }
+    ],
+    "2017": [
+      {
+        "code": "CON",
+        "votes": 13636690,
+        "seats": 317,
+        "sourceShare": 0.423445233331949,
+        "totalVotes": 32204141,
+        "totalSeats": 650
+      },
+      {
+        "code": "LAB",
+        "votes": 12877869,
+        "seats": 262,
+        "sourceShare": 0.39988239400641,
+        "totalVotes": 32204141,
+        "totalSeats": 650
+      },
+      {
+        "code": "LD",
+        "votes": 2371861,
+        "seats": 12,
+        "sourceShare": 0.0736508078262357,
+        "totalVotes": 32204141,
+        "totalSeats": 650
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 1142034,
+        "seats": 39,
+        "sourceShare": 0.0354623338656975,
+        "totalVotes": 32204141,
+        "totalSeats": 650
+      },
+      {
+        "code": "Other",
+        "votes": 2175687,
+        "seats": 20,
+        "sourceShare": 0.0675592309697064,
+        "totalVotes": 32204141,
+        "totalSeats": 650
+      }
+    ],
+    "2019": [
+      {
+        "code": "CON",
+        "votes": 13966454,
+        "seats": 365,
+        "sourceShare": 0.436259324404145,
+        "totalVotes": 32014110,
+        "totalSeats": 650
+      },
+      {
+        "code": "LAB",
+        "votes": 10269051,
+        "seats": 202,
+        "sourceShare": 0.320766405812936,
+        "totalVotes": 32014110,
+        "totalSeats": 650
+      },
+      {
+        "code": "LD",
+        "votes": 3696419,
+        "seats": 11,
+        "sourceShare": 0.11546218214406,
+        "totalVotes": 32014110,
+        "totalSeats": 650
+      },
+      {
+        "code": "PC/SNP",
+        "votes": 1395645,
+        "seats": 52,
+        "sourceShare": 0.0435946837191475,
+        "totalVotes": 32014110,
+        "totalSeats": 650
+      },
+      {
+        "code": "Other",
+        "votes": 2686541,
+        "seats": 20,
+        "sourceShare": 0.0839174039197091,
+        "totalVotes": 32014110,
+        "totalSeats": 650
+      }
+    ]
+  },
+  "countries": {
+    "1918": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 4144192,
+          "seats": 382,
+          "sourceShare": 0.387,
+          "totalVotes": 10786818,
+          "totalSeats": 707
+        },
+        {
+          "code": "LAB",
+          "votes": 2245777,
+          "seats": 57,
+          "sourceShare": 0.208,
+          "totalVotes": 10786818,
+          "totalSeats": 707
+        },
+        {
+          "code": "LD",
+          "votes": 2785374,
+          "seats": 163,
+          "sourceShare": 0.256,
+          "totalVotes": 10786818,
+          "totalSeats": 707
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 10786818,
+          "totalSeats": 707
+        },
+        {
+          "code": "Other",
+          "votes": 1611475,
+          "seats": 105,
+          "sourceShare": 0.149,
+          "totalVotes": 10786818,
+          "totalSeats": 707
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 3854979,
+          "seats": 359,
+          "sourceShare": 0.395,
+          "totalVotes": 9747593,
+          "totalSeats": 606
+        },
+        {
+          "code": "LAB",
+          "votes": 2245777,
+          "seats": 57,
+          "sourceShare": 0.23,
+          "totalVotes": 9747593,
+          "totalSeats": 606
+        },
+        {
+          "code": "LD",
+          "votes": 2785374,
+          "seats": 163,
+          "sourceShare": 0.2855,
+          "totalVotes": 9747593,
+          "totalSeats": 606
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 9747593,
+          "totalSeats": 606
+        },
+        {
+          "code": "Other",
+          "votes": 861463,
+          "seats": 27,
+          "sourceShare": 0.0895,
+          "totalVotes": 9747593,
+          "totalSeats": 606
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 3414631,
+          "seats": 315,
+          "sourceShare": 0.426,
+          "totalVotes": 8050878,
+          "totalSeats": 485
+        },
+        {
+          "code": "LAB",
+          "votes": 1811739,
+          "seats": 42,
+          "sourceShare": 0.226,
+          "totalVotes": 8050878,
+          "totalSeats": 485
+        },
+        {
+          "code": "LD",
+          "votes": 2135571,
+          "seats": 107,
+          "sourceShare": 0.263,
+          "totalVotes": 8050878,
+          "totalSeats": 485
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 8050878,
+          "totalSeats": 485
+        },
+        {
+          "code": "Other",
+          "votes": 688937,
+          "seats": 21,
+          "sourceShare": 0.0849999999999999,
+          "totalVotes": 8050878,
+          "totalSeats": 485
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 59592,
+          "seats": 4,
+          "sourceShare": 0.113,
+          "totalVotes": 529034,
+          "totalSeats": 35
+        },
+        {
+          "code": "LAB",
+          "votes": 163055,
+          "seats": 9,
+          "sourceShare": 0.308,
+          "totalVotes": 529034,
+          "totalSeats": 35
+        },
+        {
+          "code": "LD",
+          "votes": 258759,
+          "seats": 20,
+          "sourceShare": 0.489,
+          "totalVotes": 529034,
+          "totalSeats": 35
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 529034,
+          "totalSeats": 35
+        },
+        {
+          "code": "Other",
+          "votes": 47628,
+          "seats": 2,
+          "sourceShare": 0.0899999999999999,
+          "totalVotes": 529034,
+          "totalSeats": 35
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 358469,
+          "seats": 30,
+          "sourceShare": 0.328,
+          "totalVotes": 1126711,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 265744,
+          "seats": 6,
+          "sourceShare": 0.228999999999999,
+          "totalVotes": 1126711,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 385105,
+          "seats": 33,
+          "sourceShare": 0.340999999999999,
+          "totalVotes": 1126711,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 1126711,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 117393,
+          "seats": 2,
+          "sourceShare": 0.102,
+          "totalVotes": 1126711,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1922": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 5502298,
+          "seats": 344,
+          "sourceShare": 0.385,
+          "totalVotes": 14392330,
+          "totalSeats": 615
+        },
+        {
+          "code": "LAB",
+          "votes": 4237349,
+          "seats": 142,
+          "sourceShare": 0.297,
+          "totalVotes": 14392330,
+          "totalSeats": 615
+        },
+        {
+          "code": "LD",
+          "votes": 4139460,
+          "seats": 115,
+          "sourceShare": 0.288,
+          "totalVotes": 14392330,
+          "totalSeats": 615
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 14392330,
+          "totalSeats": 615
+        },
+        {
+          "code": "Other",
+          "votes": 513223,
+          "seats": 14,
+          "sourceShare": 0.03,
+          "totalVotes": 14392330,
+          "totalSeats": 615
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 5394326,
+          "seats": 334,
+          "sourceShare": 0.38,
+          "totalVotes": 14184444,
+          "totalSeats": 603
+        },
+        {
+          "code": "LAB",
+          "votes": 4237349,
+          "seats": 142,
+          "sourceShare": 0.299,
+          "totalVotes": 14184444,
+          "totalSeats": 603
+        },
+        {
+          "code": "LD",
+          "votes": 4139460,
+          "seats": 115,
+          "sourceShare": 0.292,
+          "totalVotes": 14184444,
+          "totalSeats": 603
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 14184444,
+          "totalSeats": 603
+        },
+        {
+          "code": "Other",
+          "votes": 413309,
+          "seats": 12,
+          "sourceShare": 0.0289999999999999,
+          "totalVotes": 14184444,
+          "totalSeats": 603
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 4809797,
+          "seats": 307,
+          "sourceShare": 0.415,
+          "totalVotes": 11696430,
+          "totalSeats": 485
+        },
+        {
+          "code": "LAB",
+          "votes": 3370430,
+          "seats": 95,
+          "sourceShare": 0.288,
+          "totalVotes": 11696430,
+          "totalSeats": 485
+        },
+        {
+          "code": "LD",
+          "votes": 3210938,
+          "seats": 75,
+          "sourceShare": 0.272,
+          "totalVotes": 11696430,
+          "totalSeats": 485
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 11696430,
+          "totalSeats": 485
+        },
+        {
+          "code": "Other",
+          "votes": 305265,
+          "seats": 8,
+          "sourceShare": 0.0249999999999999,
+          "totalVotes": 11696430,
+          "totalSeats": 485
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 190919,
+          "seats": 6,
+          "sourceShare": 0.214,
+          "totalVotes": 892700,
+          "totalSeats": 35
+        },
+        {
+          "code": "LAB",
+          "votes": 363568,
+          "seats": 18,
+          "sourceShare": 0.408,
+          "totalVotes": 892700,
+          "totalSeats": 35
+        },
+        {
+          "code": "LD",
+          "votes": 305957,
+          "seats": 10,
+          "sourceShare": 0.342,
+          "totalVotes": 892700,
+          "totalSeats": 35
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 892700,
+          "totalSeats": 35
+        },
+        {
+          "code": "Other",
+          "votes": 32256,
+          "seats": 1,
+          "sourceShare": 0.036,
+          "totalVotes": 892700,
+          "totalSeats": 35
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 379396,
+          "seats": 13,
+          "sourceShare": 0.251,
+          "totalVotes": 1569361,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 501254,
+          "seats": 29,
+          "sourceShare": 0.322,
+          "totalVotes": 1569361,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 617178,
+          "seats": 27,
+          "sourceShare": 0.392,
+          "totalVotes": 1569361,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 1569361,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 71533,
+          "seats": 2,
+          "sourceShare": 0.035,
+          "totalVotes": 1569361,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1923": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 5514541,
+          "seats": 258,
+          "sourceShare": 0.38,
+          "totalVotes": 14547695,
+          "totalSeats": 615
+        },
+        {
+          "code": "LAB",
+          "votes": 4439780,
+          "seats": 191,
+          "sourceShare": 0.307,
+          "totalVotes": 14547695,
+          "totalSeats": 615
+        },
+        {
+          "code": "LD",
+          "votes": 4301481,
+          "seats": 158,
+          "sourceShare": 0.297,
+          "totalVotes": 14547695,
+          "totalSeats": 615
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 14547695,
+          "totalSeats": 615
+        },
+        {
+          "code": "Other",
+          "votes": 291893,
+          "seats": 8,
+          "sourceShare": 0.016,
+          "totalVotes": 14547695,
+          "totalSeats": 615
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 5397380,
+          "seats": 248,
+          "sourceShare": 0.377,
+          "totalVotes": 14305437,
+          "totalSeats": 603
+        },
+        {
+          "code": "LAB",
+          "votes": 4439780,
+          "seats": 191,
+          "sourceShare": 0.31,
+          "totalVotes": 14305437,
+          "totalSeats": 603
+        },
+        {
+          "code": "LD",
+          "votes": 4301481,
+          "seats": 158,
+          "sourceShare": 0.301,
+          "totalVotes": 14305437,
+          "totalSeats": 603
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 14305437,
+          "totalSeats": 603
+        },
+        {
+          "code": "Other",
+          "votes": 166796,
+          "seats": 6,
+          "sourceShare": 0.012,
+          "totalVotes": 14305437,
+          "totalSeats": 603
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 4732176,
+          "seats": 221,
+          "sourceShare": 0.397999999999999,
+          "totalVotes": 11927085,
+          "totalSeats": 485
+        },
+        {
+          "code": "LAB",
+          "votes": 3549888,
+          "seats": 138,
+          "sourceShare": 0.297,
+          "totalVotes": 11927085,
+          "totalSeats": 485
+        },
+        {
+          "code": "LD",
+          "votes": 3572335,
+          "seats": 123,
+          "sourceShare": 0.299,
+          "totalVotes": 11927085,
+          "totalSeats": 485
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 11927085,
+          "totalSeats": 485
+        },
+        {
+          "code": "Other",
+          "votes": 72686,
+          "seats": 3,
+          "sourceShare": 0.006,
+          "totalVotes": 11927085,
+          "totalSeats": 485
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 178113,
+          "seats": 4,
+          "sourceShare": 0.211,
+          "totalVotes": 845068,
+          "totalSeats": 35
+        },
+        {
+          "code": "LAB",
+          "votes": 355172,
+          "seats": 19,
+          "sourceShare": 0.42,
+          "totalVotes": 845068,
+          "totalSeats": 35
+        },
+        {
+          "code": "LD",
+          "votes": 299314,
+          "seats": 11,
+          "sourceShare": 0.354,
+          "totalVotes": 845068,
+          "totalSeats": 35
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 845068,
+          "totalSeats": 35
+        },
+        {
+          "code": "Other",
+          "votes": 12469,
+          "seats": 1,
+          "sourceShare": 0.015,
+          "totalVotes": 845068,
+          "totalSeats": 35
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 468526,
+          "seats": 14,
+          "sourceShare": 0.316,
+          "totalVotes": 1501327,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 532450,
+          "seats": 34,
+          "sourceShare": 0.359,
+          "totalVotes": 1501327,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 422995,
+          "seats": 22,
+          "sourceShare": 0.284,
+          "totalVotes": 1501327,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 1501327,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 77356,
+          "seats": 1,
+          "sourceShare": 0.0409999999999999,
+          "totalVotes": 1501327,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1924": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 7854523,
+          "seats": 412,
+          "sourceShare": 0.467999999999999,
+          "totalVotes": 16640279,
+          "totalSeats": 615
+        },
+        {
+          "code": "LAB",
+          "votes": 5489087,
+          "seats": 151,
+          "sourceShare": 0.332999999999999,
+          "totalVotes": 16640279,
+          "totalSeats": 615
+        },
+        {
+          "code": "LD",
+          "votes": 2928737,
+          "seats": 40,
+          "sourceShare": 0.178,
+          "totalVotes": 16640279,
+          "totalSeats": 615
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 16640279,
+          "totalSeats": 615
+        },
+        {
+          "code": "Other",
+          "votes": 367932,
+          "seats": 12,
+          "sourceShare": 0.021,
+          "totalVotes": 16640279,
+          "totalSeats": 615
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 7403245,
+          "seats": 400,
+          "sourceShare": 0.458999999999999,
+          "totalVotes": 16120905,
+          "totalSeats": 603
+        },
+        {
+          "code": "LAB",
+          "votes": 5489087,
+          "seats": 151,
+          "sourceShare": 0.34,
+          "totalVotes": 16120905,
+          "totalSeats": 603
+        },
+        {
+          "code": "LD",
+          "votes": 2928737,
+          "seats": 40,
+          "sourceShare": 0.182,
+          "totalVotes": 16120905,
+          "totalSeats": 603
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 16120905,
+          "totalSeats": 603
+        },
+        {
+          "code": "Other",
+          "votes": 299836,
+          "seats": 12,
+          "sourceShare": 0.0190000000000001,
+          "totalVotes": 16120905,
+          "totalSeats": 603
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 6460266,
+          "seats": 347,
+          "sourceShare": 0.477,
+          "totalVotes": 13561558,
+          "totalSeats": 485
+        },
+        {
+          "code": "LAB",
+          "votes": 4467236,
+          "seats": 109,
+          "sourceShare": 0.327999999999999,
+          "totalVotes": 13561558,
+          "totalSeats": 485
+        },
+        {
+          "code": "LD",
+          "votes": 2388429,
+          "seats": 19,
+          "sourceShare": 0.176,
+          "totalVotes": 13561558,
+          "totalSeats": 485
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 13561558,
+          "totalSeats": 485
+        },
+        {
+          "code": "Other",
+          "votes": 245627,
+          "seats": 10,
+          "sourceShare": 0.019,
+          "totalVotes": 13561558,
+          "totalSeats": 485
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 224014,
+          "seats": 9,
+          "sourceShare": 0.284,
+          "totalVotes": 789239,
+          "totalSeats": 35
+        },
+        {
+          "code": "LAB",
+          "votes": 320397,
+          "seats": 16,
+          "sourceShare": 0.406,
+          "totalVotes": 789239,
+          "totalSeats": 35
+        },
+        {
+          "code": "LD",
+          "votes": 244828,
+          "seats": 10,
+          "sourceShare": 0.31,
+          "totalVotes": 789239,
+          "totalSeats": 35
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 789239,
+          "totalSeats": 35
+        },
+        {
+          "code": "Other",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 789239,
+          "totalSeats": 35
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 688299,
+          "seats": 36,
+          "sourceShare": 0.407,
+          "totalVotes": 1717108,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 697146,
+          "seats": 26,
+          "sourceShare": 0.411,
+          "totalVotes": 1717108,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 286540,
+          "seats": 8,
+          "sourceShare": 0.166,
+          "totalVotes": 1717108,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 1717108,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 45123,
+          "seats": 1,
+          "sourceShare": 0.0159999999999999,
+          "totalVotes": 1717108,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1929": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 8656225,
+          "seats": 260,
+          "sourceShare": 0.381,
+          "totalVotes": 22648375,
+          "totalSeats": 615
+        },
+        {
+          "code": "LAB",
+          "votes": 8370417,
+          "seats": 287,
+          "sourceShare": 0.371,
+          "totalVotes": 22648375,
+          "totalSeats": 615
+        },
+        {
+          "code": "LD",
+          "votes": 5308738,
+          "seats": 59,
+          "sourceShare": 0.235,
+          "totalVotes": 22648375,
+          "totalSeats": 615
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 3922,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 22648375,
+          "totalSeats": 615
+        },
+        {
+          "code": "Other",
+          "votes": 309073,
+          "seats": 9,
+          "sourceShare": 0.013,
+          "totalVotes": 22648375,
+          "totalSeats": 615
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 8301568,
+          "seats": 250,
+          "sourceShare": 0.375,
+          "totalVotes": 22138322,
+          "totalSeats": 603
+        },
+        {
+          "code": "LAB",
+          "votes": 8370417,
+          "seats": 287,
+          "sourceShare": 0.377999999999999,
+          "totalVotes": 22138322,
+          "totalSeats": 603
+        },
+        {
+          "code": "LD",
+          "votes": 5208635,
+          "seats": 59,
+          "sourceShare": 0.235,
+          "totalVotes": 22138322,
+          "totalSeats": 603
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 22138322,
+          "totalSeats": 603
+        },
+        {
+          "code": "Other",
+          "votes": 253780,
+          "seats": 7,
+          "sourceShare": 0.0120000000000001,
+          "totalVotes": 22138322,
+          "totalSeats": 603
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 7177551,
+          "seats": 221,
+          "sourceShare": 0.387999999999999,
+          "totalVotes": 18502245,
+          "totalSeats": 485
+        },
+        {
+          "code": "LAB",
+          "votes": 6850738,
+          "seats": 226,
+          "sourceShare": 0.369,
+          "totalVotes": 18502245,
+          "totalSeats": 485
+        },
+        {
+          "code": "LD",
+          "votes": 4340703,
+          "seats": 35,
+          "sourceShare": 0.236,
+          "totalVotes": 18502245,
+          "totalSeats": 485
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 18502245,
+          "totalSeats": 485
+        },
+        {
+          "code": "Other",
+          "votes": 133253,
+          "seats": 3,
+          "sourceShare": 0.00700000000000011,
+          "totalVotes": 18502245,
+          "totalSeats": 485
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 289695,
+          "seats": 1,
+          "sourceShare": 0.22,
+          "totalVotes": 1316912,
+          "totalSeats": 35
+        },
+        {
+          "code": "LAB",
+          "votes": 577554,
+          "seats": 25,
+          "sourceShare": 0.439,
+          "totalVotes": 1316912,
+          "totalSeats": 35
+        },
+        {
+          "code": "LD",
+          "votes": 440911,
+          "seats": 9,
+          "sourceShare": 0.335,
+          "totalVotes": 1316912,
+          "totalSeats": 35
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 609,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 1316912,
+          "totalSeats": 35
+        },
+        {
+          "code": "Other",
+          "votes": 8143,
+          "seats": 0,
+          "sourceShare": 0.006,
+          "totalVotes": 1316912,
+          "totalSeats": 35
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 792063,
+          "seats": 20,
+          "sourceShare": 0.359,
+          "totalVotes": 2242941,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 937300,
+          "seats": 36,
+          "sourceShare": 0.423,
+          "totalVotes": 2242941,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 407081,
+          "seats": 13,
+          "sourceShare": 0.181,
+          "totalVotes": 2242941,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 3313,
+          "seats": 0,
+          "sourceShare": 0.002,
+          "totalVotes": 2242941,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 103184,
+          "seats": 2,
+          "sourceShare": 0.0349999999999999,
+          "totalVotes": 2242941,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1931": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13156790,
+          "seats": 522,
+          "sourceShare": 0.607,
+          "totalVotes": 21656373,
+          "totalSeats": 615
+        },
+        {
+          "code": "LAB",
+          "votes": 6649630,
+          "seats": 52,
+          "sourceShare": 0.309,
+          "totalVotes": 21656373,
+          "totalSeats": 615
+        },
+        {
+          "code": "LD",
+          "votes": 1476123,
+          "seats": 36,
+          "sourceShare": 0.07,
+          "totalVotes": 21656373,
+          "totalSeats": 615
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 23004,
+          "seats": 0,
+          "sourceShare": 0.001,
+          "totalVotes": 21656373,
+          "totalSeats": 615
+        },
+        {
+          "code": "Other",
+          "votes": 350826,
+          "seats": 5,
+          "sourceShare": 0.0129999999999997,
+          "totalVotes": 21656373,
+          "totalSeats": 615
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 13007224,
+          "seats": 512,
+          "sourceShare": 0.609,
+          "totalVotes": 21374344,
+          "totalSeats": 603
+        },
+        {
+          "code": "LAB",
+          "votes": 6640220,
+          "seats": 52,
+          "sourceShare": 0.311,
+          "totalVotes": 21374344,
+          "totalSeats": 603
+        },
+        {
+          "code": "LD",
+          "votes": 1476123,
+          "seats": 36,
+          "sourceShare": 0.069,
+          "totalVotes": 21374344,
+          "totalSeats": 603
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 23004,
+          "seats": 0,
+          "sourceShare": 0.001,
+          "totalVotes": 21374344,
+          "totalSeats": 603
+        },
+        {
+          "code": "Other",
+          "votes": 227773,
+          "seats": 3,
+          "sourceShare": 0.00999999999999989,
+          "totalVotes": 21374344,
+          "totalSeats": 603
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 11478385,
+          "seats": 436,
+          "sourceShare": 0.633,
+          "totalVotes": 18083034,
+          "totalSeats": 485
+        },
+        {
+          "code": "LAB",
+          "votes": 5464425,
+          "seats": 29,
+          "sourceShare": 0.302,
+          "totalVotes": 18083034,
+          "totalSeats": 485
+        },
+        {
+          "code": "LD",
+          "votes": 1039499,
+          "seats": 19,
+          "sourceShare": 0.06,
+          "totalVotes": 18083034,
+          "totalSeats": 485
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 18083034,
+          "totalSeats": 485
+        },
+        {
+          "code": "Other",
+          "votes": 100725,
+          "seats": 1,
+          "sourceShare": 0.00499999999999989,
+          "totalVotes": 18083034,
+          "totalSeats": 485
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 340698,
+          "seats": 11,
+          "sourceShare": 0.313,
+          "totalVotes": 1088546,
+          "totalSeats": 35
+        },
+        {
+          "code": "LAB",
+          "votes": 479547,
+          "seats": 16,
+          "sourceShare": 0.441,
+          "totalVotes": 1088546,
+          "totalSeats": 35
+        },
+        {
+          "code": "LD",
+          "votes": 229011,
+          "seats": 8,
+          "sourceShare": 0.211,
+          "totalVotes": 1088546,
+          "totalSeats": 35
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1136,
+          "seats": 0,
+          "sourceShare": 0.001,
+          "totalVotes": 1088546,
+          "totalSeats": 35
+        },
+        {
+          "code": "Other",
+          "votes": 38154,
+          "seats": 0,
+          "sourceShare": 0.034,
+          "totalVotes": 1088546,
+          "totalSeats": 35
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 1180001,
+          "seats": 57,
+          "sourceShare": 0.554,
+          "totalVotes": 2174329,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 696248,
+          "seats": 7,
+          "sourceShare": 0.326,
+          "totalVotes": 2174329,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 205384,
+          "seats": 7,
+          "sourceShare": 0.086,
+          "totalVotes": 2174329,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 20954,
+          "seats": 0,
+          "sourceShare": 0.01,
+          "totalVotes": 2174329,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 71742,
+          "seats": 0,
+          "sourceShare": 0.0239999999999999,
+          "totalVotes": 2174329,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1935": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 11755654,
+          "seats": 429,
+          "sourceShare": 0.533,
+          "totalVotes": 21997054,
+          "totalSeats": 615
+        },
+        {
+          "code": "LAB",
+          "votes": 8325491,
+          "seats": 154,
+          "sourceShare": 0.38,
+          "totalVotes": 21997054,
+          "totalSeats": 615
+        },
+        {
+          "code": "LD",
+          "votes": 1443093,
+          "seats": 21,
+          "sourceShare": 0.067,
+          "totalVotes": 21997054,
+          "totalSeats": 615
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 32051,
+          "seats": 0,
+          "sourceShare": 0.001,
+          "totalVotes": 21997054,
+          "totalSeats": 615
+        },
+        {
+          "code": "Other",
+          "votes": 440765,
+          "seats": 11,
+          "sourceShare": 0.019,
+          "totalVotes": 21997054,
+          "totalSeats": 615
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 11462814,
+          "seats": 419,
+          "sourceShare": 0.532,
+          "totalVotes": 21545887,
+          "totalSeats": 603
+        },
+        {
+          "code": "LAB",
+          "votes": 8325491,
+          "seats": 154,
+          "sourceShare": 0.386,
+          "totalVotes": 21545887,
+          "totalSeats": 603
+        },
+        {
+          "code": "LD",
+          "votes": 1443093,
+          "seats": 21,
+          "sourceShare": 0.067,
+          "totalVotes": 21545887,
+          "totalSeats": 603
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 32051,
+          "seats": 0,
+          "sourceShare": 0.001,
+          "totalVotes": 21545887,
+          "totalSeats": 603
+        },
+        {
+          "code": "Other",
+          "votes": 282438,
+          "seats": 9,
+          "sourceShare": 0.0139999999999999,
+          "totalVotes": 21545887,
+          "totalSeats": 603
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 9987937,
+          "seats": 357,
+          "sourceShare": 0.545,
+          "totalVotes": 18273035,
+          "totalSeats": 485
+        },
+        {
+          "code": "LAB",
+          "votes": 7054050,
+          "seats": 116,
+          "sourceShare": 0.385,
+          "totalVotes": 18273035,
+          "totalSeats": 485
+        },
+        {
+          "code": "LD",
+          "votes": 1108971,
+          "seats": 11,
+          "sourceShare": 0.063,
+          "totalVotes": 18273035,
+          "totalSeats": 485
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 18273035,
+          "totalSeats": 485
+        },
+        {
+          "code": "Other",
+          "votes": 122077,
+          "seats": 1,
+          "sourceShare": 0.00699999999999989,
+          "totalVotes": 18273035,
+          "totalSeats": 485
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 292527,
+          "seats": 11,
+          "sourceShare": 0.335999999999999,
+          "totalVotes": 871277,
+          "totalSeats": 35
+        },
+        {
+          "code": "LAB",
+          "votes": 395830,
+          "seats": 18,
+          "sourceShare": 0.453999999999999,
+          "totalVotes": 871277,
+          "totalSeats": 35
+        },
+        {
+          "code": "LD",
+          "votes": 157091,
+          "seats": 6,
+          "sourceShare": 0.18,
+          "totalVotes": 871277,
+          "totalSeats": 35
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 2534,
+          "seats": 0,
+          "sourceShare": 0.003,
+          "totalVotes": 871277,
+          "totalSeats": 35
+        },
+        {
+          "code": "Other",
+          "votes": 23295,
+          "seats": 0,
+          "sourceShare": 0.027,
+          "totalVotes": 871277,
+          "totalSeats": 35
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 1135403,
+          "seats": 43,
+          "sourceShare": 0.498,
+          "totalVotes": 2323797,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 863789,
+          "seats": 20,
+          "sourceShare": 0.368,
+          "totalVotes": 2323797,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 174235,
+          "seats": 3,
+          "sourceShare": 0.067,
+          "totalVotes": 2323797,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 25652,
+          "seats": 0,
+          "sourceShare": 0.011,
+          "totalVotes": 2323797,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 124718,
+          "seats": 5,
+          "sourceShare": 0.0559999999999999,
+          "totalVotes": 2323797,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1945": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 9972010,
+          "seats": 210,
+          "sourceShare": 0.396,
+          "totalVotes": 25095195,
+          "totalSeats": 640
+        },
+        {
+          "code": "LAB",
+          "votes": 11967746,
+          "seats": 393,
+          "sourceShare": 0.48,
+          "totalVotes": 25095195,
+          "totalSeats": 640
+        },
+        {
+          "code": "LD",
+          "votes": 2252430,
+          "seats": 12,
+          "sourceShare": 0.09,
+          "totalVotes": 25095195,
+          "totalSeats": 640
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 46612,
+          "seats": 0,
+          "sourceShare": 0.002,
+          "totalVotes": 25095195,
+          "totalSeats": 640
+        },
+        {
+          "code": "Other",
+          "votes": 856397,
+          "seats": 25,
+          "sourceShare": 0.032,
+          "totalVotes": 25095195,
+          "totalSeats": 640
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 9579560,
+          "seats": 202,
+          "sourceShare": 0.393000656808926,
+          "totalVotes": 24375430,
+          "totalSeats": 628
+        },
+        {
+          "code": "LAB",
+          "votes": 11902287,
+          "seats": 393,
+          "sourceShare": 0.488290339903747,
+          "totalVotes": 24375430,
+          "totalSeats": 628
+        },
+        {
+          "code": "LD",
+          "votes": 2252430,
+          "seats": 12,
+          "sourceShare": 0.0924057544831004,
+          "totalVotes": 24375430,
+          "totalSeats": 628
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 46612,
+          "seats": 0,
+          "sourceShare": 0.00191225344537511,
+          "totalVotes": 24375430,
+          "totalSeats": 628
+        },
+        {
+          "code": "Other",
+          "votes": 594541,
+          "seats": 21,
+          "sourceShare": 0.024390995358851,
+          "totalVotes": 24375430,
+          "totalSeats": 628
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 8269191,
+          "seats": 167,
+          "sourceShare": 0.402,
+          "totalVotes": 20539020,
+          "totalSeats": 510
+        },
+        {
+          "code": "LAB",
+          "votes": 9972519,
+          "seats": 331,
+          "sourceShare": 0.485,
+          "totalVotes": 20539020,
+          "totalSeats": 510
+        },
+        {
+          "code": "LD",
+          "votes": 1913917,
+          "seats": 5,
+          "sourceShare": 0.094,
+          "totalVotes": 20539020,
+          "totalSeats": 510
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 20539020,
+          "totalSeats": 510
+        },
+        {
+          "code": "Other",
+          "votes": 383393,
+          "seats": 7,
+          "sourceShare": 0.019,
+          "totalVotes": 20539020,
+          "totalSeats": 510
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 316729,
+          "seats": 4,
+          "sourceShare": 0.238,
+          "totalVotes": 1330671,
+          "totalSeats": 35
+        },
+        {
+          "code": "LAB",
+          "votes": 779184,
+          "seats": 25,
+          "sourceShare": 0.585,
+          "totalVotes": 1330671,
+          "totalSeats": 35
+        },
+        {
+          "code": "LD",
+          "votes": 198553,
+          "seats": 6,
+          "sourceShare": 0.149,
+          "totalVotes": 1330671,
+          "totalSeats": 35
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 14321,
+          "seats": 0,
+          "sourceShare": 0.011,
+          "totalVotes": 1330671,
+          "totalSeats": 35
+        },
+        {
+          "code": "Other",
+          "votes": 21884,
+          "seats": 0,
+          "sourceShare": 0.017,
+          "totalVotes": 1330671,
+          "totalSeats": 35
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 964143,
+          "seats": 27,
+          "sourceShare": 0.403425343069896,
+          "totalVotes": 2389892,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1144310,
+          "seats": 37,
+          "sourceShare": 0.478812431691473,
+          "totalVotes": 2389892,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 132849,
+          "seats": 0,
+          "sourceShare": 0.055587867568911,
+          "totalVotes": 2389892,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 30595,
+          "seats": 0,
+          "sourceShare": 0.0128018337230301,
+          "totalVotes": 2389892,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 117995,
+          "seats": 7,
+          "sourceShare": 0.0493725239466887,
+          "totalVotes": 2389892,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1950": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 12492404,
+          "seats": 298,
+          "sourceShare": 0.434199372954633,
+          "totalVotes": 28771124,
+          "totalSeats": 625
+        },
+        {
+          "code": "LAB",
+          "votes": 13266176,
+          "seats": 315,
+          "sourceShare": 0.461093421306724,
+          "totalVotes": 28771124,
+          "totalSeats": 625
+        },
+        {
+          "code": "LD",
+          "votes": 2621487,
+          "seats": 9,
+          "sourceShare": 0.0911152098194008,
+          "totalVotes": 28771124,
+          "totalSeats": 625
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 27288,
+          "seats": 0,
+          "sourceShare": 0.000948450953810494,
+          "totalVotes": 28771124,
+          "totalSeats": 625
+        },
+        {
+          "code": "Other",
+          "votes": 363769,
+          "seats": 3,
+          "sourceShare": 0.0126435449654312,
+          "totalVotes": 28771124,
+          "totalSeats": 625
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 12140070,
+          "seats": 288,
+          "sourceShare": 0.43035112124254,
+          "totalVotes": 28209686,
+          "totalSeats": 613
+        },
+        {
+          "code": "LAB",
+          "votes": 13198360,
+          "seats": 315,
+          "sourceShare": 0.467866249911466,
+          "totalVotes": 28209686,
+          "totalSeats": 613
+        },
+        {
+          "code": "LD",
+          "votes": 2621487,
+          "seats": 9,
+          "sourceShare": 0.0929286132429832,
+          "totalVotes": 28209686,
+          "totalSeats": 613
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 27288,
+          "seats": 0,
+          "sourceShare": 0.000967327321544805,
+          "totalVotes": 28209686,
+          "totalSeats": 613
+        },
+        {
+          "code": "Other",
+          "votes": 222481,
+          "seats": 1,
+          "sourceShare": 0.00788668828146477,
+          "totalVotes": 28209686,
+          "totalSeats": 613
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 10499392,
+          "seats": 253,
+          "sourceShare": 0.43830657254135,
+          "totalVotes": 23954448,
+          "totalSeats": 506
+        },
+        {
+          "code": "LAB",
+          "votes": 11050966,
+          "seats": 251,
+          "sourceShare": 0.461332525800636,
+          "totalVotes": 23954448,
+          "totalSeats": 506
+        },
+        {
+          "code": "LD",
+          "votes": 2248127,
+          "seats": 2,
+          "sourceShare": 0.0938500857961744,
+          "totalVotes": 23954448,
+          "totalSeats": 506
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 23954448,
+          "totalSeats": 506
+        },
+        {
+          "code": "Other",
+          "votes": 155963,
+          "seats": 0,
+          "sourceShare": 0.0065108158618391,
+          "totalVotes": 23954448,
+          "totalSeats": 506
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 418668,
+          "seats": 4,
+          "sourceShare": 0.273898076221056,
+          "totalVotes": 1528554,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 887984,
+          "seats": 27,
+          "sourceShare": 0.580930735845773,
+          "totalVotes": 1528554,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 193090,
+          "seats": 5,
+          "sourceShare": 0.126322001054591,
+          "totalVotes": 1528554,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 17580,
+          "seats": 0,
+          "sourceShare": 0.0115010657130857,
+          "totalVotes": 1528554,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 11232,
+          "seats": 0,
+          "sourceShare": 0.00734812116549366,
+          "totalVotes": 1528554,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 1222010,
+          "seats": 31,
+          "sourceShare": 0.448167077666498,
+          "totalVotes": 2726684,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1259410,
+          "seats": 37,
+          "sourceShare": 0.461883371890545,
+          "totalVotes": 2726684,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 180270,
+          "seats": 2,
+          "sourceShare": 0.0661132716515738,
+          "totalVotes": 2726684,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 9708,
+          "seats": 0,
+          "sourceShare": 0.0035603685648942,
+          "totalVotes": 2726684,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 55286,
+          "seats": 1,
+          "sourceShare": 0.0202759102264875,
+          "totalVotes": 2726684,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1951": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13718199,
+          "seats": 321,
+          "sourceShare": 0.479714437320752,
+          "totalVotes": 28596594,
+          "totalSeats": 625
+        },
+        {
+          "code": "LAB",
+          "votes": 13948883,
+          "seats": 295,
+          "sourceShare": 0.487781272133317,
+          "totalVotes": 28596594,
+          "totalSeats": 625
+        },
+        {
+          "code": "LD",
+          "votes": 730546,
+          "seats": 6,
+          "sourceShare": 0.0255466088024329,
+          "totalVotes": 28596594,
+          "totalSeats": 625
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 18219,
+          "seats": 0,
+          "sourceShare": 0.000637103845304094,
+          "totalVotes": 28596594,
+          "totalSeats": 625
+        },
+        {
+          "code": "Other",
+          "votes": 180747,
+          "seats": 3,
+          "sourceShare": 0.00632057789819306,
+          "totalVotes": 28596594,
+          "totalSeats": 625
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 13443271,
+          "seats": 312,
+          "sourceShare": 0.47784057664452,
+          "totalVotes": 28133381,
+          "totalSeats": 613
+        },
+        {
+          "code": "LAB",
+          "votes": 13886559,
+          "seats": 295,
+          "sourceShare": 0.493597232412272,
+          "totalVotes": 28133381,
+          "totalSeats": 613
+        },
+        {
+          "code": "LD",
+          "votes": 730546,
+          "seats": 6,
+          "sourceShare": 0.025967230884905,
+          "totalVotes": 28133381,
+          "totalSeats": 613
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 18219,
+          "seats": 0,
+          "sourceShare": 0.000647593689503582,
+          "totalVotes": 28133381,
+          "totalSeats": 613
+        },
+        {
+          "code": "Other",
+          "votes": 54786,
+          "seats": 0,
+          "sourceShare": 0.00194736636879855,
+          "totalVotes": 28133381,
+          "totalSeats": 613
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 11622704,
+          "seats": 271,
+          "sourceShare": 0.48781405429635,
+          "totalVotes": 23826095,
+          "totalSeats": 506
+        },
+        {
+          "code": "LAB",
+          "votes": 11630467,
+          "seats": 233,
+          "sourceShare": 0.488139873529422,
+          "totalVotes": 23826095,
+          "totalSeats": 506
+        },
+        {
+          "code": "LD",
+          "votes": 537434,
+          "seats": 2,
+          "sourceShare": 0.0225565288814637,
+          "totalVotes": 23826095,
+          "totalSeats": 506
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 23826095,
+          "totalSeats": 506
+        },
+        {
+          "code": "Other",
+          "votes": 35490,
+          "seats": 0,
+          "sourceShare": 0.00148954329276366,
+          "totalVotes": 23826095,
+          "totalSeats": 506
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 471269,
+          "seats": 6,
+          "sourceShare": 0.308129921298454,
+          "totalVotes": 1529449,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 925848,
+          "seats": 27,
+          "sourceShare": 0.605347415964834,
+          "totalVotes": 1529449,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 116821,
+          "seats": 3,
+          "sourceShare": 0.0763811019524024,
+          "totalVotes": 1529449,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 10920,
+          "seats": 0,
+          "sourceShare": 0.00713982617269356,
+          "totalVotes": 1529449,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 4591,
+          "seats": 0,
+          "sourceShare": 0.00300173461161501,
+          "totalVotes": 1529449,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 1349298,
+          "seats": 35,
+          "sourceShare": 0.485736924088778,
+          "totalVotes": 2777837,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1330244,
+          "seats": 35,
+          "sourceShare": 0.478877630328921,
+          "totalVotes": 2777837,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 76291,
+          "seats": 1,
+          "sourceShare": 0.0274641744638004,
+          "totalVotes": 2777837,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 7299,
+          "seats": 0,
+          "sourceShare": 0.00262758397990954,
+          "totalVotes": 2777837,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 14705,
+          "seats": 0,
+          "sourceShare": 0.00529368713859017,
+          "totalVotes": 2777837,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1955": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13310891,
+          "seats": 345,
+          "sourceShare": 0.497422488845085,
+          "totalVotes": 26759729,
+          "totalSeats": 630
+        },
+        {
+          "code": "LAB",
+          "votes": 12405254,
+          "seats": 277,
+          "sourceShare": 0.463579208892586,
+          "totalVotes": 26759729,
+          "totalSeats": 630
+        },
+        {
+          "code": "LD",
+          "votes": 722402,
+          "seats": 6,
+          "sourceShare": 0.0269958638220887,
+          "totalVotes": 26759729,
+          "totalSeats": 630
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 57231,
+          "seats": 0,
+          "sourceShare": 0.00213869878876576,
+          "totalVotes": 26759729,
+          "totalSeats": 630
+        },
+        {
+          "code": "Other",
+          "votes": 263951,
+          "seats": 2,
+          "sourceShare": 0.00986373965147413,
+          "totalVotes": 26759729,
+          "totalSeats": 630
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 12868244,
+          "seats": 335,
+          "sourceShare": 0.492788679156843,
+          "totalVotes": 26113108,
+          "totalSeats": 618
+        },
+        {
+          "code": "LAB",
+          "votes": 12369640,
+          "seats": 277,
+          "sourceShare": 0.473694667061462,
+          "totalVotes": 26113108,
+          "totalSeats": 618
+        },
+        {
+          "code": "LD",
+          "votes": 722402,
+          "seats": 6,
+          "sourceShare": 0.0276643438996231,
+          "totalVotes": 26113108,
+          "totalSeats": 618
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 57231,
+          "seats": 0,
+          "sourceShare": 0.00219165792137803,
+          "totalVotes": 26113108,
+          "totalSeats": 618
+        },
+        {
+          "code": "Other",
+          "votes": 95591,
+          "seats": 0,
+          "sourceShare": 0.00366065196069353,
+          "totalVotes": 26113108,
+          "totalSeats": 618
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 11165436,
+          "seats": 293,
+          "sourceShare": 0.504,
+          "totalVotes": 22136130,
+          "totalSeats": 511
+        },
+        {
+          "code": "LAB",
+          "votes": 10355892,
+          "seats": 216,
+          "sourceShare": 0.467827574196573,
+          "totalVotes": 22136130,
+          "totalSeats": 511
+        },
+        {
+          "code": "LD",
+          "votes": 571034,
+          "seats": 2,
+          "sourceShare": 0.0257964693918946,
+          "totalVotes": 22136130,
+          "totalSeats": 511
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 22136130,
+          "totalSeats": 511
+        },
+        {
+          "code": "Other",
+          "votes": 43768,
+          "seats": 0,
+          "sourceShare": 0.00197722004704526,
+          "totalVotes": 22136130,
+          "totalSeats": 511
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 428866,
+          "seats": 6,
+          "sourceShare": 0.299127307626851,
+          "totalVotes": 1433724,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 825690,
+          "seats": 27,
+          "sourceShare": 0.575905822878043,
+          "totalVotes": 1433724,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 104095,
+          "seats": 3,
+          "sourceShare": 0.0726046296218798,
+          "totalVotes": 1433724,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 45119,
+          "seats": 0,
+          "sourceShare": 0.0314697947443162,
+          "totalVotes": 1433724,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 29954,
+          "seats": 0,
+          "sourceShare": 0.020892445128909,
+          "totalVotes": 1433724,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 1273942,
+          "seats": 36,
+          "sourceShare": 0.500910251197874,
+          "totalVotes": 2543254,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1188058,
+          "seats": 34,
+          "sourceShare": 0.467140914749372,
+          "totalVotes": 2543254,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 47273,
+          "seats": 1,
+          "sourceShare": 0.0185876046985476,
+          "totalVotes": 2543254,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 12112,
+          "seats": 0,
+          "sourceShare": 0.00476240281151627,
+          "totalVotes": 2543254,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 21869,
+          "seats": 0,
+          "sourceShare": 0.00859882654268888,
+          "totalVotes": 2543254,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1959": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13750875,
+          "seats": 365,
+          "sourceShare": 0.493523552603678,
+          "totalVotes": 27862652,
+          "totalSeats": 630
+        },
+        {
+          "code": "LAB",
+          "votes": 12216172,
+          "seats": 258,
+          "sourceShare": 0.438442543085991,
+          "totalVotes": 27862652,
+          "totalSeats": 630
+        },
+        {
+          "code": "LD",
+          "votes": 1640760,
+          "seats": 6,
+          "sourceShare": 0.0588874311031125,
+          "totalVotes": 27862652,
+          "totalSeats": 630
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 99309,
+          "seats": 0,
+          "sourceShare": 0.00356423358408237,
+          "totalVotes": 27862652,
+          "totalSeats": 630
+        },
+        {
+          "code": "Other",
+          "votes": 155536,
+          "seats": 1,
+          "sourceShare": 0.0055822396231342,
+          "totalVotes": 27862652,
+          "totalSeats": 630
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 13305862,
+          "seats": 353,
+          "sourceShare": 0.487634653848917,
+          "totalVotes": 27286539,
+          "totalSeats": 618
+        },
+        {
+          "code": "LAB",
+          "votes": 12171802,
+          "seats": 258,
+          "sourceShare": 0.446073501663219,
+          "totalVotes": 27286539,
+          "totalSeats": 618
+        },
+        {
+          "code": "LD",
+          "votes": 1637507,
+          "seats": 6,
+          "sourceShare": 0.0600115316933378,
+          "totalVotes": 27286539,
+          "totalSeats": 618
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 99309,
+          "seats": 0,
+          "sourceShare": 0.00363948685467218,
+          "totalVotes": 27286539,
+          "totalSeats": 618
+        },
+        {
+          "code": "Other",
+          "votes": 72059,
+          "seats": 1,
+          "sourceShare": 0.00264082593985259,
+          "totalVotes": 27286539,
+          "totalSeats": 618
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 11559240,
+          "seats": 315,
+          "sourceShare": 0.499799180802956,
+          "totalVotes": 23127769,
+          "totalSeats": 511
+        },
+        {
+          "code": "LAB",
+          "votes": 10085097,
+          "seats": 193,
+          "sourceShare": 0.436060088631981,
+          "totalVotes": 23127769,
+          "totalSeats": 511
+        },
+        {
+          "code": "LD",
+          "votes": 1449593,
+          "seats": 3,
+          "sourceShare": 0.0626775976532799,
+          "totalVotes": 23127769,
+          "totalSeats": 511
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 23127769,
+          "totalSeats": 511
+        },
+        {
+          "code": "Other",
+          "votes": 33839,
+          "seats": 0,
+          "sourceShare": 0.00146313291178236,
+          "totalVotes": 23127769,
+          "totalSeats": 511
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 486335,
+          "seats": 7,
+          "sourceShare": 0.326124202602234,
+          "totalVotes": 1491257,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 841450,
+          "seats": 27,
+          "sourceShare": 0.564255524031069,
+          "totalVotes": 1491257,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 78951,
+          "seats": 2,
+          "sourceShare": 0.0529425846785631,
+          "totalVotes": 1491257,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 77571,
+          "seats": 0,
+          "sourceShare": 0.0520171908664971,
+          "totalVotes": 1491257,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 6950,
+          "seats": 0,
+          "sourceShare": 0.00466049782163635,
+          "totalVotes": 1491257,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 1260287,
+          "seats": 31,
+          "sourceShare": 0.472457678744208,
+          "totalVotes": 2667513,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1245255,
+          "seats": 38,
+          "sourceShare": 0.466822467219466,
+          "totalVotes": 2667513,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 108963,
+          "seats": 1,
+          "sourceShare": 0.0408481608149613,
+          "totalVotes": 2667513,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 21738,
+          "seats": 0,
+          "sourceShare": 0.00814916365918366,
+          "totalVotes": 2667513,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 31270,
+          "seats": 1,
+          "sourceShare": 0.01172252956218,
+          "totalVotes": 2667513,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1964": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 12002642,
+          "seats": 304,
+          "sourceShare": 0.433979743681452,
+          "totalVotes": 27657148,
+          "totalSeats": 630
+        },
+        {
+          "code": "LAB",
+          "votes": 12205808,
+          "seats": 317,
+          "sourceShare": 0.441325620414657,
+          "totalVotes": 27657148,
+          "totalSeats": 630
+        },
+        {
+          "code": "LD",
+          "votes": 3099283,
+          "seats": 9,
+          "sourceShare": 0.112060831434969,
+          "totalVotes": 27657148,
+          "totalSeats": 630
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 133551,
+          "seats": 0,
+          "sourceShare": 0.00482880592026336,
+          "totalVotes": 27657148,
+          "totalSeats": 630
+        },
+        {
+          "code": "Other",
+          "votes": 215864,
+          "seats": 0,
+          "sourceShare": 0.00780499854865734,
+          "totalVotes": 27657148,
+          "totalSeats": 630
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 11600745,
+          "seats": 292,
+          "sourceShare": 0.429357753140476,
+          "totalVotes": 27018832,
+          "totalSeats": 618
+        },
+        {
+          "code": "LAB",
+          "votes": 12103049,
+          "seats": 317,
+          "sourceShare": 0.447948638194278,
+          "totalVotes": 27018832,
+          "totalSeats": 618
+        },
+        {
+          "code": "LD",
+          "votes": 3081929,
+          "seats": 9,
+          "sourceShare": 0.114065959624013,
+          "totalVotes": 27018832,
+          "totalSeats": 618
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 133551,
+          "seats": 0,
+          "sourceShare": 0.00494288576204922,
+          "totalVotes": 27018832,
+          "totalSeats": 618
+        },
+        {
+          "code": "Other",
+          "votes": 99558,
+          "seats": 0,
+          "sourceShare": 0.00368476327918243,
+          "totalVotes": 27018832,
+          "totalSeats": 618
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 10106028,
+          "seats": 262,
+          "sourceShare": 0.440594559478814,
+          "totalVotes": 22937251,
+          "totalSeats": 511
+        },
+        {
+          "code": "LAB",
+          "votes": 9982360,
+          "seats": 246,
+          "sourceShare": 0.435202980514099,
+          "totalVotes": 22937251,
+          "totalSeats": 511
+        },
+        {
+          "code": "LD",
+          "votes": 2775752,
+          "seats": 3,
+          "sourceShare": 0.121015024860651,
+          "totalVotes": 22937251,
+          "totalSeats": 511
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 22937251,
+          "totalSeats": 511
+        },
+        {
+          "code": "Other",
+          "votes": 73111,
+          "seats": 0,
+          "sourceShare": 0.00318743514643494,
+          "totalVotes": 22937251,
+          "totalSeats": 511
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 425022,
+          "seats": 6,
+          "sourceShare": 0.293717805011879,
+          "totalVotes": 1447042,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 837022,
+          "seats": 28,
+          "sourceShare": 0.578436562311252,
+          "totalVotes": 1447042,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 106114,
+          "seats": 2,
+          "sourceShare": 0.0733316655632663,
+          "totalVotes": 1447042,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 69507,
+          "seats": 0,
+          "sourceShare": 0.048033851125261,
+          "totalVotes": 1447042,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 9377,
+          "seats": 0,
+          "sourceShare": 0.00648011598834041,
+          "totalVotes": 1447042,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 1069695,
+          "seats": 24,
+          "sourceShare": 0.406027392268628,
+          "totalVotes": 2634539,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1283667,
+          "seats": 43,
+          "sourceShare": 0.487245396632959,
+          "totalVotes": 2634539,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 200063,
+          "seats": 4,
+          "sourceShare": 0.0759385228307495,
+          "totalVotes": 2634539,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 64044,
+          "seats": 0,
+          "sourceShare": 0.0243093763273195,
+          "totalVotes": 2634539,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 17070,
+          "seats": 0,
+          "sourceShare": 0.00647931194034332,
+          "totalVotes": 2634539,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1966": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 11418455,
+          "seats": 253,
+          "sourceShare": 0.418799228175489,
+          "totalVotes": 27264747,
+          "totalSeats": 630
+        },
+        {
+          "code": "LAB",
+          "votes": 13096629,
+          "seats": 364,
+          "sourceShare": 0.48035028529698,
+          "totalVotes": 27264747,
+          "totalSeats": 630
+        },
+        {
+          "code": "LD",
+          "votes": 2327457,
+          "seats": 12,
+          "sourceShare": 0.0853650686727443,
+          "totalVotes": 27264747,
+          "totalSeats": 630
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 189545,
+          "seats": 0,
+          "sourceShare": 0.00695201756319249,
+          "totalVotes": 27264747,
+          "totalSeats": 630
+        },
+        {
+          "code": "Other",
+          "votes": 232661,
+          "seats": 1,
+          "sourceShare": 0.00853340029159266,
+          "totalVotes": 27264747,
+          "totalSeats": 630
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 11049826,
+          "seats": 242,
+          "sourceShare": 0.414339833758991,
+          "totalVotes": 26668510,
+          "totalSeats": 618
+        },
+        {
+          "code": "LAB",
+          "votes": 13024016,
+          "seats": 364,
+          "sourceShare": 0.488366841642071,
+          "totalVotes": 26668510,
+          "totalSeats": 618
+        },
+        {
+          "code": "LD",
+          "votes": 2298348,
+          "seats": 12,
+          "sourceShare": 0.0861820926628446,
+          "totalVotes": 26668510,
+          "totalSeats": 618
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 189545,
+          "seats": 0,
+          "sourceShare": 0.00710744619778157,
+          "totalVotes": 26668510,
+          "totalSeats": 618
+        },
+        {
+          "code": "Other",
+          "votes": 106775,
+          "seats": 0,
+          "sourceShare": 0.00400378573831083,
+          "totalVotes": 26668510,
+          "totalSeats": 618
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 9692356,
+          "seats": 219,
+          "sourceShare": 0.427113482995298,
+          "totalVotes": 22692695,
+          "totalSeats": 511
+        },
+        {
+          "code": "LAB",
+          "votes": 10886408,
+          "seats": 285,
+          "sourceShare": 0.479731825594095,
+          "totalVotes": 22692695,
+          "totalSeats": 511
+        },
+        {
+          "code": "LD",
+          "votes": 2036793,
+          "seats": 6,
+          "sourceShare": 0.0897554477332903,
+          "totalVotes": 22692695,
+          "totalSeats": 511
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 22692695,
+          "totalSeats": 511
+        },
+        {
+          "code": "Other",
+          "votes": 77138,
+          "seats": 1,
+          "sourceShare": 0.00339924367731554,
+          "totalVotes": 22692695,
+          "totalSeats": 511
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 396795,
+          "seats": 3,
+          "sourceShare": 0.278758777183362,
+          "totalVotes": 1423435,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 863692,
+          "seats": 32,
+          "sourceShare": 0.60676602725098,
+          "totalVotes": 1423435,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 89108,
+          "seats": 1,
+          "sourceShare": 0.06260068074762801,
+          "totalVotes": 1423435,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 61071,
+          "seats": 0,
+          "sourceShare": 0.0429039611924675,
+          "totalVotes": 1423435,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 12769,
+          "seats": 0,
+          "sourceShare": 0.00897055362556065,
+          "totalVotes": 1423435,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 960675,
+          "seats": 20,
+          "sourceShare": 0.37638400238209,
+          "totalVotes": 2552380,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1273916,
+          "seats": 46,
+          "sourceShare": 0.499109066831741,
+          "totalVotes": 2552380,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 172447,
+          "seats": 5,
+          "sourceShare": 0.0675632155086625,
+          "totalVotes": 2552380,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 128474,
+          "seats": 0,
+          "sourceShare": 0.0503349814682766,
+          "totalVotes": 2552380,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 16868,
+          "seats": 0,
+          "sourceShare": 0.006608733809229,
+          "totalVotes": 2552380,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1970": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13145123,
+          "seats": 330,
+          "sourceShare": 0.463757864847017,
+          "totalVotes": 28344798,
+          "totalSeats": 630
+        },
+        {
+          "code": "LAB",
+          "votes": 12208758,
+          "seats": 288,
+          "sourceShare": 0.430723055426254,
+          "totalVotes": 28344798,
+          "totalSeats": 630
+        },
+        {
+          "code": "LD",
+          "votes": 2117035,
+          "seats": 6,
+          "sourceShare": 0.0746886606847577,
+          "totalVotes": 28344798,
+          "totalSeats": 630
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 481818,
+          "seats": 1,
+          "sourceShare": 0.0169984629983956,
+          "totalVotes": 28344798,
+          "totalSeats": 630
+        },
+        {
+          "code": "Other",
+          "votes": 392064,
+          "seats": 5,
+          "sourceShare": 0.0138319560435745,
+          "totalVotes": 28344798,
+          "totalSeats": 630
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 12723082,
+          "seats": 322,
+          "sourceShare": 0.461555081979642,
+          "totalVotes": 27565685,
+          "totalSeats": 618
+        },
+        {
+          "code": "LAB",
+          "votes": 12110564,
+          "seats": 288,
+          "sourceShare": 0.439334774376185,
+          "totalVotes": 27565685,
+          "totalSeats": 618
+        },
+        {
+          "code": "LD",
+          "votes": 2105030,
+          "seats": 6,
+          "sourceShare": 0.0763641462202009,
+          "totalVotes": 27565685,
+          "totalSeats": 618
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 481818,
+          "seats": 1,
+          "sourceShare": 0.0174789053854457,
+          "totalVotes": 27565685,
+          "totalSeats": 618
+        },
+        {
+          "code": "Other",
+          "votes": 145191,
+          "seats": 1,
+          "sourceShare": 0.00526709203852548,
+          "totalVotes": 27565685,
+          "totalSeats": 618
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 11282524,
+          "seats": 292,
+          "sourceShare": 0.48296623554165,
+          "totalVotes": 23360896,
+          "totalSeats": 511
+        },
+        {
+          "code": "LAB",
+          "votes": 10131555,
+          "seats": 216,
+          "sourceShare": 0.433697192094001,
+          "totalVotes": 23360896,
+          "totalSeats": 511
+        },
+        {
+          "code": "LD",
+          "votes": 1853616,
+          "seats": 2,
+          "sourceShare": 0.079346956555091,
+          "totalVotes": 23360896,
+          "totalSeats": 511
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 23360896,
+          "totalSeats": 511
+        },
+        {
+          "code": "Other",
+          "votes": 93201,
+          "seats": 1,
+          "sourceShare": 0.00398961580925663,
+          "totalVotes": 23360896,
+          "totalSeats": 511
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 419884,
+          "seats": 7,
+          "sourceShare": 0.276867160681386,
+          "totalVotes": 1516554,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 781941,
+          "seats": 27,
+          "sourceShare": 0.515603796501806,
+          "totalVotes": 1516554,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 103747,
+          "seats": 1,
+          "sourceShare": 0.0684096972478395,
+          "totalVotes": 1516554,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 175016,
+          "seats": 0,
+          "sourceShare": 0.115403737684249,
+          "totalVotes": 1516554,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 35966,
+          "seats": 1,
+          "sourceShare": 0.0237156078847176,
+          "totalVotes": 1516554,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 1020674,
+          "seats": 23,
+          "sourceShare": 0.379681835851404,
+          "totalVotes": 2688235,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1197068,
+          "seats": 44,
+          "sourceShare": 0.445298867100532,
+          "totalVotes": 2688235,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 147667,
+          "seats": 3,
+          "sourceShare": 0.0549308375197852,
+          "totalVotes": 2688235,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 306802,
+          "seats": 1,
+          "sourceShare": 0.114127671129942,
+          "totalVotes": 2688235,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 16024,
+          "seats": 0,
+          "sourceShare": 0.00596078839833566,
+          "totalVotes": 2688235,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1974F": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 11872180,
+          "seats": 297,
+          "sourceShare": 0.378816803818691,
+          "totalVotes": 31340162,
+          "totalSeats": 635
+        },
+        {
+          "code": "LAB",
+          "votes": 11645616,
+          "seats": 301,
+          "sourceShare": 0.371587613363325,
+          "totalVotes": 31340162,
+          "totalSeats": 635
+        },
+        {
+          "code": "LD",
+          "votes": 6059519,
+          "seats": 14,
+          "sourceShare": 0.193346767001395,
+          "totalVotes": 31340162,
+          "totalSeats": 635
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 804554,
+          "seats": 9,
+          "sourceShare": 0.0256716605357687,
+          "totalVotes": 31340162,
+          "totalSeats": 635
+        },
+        {
+          "code": "Other",
+          "votes": 958293,
+          "seats": 14,
+          "sourceShare": 0.0305771552808182,
+          "totalVotes": 31340162,
+          "totalSeats": 635
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 11872180,
+          "seats": 297,
+          "sourceShare": 0.387694213176857,
+          "totalVotes": 30622536,
+          "totalSeats": 623
+        },
+        {
+          "code": "LAB",
+          "votes": 11645616,
+          "seats": 301,
+          "sourceShare": 0.380295609743099,
+          "totalVotes": 30622536,
+          "totalSeats": 623
+        },
+        {
+          "code": "LD",
+          "votes": 6059519,
+          "seats": 14,
+          "sourceShare": 0.197877765577612,
+          "totalVotes": 30622536,
+          "totalSeats": 623
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 804554,
+          "seats": 9,
+          "sourceShare": 0.0262732648922349,
+          "totalVotes": 30622536,
+          "totalSeats": 623
+        },
+        {
+          "code": "Other",
+          "votes": 240667,
+          "seats": 2,
+          "sourceShare": 0.00785914661019593,
+          "totalVotes": 30622536,
+          "totalSeats": 623
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 10508977,
+          "seats": 268,
+          "sourceShare": 0.402001781221039,
+          "totalVotes": 26141618,
+          "totalSeats": 516
+        },
+        {
+          "code": "LAB",
+          "votes": 9842468,
+          "seats": 237,
+          "sourceShare": 0.376505692952899,
+          "totalVotes": 26141618,
+          "totalSeats": 516
+        },
+        {
+          "code": "LD",
+          "votes": 5574934,
+          "seats": 9,
+          "sourceShare": 0.213258949771203,
+          "totalVotes": 26141618,
+          "totalSeats": 516
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 26141618,
+          "totalSeats": 516
+        },
+        {
+          "code": "Other",
+          "votes": 215239,
+          "seats": 2,
+          "sourceShare": 0.00823357605485628,
+          "totalVotes": 26141618,
+          "totalSeats": 516
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 412535,
+          "seats": 8,
+          "sourceShare": 0.258830386681749,
+          "totalVotes": 1593843,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 745547,
+          "seats": 24,
+          "sourceShare": 0.467766900504001,
+          "totalVotes": 1593843,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 255423,
+          "seats": 2,
+          "sourceShare": 0.160256060352242,
+          "totalVotes": 1593843,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 171374,
+          "seats": 2,
+          "sourceShare": 0.10752251005902,
+          "totalVotes": 1593843,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 8964,
+          "seats": 0,
+          "sourceShare": 0.00562414240298447,
+          "totalVotes": 1593843,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 950668,
+          "seats": 21,
+          "sourceShare": 0.329284137059134,
+          "totalVotes": 2887075,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1057601,
+          "seats": 40,
+          "sourceShare": 0.366322662210022,
+          "totalVotes": 2887075,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 229162,
+          "seats": 3,
+          "sourceShare": 0.0793751461254037,
+          "totalVotes": 2887075,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 633180,
+          "seats": 7,
+          "sourceShare": 0.21931539707143,
+          "totalVotes": 2887075,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 16464,
+          "seats": 0,
+          "sourceShare": 0.00570265753400931,
+          "totalVotes": 2887075,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1974O": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 10462565,
+          "seats": 277,
+          "sourceShare": 0.358440772967885,
+          "totalVotes": 29189104,
+          "totalSeats": 635
+        },
+        {
+          "code": "LAB",
+          "votes": 11457079,
+          "seats": 319,
+          "sourceShare": 0.392512185368896,
+          "totalVotes": 29189104,
+          "totalSeats": 635
+        },
+        {
+          "code": "LD",
+          "votes": 5346704,
+          "seats": 13,
+          "sourceShare": 0.183174653117135,
+          "totalVotes": 29189104,
+          "totalSeats": 635
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1005938,
+          "seats": 14,
+          "sourceShare": 0.0344627913210354,
+          "totalVotes": 29189104,
+          "totalSeats": 635
+        },
+        {
+          "code": "Other",
+          "votes": 916818,
+          "seats": 12,
+          "sourceShare": 0.0314095972250467,
+          "totalVotes": 29189104,
+          "totalSeats": 635
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 10462565,
+          "seats": 277,
+          "sourceShare": 0.367274943913032,
+          "totalVotes": 28487010,
+          "totalSeats": 623
+        },
+        {
+          "code": "LAB",
+          "votes": 11457079,
+          "seats": 319,
+          "sourceShare": 0.402186084113425,
+          "totalVotes": 28487010,
+          "totalSeats": 623
+        },
+        {
+          "code": "LD",
+          "votes": 5346704,
+          "seats": 13,
+          "sourceShare": 0.187689195882614,
+          "totalVotes": 28487010,
+          "totalSeats": 623
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1005938,
+          "seats": 14,
+          "sourceShare": 0.0353121650885789,
+          "totalVotes": 28487010,
+          "totalSeats": 623
+        },
+        {
+          "code": "Other",
+          "votes": 214724,
+          "seats": 0,
+          "sourceShare": 0.00753761100234817,
+          "totalVotes": 28487010,
+          "totalSeats": 623
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 9414008,
+          "seats": 253,
+          "sourceShare": 0.389152211504171,
+          "totalVotes": 24191069,
+          "totalSeats": 516
+        },
+        {
+          "code": "LAB",
+          "votes": 9695051,
+          "seats": 255,
+          "sourceShare": 0.400769846094854,
+          "totalVotes": 24191069,
+          "totalSeats": 516
+        },
+        {
+          "code": "LD",
+          "votes": 4878792,
+          "seats": 8,
+          "sourceShare": 0.201677404169282,
+          "totalVotes": 24191069,
+          "totalSeats": 516
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 24191069,
+          "totalSeats": 516
+        },
+        {
+          "code": "Other",
+          "votes": 203218,
+          "seats": 0,
+          "sourceShare": 0.00840053823169203,
+          "totalVotes": 24191069,
+          "totalSeats": 516
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 367230,
+          "seats": 8,
+          "sourceShare": 0.238795973573323,
+          "totalVotes": 1537840,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 761447,
+          "seats": 23,
+          "sourceShare": 0.495140586797066,
+          "totalVotes": 1537840,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 239057,
+          "seats": 2,
+          "sourceShare": 0.155449851740103,
+          "totalVotes": 1537840,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 166321,
+          "seats": 3,
+          "sourceShare": 0.108152343546792,
+          "totalVotes": 1537840,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 3785,
+          "seats": 0,
+          "sourceShare": 0.00246124434271444,
+          "totalVotes": 1537840,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 681327,
+          "seats": 16,
+          "sourceShare": 0.247027574407173,
+          "totalVotes": 2758101,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1000581,
+          "seats": 41,
+          "sourceShare": 0.362778955520483,
+          "totalVotes": 2758101,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 228855,
+          "seats": 3,
+          "sourceShare": 0.0829755690600162,
+          "totalVotes": 2758101,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 839617,
+          "seats": 11,
+          "sourceShare": 0.304418511142267,
+          "totalVotes": 2758101,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 7721,
+          "seats": 0,
+          "sourceShare": 0.00279938987005914,
+          "totalVotes": 2758101,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1979": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13697923,
+          "seats": 339,
+          "sourceShare": 0.438735600323906,
+          "totalVotes": 31221362,
+          "totalSeats": 635
+        },
+        {
+          "code": "LAB",
+          "votes": 11532218,
+          "seats": 269,
+          "sourceShare": 0.369369472094138,
+          "totalVotes": 31221362,
+          "totalSeats": 635
+        },
+        {
+          "code": "LD",
+          "votes": 4313804,
+          "seats": 11,
+          "sourceShare": 0.138168347684511,
+          "totalVotes": 31221362,
+          "totalSeats": 635
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 636803,
+          "seats": 4,
+          "sourceShare": 0.0203963875759167,
+          "totalVotes": 31221362,
+          "totalSeats": 635
+        },
+        {
+          "code": "Other",
+          "votes": 1040614,
+          "seats": 12,
+          "sourceShare": 0.0333301923215265,
+          "totalVotes": 31221362,
+          "totalSeats": 635
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 13697923,
+          "seats": 339,
+          "sourceShare": 0.448737423414377,
+          "totalVotes": 30525475,
+          "totalSeats": 623
+        },
+        {
+          "code": "LAB",
+          "votes": 11532218,
+          "seats": 269,
+          "sourceShare": 0.377789960680382,
+          "totalVotes": 30525475,
+          "totalSeats": 623
+        },
+        {
+          "code": "LD",
+          "votes": 4313804,
+          "seats": 11,
+          "sourceShare": 0.141318161306253,
+          "totalVotes": 30525475,
+          "totalSeats": 623
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 636803,
+          "seats": 4,
+          "sourceShare": 0.0208613625177003,
+          "totalVotes": 30525475,
+          "totalSeats": 623
+        },
+        {
+          "code": "Other",
+          "votes": 344727,
+          "seats": 0,
+          "sourceShare": 0.0112930920812861,
+          "totalVotes": 30525475,
+          "totalSeats": 623
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 12255514,
+          "seats": 306,
+          "sourceShare": 0.471869553080691,
+          "totalVotes": 25972250,
+          "totalSeats": 516
+        },
+        {
+          "code": "LAB",
+          "votes": 9525280,
+          "seats": 203,
+          "sourceShare": 0.36674835641887,
+          "totalVotes": 25972250,
+          "totalSeats": 516
+        },
+        {
+          "code": "LD",
+          "votes": 3878055,
+          "seats": 7,
+          "sourceShare": 0.149315326935479,
+          "totalVotes": 25972250,
+          "totalSeats": 516
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 25972250,
+          "totalSeats": 516
+        },
+        {
+          "code": "Other",
+          "votes": 313401,
+          "seats": 0,
+          "sourceShare": 0.0120667635649587,
+          "totalVotes": 25972250,
+          "totalSeats": 516
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 526254,
+          "seats": 11,
+          "sourceShare": 0.321555577824107,
+          "totalVotes": 1636588,
+          "totalSeats": 36
+        },
+        {
+          "code": "LAB",
+          "votes": 795493,
+          "seats": 22,
+          "sourceShare": 0.486067965792245,
+          "totalVotes": 1636588,
+          "totalSeats": 36
+        },
+        {
+          "code": "LD",
+          "votes": 173525,
+          "seats": 1,
+          "sourceShare": 0.106028517867661,
+          "totalVotes": 1636588,
+          "totalSeats": 36
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 132544,
+          "seats": 2,
+          "sourceShare": 0.0809880067555181,
+          "totalVotes": 1636588,
+          "totalSeats": 36
+        },
+        {
+          "code": "Other",
+          "votes": 8772,
+          "seats": 0,
+          "sourceShare": 0.00535993176046756,
+          "totalVotes": 1636588,
+          "totalSeats": 36
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 916155,
+          "seats": 22,
+          "sourceShare": 0.314113480697117,
+          "totalVotes": 2916637,
+          "totalSeats": 71
+        },
+        {
+          "code": "LAB",
+          "votes": 1211445,
+          "seats": 44,
+          "sourceShare": 0.415356796200555,
+          "totalVotes": 2916637,
+          "totalSeats": 71
+        },
+        {
+          "code": "LD",
+          "votes": 262224,
+          "seats": 3,
+          "sourceShare": 0.0899062859039366,
+          "totalVotes": 2916637,
+          "totalSeats": 71
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 504259,
+          "seats": 2,
+          "sourceShare": 0.172890558543966,
+          "totalVotes": 2916637,
+          "totalSeats": 71
+        },
+        {
+          "code": "Other",
+          "votes": 22554,
+          "seats": 0,
+          "sourceShare": 0.00773287865442291,
+          "totalVotes": 2916637,
+          "totalSeats": 71
+        }
+      ]
+    },
+    "1983": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13012316,
+          "seats": 397,
+          "sourceShare": 0.424252808104244,
+          "totalVotes": 30671137,
+          "totalSeats": 650
+        },
+        {
+          "code": "LAB",
+          "votes": 8456934,
+          "seats": 209,
+          "sourceShare": 0.275729393403316,
+          "totalVotes": 30671137,
+          "totalSeats": 650
+        },
+        {
+          "code": "LD",
+          "votes": 7780949,
+          "seats": 23,
+          "sourceShare": 0.25368961704941,
+          "totalVotes": 30671137,
+          "totalSeats": 650
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 457284,
+          "seats": 4,
+          "sourceShare": 0.0149092614336403,
+          "totalVotes": 30671137,
+          "totalSeats": 650
+        },
+        {
+          "code": "Other",
+          "votes": 963654,
+          "seats": 17,
+          "sourceShare": 0.0314189200093886,
+          "totalVotes": 30671137,
+          "totalSeats": 650
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 13012316,
+          "seats": 397,
+          "sourceShare": 0.435104118167824,
+          "totalVotes": 29906212,
+          "totalSeats": 633
+        },
+        {
+          "code": "LAB",
+          "votes": 8456934,
+          "seats": 209,
+          "sourceShare": 0.282781851476208,
+          "totalVotes": 29906212,
+          "totalSeats": 633
+        },
+        {
+          "code": "LD",
+          "votes": 7780949,
+          "seats": 23,
+          "sourceShare": 0.260178353580854,
+          "totalVotes": 29906212,
+          "totalSeats": 633
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 457284,
+          "seats": 4,
+          "sourceShare": 0.0152906025009118,
+          "totalVotes": 29906212,
+          "totalSeats": 633
+        },
+        {
+          "code": "Other",
+          "votes": 198729,
+          "seats": 0,
+          "sourceShare": 0.00664507427420091,
+          "totalVotes": 29906212,
+          "totalSeats": 633
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 11711519,
+          "seats": 362,
+          "sourceShare": 0.459768451224109,
+          "totalVotes": 25472646,
+          "totalSeats": 523
+        },
+        {
+          "code": "LAB",
+          "votes": 6862422,
+          "seats": 148,
+          "sourceShare": 0.269403579039256,
+          "totalVotes": 25472646,
+          "totalSeats": 523
+        },
+        {
+          "code": "LD",
+          "votes": 6714957,
+          "seats": 13,
+          "sourceShare": 0.263614427806204,
+          "totalVotes": 25472646,
+          "totalSeats": 523
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 25472646,
+          "totalSeats": 523
+        },
+        {
+          "code": "Other",
+          "votes": 183748,
+          "seats": 0,
+          "sourceShare": 0.00721354193042999,
+          "totalVotes": 25472646,
+          "totalSeats": 523
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 499310,
+          "seats": 14,
+          "sourceShare": 0.310325882263736,
+          "totalVotes": 1608986,
+          "totalSeats": 38
+        },
+        {
+          "code": "LAB",
+          "votes": 603858,
+          "seats": 20,
+          "sourceShare": 0.375303451987773,
+          "totalVotes": 1608986,
+          "totalSeats": 38
+        },
+        {
+          "code": "LD",
+          "votes": 373358,
+          "seats": 2,
+          "sourceShare": 0.232045524324015,
+          "totalVotes": 1608986,
+          "totalSeats": 38
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 125309,
+          "seats": 2,
+          "sourceShare": 0.0778807273649366,
+          "totalVotes": 1608986,
+          "totalSeats": 38
+        },
+        {
+          "code": "Other",
+          "votes": 7151,
+          "seats": 0,
+          "sourceShare": 0.0044444140595381,
+          "totalVotes": 1608986,
+          "totalSeats": 38
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 801487,
+          "seats": 21,
+          "sourceShare": 0.283754398884081,
+          "totalVotes": 2824580,
+          "totalSeats": 72
+        },
+        {
+          "code": "LAB",
+          "votes": 990654,
+          "seats": 41,
+          "sourceShare": 0.350726125654079,
+          "totalVotes": 2824580,
+          "totalSeats": 72
+        },
+        {
+          "code": "LD",
+          "votes": 692634,
+          "seats": 8,
+          "sourceShare": 0.24521663397744,
+          "totalVotes": 2824580,
+          "totalSeats": 72
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 331975,
+          "seats": 2,
+          "sourceShare": 0.117530747934206,
+          "totalVotes": 2824580,
+          "totalSeats": 72
+        },
+        {
+          "code": "Other",
+          "votes": 7830,
+          "seats": 0,
+          "sourceShare": 0.0027720935501915,
+          "totalVotes": 2824580,
+          "totalSeats": 72
+        }
+      ]
+    },
+    "1987": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13760583,
+          "seats": 376,
+          "sourceShare": 0.42301756881076,
+          "totalVotes": 32529578,
+          "totalSeats": 650
+        },
+        {
+          "code": "LAB",
+          "votes": 10029807,
+          "seats": 229,
+          "sourceShare": 0.308328838449733,
+          "totalVotes": 32529578,
+          "totalSeats": 650
+        },
+        {
+          "code": "LD",
+          "votes": 7341633,
+          "seats": 22,
+          "sourceShare": 0.22569100035666,
+          "totalVotes": 32529578,
+          "totalSeats": 650
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 540072,
+          "seats": 6,
+          "sourceShare": 0.0166024902013791,
+          "totalVotes": 32529578,
+          "totalSeats": 650
+        },
+        {
+          "code": "Other",
+          "votes": 857483,
+          "seats": 17,
+          "sourceShare": 0.026360102181467,
+          "totalVotes": 32529578,
+          "totalSeats": 650
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 13760583,
+          "seats": 376,
+          "sourceShare": 0.432730546771504,
+          "totalVotes": 31799426,
+          "totalSeats": 633
+        },
+        {
+          "code": "LAB",
+          "votes": 10029807,
+          "seats": 229,
+          "sourceShare": 0.315408429070386,
+          "totalVotes": 31799426,
+          "totalSeats": 633
+        },
+        {
+          "code": "LD",
+          "votes": 7341633,
+          "seats": 22,
+          "sourceShare": 0.230873129596741,
+          "totalVotes": 31799426,
+          "totalSeats": 633
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 540072,
+          "seats": 6,
+          "sourceShare": 0.0169837027875911,
+          "totalVotes": 31799426,
+          "totalSeats": 633
+        },
+        {
+          "code": "Other",
+          "votes": 127331,
+          "seats": 0,
+          "sourceShare": 0.00400419177377597,
+          "totalVotes": 31799426,
+          "totalSeats": 633
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 12546186,
+          "seats": 358,
+          "sourceShare": 0.462386932297252,
+          "totalVotes": 27133522,
+          "totalSeats": 523
+        },
+        {
+          "code": "LAB",
+          "votes": 8006466,
+          "seats": 155,
+          "sourceShare": 0.295076547747837,
+          "totalVotes": 27133522,
+          "totalSeats": 523
+        },
+        {
+          "code": "LD",
+          "votes": 6467350,
+          "seats": 10,
+          "sourceShare": 0.238352765262099,
+          "totalVotes": 27133522,
+          "totalSeats": 523
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 27133522,
+          "totalSeats": 523
+        },
+        {
+          "code": "Other",
+          "votes": 113520,
+          "seats": 0,
+          "sourceShare": 0.00418375469281134,
+          "totalVotes": 27133522,
+          "totalSeats": 523
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 501316,
+          "seats": 8,
+          "sourceShare": 0.295222413809348,
+          "totalVotes": 1698096,
+          "totalSeats": 38
+        },
+        {
+          "code": "LAB",
+          "votes": 765209,
+          "seats": 24,
+          "sourceShare": 0.450627644137905,
+          "totalVotes": 1698096,
+          "totalSeats": 38
+        },
+        {
+          "code": "LD",
+          "votes": 304230,
+          "seats": 3,
+          "sourceShare": 0.179159482149419,
+          "totalVotes": 1698096,
+          "totalSeats": 38
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 123599,
+          "seats": 3,
+          "sourceShare": 0.07278681535084,
+          "totalVotes": 1698096,
+          "totalSeats": 38
+        },
+        {
+          "code": "Other",
+          "votes": 3742,
+          "seats": 0,
+          "sourceShare": 0.00220364455248711,
+          "totalVotes": 1698096,
+          "totalSeats": 38
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 713081,
+          "seats": 10,
+          "sourceShare": 0.240271944815837,
+          "totalVotes": 2967808,
+          "totalSeats": 72
+        },
+        {
+          "code": "LAB",
+          "votes": 1258132,
+          "seats": 50,
+          "sourceShare": 0.42392634563961,
+          "totalVotes": 2967808,
+          "totalSeats": 72
+        },
+        {
+          "code": "LD",
+          "votes": 570053,
+          "seats": 9,
+          "sourceShare": 0.192078800245838,
+          "totalVotes": 2967808,
+          "totalSeats": 72
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 416473,
+          "seats": 3,
+          "sourceShare": 0.140330169606659,
+          "totalVotes": 2967808,
+          "totalSeats": 72
+        },
+        {
+          "code": "Other",
+          "votes": 10069,
+          "seats": 0,
+          "sourceShare": 0.00339273969205553,
+          "totalVotes": 2967808,
+          "totalSeats": 72
+        }
+      ]
+    },
+    "1992": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 14093007,
+          "seats": 336,
+          "sourceShare": 0.419259117475614,
+          "totalVotes": 33614074,
+          "totalSeats": 651
+        },
+        {
+          "code": "LAB",
+          "votes": 11560484,
+          "seats": 271,
+          "sourceShare": 0.343917967218136,
+          "totalVotes": 33614074,
+          "totalSeats": 651
+        },
+        {
+          "code": "LD",
+          "votes": 5999606,
+          "seats": 20,
+          "sourceShare": 0.178484940563884,
+          "totalVotes": 33614074,
+          "totalSeats": 651
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 784511,
+          "seats": 7,
+          "sourceShare": 0.0233387657800717,
+          "totalVotes": 33614074,
+          "totalSeats": 651
+        },
+        {
+          "code": "Other",
+          "votes": 1176466,
+          "seats": 17,
+          "sourceShare": 0.0349992089622935,
+          "totalVotes": 33614074,
+          "totalSeats": 651
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 14048399,
+          "seats": 336,
+          "sourceShare": 0.427926745578853,
+          "totalVotes": 32828981,
+          "totalSeats": 634
+        },
+        {
+          "code": "LAB",
+          "votes": 11560484,
+          "seats": 271,
+          "sourceShare": 0.35214263884706,
+          "totalVotes": 32828981,
+          "totalSeats": 634
+        },
+        {
+          "code": "LD",
+          "votes": 5999606,
+          "seats": 20,
+          "sourceShare": 0.182753342237457,
+          "totalVotes": 32828981,
+          "totalSeats": 634
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 784511,
+          "seats": 7,
+          "sourceShare": 0.0238969037753562,
+          "totalVotes": 32828981,
+          "totalSeats": 634
+        },
+        {
+          "code": "Other",
+          "votes": 435981,
+          "seats": 0,
+          "sourceShare": 0.0132803695612726,
+          "totalVotes": 32828981,
+          "totalSeats": 634
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 12796772,
+          "seats": 319,
+          "sourceShare": 0.454616383548029,
+          "totalVotes": 28148506,
+          "totalSeats": 524
+        },
+        {
+          "code": "LAB",
+          "votes": 9551910,
+          "seats": 195,
+          "sourceShare": 0.339339856971449,
+          "totalVotes": 28148506,
+          "totalSeats": 524
+        },
+        {
+          "code": "LD",
+          "votes": 5398293,
+          "seats": 10,
+          "sourceShare": 0.191779023725095,
+          "totalVotes": 28148506,
+          "totalSeats": 524
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 28148506,
+          "totalSeats": 524
+        },
+        {
+          "code": "Other",
+          "votes": 401531,
+          "seats": 0,
+          "sourceShare": 0.0142647357554251,
+          "totalVotes": 28148506,
+          "totalSeats": 524
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 499677,
+          "seats": 6,
+          "sourceShare": 0.285729398316652,
+          "totalVotes": 1748777,
+          "totalSeats": 38
+        },
+        {
+          "code": "LAB",
+          "votes": 865663,
+          "seats": 27,
+          "sourceShare": 0.495010513061413,
+          "totalVotes": 1748777,
+          "totalSeats": 38
+        },
+        {
+          "code": "LD",
+          "votes": 217457,
+          "seats": 1,
+          "sourceShare": 0.124348044376155,
+          "totalVotes": 1748777,
+          "totalSeats": 38
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 154947,
+          "seats": 4,
+          "sourceShare": 0.0886030637411173,
+          "totalVotes": 1748777,
+          "totalSeats": 38
+        },
+        {
+          "code": "Other",
+          "votes": 11033,
+          "seats": 0,
+          "sourceShare": 0.00630898050466122,
+          "totalVotes": 1748777,
+          "totalSeats": 38
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 751950,
+          "seats": 11,
+          "sourceShare": 0.256489583852088,
+          "totalVotes": 2931698,
+          "totalSeats": 72
+        },
+        {
+          "code": "LAB",
+          "votes": 1142911,
+          "seats": 49,
+          "sourceShare": 0.389846089194726,
+          "totalVotes": 2931698,
+          "totalSeats": 72
+        },
+        {
+          "code": "LD",
+          "votes": 383856,
+          "seats": 9,
+          "sourceShare": 0.130932995144793,
+          "totalVotes": 2931698,
+          "totalSeats": 72
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 629564,
+          "seats": 3,
+          "sourceShare": 0.214743810583491,
+          "totalVotes": 2931698,
+          "totalSeats": 72
+        },
+        {
+          "code": "Other",
+          "votes": 23417,
+          "seats": 0,
+          "sourceShare": 0.00798752122490103,
+          "totalVotes": 2931698,
+          "totalSeats": 72
+        }
+      ]
+    },
+    "1997": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 9600943,
+          "seats": 165,
+          "sourceShare": 0.306873868433847,
+          "totalVotes": 31286284,
+          "totalSeats": 659
+        },
+        {
+          "code": "LAB",
+          "votes": 13518167,
+          "seats": 418,
+          "sourceShare": 0.432079661489999,
+          "totalVotes": 31286284,
+          "totalSeats": 659
+        },
+        {
+          "code": "LD",
+          "votes": 5242947,
+          "seats": 46,
+          "sourceShare": 0.167579729187397,
+          "totalVotes": 31286284,
+          "totalSeats": 659
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 782580,
+          "seats": 10,
+          "sourceShare": 0.025013517105451,
+          "totalVotes": 31286284,
+          "totalSeats": 659
+        },
+        {
+          "code": "Other",
+          "votes": 2141647,
+          "seats": 20,
+          "sourceShare": 0.0684532237833038,
+          "totalVotes": 31286284,
+          "totalSeats": 659
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 9591085,
+          "seats": 165,
+          "sourceShare": 0.314507979237082,
+          "totalVotes": 30495522,
+          "totalSeats": 641
+        },
+        {
+          "code": "LAB",
+          "votes": 13518167,
+          "seats": 418,
+          "sourceShare": 0.443283672927454,
+          "totalVotes": 30495522,
+          "totalSeats": 641
+        },
+        {
+          "code": "LD",
+          "votes": 5242947,
+          "seats": 46,
+          "sourceShare": 0.171925143632563,
+          "totalVotes": 30495522,
+          "totalSeats": 641
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 782580,
+          "seats": 10,
+          "sourceShare": 0.0256621283610098,
+          "totalVotes": 30495522,
+          "totalSeats": 641
+        },
+        {
+          "code": "Other",
+          "votes": 1360743,
+          "seats": 2,
+          "sourceShare": 0.0446210758418891,
+          "totalVotes": 30495522,
+          "totalSeats": 641
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 8780881,
+          "seats": 165,
+          "sourceShare": 0.336965272880716,
+          "totalVotes": 26058712,
+          "totalSeats": 529
+        },
+        {
+          "code": "LAB",
+          "votes": 11347882,
+          "seats": 328,
+          "sourceShare": 0.435473633539524,
+          "totalVotes": 26058712,
+          "totalSeats": 529
+        },
+        {
+          "code": "LD",
+          "votes": 4677565,
+          "seats": 34,
+          "sourceShare": 0.17950100526841,
+          "totalVotes": 26058712,
+          "totalSeats": 529
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 26058712,
+          "totalSeats": 529
+        },
+        {
+          "code": "Other",
+          "votes": 1252384,
+          "seats": 2,
+          "sourceShare": 0.0480600883113486,
+          "totalVotes": 26058712,
+          "totalSeats": 529
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 317145,
+          "seats": 0,
+          "sourceShare": 0.195761026429852,
+          "totalVotes": 1620062,
+          "totalSeats": 40
+        },
+        {
+          "code": "LAB",
+          "votes": 886935,
+          "seats": 34,
+          "sourceShare": 0.547469788193291,
+          "totalVotes": 1620062,
+          "totalSeats": 40
+        },
+        {
+          "code": "LD",
+          "votes": 200020,
+          "seats": 2,
+          "sourceShare": 0.123464410621321,
+          "totalVotes": 1620062,
+          "totalSeats": 40
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 161030,
+          "seats": 4,
+          "sourceShare": 0.0993974304687104,
+          "totalVotes": 1620062,
+          "totalSeats": 40
+        },
+        {
+          "code": "Other",
+          "votes": 54932,
+          "seats": 0,
+          "sourceShare": 0.0339073442868236,
+          "totalVotes": 1620062,
+          "totalSeats": 40
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 493059,
+          "seats": 0,
+          "sourceShare": 0.17504547797673,
+          "totalVotes": 2816748,
+          "totalSeats": 72
+        },
+        {
+          "code": "LAB",
+          "votes": 1283350,
+          "seats": 56,
+          "sourceShare": 0.455614062741856,
+          "totalVotes": 2816748,
+          "totalSeats": 72
+        },
+        {
+          "code": "LD",
+          "votes": 365362,
+          "seats": 10,
+          "sourceShare": 0.129710574037862,
+          "totalVotes": 2816748,
+          "totalSeats": 72
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 621550,
+          "seats": 6,
+          "sourceShare": 0.220662267267075,
+          "totalVotes": 2816748,
+          "totalSeats": 72
+        },
+        {
+          "code": "Other",
+          "votes": 53427,
+          "seats": 0,
+          "sourceShare": 0.018967617976475,
+          "totalVotes": 2816748,
+          "totalSeats": 72
+        }
+      ]
+    },
+    "2001": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 8337615,
+          "seats": 166,
+          "sourceShare": 0.316209424348256,
+          "totalVotes": 26367383,
+          "totalSeats": 659
+        },
+        {
+          "code": "LAB",
+          "votes": 10724953,
+          "seats": 412,
+          "sourceShare": 0.406750757176015,
+          "totalVotes": 26367383,
+          "totalSeats": 659
+        },
+        {
+          "code": "LD",
+          "votes": 4814321,
+          "seats": 52,
+          "sourceShare": 0.182586227840662,
+          "totalVotes": 26367383,
+          "totalSeats": 659
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 660207,
+          "seats": 9,
+          "sourceShare": 0.0250387761273085,
+          "totalVotes": 26367383,
+          "totalSeats": 659
+        },
+        {
+          "code": "Other",
+          "votes": 1830287,
+          "seats": 20,
+          "sourceShare": 0.0694148145077575,
+          "totalVotes": 26367383,
+          "totalSeats": 659
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 8335193,
+          "seats": 166,
+          "sourceShare": 0.326141177162006,
+          "totalVotes": 25557009,
+          "totalSeats": 641
+        },
+        {
+          "code": "LAB",
+          "votes": 10724953,
+          "seats": 412,
+          "sourceShare": 0.419648206877416,
+          "totalVotes": 25557009,
+          "totalSeats": 641
+        },
+        {
+          "code": "LD",
+          "votes": 4814321,
+          "seats": 52,
+          "sourceShare": 0.188375760246435,
+          "totalVotes": 25557009,
+          "totalSeats": 641
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 660207,
+          "seats": 9,
+          "sourceShare": 0.0258327177487788,
+          "totalVotes": 25557009,
+          "totalSeats": 641
+        },
+        {
+          "code": "Other",
+          "votes": 1022335,
+          "seats": 2,
+          "sourceShare": 0.040002137965362,
+          "totalVotes": 25557009,
+          "totalSeats": 641
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 7705870,
+          "seats": 165,
+          "sourceShare": 0.352336603544037,
+          "totalVotes": 21870762,
+          "totalSeats": 529
+        },
+        {
+          "code": "LAB",
+          "votes": 9056824,
+          "seats": 323,
+          "sourceShare": 0.41410646780391,
+          "totalVotes": 21870762,
+          "totalSeats": 529
+        },
+        {
+          "code": "LD",
+          "votes": 4246853,
+          "seats": 40,
+          "sourceShare": 0.194179471204524,
+          "totalVotes": 21870762,
+          "totalSeats": 529
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 21870762,
+          "totalSeats": 529
+        },
+        {
+          "code": "Other",
+          "votes": 861215,
+          "seats": 1,
+          "sourceShare": 0.0393774574475274,
+          "totalVotes": 21870762,
+          "totalSeats": 529
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 268665,
+          "seats": 0,
+          "sourceShare": 0.195742073489704,
+          "totalVotes": 1372546,
+          "totalSeats": 40
+        },
+        {
+          "code": "LAB",
+          "votes": 666956,
+          "seats": 34,
+          "sourceShare": 0.485926154751826,
+          "totalVotes": 1372546,
+          "totalSeats": 40
+        },
+        {
+          "code": "LD",
+          "votes": 189434,
+          "seats": 2,
+          "sourceShare": 0.138016503636308,
+          "totalVotes": 1372546,
+          "totalSeats": 40
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 195893,
+          "seats": 4,
+          "sourceShare": 0.142722356846327,
+          "totalVotes": 1372546,
+          "totalSeats": 40
+        },
+        {
+          "code": "Other",
+          "votes": 51598,
+          "seats": 0,
+          "sourceShare": 0.0375929112758333,
+          "totalVotes": 1372546,
+          "totalSeats": 40
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 360658,
+          "seats": 1,
+          "sourceShare": 0.155879260111829,
+          "totalVotes": 2313701,
+          "totalSeats": 72
+        },
+        {
+          "code": "LAB",
+          "votes": 1001173,
+          "seats": 55,
+          "sourceShare": 0.432714944584455,
+          "totalVotes": 2313701,
+          "totalSeats": 72
+        },
+        {
+          "code": "LD",
+          "votes": 378034,
+          "seats": 10,
+          "sourceShare": 0.163389305705447,
+          "totalVotes": 2313701,
+          "totalSeats": 72
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 464314,
+          "seats": 5,
+          "sourceShare": 0.200680208894753,
+          "totalVotes": 2313701,
+          "totalSeats": 72
+        },
+        {
+          "code": "Other",
+          "votes": 109522,
+          "seats": 1,
+          "sourceShare": 0.0473362807035135,
+          "totalVotes": 2313701,
+          "totalSeats": 72
+        }
+      ]
+    },
+    "2005": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 8784915,
+          "seats": 198,
+          "sourceShare": 0.323587371829982,
+          "totalVotes": 27148510,
+          "totalSeats": 646
+        },
+        {
+          "code": "LAB",
+          "votes": 9552436,
+          "seats": 355,
+          "sourceShare": 0.351858573453939,
+          "totalVotes": 27148510,
+          "totalSeats": 646
+        },
+        {
+          "code": "LD",
+          "votes": 5985454,
+          "seats": 62,
+          "sourceShare": 0.220470810368598,
+          "totalVotes": 27148510,
+          "totalSeats": 646
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 587105,
+          "seats": 9,
+          "sourceShare": 0.0216256803780391,
+          "totalVotes": 27148510,
+          "totalSeats": 646
+        },
+        {
+          "code": "Other",
+          "votes": 2238600,
+          "seats": 22,
+          "sourceShare": 0.0824575639694407,
+          "totalVotes": 27148510,
+          "totalSeats": 646
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 8782197,
+          "seats": 198,
+          "sourceShare": 0.332269969688517,
+          "totalVotes": 26430908,
+          "totalSeats": 628
+        },
+        {
+          "code": "LAB",
+          "votes": 9552436,
+          "seats": 355,
+          "sourceShare": 0.361411571634239,
+          "totalVotes": 26430908,
+          "totalSeats": 628
+        },
+        {
+          "code": "LD",
+          "votes": 5985454,
+          "seats": 62,
+          "sourceShare": 0.226456616624748,
+          "totalVotes": 26430908,
+          "totalSeats": 628
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 587105,
+          "seats": 9,
+          "sourceShare": 0.0222128199303633,
+          "totalVotes": 26430908,
+          "totalSeats": 628
+        },
+        {
+          "code": "Other",
+          "votes": 1523716,
+          "seats": 4,
+          "sourceShare": 0.0576490221221305,
+          "totalVotes": 26430908,
+          "totalSeats": 628
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 8114979,
+          "seats": 194,
+          "sourceShare": 0.357420325011533,
+          "totalVotes": 22704302,
+          "totalSeats": 529
+        },
+        {
+          "code": "LAB",
+          "votes": 8050366,
+          "seats": 286,
+          "sourceShare": 0.354574476678472,
+          "totalVotes": 22704302,
+          "totalSeats": 529
+        },
+        {
+          "code": "LD",
+          "votes": 5201129,
+          "seats": 47,
+          "sourceShare": 0.229081211129062,
+          "totalVotes": 22704302,
+          "totalSeats": 529
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 22704302,
+          "totalSeats": 529
+        },
+        {
+          "code": "Other",
+          "votes": 1337828,
+          "seats": 2,
+          "sourceShare": 0.0589239871809316,
+          "totalVotes": 22704302,
+          "totalSeats": 529
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 297830,
+          "seats": 3,
+          "sourceShare": 0.213847875989341,
+          "totalVotes": 1392719,
+          "totalSeats": 40
+        },
+        {
+          "code": "LAB",
+          "votes": 594821,
+          "seats": 29,
+          "sourceShare": 0.427093333256744,
+          "totalVotes": 1392719,
+          "totalSeats": 40
+        },
+        {
+          "code": "LD",
+          "votes": 256249,
+          "seats": 4,
+          "sourceShare": 0.183991889246861,
+          "totalVotes": 1392719,
+          "totalSeats": 40
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 174838,
+          "seats": 3,
+          "sourceShare": 0.125537168660727,
+          "totalVotes": 1392719,
+          "totalSeats": 40
+        },
+        {
+          "code": "Other",
+          "votes": 68981,
+          "seats": 1,
+          "sourceShare": 0.0495297328463244,
+          "totalVotes": 1392719,
+          "totalSeats": 40
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 369388,
+          "seats": 1,
+          "sourceShare": 0.158271587270506,
+          "totalVotes": 2333887,
+          "totalSeats": 59
+        },
+        {
+          "code": "LAB",
+          "votes": 907249,
+          "seats": 40,
+          "sourceShare": 0.388728760218468,
+          "totalVotes": 2333887,
+          "totalSeats": 59
+        },
+        {
+          "code": "LD",
+          "votes": 528076,
+          "seats": 11,
+          "sourceShare": 0.226264596357921,
+          "totalVotes": 2333887,
+          "totalSeats": 59
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 412267,
+          "seats": 6,
+          "sourceShare": 0.176643942058891,
+          "totalVotes": 2333887,
+          "totalSeats": 59
+        },
+        {
+          "code": "Other",
+          "votes": 116907,
+          "seats": 1,
+          "sourceShare": 0.0500911140942128,
+          "totalVotes": 2333887,
+          "totalSeats": 59
+        }
+      ]
+    },
+    "2010": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 10703654,
+          "seats": 306,
+          "sourceShare": 0.360542871698234,
+          "totalVotes": 29687604,
+          "totalSeats": 650
+        },
+        {
+          "code": "LAB",
+          "votes": 8606517,
+          "seats": 258,
+          "sourceShare": 0.289902714951331,
+          "totalVotes": 29687604,
+          "totalSeats": 650
+        },
+        {
+          "code": "LD",
+          "votes": 6836248,
+          "seats": 57,
+          "sourceShare": 0.230272810160092,
+          "totalVotes": 29687604,
+          "totalSeats": 650
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 656780,
+          "seats": 9,
+          "sourceShare": 0.0221230382889774,
+          "totalVotes": 29687604,
+          "totalSeats": 650
+        },
+        {
+          "code": "Other",
+          "votes": 2884405,
+          "seats": 20,
+          "sourceShare": 0.0971585649013642,
+          "totalVotes": 29687604,
+          "totalSeats": 650
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 10703654,
+          "seats": 306,
+          "sourceShare": 0.368916816047076,
+          "totalVotes": 29013733,
+          "totalSeats": 632
+        },
+        {
+          "code": "LAB",
+          "votes": 8606517,
+          "seats": 258,
+          "sourceShare": 0.296635975798081,
+          "totalVotes": 29013733,
+          "totalSeats": 632
+        },
+        {
+          "code": "LD",
+          "votes": 6836248,
+          "seats": 57,
+          "sourceShare": 0.235621110871875,
+          "totalVotes": 29013733,
+          "totalSeats": 632
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 656780,
+          "seats": 9,
+          "sourceShare": 0.0226368664797459,
+          "totalVotes": 29013733,
+          "totalSeats": 632
+        },
+        {
+          "code": "Other",
+          "votes": 2210534,
+          "seats": 2,
+          "sourceShare": 0.07618923080322,
+          "totalVotes": 29013733,
+          "totalSeats": 632
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 9908019,
+          "seats": 297,
+          "sourceShare": 0.395036606602186,
+          "totalVotes": 25081268,
+          "totalSeats": 533
+        },
+        {
+          "code": "LAB",
+          "votes": 7039387,
+          "seats": 191,
+          "sourceShare": 0.280663122773537,
+          "totalVotes": 25081268,
+          "totalSeats": 533
+        },
+        {
+          "code": "LD",
+          "votes": 6075613,
+          "seats": 43,
+          "sourceShare": 0.242237075095246,
+          "totalVotes": 25081268,
+          "totalSeats": 533
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 25081268,
+          "totalSeats": 533
+        },
+        {
+          "code": "Other",
+          "votes": 2058249,
+          "seats": 2,
+          "sourceShare": 0.0820631955290298,
+          "totalVotes": 25081268,
+          "totalSeats": 533
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 382730,
+          "seats": 8,
+          "sourceShare": 0.260949010864636,
+          "totalVotes": 1466685,
+          "totalSeats": 40
+        },
+        {
+          "code": "LAB",
+          "votes": 531602,
+          "seats": 26,
+          "sourceShare": 0.362451378448678,
+          "totalVotes": 1466685,
+          "totalSeats": 40
+        },
+        {
+          "code": "LD",
+          "votes": 295164,
+          "seats": 3,
+          "sourceShare": 0.201245666247353,
+          "totalVotes": 1466685,
+          "totalSeats": 40
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 165394,
+          "seats": 3,
+          "sourceShare": 0.112767226773301,
+          "totalVotes": 1466685,
+          "totalSeats": 40
+        },
+        {
+          "code": "Other",
+          "votes": 91795,
+          "seats": 0,
+          "sourceShare": 0.0625867176660293,
+          "totalVotes": 1466685,
+          "totalSeats": 40
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 412905,
+          "seats": 1,
+          "sourceShare": 0.16745411188346,
+          "totalVotes": 2465780,
+          "totalSeats": 59
+        },
+        {
+          "code": "LAB",
+          "votes": 1035528,
+          "seats": 41,
+          "sourceShare": 0.419959607102012,
+          "totalVotes": 2465780,
+          "totalSeats": 59
+        },
+        {
+          "code": "LD",
+          "votes": 465471,
+          "seats": 11,
+          "sourceShare": 0.188772315453933,
+          "totalVotes": 2465780,
+          "totalSeats": 59
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 491386,
+          "seats": 6,
+          "sourceShare": 0.199282174403231,
+          "totalVotes": 2465780,
+          "totalSeats": 59
+        },
+        {
+          "code": "Other",
+          "votes": 60490,
+          "seats": 0,
+          "sourceShare": 0.024531791157362,
+          "totalVotes": 2465780,
+          "totalSeats": 59
+        }
+      ]
+    },
+    "2015": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 11299600,
+          "seats": 330,
+          "sourceShare": 0.368095121752585,
+          "totalVotes": 30697500,
+          "totalSeats": 650
+        },
+        {
+          "code": "LAB",
+          "votes": 9347300,
+          "seats": 232,
+          "sourceShare": 0.304497108885088,
+          "totalVotes": 30697500,
+          "totalSeats": 650
+        },
+        {
+          "code": "LD",
+          "votes": 2415900,
+          "seats": 8,
+          "sourceShare": 0.078700219887613,
+          "totalVotes": 30697500,
+          "totalSeats": 650
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1636100,
+          "seats": 59,
+          "sourceShare": 0.0532974997964003,
+          "totalVotes": 30697500,
+          "totalSeats": 650
+        },
+        {
+          "code": "Other",
+          "votes": 5998600,
+          "seats": 21,
+          "sourceShare": 0.195410049678312,
+          "totalVotes": 30697500,
+          "totalSeats": 650
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 11290600,
+          "seats": 330,
+          "sourceShare": 0.376578024888183,
+          "totalVotes": 29982100,
+          "totalSeats": 632
+        },
+        {
+          "code": "LAB",
+          "votes": 9347300,
+          "seats": 232,
+          "sourceShare": 0.311762685068757,
+          "totalVotes": 29982100,
+          "totalSeats": 632
+        },
+        {
+          "code": "LD",
+          "votes": 2415900,
+          "seats": 8,
+          "sourceShare": 0.0805780782533578,
+          "totalVotes": 29982100,
+          "totalSeats": 632
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1635700,
+          "seats": 59,
+          "sourceShare": 0.0545558850113901,
+          "totalVotes": 29982100,
+          "totalSeats": 632
+        },
+        {
+          "code": "Other",
+          "votes": 5292600,
+          "seats": 3,
+          "sourceShare": 0.176525326778311,
+          "totalVotes": 29982100,
+          "totalSeats": 632
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 10448600,
+          "seats": 318,
+          "sourceShare": 0.408612915462498,
+          "totalVotes": 25570900,
+          "totalSeats": 533
+        },
+        {
+          "code": "LAB",
+          "votes": 8087700,
+          "seats": 206,
+          "sourceShare": 0.316285308690738,
+          "totalVotes": 25570900,
+          "totalSeats": 533
+        },
+        {
+          "code": "LD",
+          "votes": 2098500,
+          "seats": 6,
+          "sourceShare": 0.0820659421451728,
+          "totalVotes": 25570900,
+          "totalSeats": 533
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 25570900,
+          "totalSeats": 533
+        },
+        {
+          "code": "Other",
+          "votes": 4936100,
+          "seats": 3,
+          "sourceShare": 0.19303583370159,
+          "totalVotes": 25570900,
+          "totalSeats": 533
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 407800,
+          "seats": 11,
+          "sourceShare": 0.272211467859288,
+          "totalVotes": 1498100,
+          "totalSeats": 40
+        },
+        {
+          "code": "LAB",
+          "votes": 552500,
+          "seats": 25,
+          "sourceShare": 0.368800480608771,
+          "totalVotes": 1498100,
+          "totalSeats": 40
+        },
+        {
+          "code": "LD",
+          "votes": 97800,
+          "seats": 1,
+          "sourceShare": 0.0652826914091182,
+          "totalVotes": 1498100,
+          "totalSeats": 40
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 181700,
+          "seats": 3,
+          "sourceShare": 0.121286963487083,
+          "totalVotes": 1498100,
+          "totalSeats": 40
+        },
+        {
+          "code": "Other",
+          "votes": 258300,
+          "seats": 0,
+          "sourceShare": 0.172418396635738,
+          "totalVotes": 1498100,
+          "totalSeats": 40
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 434100,
+          "seats": 1,
+          "sourceShare": 0.149149630647655,
+          "totalVotes": 2910500,
+          "totalSeats": 59
+        },
+        {
+          "code": "LAB",
+          "votes": 707100,
+          "seats": 1,
+          "sourceShare": 0.242947947088129,
+          "totalVotes": 2910500,
+          "totalSeats": 59
+        },
+        {
+          "code": "LD",
+          "votes": 219700,
+          "seats": 1,
+          "sourceShare": 0.0754853118020958,
+          "totalVotes": 2910500,
+          "totalSeats": 59
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1454400,
+          "seats": 56,
+          "sourceShare": 0.4997079539598,
+          "totalVotes": 2910500,
+          "totalSeats": 59
+        },
+        {
+          "code": "Other",
+          "votes": 95200,
+          "seats": 0,
+          "sourceShare": 0.0327091565023191,
+          "totalVotes": 2910500,
+          "totalSeats": 59
+        }
+      ]
+    },
+    "2017": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13636690,
+          "seats": 317,
+          "sourceShare": 0.423445233331949,
+          "totalVotes": 32204141,
+          "totalSeats": 650
+        },
+        {
+          "code": "LAB",
+          "votes": 12877869,
+          "seats": 262,
+          "sourceShare": 0.39988239400641,
+          "totalVotes": 32204141,
+          "totalSeats": 650
+        },
+        {
+          "code": "LD",
+          "votes": 2371861,
+          "seats": 12,
+          "sourceShare": 0.0736508078262357,
+          "totalVotes": 32204141,
+          "totalSeats": 650
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1142034,
+          "seats": 39,
+          "sourceShare": 0.0354623338656975,
+          "totalVotes": 32204141,
+          "totalSeats": 650
+        },
+        {
+          "code": "Other",
+          "votes": 2175687,
+          "seats": 20,
+          "sourceShare": 0.0675592309697064,
+          "totalVotes": 32204141,
+          "totalSeats": 650
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 13632800,
+          "seats": 317,
+          "sourceShare": 0.43428869966328,
+          "totalVotes": 31391100,
+          "totalSeats": 632
+        },
+        {
+          "code": "LAB",
+          "votes": 12877900,
+          "seats": 262,
+          "sourceShare": 0.410240482174884,
+          "totalVotes": 31391100,
+          "totalSeats": 632
+        },
+        {
+          "code": "LD",
+          "votes": 2371000,
+          "seats": 12,
+          "sourceShare": 0.0755309625976789,
+          "totalVotes": 31391100,
+          "totalSeats": 632
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1142000,
+          "seats": 39,
+          "sourceShare": 0.036379738206052,
+          "totalVotes": 31391100,
+          "totalSeats": 632
+        },
+        {
+          "code": "Other",
+          "votes": 1367400,
+          "seats": 2,
+          "sourceShare": 0.0435601173581046,
+          "totalVotes": 31391100,
+          "totalSeats": 632
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 12346000,
+          "seats": 296,
+          "sourceShare": 0.454632493739873,
+          "totalVotes": 27156000,
+          "totalSeats": 533
+        },
+        {
+          "code": "LAB",
+          "votes": 11389000,
+          "seats": 227,
+          "sourceShare": 0.419391662984239,
+          "totalVotes": 27156000,
+          "totalSeats": 533
+        },
+        {
+          "code": "LD",
+          "votes": 2112000,
+          "seats": 8,
+          "sourceShare": 0.0777728678745028,
+          "totalVotes": 27156000,
+          "totalSeats": 533
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 27156000,
+          "totalSeats": 533
+        },
+        {
+          "code": "Other",
+          "votes": 1309000,
+          "seats": 2,
+          "sourceShare": 0.0482029754013845,
+          "totalVotes": 27156000,
+          "totalSeats": 533
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 528839,
+          "seats": 8,
+          "sourceShare": 0.335600755934453,
+          "totalVotes": 1575798,
+          "totalSeats": 40
+        },
+        {
+          "code": "LAB",
+          "votes": 771354,
+          "seats": 28,
+          "sourceShare": 0.489500557812613,
+          "totalVotes": 1575798,
+          "totalSeats": 40
+        },
+        {
+          "code": "LD",
+          "votes": 71039,
+          "seats": 0,
+          "sourceShare": 0.0450812857993219,
+          "totalVotes": 1575798,
+          "totalSeats": 40
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 164466,
+          "seats": 4,
+          "sourceShare": 0.104369976354837,
+          "totalVotes": 1575798,
+          "totalSeats": 40
+        },
+        {
+          "code": "Other",
+          "votes": 40100,
+          "seats": 0,
+          "sourceShare": 0.025447424098774,
+          "totalVotes": 1575798,
+          "totalSeats": 40
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 757949,
+          "seats": 13,
+          "sourceShare": 0.286051413464568,
+          "totalVotes": 2649695,
+          "totalSeats": 59
+        },
+        {
+          "code": "LAB",
+          "votes": 717007,
+          "seats": 7,
+          "sourceShare": 0.270599823753299,
+          "totalVotes": 2649695,
+          "totalSeats": 59
+        },
+        {
+          "code": "LD",
+          "votes": 179062,
+          "seats": 4,
+          "sourceShare": 0.0675783439226024,
+          "totalVotes": 2649695,
+          "totalSeats": 59
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 977568,
+          "seats": 35,
+          "sourceShare": 0.368936047356393,
+          "totalVotes": 2649695,
+          "totalSeats": 59
+        },
+        {
+          "code": "Other",
+          "votes": 18109,
+          "seats": 0,
+          "sourceShare": 0.00683437150313526,
+          "totalVotes": 2649695,
+          "totalSeats": 59
+        }
+      ]
+    },
+    "2019": {
+      "UK": [
+        {
+          "code": "CON",
+          "votes": 13966454,
+          "seats": 365,
+          "sourceShare": 0.436259324404145,
+          "totalVotes": 32014110,
+          "totalSeats": 650
+        },
+        {
+          "code": "LAB",
+          "votes": 10269051,
+          "seats": 202,
+          "sourceShare": 0.320766405812936,
+          "totalVotes": 32014110,
+          "totalSeats": 650
+        },
+        {
+          "code": "LD",
+          "votes": 3696419,
+          "seats": 11,
+          "sourceShare": 0.11546218214406,
+          "totalVotes": 32014110,
+          "totalSeats": 650
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1395645,
+          "seats": 52,
+          "sourceShare": 0.0435946837191475,
+          "totalVotes": 32014110,
+          "totalSeats": 650
+        },
+        {
+          "code": "Other",
+          "votes": 2686541,
+          "seats": 20,
+          "sourceShare": 0.0839174039197091,
+          "totalVotes": 32014110,
+          "totalSeats": 650
+        }
+      ],
+      "GB": [
+        {
+          "code": "CON",
+          "votes": 13961021,
+          "seats": 365,
+          "sourceShare": 0.447252521417936,
+          "totalVotes": 31215075,
+          "totalSeats": 632
+        },
+        {
+          "code": "LAB",
+          "votes": 10269051,
+          "seats": 202,
+          "sourceShare": 0.328977297027157,
+          "totalVotes": 31215075,
+          "totalSeats": 632
+        },
+        {
+          "code": "LD",
+          "votes": 3696419,
+          "seats": 11,
+          "sourceShare": 0.118417751679276,
+          "totalVotes": 31215075,
+          "totalSeats": 632
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1395645,
+          "seats": 52,
+          "sourceShare": 0.0447106085761447,
+          "totalVotes": 31215075,
+          "totalSeats": 632
+        },
+        {
+          "code": "Other",
+          "votes": 1892939,
+          "seats": 2,
+          "sourceShare": 0.0606418212994843,
+          "totalVotes": 31215075,
+          "totalSeats": 632
+        }
+      ],
+      "E": [
+        {
+          "code": "CON",
+          "votes": 12710848,
+          "seats": 345,
+          "sourceShare": 0.472317553690581,
+          "totalVotes": 26911657,
+          "totalSeats": 533
+        },
+        {
+          "code": "LAB",
+          "votes": 9125178,
+          "seats": 179,
+          "sourceShare": 0.33907900951621,
+          "totalVotes": 26911657,
+          "totalSeats": 533
+        },
+        {
+          "code": "LD",
+          "votes": 3340831,
+          "seats": 7,
+          "sourceShare": 0.124140665140017,
+          "totalVotes": 26911657,
+          "totalSeats": 533
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 0,
+          "seats": 0,
+          "sourceShare": 0.0,
+          "totalVotes": 26911657,
+          "totalSeats": 533
+        },
+        {
+          "code": "Other",
+          "votes": 1734800,
+          "seats": 2,
+          "sourceShare": 0.064462771653191,
+          "totalVotes": 26911657,
+          "totalSeats": 533
+        }
+      ],
+      "W": [
+        {
+          "code": "CON",
+          "votes": 557234,
+          "seats": 14,
+          "sourceShare": 0.360819421934177,
+          "totalVotes": 1544357,
+          "totalSeats": 40
+        },
+        {
+          "code": "LAB",
+          "votes": 632035,
+          "seats": 22,
+          "sourceShare": 0.409254466421947,
+          "totalVotes": 1544357,
+          "totalSeats": 40
+        },
+        {
+          "code": "LD",
+          "votes": 92171,
+          "seats": 0,
+          "sourceShare": 0.0596824438908879,
+          "totalVotes": 1544357,
+          "totalSeats": 40
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 153265,
+          "seats": 4,
+          "sourceShare": 0.0992419498859395,
+          "totalVotes": 1544357,
+          "totalSeats": 40
+        },
+        {
+          "code": "Other",
+          "votes": 109652,
+          "seats": 0,
+          "sourceShare": 0.0710017178670475,
+          "totalVotes": 1544357,
+          "totalSeats": 40
+        }
+      ],
+      "S": [
+        {
+          "code": "CON",
+          "votes": 692939,
+          "seats": 6,
+          "sourceShare": 0.251150300772617,
+          "totalVotes": 2759061,
+          "totalSeats": 59
+        },
+        {
+          "code": "LAB",
+          "votes": 511838,
+          "seats": 1,
+          "sourceShare": 0.185511665019367,
+          "totalVotes": 2759061,
+          "totalSeats": 59
+        },
+        {
+          "code": "LD",
+          "votes": 263035,
+          "seats": 4,
+          "sourceShare": 0.0953349708469657,
+          "totalVotes": 2759061,
+          "totalSeats": 59
+        },
+        {
+          "code": "PC/SNP",
+          "votes": 1242380,
+          "seats": 48,
+          "sourceShare": 0.450290877947243,
+          "totalVotes": 2759061,
+          "totalSeats": 59
+        },
+        {
+          "code": "Other",
+          "votes": 48487,
+          "seats": 0,
+          "sourceShare": 0.0175737325126193,
+          "totalVotes": 2759061,
+          "totalSeats": 59
+        }
+      ]
+    }
+  },
+  "northernIreland": {
+    "1918": [
+      {
+        "code": "CON",
+        "votes": 289213,
+        "seats": 23
+      },
+      {
+        "code": "NAT",
+        "votes": 228902,
+        "seats": 6
+      },
+      {
+        "code": "LAB",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 521110,
+        "seats": 72
+      }
+    ],
+    "1922": [
+      {
+        "code": "CON",
+        "votes": 107972,
+        "seats": 10
+      },
+      {
+        "code": "NAT",
+        "votes": 90053,
+        "seats": 2
+      },
+      {
+        "code": "LAB",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 9861,
+        "seats": 0
+      }
+    ],
+    "1923": [
+      {
+        "code": "CON",
+        "votes": 117161,
+        "seats": 10
+      },
+      {
+        "code": "NAT",
+        "votes": 87671,
+        "seats": 2
+      },
+      {
+        "code": "LAB",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 37426,
+        "seats": 0
+      }
+    ],
+    "1924": [
+      {
+        "code": "CON",
+        "votes": 451278,
+        "seats": 12
+      },
+      {
+        "code": "NAT",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LAB",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 68096,
+        "seats": 0
+      }
+    ],
+    "1929": [
+      {
+        "code": "CON",
+        "votes": 354657,
+        "seats": 10
+      },
+      {
+        "code": "NAT",
+        "votes": 24177,
+        "seats": 2
+      },
+      {
+        "code": "LAB",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 100103,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 31116,
+        "seats": 0
+      }
+    ],
+    "1931": [
+      {
+        "code": "CON",
+        "votes": 149566,
+        "seats": 10
+      },
+      {
+        "code": "NAT",
+        "votes": 123053,
+        "seats": 2
+      },
+      {
+        "code": "LAB",
+        "votes": 9410,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 0,
+        "seats": 0
+      }
+    ],
+    "1935": [
+      {
+        "code": "CON",
+        "votes": 292840,
+        "seats": 10
+      },
+      {
+        "code": "NAT",
+        "votes": 101494,
+        "seats": 2
+      },
+      {
+        "code": "LAB",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 56833,
+        "seats": 0
+      }
+    ],
+    "1945": [
+      {
+        "code": "CON",
+        "votes": 392450,
+        "seats": 8
+      },
+      {
+        "code": "NAT",
+        "votes": 148078,
+        "seats": 2
+      },
+      {
+        "code": "LAB",
+        "votes": 65459,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 113778,
+        "seats": 2
+      }
+    ],
+    "1950": [
+      {
+        "code": "CON",
+        "votes": 352334,
+        "seats": 10
+      },
+      {
+        "code": "NAT",
+        "votes": 65211,
+        "seats": 2
+      },
+      {
+        "code": "LAB",
+        "votes": 67816,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 76077,
+        "seats": 0
+      }
+    ],
+    "1951": [
+      {
+        "code": "CON",
+        "votes": 274928,
+        "seats": 9
+      },
+      {
+        "code": "NAT",
+        "votes": 92787,
+        "seats": 2
+      },
+      {
+        "code": "LAB",
+        "votes": 62324,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 33174,
+        "seats": 1
+      }
+    ],
+    "1955": [
+      {
+        "code": "CON",
+        "votes": 442647,
+        "seats": 10
+      },
+      {
+        "code": "NAT",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LAB",
+        "votes": 35614,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 168360,
+        "seats": 2
+      }
+    ],
+    "1959": [
+      {
+        "code": "CON",
+        "votes": 445013,
+        "seats": 12
+      },
+      {
+        "code": "NAT",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LAB",
+        "votes": 44370,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 3253,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 83477,
+        "seats": 0
+      }
+    ],
+    "1964": [
+      {
+        "code": "CON",
+        "votes": 401897,
+        "seats": 12
+      },
+      {
+        "code": "NAT",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LAB",
+        "votes": 102759,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 17354,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 116306,
+        "seats": 0
+      }
+    ],
+    "1966": [
+      {
+        "code": "CON",
+        "votes": 368629,
+        "seats": 11
+      },
+      {
+        "code": "NAT",
+        "votes": 22167,
+        "seats": 0
+      },
+      {
+        "code": "LAB",
+        "votes": 72613,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 29109,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 103719,
+        "seats": 1
+      }
+    ],
+    "1970": [
+      {
+        "code": "CON",
+        "votes": 422041,
+        "seats": 8
+      },
+      {
+        "code": "NAT",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "LAB",
+        "votes": 98194,
+        "seats": 0
+      },
+      {
+        "code": "LD",
+        "votes": 12005,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 246873,
+        "seats": 4
+      }
+    ],
+    "1974F": [
+      {
+        "code": "UUP",
+        "votes": 326404,
+        "seats": 7
+      },
+      {
+        "code": "SDLP",
+        "votes": 160437,
+        "seats": 1
+      },
+      {
+        "code": "DUP",
+        "votes": 58656,
+        "seats": 1
+      },
+      {
+        "code": "SF",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 172129,
+        "seats": 3
+      }
+    ],
+    "1974O": [
+      {
+        "code": "UUP",
+        "votes": 256065,
+        "seats": 6
+      },
+      {
+        "code": "SDLP",
+        "votes": 154193,
+        "seats": 1
+      },
+      {
+        "code": "DUP",
+        "votes": 59451,
+        "seats": 1
+      },
+      {
+        "code": "SF",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 232385,
+        "seats": 4
+      }
+    ],
+    "1979": [
+      {
+        "code": "UUP",
+        "votes": 254578,
+        "seats": 5
+      },
+      {
+        "code": "SDLP",
+        "votes": 126325,
+        "seats": 1
+      },
+      {
+        "code": "DUP",
+        "votes": 70975,
+        "seats": 3
+      },
+      {
+        "code": "SF",
+        "votes": 0,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 244009,
+        "seats": 3
+      }
+    ],
+    "1983": [
+      {
+        "code": "UUP",
+        "votes": 259952,
+        "seats": 11
+      },
+      {
+        "code": "SDLP",
+        "votes": 137012,
+        "seats": 1
+      },
+      {
+        "code": "DUP",
+        "votes": 152749,
+        "seats": 3
+      },
+      {
+        "code": "SF",
+        "votes": 102701,
+        "seats": 1
+      },
+      {
+        "code": "Other",
+        "votes": 112511,
+        "seats": 1
+      }
+    ],
+    "1987": [
+      {
+        "code": "UUP",
+        "votes": 276230,
+        "seats": 9
+      },
+      {
+        "code": "SDLP",
+        "votes": 154087,
+        "seats": 3
+      },
+      {
+        "code": "DUP",
+        "votes": 85642,
+        "seats": 3
+      },
+      {
+        "code": "SF",
+        "votes": 83389,
+        "seats": 1
+      },
+      {
+        "code": "Other",
+        "votes": 130752,
+        "seats": 1
+      }
+    ],
+    "1992": [
+      {
+        "code": "UUP",
+        "votes": 271049,
+        "seats": 9
+      },
+      {
+        "code": "SDLP",
+        "votes": 154445,
+        "seats": 4
+      },
+      {
+        "code": "DUP",
+        "votes": 103039,
+        "seats": 3
+      },
+      {
+        "code": "SF",
+        "votes": 78291,
+        "seats": 0
+      },
+      {
+        "code": "Other",
+        "votes": 178269,
+        "seats": 1
+      }
+    ],
+    "1997": [
+      {
+        "code": "UUP",
+        "votes": 258349,
+        "seats": 10
+      },
+      {
+        "code": "SDLP",
+        "votes": 190814,
+        "seats": 3
+      },
+      {
+        "code": "DUP",
+        "votes": 107348,
+        "seats": 2
+      },
+      {
+        "code": "SF",
+        "votes": 126921,
+        "seats": 2
+      },
+      {
+        "code": "Other",
+        "votes": 107330,
+        "seats": 1
+      }
+    ],
+    "2001": [
+      {
+        "code": "UUP",
+        "votes": 216839,
+        "seats": 6
+      },
+      {
+        "code": "SDLP",
+        "votes": 169865,
+        "seats": 3
+      },
+      {
+        "code": "DUP",
+        "votes": 181999,
+        "seats": 5
+      },
+      {
+        "code": "SF",
+        "votes": 175933,
+        "seats": 4
+      },
+      {
+        "code": "Other",
+        "votes": 65738,
+        "seats": 0
+      }
+    ],
+    "2005": [
+      {
+        "code": "UUP",
+        "votes": 127414,
+        "seats": 1
+      },
+      {
+        "code": "SDLP",
+        "votes": 125626,
+        "seats": 3
+      },
+      {
+        "code": "DUP",
+        "votes": 241856,
+        "seats": 9
+      },
+      {
+        "code": "SF",
+        "votes": 174530,
+        "seats": 5
+      },
+      {
+        "code": "Other",
+        "votes": 48176,
+        "seats": 0
+      }
+    ],
+    "2010": [
+      {
+        "code": "UUP",
+        "votes": 102400,
+        "seats": 0
+      },
+      {
+        "code": "SDLP",
+        "votes": 111000,
+        "seats": 3
+      },
+      {
+        "code": "DUP",
+        "votes": 168200,
+        "seats": 8
+      },
+      {
+        "code": "SF",
+        "votes": 171900,
+        "seats": 5
+      },
+      {
+        "code": "Other",
+        "votes": 120400,
+        "seats": 2
+      }
+    ],
+    "2015": [
+      {
+        "code": "UUP",
+        "votes": 114900,
+        "seats": 2
+      },
+      {
+        "code": "SDLP",
+        "votes": 99800,
+        "seats": 3
+      },
+      {
+        "code": "DUP",
+        "votes": 184300,
+        "seats": 8
+      },
+      {
+        "code": "SF",
+        "votes": 176200,
+        "seats": 4
+      },
+      {
+        "code": "Other",
+        "votes": 142900,
+        "seats": 1
+      }
+    ],
+    "2017": [
+      {
+        "code": "UUP",
+        "votes": 83280,
+        "seats": 0
+      },
+      {
+        "code": "SDLP",
+        "votes": 95419,
+        "seats": 0
+      },
+      {
+        "code": "DUP",
+        "votes": 292316,
+        "seats": 10
+      },
+      {
+        "code": "SF",
+        "votes": 238915,
+        "seats": 7
+      },
+      {
+        "code": "Other",
+        "votes": 102253,
+        "seats": 1
+      }
+    ],
+    "2019": [
+      {
+        "code": "UUP",
+        "votes": 93123,
+        "seats": 0
+      },
+      {
+        "code": "SDLP",
+        "votes": 118737,
+        "seats": 2
+      },
+      {
+        "code": "DUP",
+        "votes": 244128,
+        "seats": 8
+      },
+      {
+        "code": "SF",
+        "votes": 181853,
+        "seats": 7
+      },
+      {
+        "code": "Other",
+        "votes": 161194,
+        "seats": 1
+      }
+    ]
+  },
+  "turnout": {
+    "1918": 57.2,
+    "1922": 73.0,
+    "1923": 71.1,
+    "1924": 77.0,
+    "1929": 76.3,
+    "1931": 76.4,
+    "1935": 71.1,
+    "1945": 72.8,
+    "1950": 83.9,
+    "1951": 82.6,
+    "1955": 76.8,
+    "1959": 78.7,
+    "1964": 77.1,
+    "1966": 75.8,
+    "1970": 72.0,
+    "1974F": 78.8,
+    "1974O": 72.8,
+    "1979": 76.0,
+    "1983": 72.7,
+    "1987": 75.3,
+    "1992": 77.7,
+    "1997": 71.4,
+    "2001": 59.4,
+    "2005": 61.4,
+    "2010": 65.1,
+    "2015": 66.2,
+    "2017": 68.8,
+    "2019": 67.3
+  },
+  "sourceNotes": [
+    "Notes and Sources",
+    "1. Governments",
+    "Notes:",
+    "Government majority is calculated as the number of seats held by the governing parties minus the number of seats held by all other parties or independent Members.  The Speaker is excluded when calculating the majority, but MPs who did not take their seats (for example Sinn Féin Members) are included.",
+    "Sources:",
+    "Colin Rallings and Michael Thrasher, British Electoral Facts 1832-2006",
+    "Peter Joyce, Politico's Guide to UK General Elections 1832-2001",
+    "House of Commons Library, General Election 2017: results and analysis",
+    "House of Commons Library, General Election 2019: results and analysis",
+    "2. PMs",
+    "Notes: ",
+    "Data for Rishi Sunak is correct as of 21 February 2023",
+    "Sources: ",
+    "David Butler and Gareth Butler (2011); British Political Facts; House of Commons Library CBP7979 & CBP-8749",
+    "3. GE results UK & GB",
+    "Notes:",
+    "Blank cells mean the relevant party did not receive any votes, stand any candidates or won any seats",
+    "For elections up to 1992, the Speaker of the House of Commons is listed under the party he represented before his appointment. From 1997 the Speaker is listed under 'Other'.",
+    "CON includes Coalition Conservative for 1918; National, National Liberal and National Labour candidates for 1931-1935; National and National Liberal candidates for 1945; National Liberal & Conservative candidates 1945-1970.",
+    "LD includes Coalition Liberal Party for 1918; National Liberal for 1922; and Independent Liberal for 1931. Figures show Liberal/SDP Alliance vote for 1983-1987 and Liberal Democrat vote from 1992 onwards.",
+    "Sources:",
+    "Colin Rallings and Michael Thrasher, British Electoral Facts 1832-2006",
+    "House of Commons Library general elections papers (results and analysis): 2010, 2015, 2017 & 2019",
+    "4. GE results NI",
+    "Notes:",
+    "Blank cells mean the relevant party did not receive any votes, stand any candidates or won any seats",
+    "1918 figures include all of Ireland. After the creation of the Irish Free State in 1922 Northern Ireland remained part of the United Kingdom.",
+    "The formation of new parties in the early 1970s altered the pattern of party competition at Westminster elections. The SDLP (formed 1970) and the DUP (formed 1971) are included in the table from 1974 onwards. Ulster Unionists took the Conservative whip at Westminster until 1972 and are listed as Conservatives for general elections up to 1970; from 1974 they are listed as UUP.",
+    "SF includes Irish Nationalist/Anti-Partitionist",
+    "Sources:",
+    "Colin Rallings and Michael Thrasher, British Electoral Facts 1832-2006",
+    "House of Commons Library general elections papers (results and analysis): 2010, 2015, 2017 & 2019",
+    "5. GE turnout ",
+    "Notes: ",
+    "Turnout is defined as valid votes as a proportion of the electorate",
+    "1918 figures include all of Ireland.",
+    "Sources:",
+    "Colin Rallings and Michael Thrasher, British Electoral Facts 1832-2006",
+    "House of Commons Library, CBP7186 General Election 2015",
+    "6. Electorates",
+    "Notes: ",
+    "1918 Figure includes all of Ireland",
+    "Sources:",
+    "England and Wales; Registrar-General’s Statistical Reviews of England and Wales, Part 2, Tables. 1945-1973.",
+    "Electoral Statistics (Office of Population Censuses and Surveys/National Statistics), 1974 onwards.",
+    "Scotland; Registrar-General for Scotland, Annual Report, Part 2, Population and Vital Statistics.",
+    "Northern Ireland; Ministry of Home Affairs, 1945-72; Chief Electoral Officer for Northern Ireland 1973 onwards",
+    "7. Rejected ballots",
+    "Notes: ",
+    "Rows may not sum to the total.  For some constituencies in some years the number of spoilt ballots by reason is not available.  The total column also includes spoilt ballots classified as 'rejected in part'.",
+    "Sources:",
+    "Colin Rallings and Michael Thrasher, British Electoral Facts 1832-2006",
+    "Electoral Commission",
+    "2019 - House of Commons Library data ",
+    "8. Postal votes",
+    "Notes:",
+    "Number rejected does not include postal ballots that were returned after close of poll.",
+    "Sources:",
+    "Colin Rallings and Michael Thrasher, British Electoral Facts 1832-2006",
+    "Electoral Commission"
+  ]
+}
