@@ -1,0 +1,18 @@
+{
+  "overview": "https://en.wikipedia.org/wiki/List_of_United_Kingdom_general_elections",
+  "official-dates": "https://commonslibrary.parliament.uk/research-briefings/sn04512/",
+  "official-seat-counts": "https://commonslibrary.parliament.uk/research-briefings/sn02384/",
+  "official-lords-1999": "https://publications.parliament.uk/pa/ld199798/ldbrief/ldheredp.htm",
+  "official-lords-1999-results": "https://publications.parliament.uk/pa/ld199798/ldbrief/results2.htm",
+  "official-lords-membership": "https://commonslibrary.parliament.uk/research-briefings/cbp-10635/",
+  "scottish-election-dates": "https://en.wikipedia.org/wiki/List_of_elections_of_Scottish_representative_peers",
+  "official-lords-1999-deputies": "https://publications.parliament.uk/pa/ld199798/ldbrief/deputies.htm",
+  "official-nrs-peers": "https://www.nrscotland.gov.uk/learning-and-events/research-guides/scottish-government-records-after-1707/?section=other-bodies",
+  "official-1959-date": "https://hansard.parliament.uk/Lords/1968-10-23/debates/45182164-27c5-4aba-acd1-adda6c4f85d6/ScottishRepresentativePeersElectionFees",
+  "official-seats-xlsx": "https://researchbriefings.files.parliament.uk/documents/SN02384/SN02384.xlsx",
+  "official-statistics-xlsx": "https://researchbriefings.files.parliament.uk/documents/CBP-7529/general-elections-and-governments.xlsx",
+  "official-long-results-csv": "https://researchbriefings.files.parliament.uk/documents/CBP-8647/1918-2019election_results.csv",
+  "lords-1999-election": "https://en.wikipedia.org/wiki/1999_House_of_Lords_elections",
+  "official-1922-peer-by-election": "https://api.parliament.uk/historic-hansard/lords-reports/1922/feb/07/representative-peers-for-scotland",
+  "official-lords-companion": "https://publications.parliament.uk/pa/ld/ldcomp/compso2013/2013comp.pdf"
+}

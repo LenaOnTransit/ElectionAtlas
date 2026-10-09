@@ -1,0 +1,350 @@
+{
+  "checked": "2026-10-09",
+  "sources": [
+    {
+      "file": "overview.html",
+      "url": "https://en.wikipedia.org/wiki/List_of_United_Kingdom_general_elections",
+      "sha256": "d1e057ac06c06a352477d1eb5d618cbed10ea147929cf69741d812d20163b46b"
+    },
+    {
+      "file": "official-dates.html",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/sn04512/",
+      "sha256": "639ad62d93ec345b1308429da6568efe2e52c84432aab33e12d013f30abd1a33"
+    },
+    {
+      "file": "1802_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1802_United_Kingdom_general_election",
+      "sha256": "5e9ce9a55c165f5fa6b7f42f6369ac14731b2fdbf4360a5fc3dcb3099dee6eec"
+    },
+    {
+      "file": "1806_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1806_United_Kingdom_general_election",
+      "sha256": "95e7fbab1ce136aa29a28c3d3a157e5fc80672b4322887f33fe2896a1651ec9e"
+    },
+    {
+      "file": "1807_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1807_United_Kingdom_general_election",
+      "sha256": "78ae803b7982281fdbb783584b8ead2ab59da3a0598d9bdba2613acc32d5a03d"
+    },
+    {
+      "file": "1812_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1812_United_Kingdom_general_election",
+      "sha256": "942306eaa18298bf45930803d72bef8c55ac86a0983c0caf1584e76b752fb3c5"
+    },
+    {
+      "file": "1818_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1818_United_Kingdom_general_election",
+      "sha256": "10cf503a537e83318b71b965c743b6547c777b5a649bccea1bd5a049bfa4d248"
+    },
+    {
+      "file": "1820_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1820_United_Kingdom_general_election",
+      "sha256": "b37aa404bb7a040ffcedad508d65ed37d7d2e0a6220ebdc60fc227d4b705ed1d"
+    },
+    {
+      "file": "1826_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1826_United_Kingdom_general_election",
+      "sha256": "579092733bd11c7cee1c1b47e2e1f382f36d93f0a5a341ef9b4e0ed5ee8a2e13"
+    },
+    {
+      "file": "1830_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1830_United_Kingdom_general_election",
+      "sha256": "4365ed62fccc97144b3367998c8a682c204d99fef4997bd6c104b2b7b6db6508"
+    },
+    {
+      "file": "1831_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1831_United_Kingdom_general_election",
+      "sha256": "8df97cc783a10f1ee7dc38b53c704ff218be898a71e1ad67bb2a95b7251f8d0f"
+    },
+    {
+      "file": "1832_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1832_United_Kingdom_general_election",
+      "sha256": "7867181f934da26f01ddcc8ecea3dd5f75e480fe166c05ee76955ec30e6f8f2e"
+    },
+    {
+      "file": "1835_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1835_United_Kingdom_general_election",
+      "sha256": "3d3ceac156b41474870dc40538c2f6fc5b48dd6ff983b442917d33fa5604f55a"
+    },
+    {
+      "file": "1837_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1837_United_Kingdom_general_election",
+      "sha256": "9ce6ba42bc71c109851961cdfb3805170d22a1161503a0c7966101cbab47adc7"
+    },
+    {
+      "file": "1841_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1841_United_Kingdom_general_election",
+      "sha256": "053b578a275e5b898f60d863c13cb6c7307d2482226e3d9a49d7d47a7aee7555"
+    },
+    {
+      "file": "1847_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1847_United_Kingdom_general_election",
+      "sha256": "d7bffc582e094c938bf86b2284ee9a0a301b6fefacfc8bb0d6e608fb5fed3c5a"
+    },
+    {
+      "file": "1852_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1852_United_Kingdom_general_election",
+      "sha256": "613076a8239c324a5e92328e2282e017f71efaefce7a14475ad90347bab03d51"
+    },
+    {
+      "file": "1857_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1857_United_Kingdom_general_election",
+      "sha256": "6e16d6a64cb1b88d42034b5bc8d5b0d836db677952f7f8a01eb0509bbfcd5ac5"
+    },
+    {
+      "file": "1859_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1859_United_Kingdom_general_election",
+      "sha256": "05f3afff922f0410c11bf5225641037a21ec931f323b430a09d4893358629a8a"
+    },
+    {
+      "file": "1865_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1865_United_Kingdom_general_election",
+      "sha256": "cadd618b6d709d052a7625c30f0ce9aaea2d9f90e952f8adda7e46f0ad707959"
+    },
+    {
+      "file": "1868_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1868_United_Kingdom_general_election",
+      "sha256": "305a71a2a9f21360f077751128bff062814abd78add8e3d34a5d0aa4e428cc62"
+    },
+    {
+      "file": "1874_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1874_United_Kingdom_general_election",
+      "sha256": "29fe2898c3aeee5384d774d14c685f36bcdd3b8eff12b4865a110b8f9eabd270"
+    },
+    {
+      "file": "1880_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1880_United_Kingdom_general_election",
+      "sha256": "66a98cfbfdc1eed6a99d450703a8fad1b8829a7fabf6e2f958dce999e241ca31"
+    },
+    {
+      "file": "1885_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1885_United_Kingdom_general_election",
+      "sha256": "054bd893fde04b0e5c7efe9cace23b93cef1cc21555963628838b4336225f8ef"
+    },
+    {
+      "file": "1886_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1886_United_Kingdom_general_election",
+      "sha256": "d0fd69f4c652e19812805aa5b84a7a1cdc3ab782bfb24f856959ee9699c55efa"
+    },
+    {
+      "file": "1892_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1892_United_Kingdom_general_election",
+      "sha256": "02486a1b0cbf0857304c760989a67e3f0b376184cc75778cac9c5cca32edbe6a"
+    },
+    {
+      "file": "1895_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1895_United_Kingdom_general_election",
+      "sha256": "14fd9a19adbb7560f845bc209a2efdc5aa609de5ca91d37db916a150545a5154"
+    },
+    {
+      "file": "1900_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1900_United_Kingdom_general_election",
+      "sha256": "818f83af31098688d62dcea8ccaca609728bf6a2ecd67bd4a7d609b0e9aa25f9"
+    },
+    {
+      "file": "1906_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1906_United_Kingdom_general_election",
+      "sha256": "25125ed4251dc0929a1400452920a527613abd5fc734efde972e227ef1b04d40"
+    },
+    {
+      "file": "January_1910_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/January_1910_United_Kingdom_general_election",
+      "sha256": "562ccb0995a719d17aa496c639c5103745b3c5e6b16caddb05090576c901a714"
+    },
+    {
+      "file": "December_1910_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/December_1910_United_Kingdom_general_election",
+      "sha256": "fe9de201bce4afe6a0373db567919b2d901c43ac6b6c24204867aaba10c494f7"
+    },
+    {
+      "file": "1918_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1918_United_Kingdom_general_election",
+      "sha256": "be8be73123d0df2620012edcf105b159427d3df69edbf0183ff3f7a169e257ea"
+    },
+    {
+      "file": "1922_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1922_United_Kingdom_general_election",
+      "sha256": "b0b645a692804f3c80a885f0da608e2baa5159f200e22ce993570cc770fabc8e"
+    },
+    {
+      "file": "1923_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1923_United_Kingdom_general_election",
+      "sha256": "6d097a4ac9f535540f16747ae724480566f02f3f80c07211ddf4c9dd2df99a84"
+    },
+    {
+      "file": "1924_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1924_United_Kingdom_general_election",
+      "sha256": "5ab69bff71a85e18ee85afd8c7b6e8e682b18146a2aea4bdf44ed6878b3667a8"
+    },
+    {
+      "file": "1929_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1929_United_Kingdom_general_election",
+      "sha256": "06c4a098f4cc45c9092410eb3bdfd17dcef1f0b168fbb965304d1a93539f07bf"
+    },
+    {
+      "file": "1931_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1931_United_Kingdom_general_election",
+      "sha256": "cf8c95c380026d143f0e2b90adca02aabd4ab628ae67ef8571448f62dd3c865b"
+    },
+    {
+      "file": "1935_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1935_United_Kingdom_general_election",
+      "sha256": "80f3e6ffcb829179273fe612103e34bb5eb232366d99e9eb44eb5c0fefc54810"
+    },
+    {
+      "file": "1945_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1945_United_Kingdom_general_election",
+      "sha256": "f44e1f95ed0276538e0e75b2d86fea2423c93b873a1060c34a32fe2e455d6336"
+    },
+    {
+      "file": "1950_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1950_United_Kingdom_general_election",
+      "sha256": "66c8fbbd5361df1cb13962b1dcd81f9b37205a1e9aa02003d2b85e33ed5e0082"
+    },
+    {
+      "file": "1951_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1951_United_Kingdom_general_election",
+      "sha256": "57dad7bb30f553a55b5c64dbd5d573857ac2ea2e77baa604fec044427bde1353"
+    },
+    {
+      "file": "1955_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1955_United_Kingdom_general_election",
+      "sha256": "3f54ba2fbb9b83d6439a9fa9a4a2ae589cfd1439ae4f8e8de4bd8a7f949f7669"
+    },
+    {
+      "file": "1959_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1959_United_Kingdom_general_election",
+      "sha256": "a401497ce62faaf2e9a8d1c4e67e036a8caff24b21a37a36c43b3e387f6b612e"
+    },
+    {
+      "file": "1964_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1964_United_Kingdom_general_election",
+      "sha256": "557b836a6f8484e71e99bfbad046b489158dca1d34ee4a707aff7f3dfe3801a9"
+    },
+    {
+      "file": "1966_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1966_United_Kingdom_general_election",
+      "sha256": "61ac4d8c3c55f7af57bfae31fe3fbbcdb3aa09e5f0af99c1813514233cfb300a"
+    },
+    {
+      "file": "1970_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1970_United_Kingdom_general_election",
+      "sha256": "a17967144c68f981fe1ee9bb1131ff2f5fe0d584b39d1f9679770124aa0b1c00"
+    },
+    {
+      "file": "February_1974_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/February_1974_United_Kingdom_general_election",
+      "sha256": "e33fa96c4eebc45b3a4e693acd6b6aea789af1996ddfe2527062f8db338fc87b"
+    },
+    {
+      "file": "October_1974_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/October_1974_United_Kingdom_general_election",
+      "sha256": "e56f936c74c627cab6264287df842c7245149a7f65521105b7a31280ed3452bd"
+    },
+    {
+      "file": "1979_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1979_United_Kingdom_general_election",
+      "sha256": "d4abf98de380c0ca6622f85d4b9d46eed7f62c37b7e366b3834e900eb05ecbb1"
+    },
+    {
+      "file": "1983_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1983_United_Kingdom_general_election",
+      "sha256": "69453a4eb771372f4149e3cd81f719d6585ec77c141ac2356cf8ce2ddc45b2ef"
+    },
+    {
+      "file": "1987_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1987_United_Kingdom_general_election",
+      "sha256": "edc52e0c9ad91d0c7a8bcc4e433d5fce7f2bac9c7ac211eace5960d63840de20"
+    },
+    {
+      "file": "1992_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1992_United_Kingdom_general_election",
+      "sha256": "e31aa9e3cd3aed3d77be0b537057dc140cf2a2601044726b757a4858d870e10f"
+    },
+    {
+      "file": "1997_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1997_United_Kingdom_general_election",
+      "sha256": "543b3ceee7b78e6a65cdc6a72ebdd190669cf423f80112c5abd97191d38d5fb0"
+    },
+    {
+      "file": "2001_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2001_United_Kingdom_general_election",
+      "sha256": "c573ddbfd1563661b00805591cce688a0e6c2754c8c05b3c69bbf4c65f826a03"
+    },
+    {
+      "file": "2005_United_Kingdom_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2005_United_Kingdom_general_election",
+      "sha256": "a001a2d93e227720cbf52c11675dc5c1de45fd5a5c715bc104ba2df7de155ba0"
+    },
+    {
+      "file": "scottish-election-dates.html",
+      "url": "https://en.wikipedia.org/wiki/List_of_elections_of_Scottish_representative_peers",
+      "sha256": "26c1b6dadaf56f6cfdac874fb51b1cfca8644658d962a003cf3639dfaa9227d0"
+    },
+    {
+      "file": "scottish-1959.html",
+      "url": "https://en.wikipedia.org/wiki/1959_Scottish_representative_peers_election",
+      "sha256": "6ded66733ea0bf5e569a9b17196c96bcace6d32fde0e7cb2d421a3b1ba0ae9f2"
+    },
+    {
+      "file": "official-lords-1999-deputies.html",
+      "url": "https://publications.parliament.uk/pa/ld199798/ldbrief/deputies.htm",
+      "sha256": "a9ae63dc4dbfd1fa7a663b0cb6fa5e5b3c4aceb509bf4880b9be27eabfe8d3a7"
+    },
+    {
+      "file": "official-lords-1999-results.html",
+      "url": "https://publications.parliament.uk/pa/ld199798/ldbrief/results2.htm",
+      "sha256": "be42d1ffc9191d5f7fee5714dc5e28d0c839b84ee733bc31586ea77031b8c836"
+    },
+    {
+      "file": "official-seat-counts.html",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/sn02384/",
+      "sha256": "3b9acdf47dc42c8fc823b95c5c85202b7460a3b27848f7ac76747ef46b096a35"
+    },
+    {
+      "file": "official-lords-1999.html",
+      "url": "https://publications.parliament.uk/pa/ld199798/ldbrief/ldheredp.htm",
+      "sha256": "478c277e304642e84b7564adc6086643577121d59e4334b0d172322c6f67c0ea"
+    },
+    {
+      "file": "official-lords-membership.html",
+      "url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10635/",
+      "sha256": "e78e5fdf944325d6704b0d0910eebe0a6e4be2d3bf74b500c779c50fb02b37b1"
+    },
+    {
+      "file": "official-nrs-peers.html",
+      "url": "https://www.nrscotland.gov.uk/learning-and-events/research-guides/scottish-government-records-after-1707/?section=other-bodies",
+      "sha256": "1866346ea1e374dfc891055e6e67a2cef4961f96d7d6e460a79406fef2b33537"
+    },
+    {
+      "file": "official-1959-date.html",
+      "url": "https://hansard.parliament.uk/Lords/1968-10-23/debates/45182164-27c5-4aba-acd1-adda6c4f85d6/ScottishRepresentativePeersElectionFees",
+      "sha256": "9dd7cbacf3ce65187093fb0efd78a10bc9b7dab152b8538ab1931908089482b2"
+    },
+    {
+      "file": "official-seats-xlsx.xlsx",
+      "url": "https://researchbriefings.files.parliament.uk/documents/SN02384/SN02384.xlsx",
+      "sha256": "252727e9ca98b90ab888e92a839908b40794334ad73cb0554f86cea9dcc4a241"
+    },
+    {
+      "file": "official-statistics-xlsx.xlsx",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-7529/general-elections-and-governments.xlsx",
+      "sha256": "7277ace835bb47771f777cd1f0abdea52d79ef1709ab3575672320ad6be6f44e"
+    },
+    {
+      "file": "official-long-results-csv.csv",
+      "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8647/1918-2019election_results.csv",
+      "sha256": "ee9e1e690408fd66aec8c676ab9e0a9be310c325c7aa065605c2cb9baac99aff"
+    },
+    {
+      "file": "lords-1999-election.html",
+      "url": "https://en.wikipedia.org/wiki/1999_House_of_Lords_elections",
+      "sha256": "f9f2be0cefa0ddbb0ac023db78e150a8cfe62050595ea38435495b337240fdb5"
+    },
+    {
+      "file": "official-1922-peer-by-election.html",
+      "url": "https://api.parliament.uk/historic-hansard/lords-reports/1922/feb/07/representative-peers-for-scotland",
+      "sha256": "0c5d2443a143c01a1f57a540f002a2c88b675d1aa9a051950da7341f42c58958"
+    }
+  ]
+}
