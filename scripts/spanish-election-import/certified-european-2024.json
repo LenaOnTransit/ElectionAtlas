@@ -1,0 +1,181 @@
+{
+  "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-13092",
+  "correctionSource": "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-15344",
+  "registered": 38050286,
+  "ballots": 17652007,
+  "validBallots": 17527438,
+  "blankBallots": 124655,
+  "invalidBallots": 124569,
+  "rows": [
+    {
+      "name": "Partido Popular",
+      "votes": 5996627,
+      "seats": 22
+    },
+    {
+      "name": "Partido Socialista Obrero Español",
+      "votes": 5291102,
+      "seats": 20
+    },
+    {
+      "name": "VOX",
+      "votes": 1688255,
+      "seats": 6
+    },
+    {
+      "name": "Ahora Repúblicas (ERC-EH BILDU- BNG-ARA MÉS)",
+      "votes": 860660,
+      "seats": 3
+    },
+    {
+      "name": "SUMAR",
+      "votes": 818015,
+      "seats": 3
+    },
+    {
+      "name": "Agrupación de electores «SE ACABÓ LA FIESTA»",
+      "votes": 803545,
+      "seats": 3
+    },
+    {
+      "name": "PODEMOS",
+      "votes": 578007,
+      "seats": 2
+    },
+    {
+      "name": "Junts i Lliures per Europa",
+      "votes": 442140,
+      "seats": 1
+    },
+    {
+      "name": "COALICIÓN POR UNA EUROPA SOLIDARIA",
+      "votes": 284888,
+      "seats": 1
+    },
+    {
+      "name": "PARTIDO ANIMALISTA CON EL MEDIO AMBIENTE",
+      "votes": 135691,
+      "seats": 0
+    },
+    {
+      "name": "CIUDADANOS- PARTIDO DE LA CIUDADANÍA",
+      "votes": 122292,
+      "seats": 0
+    },
+    {
+      "name": "FRENTE OBRERO",
+      "votes": 66039,
+      "seats": 0
+    },
+    {
+      "name": "La España olvidada EXISTE - Municipalistas - Mundo Justo",
+      "votes": 40292,
+      "seats": 0
+    },
+    {
+      "name": "IZQUIERDA ESPAÑOLA",
+      "votes": 32766,
+      "seats": 0
+    },
+    {
+      "name": "FEMINISTAS AL CONGRESO",
+      "votes": 29236,
+      "seats": 0
+    },
+    {
+      "name": "IUSTITIA EUROPA",
+      "votes": 26611,
+      "seats": 0
+    },
+    {
+      "name": "AHORA ANDALUCÍA",
+      "votes": 22965,
+      "seats": 0
+    },
+    {
+      "name": "VOLT ESPAÑA",
+      "votes": 22020,
+      "seats": 0
+    },
+    {
+      "name": "ESCAÑOS EN BLANCO PARA DEJAR ESCAÑOS VACÍOS",
+      "votes": 19586,
+      "seats": 0
+    },
+    {
+      "name": "PARTIDO COMUNISTA DE LOS TRABAJADORES DE ESPAÑA",
+      "votes": 15281,
+      "seats": 0
+    },
+    {
+      "name": "Pirates - Alianza Rebelde - European Pirates",
+      "votes": 14484,
+      "seats": 0
+    },
+    {
+      "name": "COALICIÓN PARTIDO COMUNISTA DE LOS PUEBLOS DE ESPAÑA / PARTIT COMUNISTA DEL POBLE DE CATALUNYA",
+      "votes": 11177,
+      "seats": 0
+    },
+    {
+      "name": "FALANGE ESPAÑOLA DE LAS J.O.N.S.",
+      "votes": 9677,
+      "seats": 0
+    },
+    {
+      "name": "SOBERANÍA ALIMENTARIA ESPAÑOLA",
+      "votes": 9311,
+      "seats": 0
+    },
+    {
+      "name": "CREE EN EUROPA",
+      "votes": 9276,
+      "seats": 0
+    },
+    {
+      "name": "RECORTES CERO",
+      "votes": 7618,
+      "seats": 0
+    },
+    {
+      "name": "PARTIDO HUMANISTA",
+      "votes": 6550,
+      "seats": 0
+    },
+    {
+      "name": "PAIS I MOVIMENT RURAL",
+      "votes": 6541,
+      "seats": 0
+    },
+    {
+      "name": "SALAMANCA- ZAMORA-LEÓN PREPAL",
+      "votes": 6456,
+      "seats": 0
+    },
+    {
+      "name": "PARTIDO GALEGO",
+      "votes": 5719,
+      "seats": 0
+    },
+    {
+      "name": "FUTURO",
+      "votes": 5671,
+      "seats": 0
+    },
+    {
+      "name": "JUNTOS POR EXTREMADURA",
+      "votes": 5611,
+      "seats": 0
+    },
+    {
+      "name": "CORRIENTE REVOLUCIONARIA DE LOS TRABAJADORES",
+      "votes": 5165,
+      "seats": 0
+    },
+    {
+      "name": "EXTREMEÑOS PREX CREX",
+      "votes": 3509,
+      "seats": 0
+    }
+  ]
+}
