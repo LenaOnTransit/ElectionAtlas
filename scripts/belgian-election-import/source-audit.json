@@ -1,0 +1,516 @@
+{
+  "checked": "2026-10-09",
+  "recordCount": 174,
+  "sources": [
+    {
+      "file": "1830_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1830_Belgian_general_election",
+      "sha256": "85ee9ba2ea0c1c63526d08a3f1b3d6621068528f13a288d0679135066127e2bb"
+    },
+    {
+      "file": "1831_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1831_Belgian_general_election",
+      "sha256": "09d41bf32c214a3b4e1e6fe069029bbae47a86f916862950328f0f3fbec6d56c"
+    },
+    {
+      "file": "1833_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1833_Belgian_general_election",
+      "sha256": "b894443d8cf5f20d0cec86b56ca3b9fa46ebd7abf3c6985a48889ef6517022d8"
+    },
+    {
+      "file": "1835_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1835_Belgian_general_election",
+      "sha256": "b4c61299752570e182e0bc750b69d6f9064e42d55d2eacd8fa87edac34cd6928"
+    },
+    {
+      "file": "1837_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1837_Belgian_general_election",
+      "sha256": "bc59d7548abbdb045763d53c0b647b12e4f6fd17d399d9270ba3f20bfc52e8de"
+    },
+    {
+      "file": "1839_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1839_Belgian_general_election",
+      "sha256": "4711d326f6dac4e630388b9bcca86e51ec448fc11296a21fafb9f1df1cd6bf07"
+    },
+    {
+      "file": "1841_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1841_Belgian_general_election",
+      "sha256": "c2939bf69b9b42cc5379615445e528eb22d8eefdbae9049ff4c022a5102d61f5"
+    },
+    {
+      "file": "1843_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1843_Belgian_general_election",
+      "sha256": "814e184f421ff1cf62d5ef1dbacacac4b08653b7d667c41944342719f589cf04"
+    },
+    {
+      "file": "1845_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1845_Belgian_general_election",
+      "sha256": "56cbc3f5a613b5d6084329817c197cd35452105c7fb7a39bb36a270a2843c925"
+    },
+    {
+      "file": "1847_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1847_Belgian_general_election",
+      "sha256": "6725badf9215a8e7e9433c1da27f2ddf5581fc0a69bc3a3682d48b78a669e233"
+    },
+    {
+      "file": "1848_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1848_Belgian_general_election",
+      "sha256": "115afab890382dbe142e593c2a94c79bf0a462bcb8180ed2d993d4eb57f33c9c"
+    },
+    {
+      "file": "1850_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1850_Belgian_general_election",
+      "sha256": "460a844fdbedd5005667d57656e94e7b31bac69129dc7a8ce0d5a82593fe978f"
+    },
+    {
+      "file": "1851_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1851_Belgian_general_election",
+      "sha256": "b246513af6665023ab86c6087cb0406b5110d05fefd92fc31ef7e0ddfac562b4"
+    },
+    {
+      "file": "1852_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1852_Belgian_general_election",
+      "sha256": "9f3b8f459e01c15a9a4dcb8f869619383ee8ee7ae1c7691f632aefa1cae00f63"
+    },
+    {
+      "file": "1854_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1854_Belgian_general_election",
+      "sha256": "5c5dd115c2b083ad9a5214fa3686f6056319ee951e576502463a2b29cb51c038"
+    },
+    {
+      "file": "1855_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1855_Belgian_general_election",
+      "sha256": "68b6ecebc6eb8238e4727e6a6ae62c29eb969fbfa5e9846d3e272190d27618d4"
+    },
+    {
+      "file": "1856_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1856_Belgian_general_election",
+      "sha256": "72734800fc4bd6bdb6e5a6802b8bc022ed20f25edb581c7c4f8ee2dbb4245125"
+    },
+    {
+      "file": "1857_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1857_Belgian_general_election",
+      "sha256": "b473cb8c8f7d2516a66087a88cf92bfc6e4680e7299269cb1418c3450417e05d"
+    },
+    {
+      "file": "1859_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1859_Belgian_general_election",
+      "sha256": "b7fb20b276899f5d807cd0a67a0c8d1548b528b9d82bda1f1968df02c9f98d3e"
+    },
+    {
+      "file": "1861_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1861_Belgian_general_election",
+      "sha256": "cbbc3ce62abcbf28098f99649db7c839d6fd24b9ae7347dd3285979ec6dae7a0"
+    },
+    {
+      "file": "1863_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1863_Belgian_general_election",
+      "sha256": "ac1eaa3cc0838ec6483615cd9c78dd4d7982c8b00e7ce6876ac72081f75bba2a"
+    },
+    {
+      "file": "1864_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1864_Belgian_general_election",
+      "sha256": "401029110eb4b2904ab54a51d60e8a1bcd4d306aee644ff639494d3e9357c700"
+    },
+    {
+      "file": "1866_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1866_Belgian_general_election",
+      "sha256": "08fddc19c7fff26941e5e237901bfb75c3a1e00d43fed9ce50192730896a14ce"
+    },
+    {
+      "file": "1867_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1867_Belgian_general_election",
+      "sha256": "0d4d5baeed8389f3519baa09c84b2d069207f35c563509ca4b98c5cc9844c2b7"
+    },
+    {
+      "file": "1868_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1868_Belgian_general_election",
+      "sha256": "cb99eba9de774943df51036055465eb343d0c7283f448e905ec28ac00fb20845"
+    },
+    {
+      "file": "June_1870_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/June_1870_Belgian_general_election",
+      "sha256": "cbb917001a7dc38b248c228f49cd5176b0b729d315c8322eb8ee672b7b82ed61"
+    },
+    {
+      "file": "August_1870_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/August_1870_Belgian_general_election",
+      "sha256": "72c14e8fe2d48e03fb79e15204d580f093af78ae192161cbce1e0127ed165a93"
+    },
+    {
+      "file": "1872_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1872_Belgian_general_election",
+      "sha256": "3daf25eca3cc49c489063e46d5bc05a4eba3c9826ab3cd3203989fecf76a76b3"
+    },
+    {
+      "file": "1874_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1874_Belgian_general_election",
+      "sha256": "21dc2b633a779eb44a069342376f753b6c26f3007505478ae913d450f112a7ad"
+    },
+    {
+      "file": "1876_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1876_Belgian_general_election",
+      "sha256": "a0b2ec968ff5e8a168d3af48be411f3da08dbd99acbff8f8eb36bc262947e8b6"
+    },
+    {
+      "file": "1878_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1878_Belgian_general_election",
+      "sha256": "b8cb40c343c03ac6befd38d6e482968779550192ecc0548984996f3172085ef3"
+    },
+    {
+      "file": "1880_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1880_Belgian_general_election",
+      "sha256": "a3a0cad8669a995956b5604153d232122638e1e3412c145c22b5d409cb09cf51"
+    },
+    {
+      "file": "1882_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1882_Belgian_general_election",
+      "sha256": "765400646e953fc0f9047269837f41cd4499c545bbbf5fee704d5e9244d849b5"
+    },
+    {
+      "file": "1884_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1884_Belgian_general_election",
+      "sha256": "fa958cbfe90a03c1a26f0f1443e2b9bbe139afef446f0c45919286910295b9f9"
+    },
+    {
+      "file": "1886_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1886_Belgian_general_election",
+      "sha256": "5c64f9e06d116c194442b92fbd5c038b72513bff61a8d0acac0fd6cc52a6e647"
+    },
+    {
+      "file": "1888_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1888_Belgian_general_election",
+      "sha256": "e8e4e4023e90067c136341c3f8a5e7a1d89c4ee18360907502f233272007e018"
+    },
+    {
+      "file": "1890_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1890_Belgian_general_election",
+      "sha256": "f15d4c36d16d9121e264f713df4037fcbf28a02547c7fb727b472f9d64aabc00"
+    },
+    {
+      "file": "1892_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1892_Belgian_general_election",
+      "sha256": "70c824fd15eaffe0f24a4a2d0f349576156170c3383381af7be837437fea60c0"
+    },
+    {
+      "file": "1894_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1894_Belgian_general_election",
+      "sha256": "17d923706a1aa7d97d07d5f577a508302e0e20bed1fb210e4b2941e33a11f752"
+    },
+    {
+      "file": "1896_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1896_Belgian_general_election",
+      "sha256": "b68640be9300dfdf5af76cd3b793bc07a6a9cdfa381b780d00857bc9e647bbaf"
+    },
+    {
+      "file": "1898_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1898_Belgian_general_election",
+      "sha256": "1867e0ac5c8010a901f39d74371c29e2492751071965f12dd6d0e2433e08b80d"
+    },
+    {
+      "file": "1900_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1900_Belgian_general_election",
+      "sha256": "e2f634663a4f1d24f9a7e01505a180b28cc34578afa5fad01d7af6b1093c9669"
+    },
+    {
+      "file": "1902_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1902_Belgian_general_election",
+      "sha256": "0c15968dae89049acf3ffc7dadc0b8642b24c2aca078dcde8b88801f2a858f75"
+    },
+    {
+      "file": "1904_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1904_Belgian_general_election",
+      "sha256": "e0de305ade9caf5002005c24dac4f85ad6e2c54424519b73fd6d7464a9976043"
+    },
+    {
+      "file": "1906_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1906_Belgian_general_election",
+      "sha256": "69e53e4fecaf8e967d012f7d9ba2d56f2ffea383440eb7fc4cc0bad5b1084e1f"
+    },
+    {
+      "file": "1908_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1908_Belgian_general_election",
+      "sha256": "ff94a83666ae4e7c03f051a58405c7944d74f18c8d578410a043c13828f4d66d"
+    },
+    {
+      "file": "1910_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1910_Belgian_general_election",
+      "sha256": "704ba050c9fa44945dc61932d09d1b0878f141d50d226c31ad1b9bebc09d642c"
+    },
+    {
+      "file": "1912_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1912_Belgian_general_election",
+      "sha256": "0d8c5a34467f64b2794059f4d5fcb30ea2cde1cf2c240f0d07c5cf9999015fc8"
+    },
+    {
+      "file": "1914_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1914_Belgian_general_election",
+      "sha256": "12af7104e282176c76ef02a03ea7d86ed4e422b2814b0bc7732fc16ed437008e"
+    },
+    {
+      "file": "1919_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1919_Belgian_general_election",
+      "sha256": "21238be4be96f69baa3fd8c2a3cd26323efafb7cdfd09409af1f6f4cdd92ec21"
+    },
+    {
+      "file": "1921_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1921_Belgian_general_election",
+      "sha256": "55653566518125df6598a909a23c21eb4720e94ac4335830cd787dad1391d9b2"
+    },
+    {
+      "file": "1925_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1925_Belgian_general_election",
+      "sha256": "2d3d50e07d2c6ccbaf1f988895ac981bd49aee43d46f32307d228838bf0b451e"
+    },
+    {
+      "file": "1929_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1929_Belgian_general_election",
+      "sha256": "60e31ff81f3b1d79899b1b072e7b55dc7f971e0a07f6f13f72921378b51bc9f7"
+    },
+    {
+      "file": "1932_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1932_Belgian_general_election",
+      "sha256": "7f63ea9c8df29d2027286e037a668d7bd10af18966ccf38629d61264dea563fd"
+    },
+    {
+      "file": "1936_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1936_Belgian_general_election",
+      "sha256": "6619f8de9df5b849d4019005d7ada22a1d24087e53b94bcba3a66d9ad1e332d8"
+    },
+    {
+      "file": "1939_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1939_Belgian_general_election",
+      "sha256": "89b9dfa8cc8d638c30a6f561e416c67c70004a3badd4f4e825c6da1b70e5a6fd"
+    },
+    {
+      "file": "1946_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1946_Belgian_general_election",
+      "sha256": "4cb05a43a5e6bd78ae427562d4a5288721e2342fd6060b38890d4d38c2233518"
+    },
+    {
+      "file": "1949_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1949_Belgian_general_election",
+      "sha256": "d79981af0072fb1cfdf0ab2184976257c3f0a3761989a8264569ff4b5d529df9"
+    },
+    {
+      "file": "1950_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1950_Belgian_general_election",
+      "sha256": "561e8279ee3c65eac1afdd7f2af3d7e04009f221e0813c16f3977b7c868d9aa8"
+    },
+    {
+      "file": "1954_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1954_Belgian_general_election",
+      "sha256": "be08a85204616ea94dae0c71bad24b177f09b557938643e9480600b88044899a"
+    },
+    {
+      "file": "1958_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1958_Belgian_general_election",
+      "sha256": "c90eceb1e231799e0e2ab04138152d5bed67bb2831bdbbafcbf9e14ad5097aa2"
+    },
+    {
+      "file": "1961_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1961_Belgian_general_election",
+      "sha256": "d6e36e2dc4f6c58a0eb825e89ac4c67e4665e69de74b3208df4ceed8357f4349"
+    },
+    {
+      "file": "1965_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1965_Belgian_general_election",
+      "sha256": "be17ca440716613ce55c3e89b0a398f2654a808c84c338222a9f73160161b4d1"
+    },
+    {
+      "file": "1968_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1968_Belgian_general_election",
+      "sha256": "07fa62346e43db361c63840d8bdbf66095e72c44348162a13cb1c5997e7ec85e"
+    },
+    {
+      "file": "1971_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1971_Belgian_general_election",
+      "sha256": "5e52a37da05bbf855dc993b5ce687e3a1895d14c4164c0154c55b766fbcad3d8"
+    },
+    {
+      "file": "1974_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1974_Belgian_general_election",
+      "sha256": "d42ac9a632b9771f778dc1ad4722fecd47a86da2093f4fa88c8788014df7c47c"
+    },
+    {
+      "file": "1977_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1977_Belgian_general_election",
+      "sha256": "cb66adfbcc68aadcf9d81a1def5d7a54851b984bc82f40ed5381b7965b591aa2"
+    },
+    {
+      "file": "1978_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1978_Belgian_general_election",
+      "sha256": "5b26723a789c3f5e2e9ded2ce10e4f3a7e8c9dbbb89be68e2bc12e4e6a54c17d"
+    },
+    {
+      "file": "1979_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/1979_European_Parliament_election_in_Belgium",
+      "sha256": "75d0f58a3944af6a6955db3064d1d2c657c70e2e3106e4f03e77595ee9076e50"
+    },
+    {
+      "file": "1981_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1981_Belgian_general_election",
+      "sha256": "ffb67d99b1010714956c58d8b87956af9ea1e635101ad830691f9d709e8d3b11"
+    },
+    {
+      "file": "1984_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/1984_European_Parliament_election_in_Belgium",
+      "sha256": "b47040bd216f4916bedff86d287bcf0f2916a3a3c01797357650710a4ad3065d"
+    },
+    {
+      "file": "1985_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1985_Belgian_general_election",
+      "sha256": "5794a2826c6e4dc8dbccbf2c951fde9ae7d08eecab4917df5af6e070c3f43e6d"
+    },
+    {
+      "file": "1986_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/1986_Belgian_regional_elections",
+      "sha256": "6ab9be7a7ea412c46288f45da16529d110ebefccd5e9348dfa27d3cdfa7d2ad5"
+    },
+    {
+      "file": "1987_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1987_Belgian_general_election",
+      "sha256": "8619598617160add1ffc9e319073325051a01fc1b9f2dac100bdd4dea25dd639"
+    },
+    {
+      "file": "1989_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/1989_European_Parliament_election_in_Belgium",
+      "sha256": "e32d7d52b67c37059d75aff726b1dcca3299f2e7bfb5d46b404dbe68442a69bc"
+    },
+    {
+      "file": "1989_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/1989_Belgian_regional_elections",
+      "sha256": "c2a699bf24c3a99264f957df807b1b8e7c5a2ea2493f0b1b286804368b9085c1"
+    },
+    {
+      "file": "1990_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/1990_Belgian_regional_elections",
+      "sha256": "2d61abb1abdcb8aa02a3c67f68acb7e9d9d1cbb9071e31d0139350c23fd1bf20"
+    },
+    {
+      "file": "1991_Belgian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1991_Belgian_general_election",
+      "sha256": "c21b3af851b160d2340dd4f7048f3980f6b0558c928d142ad8e40aadedd51047"
+    },
+    {
+      "file": "1994_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/1994_European_Parliament_election_in_Belgium",
+      "sha256": "977c8bb6db7fd18ecf46e07b45b904f083605231e6fb46edc371ee41b0d787de"
+    },
+    {
+      "file": "1995_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/1995_Belgian_regional_elections",
+      "sha256": "95b36689ff42bf0d1bd7b06cd84dc0bd3ba19b2533491a64a66188cd00a6fb41"
+    },
+    {
+      "file": "1995_Belgian_federal_election.html",
+      "url": "https://en.wikipedia.org/wiki/1995_Belgian_federal_election",
+      "sha256": "73ca46b14c52fe30f43f5d769227abea6960cd3e3167327317badf2fbf883169"
+    },
+    {
+      "file": "1999_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/1999_Belgian_regional_elections",
+      "sha256": "74aff12afa8965ce6558be9c72f69a2c4b2c79b6dd06f419456d7946c2bb85ee"
+    },
+    {
+      "file": "1999_Belgian_federal_election.html",
+      "url": "https://en.wikipedia.org/wiki/1999_Belgian_federal_election",
+      "sha256": "8611e63b40f499880f720249102179f59c93970fa068768a874c7ebeca6fd96c"
+    },
+    {
+      "file": "1999_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/1999_European_Parliament_election_in_Belgium",
+      "sha256": "5a544cd5cb21ac93b94753c1afc091f4a38eb27b1b7079748e36dcee03fa1dd3"
+    },
+    {
+      "file": "2003_Belgian_federal_election.html",
+      "url": "https://en.wikipedia.org/wiki/2003_Belgian_federal_election",
+      "sha256": "a00bf488eb59466221c8dbac59b971ff11b8d8d65a9f46f1a367cf682400ecde"
+    },
+    {
+      "file": "2004_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/2004_Belgian_regional_elections",
+      "sha256": "f4075f6bf9e46b96d964f224a13b01c2c8e4547c769fe1eb162df6868093eedf"
+    },
+    {
+      "file": "2004_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/2004_European_Parliament_election_in_Belgium",
+      "sha256": "3532b98828a49577a0adae25b6fc7b0c4014d45ba62b8dcd5fbaf52f35dbf56f"
+    },
+    {
+      "file": "2007_Belgian_federal_election.html",
+      "url": "https://en.wikipedia.org/wiki/2007_Belgian_federal_election",
+      "sha256": "e940ec86a0ed68ad80661e317574bb2ca02f026d6f334c31ac6be21ca9d8b658"
+    },
+    {
+      "file": "2009_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/2009_Belgian_regional_elections",
+      "sha256": "3bd1d076fc8d7f461b47c1ba46c8d4c2616b7f6cb262dba91282edbb63d9109c"
+    },
+    {
+      "file": "2009_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/2009_European_Parliament_election_in_Belgium",
+      "sha256": "83588eb58fee9a9c72fc7a112a472442d52b773c107ebf1fb917cbde7ea5937f"
+    },
+    {
+      "file": "2010_Belgian_federal_election.html",
+      "url": "https://en.wikipedia.org/wiki/2010_Belgian_federal_election",
+      "sha256": "9f79fbae8b93361bc92b255a87e94663edf40fbabbc049c59836abd4182d02e6"
+    },
+    {
+      "file": "2014_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/2014_Belgian_regional_elections",
+      "sha256": "5b8de597446515eabb3dcb03d18472d9a345d213f5f921fd04990ae58e283bd4"
+    },
+    {
+      "file": "2014_Belgian_federal_election.html",
+      "url": "https://en.wikipedia.org/wiki/2014_Belgian_federal_election",
+      "sha256": "59a5504042a92f8053d189fd658fffe5d0efa05d6430ae4106377438335d1373"
+    },
+    {
+      "file": "2014_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/2014_European_Parliament_election_in_Belgium",
+      "sha256": "a5700a673ab08ecc2354167017ad71281a84c6a3941dc3415ac6833b696c18fe"
+    },
+    {
+      "file": "2019_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/2019_Belgian_regional_elections",
+      "sha256": "22f416d3baeb2d149d226d9c95c37bf3f87c3afbd5d9236ba4c73fae47f2b338"
+    },
+    {
+      "file": "2019_Belgian_federal_election.html",
+      "url": "https://en.wikipedia.org/wiki/2019_Belgian_federal_election",
+      "sha256": "63ef03a2be38fa24bb3eaca33ffbbd081d8956d9cb33009fadf7fc83068f21d4"
+    },
+    {
+      "file": "2019_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/2019_European_Parliament_election_in_Belgium",
+      "sha256": "058e7de48850b74fe17fd7364d55d72a9a9a05117a757b7f52b8642066359510"
+    },
+    {
+      "file": "2024_Belgian_regional_elections.html",
+      "url": "https://en.wikipedia.org/wiki/2024_Belgian_regional_elections",
+      "sha256": "4cdc736630fbf2f031fa7ae878e0a8d7f5dba79ccb20b8a0f03012970d16ea74"
+    },
+    {
+      "file": "2024_Belgian_federal_election.html",
+      "url": "https://en.wikipedia.org/wiki/2024_Belgian_federal_election",
+      "sha256": "8c3c6cae110d15a66891567f7acab590a7273f173504f5d0ef111b695146d841"
+    },
+    {
+      "file": "2024_European_Parliament_election_in_Belgium.html",
+      "url": "https://en.wikipedia.org/wiki/2024_European_Parliament_election_in_Belgium",
+      "sha256": "1138c6d5821fbb13d4a8b010920943dec8ad8b6722a76937e97c83d07513abe7"
+    },
+    {
+      "file": "pdg-history.html",
+      "url": "https://pdg.be/desktopdefault.aspx/tabid-4107/",
+      "sha256": "858e93d76d2f0fbd18d1dd444e0a97dd727b75287ae0f6dc87da4edb17ee591a"
+    },
+    {
+      "file": "overview.html",
+      "url": "https://en.wikipedia.org/wiki/List_of_elections_in_Belgium",
+      "sha256": "e948fb3d1cbcf253c1ddd2abbf0200520b8f8052643e67f3018047492335b909"
+    }
+  ]
+}
