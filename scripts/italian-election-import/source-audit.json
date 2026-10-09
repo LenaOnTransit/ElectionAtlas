@@ -1,0 +1,516 @@
+{
+  "checked": "2026-10-09",
+  "recordCount": 86,
+  "sources": [
+    {
+      "file": "overview.html",
+      "url": "https://en.wikipedia.org/wiki/Elections_in_Italy",
+      "sha256": "1e789e9f05d3e4e0ebf31acf5aae7229176e701c40bc6666306214e2de208d6e"
+    },
+    {
+      "file": "2006_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2006_Italian_general_election",
+      "sha256": "8b7ef9116dcae8e59451c12831bd0a98271a14ab13e386e02319e7edb76ad1f3"
+    },
+    {
+      "file": "2008_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2008_Italian_general_election",
+      "sha256": "b1830ce91ba2a7d2dac5fc46ea5cd5cfc599e87e4957788785c8b133b6f0407a"
+    },
+    {
+      "file": "2013_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2013_Italian_general_election",
+      "sha256": "7611065b0c187a1406080436ba1e8382d58d914dad45115199b8134da228ad4f"
+    },
+    {
+      "file": "2018_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2018_Italian_general_election",
+      "sha256": "0bc6f6aa7f32f5681f19c6b1ae5ec35b7147697f755a5c9b6de05069d634612b"
+    },
+    {
+      "file": "2022_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2022_Italian_general_election",
+      "sha256": "da00c0ad7d76263879f489848e9757912ccb1834e490b5cfc78284278d12fb47"
+    },
+    {
+      "file": "1946_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1946_Italian_general_election",
+      "sha256": "06aae782304d029520598e5c866f77e6c55e59d9ccc83263c1ef2d814710ed5d"
+    },
+    {
+      "file": "1948_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1948_Italian_general_election",
+      "sha256": "206ef3d610ec74b523966bc817f8806d79cec49d5146701d3ed544ea6b671d2d"
+    },
+    {
+      "file": "1953_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1953_Italian_general_election",
+      "sha256": "83d19221699f6d21443a29afe616dd47d3c3c8076db6dbfbc26c096aeb108e9c"
+    },
+    {
+      "file": "1958_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1958_Italian_general_election",
+      "sha256": "ae540daf2df12ae2c05b3366da0d039e0811dc6ac516726b09f9f5505b93c050"
+    },
+    {
+      "file": "1963_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1963_Italian_general_election",
+      "sha256": "29db51672713de291d7e97d67fb9787cbddf869696e4972bb0abd5f57328ed94"
+    },
+    {
+      "file": "1968_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1968_Italian_general_election",
+      "sha256": "73af4f879203bb1a7ec739bccf96778869cce86cd15f4e5d2b163a453e41c251"
+    },
+    {
+      "file": "1972_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1972_Italian_general_election",
+      "sha256": "b733bc002b6c1b485eeebe4d9fa3abd77b59e4a4be355469df98051b91d48d75"
+    },
+    {
+      "file": "1976_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1976_Italian_general_election",
+      "sha256": "cfdc44230f19184b81b94d6cd57f598418dd002a805dedbdcfbe7121d99570d8"
+    },
+    {
+      "file": "1979_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1979_Italian_general_election",
+      "sha256": "86ab0567e9b94d673cd92d740965610d930b647f33cb4124286003521cc08de5"
+    },
+    {
+      "file": "1983_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1983_Italian_general_election",
+      "sha256": "d68a5ebbc374d0e08f3ab5c6e4b9c508b4dcd6ccfff20c6ce96d384bd451452b"
+    },
+    {
+      "file": "1987_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1987_Italian_general_election",
+      "sha256": "c9a618941085fc0f39d78f40fd4da6f6a3336790a46f26eaf4f2daa6eb30251c"
+    },
+    {
+      "file": "1992_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1992_Italian_general_election",
+      "sha256": "554aa04e11ba4bb079ad6429b8a07517a7a16ce4e2a55f5aa612d0733b65ea4e"
+    },
+    {
+      "file": "1994_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1994_Italian_general_election",
+      "sha256": "00325e5fe7535de1af7888947038d235633b1bc5b432c3b21448d12698632c4b"
+    },
+    {
+      "file": "1996_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1996_Italian_general_election",
+      "sha256": "241e343c6eb64476561be36eba4d10dc83a99e8aff1b93d96e55ce9fc567b0c2"
+    },
+    {
+      "file": "2001_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/2001_Italian_general_election",
+      "sha256": "3ba2c54a6612d4d668372b64cf0ac0f4895c0cb85316048ee725fe3e9443965e"
+    },
+    {
+      "file": "1948_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1948_Italian_presidential_election",
+      "sha256": "cc2b2c457435a4667bdc904f267a2f4ee6e89ea4d3e94efc24c5695f7fc5f186"
+    },
+    {
+      "file": "1955_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1955_Italian_presidential_election",
+      "sha256": "5a20ce6cb0c2d778244503a8b273b95deaf1e8bd59113c8a2a07735067d86f38"
+    },
+    {
+      "file": "1962_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1962_Italian_presidential_election",
+      "sha256": "89e38fbca2d180485f5e152f08319916027b326fb0f8e6aebf04d9cb0d4e2c80"
+    },
+    {
+      "file": "1964_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1964_Italian_presidential_election",
+      "sha256": "7ac96fb016729c9e45c872da846dce19a802d38106b5be7662c1cc85b3c40f31"
+    },
+    {
+      "file": "1971_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1971_Italian_presidential_election",
+      "sha256": "ecb22867c1ededc2022ba8fdabd7ff73252bfeafc69a00ed7d6eb73cffca5ea2"
+    },
+    {
+      "file": "1978_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1978_Italian_presidential_election",
+      "sha256": "bdfb5ed823fb9542e1e49661c2e72f2a8fe1ec0d4f570eacceaf9f2bf90091f1"
+    },
+    {
+      "file": "1985_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1985_Italian_presidential_election",
+      "sha256": "1d9046e8d4fa0fb36da97d0e95707308178843e1f0fd864ab5613beb990593c2"
+    },
+    {
+      "file": "1992_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1992_Italian_presidential_election",
+      "sha256": "60a2075a4bfc54fb46053eaa5bb38119e5f9c7a5062eae35359aaf55146f5ad3"
+    },
+    {
+      "file": "1999_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1999_Italian_presidential_election",
+      "sha256": "9a57ecada5d8f40f4521adb185312318b12caaeb52cde92c117759be41fee707"
+    },
+    {
+      "file": "2006_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2006_Italian_presidential_election",
+      "sha256": "21fbc21cc69ac08cb2db925e61f15c91b8ef901b5b78a20ceae23a8022f0d006"
+    },
+    {
+      "file": "2013_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2013_Italian_presidential_election",
+      "sha256": "7971ba02437bba545f507b1588a41e387174d9d662d8ecac21438ef5d7442665"
+    },
+    {
+      "file": "2015_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2015_Italian_presidential_election",
+      "sha256": "abc17eea01e259cc39e381732d6cc3f70071fd2713f0fb0987d249a64a92a1fd"
+    },
+    {
+      "file": "2022_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2022_Italian_presidential_election",
+      "sha256": "85908ae9bb0b3c9249421486fa4a9d2f81abfa26dce79dcde21f5044c2789148"
+    },
+    {
+      "file": "1861_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1861_Italian_general_election",
+      "sha256": "063d45c8281d2946bf3bb8ea9fbb2836c91c2a02b626f82fa1364f28c4a08fa7"
+    },
+    {
+      "file": "1865_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1865_Italian_general_election",
+      "sha256": "dd3e565de56ff5d116148e39adf801c955548fc1e10bc53f3f77738d810484ec"
+    },
+    {
+      "file": "1867_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1867_Italian_general_election",
+      "sha256": "7165a08939e5bfa6bd49968bd021b7c9172c647b29ee3d1d5183c86bab75a2b2"
+    },
+    {
+      "file": "1870_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1870_Italian_general_election",
+      "sha256": "b3ac7b0d4006abe75fbf8cf6de9f2c7f78f3c84a6ea22c21f48e555915087814"
+    },
+    {
+      "file": "1874_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1874_Italian_general_election",
+      "sha256": "ac6ca44b084783fc1b43009b0f9e526fbdbe4c68d4c3f5f2e9f97291450ade4e"
+    },
+    {
+      "file": "1876_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1876_Italian_general_election",
+      "sha256": "2ed37e079c3947a88f89a87de0cc0a5ba2343e5f3ab77edacee72e54f75d7b9b"
+    },
+    {
+      "file": "1880_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1880_Italian_general_election",
+      "sha256": "06ec8826b43c7ffa432bca99691555228c94bfb45d0095ad180ef5f0c3cc9a93"
+    },
+    {
+      "file": "1882_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1882_Italian_general_election",
+      "sha256": "3699ad812c0b3c29ed4c652b5a951e7d36f197d805a09ff01dc6c5a6dd190997"
+    },
+    {
+      "file": "1886_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1886_Italian_general_election",
+      "sha256": "427074d61b1e0ec35c098c09b58a8613b51c126b3f15eee4ea2331b00c0a2274"
+    },
+    {
+      "file": "1890_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1890_Italian_general_election",
+      "sha256": "ca3b15e29fe74907ff06f6468b6539d1fb15bf4e2ce0419da390fc9fb06956e3"
+    },
+    {
+      "file": "1892_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1892_Italian_general_election",
+      "sha256": "0785a576206e33854740239ed58872392def6928d10fdf5b4e6ec6264358fbf9"
+    },
+    {
+      "file": "1895_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1895_Italian_general_election",
+      "sha256": "7a7f1c6a8bc40273c53b83aee98663149256ed8be50d1e63b4d9cb65c92a4009"
+    },
+    {
+      "file": "1897_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1897_Italian_general_election",
+      "sha256": "3754b3e4fa516a10b2830a9f6a9b2f07e57e3a52ce7a5dd5713da5cb9c30d514"
+    },
+    {
+      "file": "1900_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1900_Italian_general_election",
+      "sha256": "0e818a010bad496054cb48b2b898a06e6febe03b08eda610501dffaeb1436893"
+    },
+    {
+      "file": "1904_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1904_Italian_general_election",
+      "sha256": "2fc48c1549a9dc8e493df858e4f071806b09d373f05adda5f2c8c1e0a0e2678c"
+    },
+    {
+      "file": "1909_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1909_Italian_general_election",
+      "sha256": "37efdf7d472948b6fa6a602bde49a07c58b9f7c569cf8966b7ca868603ac6a9e"
+    },
+    {
+      "file": "1913_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1913_Italian_general_election",
+      "sha256": "403347b514a204b5b81ad2376fdf262b990229da84f7fe2471958944742ee1ba"
+    },
+    {
+      "file": "1919_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1919_Italian_general_election",
+      "sha256": "6223fd3e7f3567b778b8185593c5f7aab6e66d0633e9bc06f4378551a54e3d37"
+    },
+    {
+      "file": "1921_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1921_Italian_general_election",
+      "sha256": "1283088e9f2ffcdb16d45fdab44bded18fde9c634b62a4741376aa51e13cf31b"
+    },
+    {
+      "file": "1924_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1924_Italian_general_election",
+      "sha256": "82fd862ac90d4747959a41c6c35f27b28d8ca3de609754ea60290b30a2499a9e"
+    },
+    {
+      "file": "1929_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1929_Italian_general_election",
+      "sha256": "4d6832c911f19119f574b7b30bc119c500f40f395f19b275bf3f9a4822168e58"
+    },
+    {
+      "file": "1934_Italian_general_election.html",
+      "url": "https://en.wikipedia.org/wiki/1934_Italian_general_election",
+      "sha256": "2f4f627e91ec30b9baf5f3d5e4c5de8a8c733fb062ae287eb9e00c0f6152a74b"
+    },
+    {
+      "file": "1979_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/1979_European_Parliament_election_in_Italy",
+      "sha256": "fc4e772f2b878b9369ff5c95fb4be48b487c6c08a5ee3fe0823e77960048a73c"
+    },
+    {
+      "file": "1984_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/1984_European_Parliament_election_in_Italy",
+      "sha256": "244d2b993d7c9c370e08a34135fb2a872f7246f06d26bca9244c2cb2c4fab6d5"
+    },
+    {
+      "file": "1989_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/1989_European_Parliament_election_in_Italy",
+      "sha256": "545d3094131e71af9893b15da80056119016e299675edd14256376994df0f325"
+    },
+    {
+      "file": "1994_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/1994_European_Parliament_election_in_Italy",
+      "sha256": "a13cfa44817776c7066304dea74f34041811461eeaa4cd81d993d59373c35031"
+    },
+    {
+      "file": "1999_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/1999_European_Parliament_election_in_Italy",
+      "sha256": "1b1651319fdc6e982764d1794004ef71c197cb942bfd002a799f365779cc9b3b"
+    },
+    {
+      "file": "2004_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/2004_European_Parliament_election_in_Italy",
+      "sha256": "87ae1e8bfc2104fbe9fc19c92fca5d692ce75e393a9bf7753076c2d607836aae"
+    },
+    {
+      "file": "2009_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/2009_European_Parliament_election_in_Italy",
+      "sha256": "b0c67921ce1c9bef650058ec8da254a9aac53db0afe8f0f0df3628fca0267540"
+    },
+    {
+      "file": "2014_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/2014_European_Parliament_election_in_Italy",
+      "sha256": "ffda397f16d2c3d187c5584b02aa75bf610fda5ff90430bac84874f87af30179"
+    },
+    {
+      "file": "2019_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/2019_European_Parliament_election_in_Italy",
+      "sha256": "2b2adf4e912630cbbbfb8772f2c705caa4aec67ab01a2b4766bca6e83d095d4d"
+    },
+    {
+      "file": "2024_European_Parliament_election_in_Italy.html",
+      "url": "https://en.wikipedia.org/wiki/2024_European_Parliament_election_in_Italy",
+      "sha256": "248afadcf8e12cff2973eab28fe57d77fabfa81b552f855256db6d83c1e82a24"
+    },
+    {
+      "file": "1946_Italian_provisional_head_of_state_election.html",
+      "url": "https://en.wikipedia.org/wiki/1946_Italian_provisional_head_of_state_election",
+      "sha256": "b8ab0b5b103d71644b9f982a27ef634d6f396f78f37eabadba58a4475bc3beeb"
+    },
+    {
+      "file": "1947_Italian_provisional_head_of_state_election.html",
+      "url": "https://en.wikipedia.org/wiki/1947_Italian_provisional_head_of_state_election",
+      "sha256": "b77de026fba58f21334a297d8a96cb5b4439209cfdf9547ca18afdd1465fdd4b"
+    },
+    {
+      "file": "official-president-1-0.html",
+      "url": "https://presidenti.quirinale.it/page/1/den-elezione.html",
+      "sha256": "653694b1a78294f8b9c13d93ccbd2674bf59a5e09ce3deeebff83f18ea22dd18"
+    },
+    {
+      "file": "1946_Italian_provisional_head_of_state_election.html",
+      "url": "https://en.wikipedia.org/wiki/1946_Italian_provisional_head_of_state_election",
+      "sha256": "b8ab0b5b103d71644b9f982a27ef634d6f396f78f37eabadba58a4475bc3beeb"
+    },
+    {
+      "file": "1947_Italian_provisional_head_of_state_election.html",
+      "url": "https://en.wikipedia.org/wiki/1947_Italian_provisional_head_of_state_election",
+      "sha256": "b77de026fba58f21334a297d8a96cb5b4439209cfdf9547ca18afdd1465fdd4b"
+    },
+    {
+      "file": "official-president-2-0.html",
+      "url": "https://presidenti.quirinale.it/page/2/ein-elezione.html",
+      "sha256": "7b95ab43887de653797866cc8cee66fece581b288b0ab58ccd48ddf46e0bdeff"
+    },
+    {
+      "file": "1948_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1948_Italian_presidential_election",
+      "sha256": "cc2b2c457435a4667bdc904f267a2f4ee6e89ea4d3e94efc24c5695f7fc5f186"
+    },
+    {
+      "file": "official-president-3-0.html",
+      "url": "https://presidenti.quirinale.it/page/3/gro-elezione.html",
+      "sha256": "671dcf24693727878a7bf3db27c5402d58342ce62dd64bbe0ff9adf2510e334a"
+    },
+    {
+      "file": "1955_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1955_Italian_presidential_election",
+      "sha256": "5a20ce6cb0c2d778244503a8b273b95deaf1e8bd59113c8a2a07735067d86f38"
+    },
+    {
+      "file": "official-president-4-0.html",
+      "url": "https://presidenti.quirinale.it/page/4/seg-elezione.html",
+      "sha256": "5eda5e2827a47ea17ca6e433dbc1d43aed4b974f5e36b457819ed971ed827dff"
+    },
+    {
+      "file": "1962_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1962_Italian_presidential_election",
+      "sha256": "89e38fbca2d180485f5e152f08319916027b326fb0f8e6aebf04d9cb0d4e2c80"
+    },
+    {
+      "file": "official-president-5-0.html",
+      "url": "https://presidenti.quirinale.it/page/5/sar-elezione.html",
+      "sha256": "da89d4ccbdccd337cc873215cf93e12421d1bb959e82bb3a09a55184d5e84104"
+    },
+    {
+      "file": "1964_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1964_Italian_presidential_election",
+      "sha256": "7ac96fb016729c9e45c872da846dce19a802d38106b5be7662c1cc85b3c40f31"
+    },
+    {
+      "file": "official-president-6-0.html",
+      "url": "https://presidenti.quirinale.it/page/6/leo-elezione.html",
+      "sha256": "0e0a251cc7912510ae117e93d0478121625b68d60de7c37dd922e2b229659146"
+    },
+    {
+      "file": "1971_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1971_Italian_presidential_election",
+      "sha256": "ecb22867c1ededc2022ba8fdabd7ff73252bfeafc69a00ed7d6eb73cffca5ea2"
+    },
+    {
+      "file": "official-president-7-0.html",
+      "url": "https://presidenti.quirinale.it/page/7/per-elezione.html",
+      "sha256": "4b53e6a71f71b93a00e88987b0e213ae6b54de4575e1ad5c3d96b8165e9dba9a"
+    },
+    {
+      "file": "1978_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1978_Italian_presidential_election",
+      "sha256": "bdfb5ed823fb9542e1e49661c2e72f2a8fe1ec0d4f570eacceaf9f2bf90091f1"
+    },
+    {
+      "file": "official-president-8-0.html",
+      "url": "https://presidenti.quirinale.it/page/8/cos-elezione.html",
+      "sha256": "7237afa78e96dd0298a89ec13842f79e1d5a9c4455a49b7cea577f7b14591be7"
+    },
+    {
+      "file": "1985_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1985_Italian_presidential_election",
+      "sha256": "1d9046e8d4fa0fb36da97d0e95707308178843e1f0fd864ab5613beb990593c2"
+    },
+    {
+      "file": "official-president-9-0.html",
+      "url": "https://presidenti.quirinale.it/page/9/sca-elezione.html",
+      "sha256": "aa7cb6d3b6c6f13cfd0abe7afa117ef32e2febb4791c0a0bac6a2d411e74c694"
+    },
+    {
+      "file": "1992_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1992_Italian_presidential_election",
+      "sha256": "60a2075a4bfc54fb46053eaa5bb38119e5f9c7a5062eae35359aaf55146f5ad3"
+    },
+    {
+      "file": "official-president-10-0.html",
+      "url": "https://presidenti.quirinale.it/page/10/cia-elezione.html",
+      "sha256": "4c1ff7379f95c1ecede77a40db6c018d449cb587028bbdce783878deb2b6c3a3"
+    },
+    {
+      "file": "1999_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1999_Italian_presidential_election",
+      "sha256": "9a57ecada5d8f40f4521adb185312318b12caaeb52cde92c117759be41fee707"
+    },
+    {
+      "file": "official-president-11-0.html",
+      "url": "https://presidenti.quirinale.it/page/11/nap-elezione_2.html",
+      "sha256": "e0fb8edb9160c6fbb1844022ba1be1f213cfaa563061d9f18bf9c49471a34eca"
+    },
+    {
+      "file": "2013_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2013_Italian_presidential_election",
+      "sha256": "7971ba02437bba545f507b1588a41e387174d9d662d8ecac21438ef5d7442665"
+    },
+    {
+      "file": "official-president-11-1.html",
+      "url": "https://presidenti.quirinale.it/page/11/nap-elezione.html",
+      "sha256": "65a74fe4a227145e070968200dfe6800e762938964c6815998648389751f8a69"
+    },
+    {
+      "file": "2006_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2006_Italian_presidential_election",
+      "sha256": "21fbc21cc69ac08cb2db925e61f15c91b8ef901b5b78a20ceae23a8022f0d006"
+    },
+    {
+      "file": "official-president-12-0.html",
+      "url": "https://presidenti.quirinale.it/page/12/elezione",
+      "sha256": "4fcf7fa8df42acb68c9ba32595f5db76ce1b251b3e9911639bd24584ffd6ecab"
+    },
+    {
+      "file": "2015_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2015_Italian_presidential_election",
+      "sha256": "abc17eea01e259cc39e381732d6cc3f70071fd2713f0fb0987d249a64a92a1fd"
+    },
+    {
+      "file": "official-president-12-1.html",
+      "url": "https://presidenti.quirinale.it/page/12/elezione_2022",
+      "sha256": "99e82e600f95d1da8a30e2b37830aeba70c13b6ca20c9df9dd5ad72b063b32ab"
+    },
+    {
+      "file": "2022_Italian_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2022_Italian_presidential_election",
+      "sha256": "85908ae9bb0b3c9249421486fa4a9d2f81abfa26dce79dcde21f5044c2789148"
+    },
+    {
+      "file": "official-european-2024.html",
+      "url": "https://results.elections.europa.eu/en/national-results/italy/2024-2029/",
+      "sha256": "913667b89e052d58f56afc16698dcbfd4ccc1179b5f76db46bd7126c940c8566"
+    },
+    {
+      "file": "official-senate-2001.html",
+      "url": "https://www.parlamento.it/leg/14/Elettorale/riepilogo.htm",
+      "sha256": "b99fe8fd0c72f10ab8e6df3a8f84d83587848d450314e00fd871f688c7ca5bbb"
+    },
+    {
+      "file": "official-senate-2022-mirror.html",
+      "url": "https://www.parlamento.it/leg/19/Elettorale/riepilogo.htm",
+      "sha256": "3c9df36d5cf934df159fde1880026e3f03536cc299588a47f94b56db80a71b50"
+    },
+    {
+      "file": "official-senate-overseas-2022.html",
+      "url": "https://www.parlamento.it/leg/19/Elettorale/riepilogo_estero.htm",
+      "sha256": "1d1dfa40d8ce677fd2f84bb04bbc3137d29eca7763520c86a47f70abb6d32469"
+    },
+    {
+      "file": "official-electoral-history.html",
+      "url": "https://storia.camera.it/legislature/legs-sabaudo",
+      "sha256": "2ba0ffc81f175911f8817c84120d154866e4df4331c44646a752eb5597d51187"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "sources": {
+    "official-senate-2022-mirror": "https://www.parlamento.it/leg/19/Elettorale/riepilogo.htm",
+    "official-senate-overseas-2022": "https://www.parlamento.it/leg/19/Elettorale/riepilogo_estero.htm"
+  },
+  "rows": [
+    {
+      "name": "Centre-right coalition",
+      "votes": 12135315,
+      "share": 44.02,
+      "seats": 112
+    },
+    {
+      "name": "Centre-left coalition",
+      "votes": 7164955,
+      "share": 25.99,
+      "seats": 39
+    },
+    {
+      "name": "Five Star Movement",
+      "votes": 4290004,
+      "share": 15.56,
+      "seats": 28
+    },
+    {
+      "name": "Action – Italia Viva",
+      "votes": 2131590,
+      "share": 7.73,
+      "seats": 9
+    },
+    {
+      "name": "Italexit",
+      "votes": 515443,
+      "share": 1.87,
+      "seats": 0
+    },
+    {
+      "name": "Popular Union",
+      "votes": 374151,
+      "share": 1.36,
+      "seats": 0
+    },
+    {
+      "name": "Sovereign and Popular Italy",
+      "votes": 309429,
+      "share": 1.12,
+      "seats": 0
+    },
+    {
+      "name": "South Calls North",
+      "votes": 272370,
+      "share": 0.99,
+      "seats": 1
+    },
+    {
+      "name": "Vita",
+      "votes": 196488,
+      "share": 0.71,
+      "seats": 0
+    },
+    {
+      "name": "Italian Communist Party",
+      "votes": 70959,
+      "share": 0.26,
+      "seats": 0
+    },
+    {
+      "name": "Us of the Centre – Europeanists",
+      "votes": 42853,
+      "share": 0.16,
+      "seats": 0
+    },
+    {
+      "name": "Alternative for Italy",
+      "votes": 40524,
+      "share": 0.15,
+      "seats": 0
+    },
+    {
+      "name": "Animalist Party",
+      "votes": 16957,
+      "share": 0.06,
+      "seats": 0
+    },
+    {
+      "name": "Communist Workers’ Party",
+      "votes": 4496,
+      "share": 0.02,
+      "seats": 0
+    },
+    {
+      "name": "United Right",
+      "votes": 2412,
+      "share": 0.01,
+      "seats": 0
+    },
+    {
+      "name": "Force of the People",
+      "votes": 865,
+      "share": 0,
+      "seats": 0
+    },
+    {
+      "name": "Centre-right — Valle d’Aosta",
+      "seats": 1
+    },
+    {
+      "name": "Centre-right — Trentino-Alto Adige",
+      "seats": 2
+    },
+    {
+      "name": "SVP–PATT — Trentino-Alto Adige",
+      "seats": 2
+    },
+    {
+      "name": "Democratic Alliance for Autonomy — Trentino-Alto Adige",
+      "seats": 1
+    },
+    {
+      "name": "Democracy Environment Future — Trentino-Alto Adige",
+      "seats": 1
+    },
+    {
+      "name": "Democratic Party — overseas",
+      "seats": 3
+    },
+    {
+      "name": "MAIE — overseas",
+      "seats": 1
+    }
+  ]
+}
