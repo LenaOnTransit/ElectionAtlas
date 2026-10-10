@@ -56,6 +56,19 @@ for district in root.findall('n:OBVOD', ns):
     for field in ('legitimacy', 'coalitionNotes', 'house', 'majorityThreshold', 'contests', 'geography', 'regionalOverview'):
         e.pop(field, None)
     e.update(id=f'world-cz-senate-2026-district-{number}-round-1', title=f'Senate — {name} (district {number})', body=f'Senate — electoral district {number}', round='First round', seriesId=parent['seriesId'], overviewId=parent['id'], linkedElectionIds=[parent['id']], status='held', publication='published', totalSeats=1, turnout=float(u['UCAST_PROC']) if count == total else None, resultStatus='provisional', resultCoverage='partial', voteBasis='First-round candidate votes within this electoral district', results=rows, sources=sources, checked=stamp.date().isoformat(), version=0, summary=f'Provisional first-round count for the {name} Senate district.', government='', notes='One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report.', live={'enabled': True, 'reporting': float(u['OKRSKY_ZPRAC_PROC']), 'unit': 'precincts', 'bulletin': f"Official snapshot {stamp.strftime('%H:%M %Z')}: {count}/{total} precincts reported; {votes:,} valid first-round votes. Provisional count.", 'updated': stamp.isoformat()})
+    if e['id'] in old:
+        previous = old[e['id']]
+        existing_rows = {r['id']: r for r in previous['results']}
+        for row in e['results']:
+            if row['id'] in existing_rows:
+                saved = copy.deepcopy(existing_rows[row['id']])
+                saved.update({k: row[k] for k in ('votes', 'share', 'seats', 'winner', 'advanced')})
+                row.clear()
+                row.update(saved)
+        refreshed = copy.deepcopy(previous)
+        refreshed.update({k: e[k] for k in ('results', 'turnout', 'live', 'checked', 'resultStatus', 'resultCoverage')})
+        refreshed['version'] = previous['version'] + 1
+        e = refreshed
     districts.append(e)
 control = root.find('n:CELKEM/n:UCAST', ns).attrib
 assert len(districts) == 27 and seen == set(register)

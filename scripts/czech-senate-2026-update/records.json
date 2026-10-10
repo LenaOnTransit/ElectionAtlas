@@ -4,10 +4,10 @@
     "body": "Senate",
     "live": {
       "enabled": true,
-      "reporting": 7.73,
+      "reporting": 30.71,
       "unit": "precincts",
-      "bulletin": "Official first-round snapshot 15:34 CEST on 10 October: 388/5,021 precincts reported (7.73%); 22,088 valid votes counted. 0/27 seats officially decided in round one. Full Senate: 81 seats. Candidate results are available in the linked district pages. Counts are provisional; runoffs where required are scheduled for 16–17 October.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official first-round snapshot 16:34 CEST on 10 October: 1,542/5,021 precincts reported (30.71%); 142,869 valid votes counted. 0/27 seats officially decided in round one. Full Senate: 81 seats. Candidate results are available in the linked district pages. Counts are provisional; runoffs where required are scheduled for 16–17 October.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -194,7 +194,7 @@
     ],
     "summary": "2026 renewal of 27 seats in the 81-member Senate. Official first-round counting is in progress.",
     "turnout": null,
-    "version": 5,
+    "version": 6,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -292,10 +292,10 @@
     "body": "Senate — electoral district 3",
     "live": {
       "enabled": true,
-      "reporting": 8.72,
+      "reporting": 30.23,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 15/172 precincts reported; 852 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 52/172 precincts reported; 4,269 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -309,93 +309,93 @@
       {
         "id": "cz-senate-2026-3-1",
         "name": "Miroslav Plevný",
-        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "color": "#808080",
-        "votes": 301,
-        "share": 35.32,
+        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 34.97,
+        "votes": 1493,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-2",
         "name": "Vladimír Keblúšek",
-        "party": "Naše Česko",
         "color": "#808080",
-        "votes": 68,
-        "share": 7.98,
+        "party": "Naše Česko",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 8.33,
+        "votes": 356,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-3",
         "name": "Pavel Hojda",
-        "party": "Komunistická str.Čech a Moravy",
         "color": "#808080",
-        "votes": 24,
-        "share": 2.81,
+        "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 3.16,
+        "votes": 135,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-4",
         "name": "Sandra Tsoukernik",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 306,
-        "share": 35.91,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 33.7,
+        "votes": 1439,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-5",
         "name": "Štěpánka Černá",
-        "party": "VOK – Volba pro kraj",
         "color": "#808080",
-        "votes": 80,
-        "share": 9.38,
+        "party": "VOK – Volba pro kraj",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 12.04,
+        "votes": 514,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-6",
         "name": "Ivan Reis",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 73,
-        "share": 8.56,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 7.77,
+        "votes": 332,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Cheb Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -404,11 +404,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -418,10 +418,10 @@
     "body": "Senate — electoral district 6",
     "live": {
       "enabled": true,
-      "reporting": 11.86,
+      "reporting": 43.39,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 35/295 precincts reported; 2,083 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 128/295 precincts reported; 9,083 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -435,93 +435,93 @@
       {
         "id": "cz-senate-2026-6-1",
         "name": "Vladislav Hrbáček",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 177,
-        "share": 8.49,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 10.37,
+        "votes": 942,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-2",
         "name": "Jiří Kobza",
-        "party": "Stačilo!",
         "color": "#808080",
-        "votes": 62,
-        "share": 2.97,
+        "party": "Stačilo!",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 2.95,
+        "votes": 268,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-3",
         "name": "Leo Steiner",
-        "party": "JsmePRO!",
         "color": "#808080",
-        "votes": 125,
-        "share": 6.0,
+        "party": "JsmePRO!",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 9.13,
+        "votes": 830,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-4",
         "name": "Ivana Hluštíková",
-        "party": "Koalice Zelení, Piráti",
         "color": "#808080",
-        "votes": 68,
-        "share": 3.26,
+        "party": "Koalice Zelení, Piráti",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 5.32,
+        "votes": 484,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-5",
         "name": "Ivo Trešl",
-        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "color": "#808080",
-        "votes": 1104,
-        "share": 53.0,
+        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 44.65,
+        "votes": 4056,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-6",
         "name": "Jaroslav Mikoláš",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 547,
-        "share": 26.26,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 27.55,
+        "votes": 2503,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Louny Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -530,11 +530,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -546,8 +546,8 @@
       "enabled": true,
       "reporting": 0.0,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 0/140 precincts reported; 0 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 0/140 precincts reported; 0 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -561,117 +561,117 @@
       {
         "id": "cz-senate-2026-9-1",
         "name": "Jaroslav Novák",
-        "party": "Jasný Signál Nezávislých",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Jasný Signál Nezávislých",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-2",
         "name": "Lumír Aschenbrenner",
-        "party": "ODS, Koruna Česká, TOP 09",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ODS, Koruna Česká, TOP 09",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-3",
         "name": "Daniela Pousková",
-        "party": "PRO PLZEŇ",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "PRO PLZEŇ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-4",
         "name": "Bohumír Janský",
-        "party": "SEN 21",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "SEN 21",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-5",
         "name": "Karel Řehka",
-        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-6",
         "name": "Jiří Valenta",
-        "party": "Komunistická str.Čech a Moravy",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-7",
         "name": "Lucie Kantorová",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-8",
         "name": "Július Líška",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Plzeň-město Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -680,11 +680,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -694,10 +694,10 @@
     "body": "Senate — electoral district 12",
     "live": {
       "enabled": true,
-      "reporting": 21.91,
+      "reporting": 56.79,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 71/324 precincts reported; 3,305 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 184/324 precincts reported; 11,559 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -711,57 +711,57 @@
       {
         "id": "cz-senate-2026-12-1",
         "name": "Jana Hrdinová",
-        "party": "KDU-ČSL",
         "color": "#808080",
-        "votes": 699,
-        "share": 21.14,
+        "party": "KDU-ČSL",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 19.87,
+        "votes": 2297,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-12-2",
         "name": "Tomáš Fiala",
-        "party": "Naše Česko",
         "color": "#808080",
-        "votes": 1931,
-        "share": 58.42,
+        "party": "Naše Česko",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 57.79,
+        "votes": 6680,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-12-3",
         "name": "Miroslav Ušatý",
-        "party": "Koalice Svobodní,SPD,Trikolora",
         "color": "#808080",
-        "votes": 675,
-        "share": 20.42,
+        "party": "Koalice Svobodní,SPD,Trikolora",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 22.33,
+        "votes": 2582,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Strakonice Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -770,11 +770,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -784,10 +784,10 @@
     "body": "Senate — electoral district 15",
     "live": {
       "enabled": true,
-      "reporting": 15.03,
+      "reporting": 54.91,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 52/346 precincts reported; 2,028 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 190/346 precincts reported; 12,573 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -801,93 +801,93 @@
       {
         "id": "cz-senate-2026-15-1",
         "name": "Jaroslav Chalupský",
-        "party": "Srdcem a Rozumem",
         "color": "#808080",
-        "votes": 429,
-        "share": 21.15,
+        "party": "Srdcem a Rozumem",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 23.41,
+        "votes": 2944,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-2",
         "name": "Pavel Hodáč",
-        "party": "Komunistická str.Čech a Moravy",
         "color": "#808080",
-        "votes": 59,
-        "share": 2.9,
+        "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 2.86,
+        "votes": 360,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-3",
         "name": "Ladislav Med",
-        "party": "KDU-ČSL,ODS,STAN,TOP 09,STO",
         "color": "#808080",
-        "votes": 635,
-        "share": 31.31,
+        "party": "KDU-ČSL,ODS,STAN,TOP 09,STO",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 30.23,
+        "votes": 3801,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-4",
         "name": "Lucie Pavlů Řádová",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 129,
-        "share": 6.36,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 6.13,
+        "votes": 771,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-5",
         "name": "Michal Kozár",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 575,
-        "share": 28.35,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 27.74,
+        "votes": 3488,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-6",
         "name": "Karolína Kubisková",
-        "party": "VÝZVA 2025",
         "color": "#808080",
-        "votes": 201,
-        "share": 9.91,
+        "party": "VÝZVA 2025",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 9.61,
+        "votes": 1209,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Pelhřimov Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -896,11 +896,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -910,10 +910,10 @@
     "body": "Senate — electoral district 18",
     "live": {
       "enabled": true,
-      "reporting": 4.48,
+      "reporting": 38.06,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 12/268 precincts reported; 937 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 102/268 precincts reported; 9,966 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -927,93 +927,93 @@
       {
         "id": "cz-senate-2026-18-1",
         "name": "Petr Štěpánek",
-        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "color": "#808080",
-        "votes": 439,
-        "share": 46.85,
+        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 42.67,
+        "votes": 4253,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-2",
         "name": "Barbora Daňhová",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 244,
-        "share": 26.04,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 27.96,
+        "votes": 2787,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-3",
         "name": "Pavel Vermach",
-        "party": "Sdružení pro Místní Správu",
         "color": "#808080",
-        "votes": 41,
-        "share": 4.37,
+        "party": "Sdružení pro Místní Správu",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 3.61,
+        "votes": 360,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-4",
         "name": "Josef Šorna",
-        "party": "Koalice SPD, PRO",
         "color": "#808080",
-        "votes": 76,
-        "share": 8.11,
+        "party": "Koalice SPD, PRO",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 10.55,
+        "votes": 1052,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-5",
         "name": "Simona Luftová",
-        "party": "Koalice Zelení, Piráti",
         "color": "#808080",
-        "votes": 84,
-        "share": 8.96,
+        "party": "Koalice Zelení, Piráti",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 9.75,
+        "votes": 972,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-6",
         "name": "Frank Thomas Podstatzky-Lichtenstein",
-        "party": "Česká zemědělská strana",
         "color": "#808080",
-        "votes": 53,
-        "share": 5.65,
+        "party": "Česká zemědělská strana",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 5.43,
+        "votes": 542,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Příbram Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1022,11 +1022,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1038,8 +1038,8 @@
       "enabled": true,
       "reporting": 0.0,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 0/139 precincts reported; 0 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 0/139 precincts reported; 0 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -1053,105 +1053,105 @@
       {
         "id": "cz-senate-2026-21-1",
         "name": "Lubomír Brož",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-2",
         "name": "Zdeněk Šarapatka",
-        "party": "Koalice Piráti, TOP 09, LES",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Koalice Piráti, TOP 09, LES",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-3",
         "name": "Václav Láska",
-        "party": "SEN 21",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "SEN 21",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-4",
         "name": "Ľubomír Augustín",
-        "party": "PŘÍSAHA občanské hnutí",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "PŘÍSAHA občanské hnutí",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-5",
         "name": "Pavel Spirov",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-6",
         "name": "Radko Sáblík",
-        "party": "Koalice KDU-ČSL, ODS, STAN",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Koalice KDU-ČSL, ODS, STAN",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-7",
         "name": "Petra Prokšanová",
-        "party": "Komunistická str.Čech a Moravy",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Praha 5 Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1160,11 +1160,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1176,8 +1176,8 @@
       "enabled": true,
       "reporting": 0.0,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 0/101 precincts reported; 0 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 0/101 precincts reported; 0 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -1191,81 +1191,81 @@
       {
         "id": "cz-senate-2026-24-1",
         "name": "Darina Batyiová",
-        "party": "Hnutí Kruh",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Hnutí Kruh",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-24-2",
         "name": "David Smoljak",
-        "party": "KDU-ČSL,Zelení,STAN,Piráti,TOP",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "KDU-ČSL,Zelení,STAN,Piráti,TOP",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-24-3",
         "name": "Bedřich Laube",
-        "party": "Svobodní, SPD, Trikolora, PRO",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Svobodní, SPD, Trikolora, PRO",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-24-4",
         "name": "Radek Žalud",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-24-5",
         "name": "Dagmar Pecková",
-        "party": "Občanská demokratická strana",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Občanská demokratická strana",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Praha 9 Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1274,11 +1274,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1290,8 +1290,8 @@
       "enabled": true,
       "reporting": 0.0,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 0/92 precincts reported; 0 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 0/92 precincts reported; 0 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -1305,129 +1305,129 @@
       {
         "id": "cz-senate-2026-27-1",
         "name": "Jiří Morštadt",
-        "party": "Hnutí Generace",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Hnutí Generace",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-2",
         "name": "Pavel Čižinský",
-        "party": "Levice",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Levice",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-3",
         "name": "Jan Štern",
-        "party": "„JSME TEAM“",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "„JSME TEAM“",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-4",
         "name": "Vojtěch Ryvola",
-        "party": "GEN",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "GEN",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-5",
         "name": "Ján Dudra",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-6",
         "name": "Jiří Pavel Pešek",
-        "party": "ŠVÝCARSKÁ DEMOKRACIE",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ŠVÝCARSKÁ DEMOKRACIE",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-7",
         "name": "Jiří Padevět",
-        "party": "ODS, STAN, Piráti, TOP 09",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ODS, STAN, Piráti, TOP 09",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-8",
         "name": "Jan Čižinský",
-        "party": "KDU-ČSL, Zelení, PRAHA SOBĚ",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "KDU-ČSL, Zelení, PRAHA SOBĚ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-9",
         "name": "Vladimír Kolman",
-        "party": "Sociální demokracie",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Sociální demokracie",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Praha 1 Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1436,11 +1436,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1450,10 +1450,10 @@
     "body": "Senate — electoral district 30",
     "live": {
       "enabled": true,
-      "reporting": 3.33,
+      "reporting": 25.33,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 5/150 precincts reported; 444 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 38/150 precincts reported; 7,345 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -1467,93 +1467,93 @@
       {
         "id": "cz-senate-2026-30-1",
         "name": "Jan Klas",
-        "party": "Naše Česko",
         "color": "#808080",
-        "votes": 36,
-        "share": 8.1,
+        "party": "Naše Česko",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 8.94,
+        "votes": 657,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-2",
         "name": "Adéla Sucharda Šípová",
-        "party": "Zelení,STAN,Piráti,TOP09,SEN21",
         "color": "#808080",
-        "votes": 143,
-        "share": 32.2,
+        "party": "Zelení,STAN,Piráti,TOP09,SEN21",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 27.89,
+        "votes": 2049,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-3",
         "name": "Jaroslav Pelc",
-        "party": "PŘÍSAHA občanské hnutí",
         "color": "#808080",
-        "votes": 14,
-        "share": 3.15,
+        "party": "PŘÍSAHA občanské hnutí",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 3.86,
+        "votes": 284,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-4",
         "name": "Marcela Machalová",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 30,
-        "share": 6.75,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 6.8,
+        "votes": 500,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-5",
         "name": "Petr Paták",
-        "party": "Občanská demokratická strana",
         "color": "#808080",
-        "votes": 121,
-        "share": 27.25,
+        "party": "Občanská demokratická strana",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 27.58,
+        "votes": 2026,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-6",
         "name": "Aleš Gerloch",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 100,
-        "share": 22.52,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 24.9,
+        "votes": 1829,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Kladno Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1562,11 +1562,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1576,10 +1576,10 @@
     "body": "Senate — electoral district 33",
     "live": {
       "enabled": true,
-      "reporting": 4.2,
+      "reporting": 17.48,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 6/143 precincts reported; 566 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 25/143 precincts reported; 2,745 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -1593,81 +1593,81 @@
       {
         "id": "cz-senate-2026-33-1",
         "name": "Jan Skalický",
-        "party": "PRO Právo Respekt Odbornost",
         "color": "#808080",
-        "votes": 72,
-        "share": 12.72,
+        "party": "PRO Právo Respekt Odbornost",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 9.36,
+        "votes": 257,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-33-2",
         "name": "Anna Lehká",
-        "party": "MÍSTNÍ HNUTÍ ZA HARM. ROZVOJ",
         "color": "#808080",
-        "votes": 77,
-        "share": 13.6,
+        "party": "MÍSTNÍ HNUTÍ ZA HARM. ROZVOJ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 10.41,
+        "votes": 286,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-33-3",
         "name": "Zbyněk Linhart",
-        "party": "Koalice STAN, SLK",
         "color": "#808080",
-        "votes": 208,
-        "share": 36.74,
+        "party": "Koalice STAN, SLK",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 50.96,
+        "votes": 1399,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-33-4",
         "name": "Michal Hejcman",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 178,
-        "share": 31.44,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 23.49,
+        "votes": 645,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-33-5",
         "name": "Miroslav Štross",
-        "party": "Koalice Zelení, Piráti, SEN 21",
         "color": "#808080",
-        "votes": 31,
-        "share": 5.47,
+        "party": "Koalice Zelení, Piráti, SEN 21",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 5.75,
+        "votes": 158,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Děčín Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1676,11 +1676,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1690,10 +1690,10 @@
     "body": "Senate — electoral district 36",
     "live": {
       "enabled": true,
-      "reporting": 7.42,
+      "reporting": 36.24,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 17/229 precincts reported; 1,085 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 83/229 precincts reported; 8,969 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -1707,81 +1707,81 @@
       {
         "id": "cz-senate-2026-36-1",
         "name": "Vít Vomáčka",
-        "party": "Občanská demokratická strana",
         "color": "#808080",
-        "votes": 107,
-        "share": 9.86,
+        "party": "Občanská demokratická strana",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 12.39,
+        "votes": 1112,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-36-2",
         "name": "Jiří Vosecký",
-        "party": "Nezávislý kandidát",
         "color": "#808080",
-        "votes": 267,
-        "share": 24.6,
+        "party": "Nezávislý kandidát",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 18.08,
+        "votes": 1622,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-36-3",
         "name": "Jitka Volfová",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 361,
-        "share": 33.27,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 34.26,
+        "votes": 3073,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-36-4",
         "name": "Leoš Hamrský",
-        "party": "Komunistická str.Čech a Moravy",
         "color": "#808080",
-        "votes": 44,
-        "share": 4.05,
+        "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 4.04,
+        "votes": 363,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-36-5",
         "name": "Martin Půta",
-        "party": "Starostové pro Liberecký kraj",
         "color": "#808080",
-        "votes": 306,
-        "share": 28.2,
+        "party": "Starostové pro Liberecký kraj",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 31.2,
+        "votes": 2799,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Česká Lípa Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1790,11 +1790,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1804,10 +1804,10 @@
     "body": "Senate — electoral district 39",
     "live": {
       "enabled": true,
-      "reporting": 5.14,
+      "reporting": 25.71,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 9/175 precincts reported; 566 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 45/175 precincts reported; 4,850 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -1821,69 +1821,69 @@
       {
         "id": "cz-senate-2026-39-1",
         "name": "Radek Mráz",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 38,
-        "share": 6.71,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 6.63,
+        "votes": 322,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-39-2",
         "name": "Jan Sobotka",
-        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "color": "#808080",
-        "votes": 348,
-        "share": 61.48,
+        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 59.17,
+        "votes": 2870,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-39-3",
         "name": "Zuzana Chovancová",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 162,
-        "share": 28.62,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 28.94,
+        "votes": 1404,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-39-4",
         "name": "Hynek Beran",
-        "party": "PRO Právo Respekt Odbornost",
         "color": "#808080",
-        "votes": 18,
-        "share": 3.18,
+        "party": "PRO Právo Respekt Odbornost",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 5.23,
+        "votes": 254,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Trutnov Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1892,11 +1892,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1906,10 +1906,10 @@
     "body": "Senate — electoral district 42",
     "live": {
       "enabled": true,
-      "reporting": 9.42,
+      "reporting": 37.22,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 21/223 precincts reported; 1,461 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 83/223 precincts reported; 9,734 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -1923,105 +1923,105 @@
       {
         "id": "cz-senate-2026-42-1",
         "name": "Andrea Brzobohatá",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 437,
-        "share": 29.91,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 29.5,
+        "votes": 2872,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-2",
         "name": "Pavel Sehnal",
-        "party": "Aliance pro budoucnost",
         "color": "#808080",
-        "votes": 62,
-        "share": 4.24,
+        "party": "Aliance pro budoucnost",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 4.18,
+        "votes": 407,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-3",
         "name": "Roman Schulz",
-        "party": "Koalice TOP 09 a ODS",
         "color": "#808080",
-        "votes": 118,
-        "share": 8.07,
+        "party": "Koalice TOP 09 a ODS",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 12.09,
+        "votes": 1177,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-4",
         "name": "František Třeštik",
-        "party": "Jasný Signál Nezávislých",
         "color": "#808080",
-        "votes": 12,
-        "share": 0.82,
+        "party": "Jasný Signál Nezávislých",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 0.74,
+        "votes": 73,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-5",
         "name": "Jiří Rynekr",
-        "party": "Komunistická str.Čech a Moravy",
         "color": "#808080",
-        "votes": 45,
-        "share": 3.08,
+        "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 3.02,
+        "votes": 294,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-6",
         "name": "Antonín Dušek",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 81,
-        "share": 5.54,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 5.42,
+        "votes": 528,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-7",
         "name": "Michael Kašpar",
-        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "color": "#808080",
-        "votes": 706,
-        "share": 48.32,
+        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 45.02,
+        "votes": 4383,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Kolín Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2030,11 +2030,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2044,10 +2044,10 @@
     "body": "Senate — electoral district 45",
     "live": {
       "enabled": true,
-      "reporting": 9.9,
+      "reporting": 37.5,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 19/192 precincts reported; 1,323 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 72/192 precincts reported; 7,036 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2061,105 +2061,105 @@
       {
         "id": "cz-senate-2026-45-1",
         "name": "Monika Nebeská",
-        "party": "Nezávislý kandidát",
         "color": "#808080",
-        "votes": 288,
-        "share": 21.76,
+        "party": "Nezávislý kandidát",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 22.56,
+        "votes": 1588,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-2",
         "name": "Vladimír Dryml",
-        "party": "Česká suverenita soc. dem.",
         "color": "#808080",
-        "votes": 25,
-        "share": 1.88,
+        "party": "Česká suverenita soc. dem.",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 2.25,
+        "votes": 159,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-3",
         "name": "Jana Hůlková",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 285,
-        "share": 21.54,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 20.8,
+        "votes": 1464,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-4",
         "name": "Ivan Picek",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 70,
-        "share": 5.29,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 5.01,
+        "votes": 353,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-5",
         "name": "Jan Holásek",
-        "party": "Koalice VPM, HP, MY, RH, NČ",
         "color": "#808080",
-        "votes": 185,
-        "share": 13.98,
+        "party": "Koalice VPM, HP, MY, RH, NČ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 11.85,
+        "votes": 834,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-6",
         "name": "Zuzana Ceralová Petrofová",
-        "party": "Občanská demokratická strana",
         "color": "#808080",
-        "votes": 272,
-        "share": 20.55,
+        "party": "Občanská demokratická strana",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 20.66,
+        "votes": 1454,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-7",
         "name": "Martin Dvořák",
-        "party": "Zelení,STAN,Piráti,TOP 09,HDK",
         "color": "#808080",
-        "votes": 198,
-        "share": 14.96,
+        "party": "Zelení,STAN,Piráti,TOP 09,HDK",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 16.82,
+        "votes": 1184,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Hradec Králové Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2168,11 +2168,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2182,10 +2182,10 @@
     "body": "Senate — electoral district 48",
     "live": {
       "enabled": true,
-      "reporting": 11.98,
+      "reporting": 42.56,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 29/242 precincts reported; 1,984 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 103/242 precincts reported; 11,108 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2199,45 +2199,45 @@
       {
         "id": "cz-senate-2026-48-1",
         "name": "Petr Sadovský",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 748,
-        "share": 37.7,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 39.6,
+        "votes": 4399,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-48-2",
         "name": "Jan Grulich",
-        "party": "KDU-ČSL,ODS,STAN,Pir,TOP09,LES",
         "color": "#808080",
-        "votes": 1236,
-        "share": 62.29,
+        "party": "KDU-ČSL,ODS,STAN,Pir,TOP09,LES",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 60.39,
+        "votes": 6709,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Rychnov nad Kněžnou Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2246,11 +2246,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2260,10 +2260,10 @@
     "body": "Senate — electoral district 51",
     "live": {
       "enabled": true,
-      "reporting": 18.87,
+      "reporting": 49.06,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 50/265 precincts reported; 2,619 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 130/265 precincts reported; 9,724 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2277,81 +2277,81 @@
       {
         "id": "cz-senate-2026-51-1",
         "name": "Radek Koten",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 467,
-        "share": 17.83,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 17.12,
+        "votes": 1665,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-51-2",
         "name": "Josef Klement",
-        "party": "KDU-ČSL",
         "color": "#808080",
-        "votes": 631,
-        "share": 24.09,
+        "party": "KDU-ČSL",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 26.48,
+        "votes": 2575,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-51-3",
         "name": "Michal Šmarda",
-        "party": "Koalice SOM, Volt, HR",
         "color": "#808080",
-        "votes": 812,
-        "share": 31.0,
+        "party": "Koalice SOM, Volt, HR",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 28.9,
+        "votes": 2811,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-51-4",
         "name": "Radek Černý",
-        "party": "Koalice ODS, Piráti, STO",
         "color": "#808080",
-        "votes": 559,
-        "share": 21.34,
+        "party": "Koalice ODS, Piráti, STO",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 22.53,
+        "votes": 2191,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-51-5",
         "name": "David Moos",
-        "party": "Spojení demokraté-Sdruž.nezáv.",
         "color": "#808080",
-        "votes": 150,
-        "share": 5.72,
+        "party": "Spojení demokraté-Sdruž.nezáv.",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 4.95,
+        "votes": 482,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Žďár nad Sázavou Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2360,11 +2360,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2374,10 +2374,10 @@
     "body": "Senate — electoral district 54",
     "live": {
       "enabled": true,
-      "reporting": 6.9,
+      "reporting": 35.96,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 14/203 precincts reported; 720 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 73/203 precincts reported; 7,076 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2391,93 +2391,93 @@
       {
         "id": "cz-senate-2026-54-1",
         "name": "Jindřich Růžička",
-        "party": "Nezávislý kandidát",
         "color": "#808080",
-        "votes": 115,
-        "share": 15.97,
+        "party": "Nezávislý kandidát",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 16.44,
+        "votes": 1164,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-2",
         "name": "Tomáš Třetina",
-        "party": "KDU, ODS, STAN, Piráti, TOP 09",
         "color": "#808080",
-        "votes": 249,
-        "share": 34.58,
+        "party": "KDU, ODS, STAN, Piráti, TOP 09",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 33.79,
+        "votes": 2391,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-3",
         "name": "Jiří Kyněra",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 133,
-        "share": 18.47,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 23.27,
+        "votes": 1647,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-4",
         "name": "Petra Rédová Fajmonová",
-        "party": "Stačilo!",
         "color": "#808080",
-        "votes": 81,
-        "share": 11.25,
+        "party": "Stačilo!",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 12.4,
+        "votes": 878,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-5",
         "name": "Bohumila Beranová",
-        "party": "Hnutí Hlas regionů",
         "color": "#808080",
-        "votes": 67,
-        "share": 9.3,
+        "party": "Hnutí Hlas regionů",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 6.38,
+        "votes": 452,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-6",
         "name": "Pavel Černý",
-        "party": "PŘÍSAHA občanské hnutí",
         "color": "#808080",
-        "votes": 75,
-        "share": 10.41,
+        "party": "PŘÍSAHA občanské hnutí",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 7.68,
+        "votes": 544,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Znojmo Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2486,11 +2486,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2500,10 +2500,10 @@
     "body": "Senate — electoral district 57",
     "live": {
       "enabled": true,
-      "reporting": 1.2,
+      "reporting": 12.05,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 2/166 precincts reported; 300 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 20/166 precincts reported; 3,290 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2517,57 +2517,57 @@
       {
         "id": "cz-senate-2026-57-1",
         "name": "Jaroslav Fládr",
-        "party": "PŘÍSAHA občanské hnutí",
         "color": "#808080",
-        "votes": 62,
-        "share": 20.66,
+        "party": "PŘÍSAHA občanské hnutí",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 9.75,
+        "votes": 321,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-57-2",
         "name": "Jan Grolich",
-        "party": "KDU-ČSL",
         "color": "#808080",
-        "votes": 144,
-        "share": 48.0,
+        "party": "KDU-ČSL",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 52.7,
+        "votes": 1734,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-57-3",
         "name": "Petra Absolonová",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 94,
-        "share": 31.33,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 37.53,
+        "votes": 1235,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Vyškov Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2576,11 +2576,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2592,8 +2592,8 @@
       "enabled": true,
       "reporting": 0.0,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 0/123 precincts reported; 0 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 0/123 precincts reported; 0 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2607,93 +2607,93 @@
       {
         "id": "cz-senate-2026-60-1",
         "name": "Zdeněk Papoušek",
-        "party": "KDU,ODS,Piráti,TOP09,FaktBrno",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "KDU,ODS,Piráti,TOP09,FaktBrno",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-2",
         "name": "Klára Alžběta Samková",
-        "party": "Stačilo!",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Stačilo!",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-3",
         "name": "Veronika Holcnerová",
-        "party": "Hnutí Kruh",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Hnutí Kruh",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-4",
         "name": "Jaroslav Štěrba",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-5",
         "name": "Karel Zitterbart",
-        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-6",
         "name": "Jaroslav Turánek",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": null,
+        "votes": null,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Brno-město Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2702,11 +2702,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2716,10 +2716,10 @@
     "body": "Senate — electoral district 63",
     "live": {
       "enabled": true,
-      "reporting": 4.63,
+      "reporting": 30.09,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 10/216 precincts reported; 649 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 65/216 precincts reported; 5,960 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2733,69 +2733,69 @@
       {
         "id": "cz-senate-2026-63-1",
         "name": "Marek Obrtel",
-        "party": "Česká strana národně sociální",
         "color": "#808080",
-        "votes": 135,
-        "share": 20.8,
+        "party": "Česká strana národně sociální",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 16.92,
+        "votes": 1009,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-63-2",
         "name": "Petr Vrána",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 261,
-        "share": 40.21,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 38.18,
+        "votes": 2276,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-63-3",
         "name": "Jakub Navařík",
-        "party": "Koalice KDU-ČSL,ODS,STAN,TOP09",
         "color": "#808080",
-        "votes": 212,
-        "share": 32.66,
+        "party": "Koalice KDU-ČSL,ODS,STAN,TOP09",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 36.12,
+        "votes": 2153,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-63-4",
         "name": "Dan Chromec",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 41,
-        "share": 6.31,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 8.75,
+        "votes": 522,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Přerov Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2804,11 +2804,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2818,10 +2818,10 @@
     "body": "Senate — electoral district 66",
     "live": {
       "enabled": true,
-      "reporting": 6.99,
+      "reporting": 34.93,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 16/229 precincts reported; 691 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 80/229 precincts reported; 5,828 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2835,81 +2835,81 @@
       {
         "id": "cz-senate-2026-66-1",
         "name": "Michael Kohajda",
-        "party": "KDU-ČSL",
         "color": "#808080",
-        "votes": 150,
-        "share": 21.7,
+        "party": "KDU-ČSL",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 23.02,
+        "votes": 1342,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-66-2",
         "name": "Pavel Jelínek",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 71,
-        "share": 10.27,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 9.69,
+        "votes": 565,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-66-3",
         "name": "Martin Škurek",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 251,
-        "share": 36.32,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 31.22,
+        "votes": 1820,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-66-4",
         "name": "Zdeněk Beil",
-        "party": "Levice",
         "color": "#808080",
-        "votes": 6,
-        "share": 0.86,
+        "party": "Levice",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 1.21,
+        "votes": 71,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-66-5",
         "name": "Marek Ošťádal",
-        "party": "24/7",
         "color": "#808080",
-        "votes": 213,
-        "share": 30.82,
+        "party": "24/7",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 34.83,
+        "votes": 2030,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Litovel Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2918,11 +2918,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2932,10 +2932,10 @@
     "body": "Senate — electoral district 69",
     "live": {
       "enabled": true,
-      "reporting": 0.0,
+      "reporting": 9.68,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 0/124 precincts reported; 0 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 12/124 precincts reported; 2,011 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -2949,105 +2949,105 @@
       {
         "id": "cz-senate-2026-69-1",
         "name": "Petr Hrnčárek",
-        "party": "Komunistická str.Čech a Moravy",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 2.33,
+        "votes": 47,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-2",
         "name": "Petr Korč",
-        "party": "Naše Město F-M",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Naše Město F-M",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 30.43,
+        "votes": 612,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-3",
         "name": "Nela Lisková",
-        "party": "Politické hnutí NEZLOMNÍ",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Politické hnutí NEZLOMNÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 4.02,
+        "votes": 81,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-4",
         "name": "René Hompora",
-        "party": "ŠVÝCARSKÁ DEMOKRACIE",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ŠVÝCARSKÁ DEMOKRACIE",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 2.98,
+        "votes": 60,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-5",
         "name": "Tomáš Krpel",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 14.32,
+        "votes": 288,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-6",
         "name": "Helena Pešatová",
-        "party": "Koalice STAN, Piráti, TOP 09",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Koalice STAN, Piráti, TOP 09",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 38.28,
+        "votes": 770,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-7",
         "name": "Zdeněk Navrátil",
-        "party": "rEvoluce",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "rEvoluce",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 7.6,
+        "votes": 153,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Frýdek-Místek Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3056,11 +3056,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -3070,10 +3070,10 @@
     "body": "Senate — electoral district 72",
     "live": {
       "enabled": true,
-      "reporting": 0.0,
+      "reporting": 1.14,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 0/88 precincts reported; 0 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 1/88 precincts reported; 323 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -3087,105 +3087,105 @@
       {
         "id": "cz-senate-2026-72-1",
         "name": "Milan Loprais",
-        "party": "Koalice SPD, PRO",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Koalice SPD, PRO",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 9.9,
+        "votes": 32,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-2",
         "name": "Petr Jančík",
-        "party": "Ostravak",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Ostravak",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 3.4,
+        "votes": 11,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-3",
         "name": "Ondřej Šimetka",
-        "party": "KDU, ODS, STAN, Piráti, TOP 09",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "KDU, ODS, STAN, Piráti, TOP 09",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 55.41,
+        "votes": 179,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-4",
         "name": "Lucie Baránková Vilamová",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 28.79,
+        "votes": 93,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-5",
         "name": "Radoslav Štědroň",
-        "party": "ŠVÝCARSKÁ DEMOKRACIE",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "ŠVÝCARSKÁ DEMOKRACIE",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 1.85,
+        "votes": 6,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-6",
         "name": "Radek Iwoniak",
-        "party": "Česká suverenita soc. dem.",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "Česká suverenita soc. dem.",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 0.0,
+        "votes": 0,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-7",
         "name": "Štefan Režný",
-        "party": "hnutí ReMeK pro zrušení SENÁTU",
         "color": "#808080",
-        "votes": null,
-        "share": null,
+        "party": "hnutí ReMeK pro zrušení SENÁTU",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 0.61,
+        "votes": 2,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Ostrava-město Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3194,11 +3194,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -3208,10 +3208,10 @@
     "body": "Senate — electoral district 75",
     "live": {
       "enabled": true,
-      "reporting": 1.9,
+      "reporting": 25.71,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 2/105 precincts reported; 202 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 27/105 precincts reported; 4,813 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -3225,105 +3225,105 @@
       {
         "id": "cz-senate-2026-75-1",
         "name": "Aleš Polách",
-        "party": "Koalice ODS, Soukromníci",
         "color": "#808080",
-        "votes": 26,
-        "share": 12.87,
+        "party": "Koalice ODS, Soukromníci",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 12.13,
+        "votes": 584,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-2",
         "name": "Mariam Szyja",
-        "party": "Zelení,STAN,Piráti,TOP09,SEN21",
         "color": "#808080",
-        "votes": 39,
-        "share": 19.3,
+        "party": "Zelení,STAN,Piráti,TOP09,SEN21",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 12.63,
+        "votes": 608,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-3",
         "name": "Pavel Staněk",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 25,
-        "share": 12.37,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 13.25,
+        "votes": 638,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-4",
         "name": "Karel Světnička",
-        "party": "Jasný Signál Nezávislých",
         "color": "#808080",
-        "votes": 3,
-        "share": 1.48,
+        "party": "Jasný Signál Nezávislých",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 1.86,
+        "votes": 90,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-5",
         "name": "Lenka Brzyszkowská",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 59,
-        "share": 29.2,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 34.8,
+        "votes": 1675,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-6",
         "name": "Roman Galia",
-        "party": "Sociální demokracie",
         "color": "#808080",
-        "votes": 13,
-        "share": 6.43,
+        "party": "Sociální demokracie",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 10.61,
+        "votes": 511,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-7",
         "name": "Petr Kazík",
-        "party": "Osobnosti pro kraj",
         "color": "#808080",
-        "votes": 37,
-        "share": 18.31,
+        "party": "Osobnosti pro kraj",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 14.68,
+        "votes": 707,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Karviná Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3332,11 +3332,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -3346,10 +3346,10 @@
     "body": "Senate — electoral district 78",
     "live": {
       "enabled": true,
-      "reporting": 1.36,
+      "reporting": 12.24,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 2/147 precincts reported; 185 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 18/147 precincts reported; 2,829 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -3363,93 +3363,93 @@
       {
         "id": "cz-senate-2026-78-1",
         "name": "Lubomír Nečas",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 11,
-        "share": 5.94,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 9.54,
+        "votes": 270,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-2",
         "name": "Tomáš Goláň",
-        "party": "Koalice KDU-ČSL, ODS, TOP 09",
         "color": "#808080",
-        "votes": 57,
-        "share": 30.81,
+        "party": "Koalice KDU-ČSL, ODS, TOP 09",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 34.46,
+        "votes": 975,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-3",
         "name": "Jan Doleček",
-        "party": "Komunistická str.Čech a Moravy",
         "color": "#808080",
-        "votes": 6,
-        "share": 3.24,
+        "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 2.15,
+        "votes": 61,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-4",
         "name": "Vladimír Sedlařík",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 49,
-        "share": 26.48,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 19.54,
+        "votes": 553,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-5",
         "name": "Ivo Mitáček",
-        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "color": "#808080",
-        "votes": 54,
-        "share": 29.18,
+        "party": "STAROSTOVÉ A NEZÁVISLÍ",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 25.73,
+        "votes": 728,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-6",
         "name": "Pavel Dlouhý",
-        "party": "SEN 21",
         "color": "#808080",
-        "votes": 8,
-        "share": 4.32,
+        "party": "SEN 21",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 8.55,
+        "votes": 242,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Zlín Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3458,11 +3458,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -3472,10 +3472,10 @@
     "body": "Senate — electoral district 81",
     "live": {
       "enabled": true,
-      "reporting": 0.81,
+      "reporting": 8.87,
       "unit": "precincts",
-      "bulletin": "Official snapshot 15:34 CEST: 1/124 precincts reported; 88 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T15:34:00+02:00"
+      "bulletin": "Official snapshot 16:34 CEST: 11/124 precincts reported; 1,778 valid first-round votes. Provisional count.",
+      "updated": "2026-10-10T16:34:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
@@ -3489,93 +3489,93 @@
       {
         "id": "cz-senate-2026-81-1",
         "name": "Otakar Březina",
-        "party": "Spojení demokraté-Sdruž.nezáv.",
         "color": "#808080",
-        "votes": 9,
-        "share": 10.22,
+        "party": "Spojení demokraté-Sdruž.nezáv.",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 8.6,
+        "votes": 153,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-2",
         "name": "Kristýna Zelienková",
-        "party": "ZVUK 12",
         "color": "#808080",
-        "votes": 7,
-        "share": 7.95,
+        "party": "ZVUK 12",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 5.06,
+        "votes": 90,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-3",
         "name": "David Skyba",
-        "party": "Svoboda a př. demokracie (SPD)",
         "color": "#808080",
-        "votes": 1,
-        "share": 1.13,
+        "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 4.78,
+        "votes": 85,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-4",
         "name": "Jiří Vašica",
-        "party": "ANO 2011",
         "color": "#808080",
-        "votes": 20,
-        "share": 22.72,
+        "party": "ANO 2011",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 27.72,
+        "votes": 493,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-5",
         "name": "Margita Balaštíková",
-        "party": "Odvážné Česko",
         "color": "#808080",
-        "votes": 0,
-        "share": 0.0,
+        "party": "Odvážné Česko",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 2.24,
+        "votes": 40,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-6",
         "name": "Josef Bazala",
-        "party": "KDU-ČSL",
         "color": "#808080",
-        "votes": 51,
-        "share": 57.95,
+        "party": "KDU-ČSL",
         "seats": 0,
-        "electoralVotes": null,
+        "share": 51.57,
+        "votes": 917,
         "winner": false,
-        "advanced": false
+        "advanced": false,
+        "electoralVotes": null
       }
     ],
     "sources": [
       {
-        "label": "Czech Statistical Office — live official first-round results",
-        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml",
+        "label": "Czech Statistical Office — live official first-round results"
       },
       {
-        "label": "Czech Statistical Office — candidate register",
-        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json",
+        "label": "Czech Statistical Office — candidate register"
       },
       {
-        "label": "Czech Statistical Office — live XML methodology",
-        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm",
+        "label": "Czech Statistical Office — live XML methodology"
       }
     ],
     "summary": "Provisional first-round count for the Uherské Hradiště Senate district.",
     "turnout": null,
-    "version": 0,
+    "version": 1,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3584,11 +3584,11 @@
     "voteBasis": "First-round candidate votes within this electoral district",
     "dateStatus": "confirmed",
     "government": "",
+    "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
     "resultStatus": "provisional",
     "resultCoverage": "partial",
-    "overviewId": "world-czech-senate-2026",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
