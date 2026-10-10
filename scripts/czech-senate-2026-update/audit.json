@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-10T15:34:00+02:00",
+  "reportedPrecincts": 388,
+  "totalPrecincts": 5021,
+  "validVotes": 22088,
+  "districts": 27,
+  "candidates": 154,
+  "officialFirstRoundWinners": 0,
+  "chamberSize": 81,
+  "contestedSeats": 27
+}
