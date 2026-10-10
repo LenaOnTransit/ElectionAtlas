@@ -1,0 +1,610 @@
+[
+  {
+    "id": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+    "country_id": "cz",
+    "name": "ANO 2011",
+    "short_name": "ANO 2011",
+    "color": "#6504f6",
+    "ideology_ids": [
+      "ideology-right-wing-populism"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+    "country_id": "cz",
+    "name": "Civic Democratic Party",
+    "short_name": "ODS and Top 09",
+    "color": "#0b4d99",
+    "ideology_ids": [
+      "ideology-conservatism"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "1cd92766-9345-49bc-87e3-502ed237bf2d",
+    "country_id": "cz",
+    "name": "Czech Pirate Party",
+    "short_name": "Pirates and SEN 21",
+    "color": "#000000",
+    "ideology_ids": [
+      "ideology-pirate-politics"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "4bd2448c-e11e-4a32-80d6-2a731cc89ea0",
+    "country_id": "cz",
+    "name": "HSR",
+    "short_name": "ODS and TOP 09",
+    "color": "#1f3247",
+    "ideology_ids": [
+      "ideology-liberal-conservatism"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "b4747917-91bb-47f3-98c2-2fedc58ec32c",
+    "country_id": "cz",
+    "name": "KDU-ČSL",
+    "short_name": "KDU-ČSL",
+    "color": "#e1e345",
+    "ideology_ids": [
+      "ideology-christian-democracy"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+    "country_id": "cz",
+    "name": "Mayors and Independents",
+    "short_name": "STAN",
+    "color": "#aa0df2",
+    "ideology_ids": [
+      "ideology-liberalism"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "d17956ef-de61-431c-99ee-da7664fe0735",
+    "country_id": "cz",
+    "name": "Mayors for the Liberec Region",
+    "short_name": "STAN",
+    "color": "#542aa2",
+    "ideology_ids": [
+      "ideology-regionalism"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "b189113b-5bf6-4bde-8a60-b5d38b2bc9b7",
+    "country_id": "cz",
+    "name": "SEN 21",
+    "short_name": "",
+    "color": "#5f9ce3",
+    "ideology_ids": [
+      "ideology-liberalism"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "86026ce1-88a1-46ed-bb5e-e685f7a6e6f6",
+    "country_id": "cz",
+    "name": "TOP 09",
+    "short_name": "ODS and TOP 09",
+    "color": "#802182",
+    "ideology_ids": [
+      "ideology-liberal-conservatism"
+    ],
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "32648f03-9db5-5299-a9fe-baf6b044cb3b",
+    "country_id": "cz",
+    "name": "Naše Česko",
+    "short_name": "Naše Česko",
+    "color": "#63a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1722; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
+    "country_id": "cz",
+    "name": "Komunistická strana Čech a Moravy",
+    "short_name": "Komunistická str.Čech a Moravy",
+    "color": "#a54b27",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 47; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "2d5b5357-bd21-5125-b622-ce0400efa9b5",
+    "country_id": "cz",
+    "name": "VOK – Volba pro kraj",
+    "short_name": "VOK – Volba pro kraj",
+    "color": "#a52744",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1118; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
+    "country_id": "cz",
+    "name": "Svoboda a přímá demokracie (SPD)",
+    "short_name": "Svoboda a př. demokracie (SPD)",
+    "color": "#27a59e",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1114; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "7d546375-bebd-569e-8110-8beb9dc26cc2",
+    "country_id": "cz",
+    "name": "Stačilo!",
+    "short_name": "Stačilo!",
+    "color": "#86a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1298; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "9f7c0966-cb0f-5827-bf74-ea55a64f59c4",
+    "country_id": "cz",
+    "name": "JsmePRO!",
+    "short_name": "JsmePRO!",
+    "color": "#a5276e",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1126; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "8bc22694-a357-554a-83b5-8a1224f1dfce",
+    "country_id": "cz",
+    "name": "Strana zelených",
+    "short_name": "Strana zelených",
+    "color": "#a56b27",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 5; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "44c91efd-24cb-5ae3-a122-f421a6774b5f",
+    "country_id": "cz",
+    "name": "Jasný Signál Nezávislých",
+    "short_name": "Jasný Signál Nezávislých",
+    "color": "#31a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1282; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "4edd5de8-b071-50b0-8ca0-bc1fc21e6f5b",
+    "country_id": "cz",
+    "name": "PRO PLZEŇ",
+    "short_name": "PRO PLZEŇ",
+    "color": "#3627a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1014; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "511c11e9-dadb-519c-92a8-431814b57a97",
+    "country_id": "cz",
+    "name": "Koalice Svobodní, SPD a Trikolora",
+    "short_name": "Koalice Svobodní,SPD,Trikolora",
+    "color": "#27a558",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1486; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "7c9a6ffb-c1de-5ce5-9182-fd2569d223dd",
+    "country_id": "cz",
+    "name": "Srdcem a Rozumem",
+    "short_name": "Srdcem a Rozumem",
+    "color": "#27a54a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1740; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "6e8fa257-8cf8-50b8-8b57-9417cdaea20c",
+    "country_id": "cz",
+    "name": "VÝZVA 2025",
+    "short_name": "VÝZVA 2025",
+    "color": "#a58927",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1704; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "9523ee10-4f04-541a-bb89-3b914d704230",
+    "country_id": "cz",
+    "name": "Sdružení pro Místní Správu",
+    "short_name": "Sdružení pro Místní Správu",
+    "color": "#a52784",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1202; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "500a6254-f8b2-5a5a-a693-fe5b98862c40",
+    "country_id": "cz",
+    "name": "PRO Právo Respekt Odbornost",
+    "short_name": "PRO Právo Respekt Odbornost",
+    "color": "#9627a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1265; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "420f5f66-87dc-5955-8551-325f1222e1ae",
+    "country_id": "cz",
+    "name": "Česká zemědělská strana",
+    "short_name": "Česká zemědělská strana",
+    "color": "#27a536",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1295; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "5b4336eb-11f2-57a3-810e-7fbd46a6900b",
+    "country_id": "cz",
+    "name": "PŘÍSAHA občanské hnutí",
+    "short_name": "PŘÍSAHA občanské hnutí",
+    "color": "#27a581",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1245; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "e77ff800-9898-5c74-a76d-c980d981182a",
+    "country_id": "cz",
+    "name": "Hnutí Kruh",
+    "short_name": "Hnutí Kruh",
+    "color": "#a52733",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1707; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "edd4d0a6-8d7f-5a21-a41b-1b05777f1ed2",
+    "country_id": "cz",
+    "name": "Koalice KDU-ČSL, Zelení, STAN, Piráti a TOP 09",
+    "short_name": "KDU-ČSL,Zelení,STAN,Piráti,TOP",
+    "color": "#61a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1955; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "e32c6ca9-a240-5043-8709-fc587b7f94e0",
+    "country_id": "cz",
+    "name": "Svobodní",
+    "short_name": "Svobodní",
+    "color": "#52a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 714; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "f228b713-d0ee-54a0-a5ed-ce062ba46a95",
+    "country_id": "cz",
+    "name": "Hnutí Generace",
+    "short_name": "Hnutí Generace",
+    "color": "#a52780",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1291; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "eb6746d9-a0ed-5b73-a80d-a07b2a2eefef",
+    "country_id": "cz",
+    "name": "Levice",
+    "short_name": "Levice",
+    "color": "#5a27a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 74; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "86a9dda3-1aff-5ff7-b7ff-bf01a3b235d7",
+    "country_id": "cz",
+    "name": "„JSME TEAM“",
+    "short_name": "„JSME TEAM“",
+    "color": "#a5275a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1194; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "f26c5939-0315-5453-a1fd-7e5c6130e44c",
+    "country_id": "cz",
+    "name": "GEN",
+    "short_name": "GEN",
+    "color": "#2761a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1297; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "29e727b1-e1f2-5720-9cfb-fea341bbb048",
+    "country_id": "cz",
+    "name": "ŠVÝCARSKÁ DEMOKRACIE - Švýcaři si užívají nejvyšší kvality života na světě …",
+    "short_name": "ŠVÝCARSKÁ DEMOKRACIE",
+    "color": "#6f27a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 752; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "4011ade8-e08e-5a9d-bac3-c4069e74e1af",
+    "country_id": "cz",
+    "name": "Koalice ODS, STAN, Piráti a TOP 09",
+    "short_name": "ODS, STAN, Piráti, TOP 09",
+    "color": "#3227a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1912; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "18ddaaae-8ee6-5d70-9cd4-1c9bc2def025",
+    "country_id": "cz",
+    "name": "Pražská městská strana PRAHA SOBĚ",
+    "short_name": "Pražská městská str.PRAHA SOBĚ",
+    "color": "#4fa527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1180; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "da3a6195-f812-555c-8886-853624fa993f",
+    "country_id": "cz",
+    "name": "Sociální demokracie",
+    "short_name": "Sociální demokracie",
+    "color": "#2ca527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 7; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "7812d749-d21e-5be3-b246-bece977ab099",
+    "country_id": "cz",
+    "name": "Koalice Zelení, STAN, Piráti, TOP 09 a SEN 21",
+    "short_name": "Zelení,STAN,Piráti,TOP09,SEN21",
+    "color": "#34a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1803; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "4d724f2c-1f42-5c5a-8221-b3a8549ada30",
+    "country_id": "cz",
+    "name": "MÍSTNÍ HNUTÍ NEZÁVISLÝCH ZA HARMONICKÝ ROZVOJ OBCÍ A MĚST",
+    "short_name": "MÍSTNÍ HNUTÍ ZA HARM. ROZVOJ",
+    "color": "#7da527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 112; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "e0c21409-23cf-532e-9d81-85c203d82afe",
+    "country_id": "cz",
+    "name": "Koalice STAN, SLK",
+    "short_name": "Koalice STAN, SLK",
+    "color": "#27a553",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1164; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "018b5d25-1469-5e19-bbe0-0d83530c0980",
+    "country_id": "cz",
+    "name": "Aliance pro budoucnost",
+    "short_name": "Aliance pro budoucnost",
+    "color": "#a5274a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1173; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "0a2f08e8-2ecc-58dd-82e6-79a652a5b694",
+    "country_id": "cz",
+    "name": "ČSSD – Česká suverenita sociální demokracie",
+    "short_name": "Česká suverenita soc. dem.",
+    "color": "#a56927",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 759; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "1bf5b7c6-892c-5c42-9b05-b2a2e99a9ba8",
+    "country_id": "cz",
+    "name": "ROZVÍJÍME HRADEC",
+    "short_name": "ROZVÍJÍME HRADEC",
+    "color": "#a54c27",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1267; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "7a2b7da4-29f9-584f-a7aa-218b2b6dcdf8",
+    "country_id": "cz",
+    "name": "Koalice SOM, Volt a HR",
+    "short_name": "Koalice SOM, Volt, HR",
+    "color": "#a56127",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1945; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "f0a7a997-b193-5564-80f9-79d641abb915",
+    "country_id": "cz",
+    "name": "Spojení demokraté - Sdružení nezávislých",
+    "short_name": "Spojení demokraté-Sdruž.nezáv.",
+    "color": "#27a549",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 143; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "65420d49-d667-5f94-b883-0dc3575ec456",
+    "country_id": "cz",
+    "name": "Hnutí Hlas regionů",
+    "short_name": "Hnutí Hlas regionů",
+    "color": "#a5275d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1715; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "aef8691c-0707-5e13-9873-6b954717249f",
+    "country_id": "cz",
+    "name": "Koalice KDU-ČSL, ODS, Piráti, TOP 09 a Fakt Brno",
+    "short_name": "KDU,ODS,Piráti,TOP09,FaktBrno",
+    "color": "#a5274d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1694; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "7463d80a-b336-55bb-8c61-2528b0631251",
+    "country_id": "cz",
+    "name": "Česká strana národně sociální",
+    "short_name": "Česká strana národně sociální",
+    "color": "#71a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 2; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "335c2aed-1610-549f-9815-9628686c38d0",
+    "country_id": "cz",
+    "name": "24/7",
+    "short_name": "24/7",
+    "color": "#4427a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1747; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "785c18ee-f0b1-59be-9743-d119833a5a91",
+    "country_id": "cz",
+    "name": "Naše Město F-M",
+    "short_name": "Naše Město F-M",
+    "color": "#9327a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 799; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "2ffc8460-aad5-5e07-a05b-a20604187c06",
+    "country_id": "cz",
+    "name": "Politické hnutí NEZLOMNÍ",
+    "short_name": "Politické hnutí NEZLOMNÍ",
+    "color": "#52a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1701; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "16c3f324-a89f-57fd-8798-8850018e6539",
+    "country_id": "cz",
+    "name": "Koalice STAN, Piráti a TOP 09",
+    "short_name": "Koalice STAN, Piráti, TOP 09",
+    "color": "#6327a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1472; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "87e27fbb-7bd4-5435-ac59-0951e2f7be0a",
+    "country_id": "cz",
+    "name": "rEvoluce",
+    "short_name": "rEvoluce",
+    "color": "#a5276d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1736; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "d90c9aba-f744-5442-ad96-0ae4c796e6b7",
+    "country_id": "cz",
+    "name": "Ostravak",
+    "short_name": "Ostravak",
+    "color": "#274da5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 755; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "bc82ff56-52b2-54d6-a046-9f4c1ce4424c",
+    "country_id": "cz",
+    "name": "Koalice KDU-ČSL, ODS, STAN, Piráti a TOP 09",
+    "short_name": "KDU, ODS, STAN, Piráti, TOP 09",
+    "color": "#a5279b",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1655; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "74334451-704c-5c13-aef7-862f32954dad",
+    "country_id": "cz",
+    "name": "Občansko-politické hnutí ReMeK pro zrušení SENÁTU",
+    "short_name": "hnutí ReMeK pro zrušení SENÁTU",
+    "color": "#a58027",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1293; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "79fcb431-45a5-5bcb-b0dd-0b3d3d109fa1",
+    "country_id": "cz",
+    "name": "Koalice ODS a Soukromníci",
+    "short_name": "Koalice ODS, Soukromníci",
+    "color": "#83a527",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1154; type K (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "5afd889a-f99d-5864-ab8d-e5d166ecf636",
+    "country_id": "cz",
+    "name": "Osobnosti pro kraj",
+    "short_name": "Osobnosti pro kraj",
+    "color": "#27a561",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1287; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "1d8d2de7-04c2-5f22-8785-381945a991d7",
+    "country_id": "cz",
+    "name": "ZVUK 12",
+    "short_name": "ZVUK 12",
+    "color": "#a52739",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 775; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  },
+  {
+    "id": "08c20f32-fb55-5d69-b416-5b9d9d7ba5bf",
+    "country_id": "cz",
+    "name": "Odvážné Česko",
+    "short_name": "Odvážné Česko",
+    "color": "#27a574",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Official Czech electoral-party code 1732; type S (S: party/movement; K: electoral coalition). Source: https://volby.gov.cz/opendata/se2026/json/cvs.json . Added for the 2026 Senate candidate register: https://volby.gov.cz/opendata/se2026/json/serk.json . Colour is a stable editorial display palette, not verified official branding. No ideology has been inferred."
+  }
+]
