@@ -28,7 +28,27 @@ assert.equal(overview.live.reporting, Math.round(audit.reportedPrecincts / audit
 for (const d of districts) {
   assert.equal(d.totalSeats, 1);
   assert.equal(d.overviewId, overview.id);
-  assert.equal(d.resultCoverage, 'partial');
+  assert.equal(d.resultCoverage, d.results.some(r => r.winner) ? 'complete' : 'partial');
   assert.ok(d.results.every(r => r.seats === (r.winner ? 1 : 0)));
+}
+if (fs.existsSync(base + 'parties.json')) {
+  const parties = JSON.parse(fs.readFileSync(base + 'parties.json'));
+  const partyModel = await import(moduleUrl('lib/country-parties.ts'));
+  const profiles = new Map(parties.map(p => [p.id, p]));
+  for (const p of parties) partyModel.validateParty(p);
+  const assignments = JSON.parse(fs.readFileSync(base + 'party-assignments.json'));
+  assert.equal(assignments.length, audit.candidates);
+  for (const row of districts.flatMap(d => d.results)) {
+    const a = assignments.find(a => a.resultId === row.id);
+    assert.equal(row.partyId ?? null, a.partyId);
+    if (row.partyId) {
+      assert.equal(row.color, profiles.get(row.partyId).color);
+      if (a.membershipCode === 99) assert.ok(row.party.startsWith('Independent · '));
+    } else {
+      assert.equal(row.party, 'Independent');
+      assert.equal(row.color, '#808080');
+    }
+  }
+  console.log('All candidate party references and colours verified; memberships, nominations and non-partisans kept distinct.');
 }
 console.log('Czech Senate: 29 valid records; 27 districts and 154 candidates reconciled with official totals; 81-seat overview and existing party metadata preserved.');
