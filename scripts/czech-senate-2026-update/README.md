@@ -1,5 +1,9 @@
 # Czech Senate first-round live snapshot
 
+The first round is now final: all 5,021 precincts reported, five senators were elected and 44 candidates advance in 22 district runoffs on 16–17 October. All Czech first-round live flags and the scheduled runoff live flag are disabled. District vote outcomes are final; coverage remains partial where the seat itself awaits the second round. The runoff is scheduled, has no invented results and remains in the Calendar. The full Senate overview retains 81 seats and its existing party metadata.
+
+To reproduce closure after refreshing the source and generating records, run `python scripts/finalize-czech-senate-first-round-2026.py`, then `node scripts/check-czech-senate-2026.mjs`. The finalization script requires complete reporting and exactly two officially advancing candidates in every unresolved district.
+
 The timestamp and official counting totals are recorded in `audit.json`; the corresponding official CSO XML is preserved in `results.xml`. `records.json` uses the existing WorldElection model and contains the overview, conditional runoff and 27 linked district results. `baseline.json` preserves the two existing records for optimistic concurrency and an audit trail.
 
 The overview retains the **81-seat whole Senate**, as requested. Only **27 seats** are contested in 2026. Its existing party rows, previous-seat metadata and legitimacy assessment are preserved; no unverified full-chamber party allocation is introduced. Each district has one contested seat and its own candidate-vote denominator. Whole-chamber composition and district wins must not be conflated.

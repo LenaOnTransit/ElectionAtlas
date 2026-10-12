@@ -25,6 +25,17 @@ assert.equal(runoff.seriesId, overview.seriesId);
 assert.equal(runoff.status, 'scheduled');
 assert.equal(overview.live.updated, audit.timestamp);
 assert.equal(overview.live.reporting, Math.round(audit.reportedPrecincts / audit.totalPrecincts * 10000) / 100);
+if (audit.firstRoundFinal) {
+  assert.ok(records.every(e => !e.live?.enabled));
+  assert.equal(overview.resultStatus, 'final');
+  assert.equal(overview.turnout, audit.turnout);
+  assert.equal(districts.filter(d => !d.results.some(r => r.winner)).length, audit.runoffDistricts);
+  assert.equal(districts.flatMap(d => d.results).filter(r => r.advanced).length, audit.advancedCandidates);
+  assert.ok(districts.every(d => d.resultStatus === 'final' && d.live.reporting === 100));
+  assert.equal(runoff.startDate, '2026-10-16');
+  assert.equal(runoff.endDate, '2026-10-17');
+  assert.deepEqual(runoff.results, []);
+}
 for (const d of districts) {
   assert.equal(d.totalSeats, 1);
   assert.equal(d.overviewId, overview.id);
