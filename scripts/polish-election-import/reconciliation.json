@@ -1,0 +1,587 @@
+[
+  {
+    "id": "world-poland-sejm-1919-01-26",
+    "expectedVotes": 5580980,
+    "recordedVotes": 5580980,
+    "expectedSeats": null,
+    "recordedSeats": 394,
+    "source": "https://en.wikipedia.org/wiki/1919_Polish_legislative_election",
+    "coverage": "partial"
+  },
+  {
+    "id": "world-poland-sejm-1947-01-19",
+    "expectedVotes": 11244873,
+    "recordedVotes": 11244873,
+    "expectedSeats": 444,
+    "recordedSeats": 444,
+    "source": "https://en.wikipedia.org/wiki/1947_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1922-11-05",
+    "expectedVotes": 8774688,
+    "recordedVotes": 8762855,
+    "expectedSeats": 444,
+    "recordedSeats": 444,
+    "source": "https://en.wikipedia.org/wiki/1922_Polish_legislative_election",
+    "coverage": "partial"
+  },
+  {
+    "id": "world-poland-senate-1922-11-12",
+    "expectedVotes": 5616491,
+    "recordedVotes": 5616491,
+    "expectedSeats": 111,
+    "recordedSeats": 111,
+    "source": "https://en.wikipedia.org/wiki/1922_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1928-03-04",
+    "expectedVotes": 11408248,
+    "recordedVotes": 11408248,
+    "expectedSeats": 444,
+    "recordedSeats": 444,
+    "source": "https://en.wikipedia.org/wiki/1928_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-1928-03-11",
+    "expectedVotes": 6389400,
+    "recordedVotes": 6389400,
+    "expectedSeats": 111,
+    "recordedSeats": 111,
+    "source": "https://en.wikipedia.org/wiki/1928_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1930-11-16",
+    "expectedVotes": 11333795,
+    "recordedVotes": 11333795,
+    "expectedSeats": 444,
+    "recordedSeats": 444,
+    "source": "https://en.wikipedia.org/wiki/1930_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-1930-11-23",
+    "expectedVotes": 6797188,
+    "recordedVotes": 6797188,
+    "expectedSeats": 111,
+    "recordedSeats": 111,
+    "source": "https://en.wikipedia.org/wiki/1930_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1935-09-08",
+    "expectedVotes": 7065000,
+    "recordedVotes": 7065000,
+    "expectedSeats": 208,
+    "recordedSeats": 206,
+    "source": "https://en.wikipedia.org/wiki/1935_Polish_legislative_election",
+    "coverage": "partial"
+  },
+  {
+    "id": "world-poland-senate-1935-09-15",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 96,
+    "recordedSeats": 96,
+    "source": "https://en.wikipedia.org/wiki/1935_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1938-11-06",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 208,
+    "recordedSeats": 208,
+    "source": "https://en.wikipedia.org/wiki/1938_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-1938-11-13",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 96,
+    "recordedSeats": 96,
+    "source": "https://en.wikipedia.org/wiki/1938_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1952-10-26",
+    "expectedVotes": 15491170,
+    "recordedVotes": 15491170,
+    "expectedSeats": 425,
+    "recordedSeats": 425,
+    "source": "https://en.wikipedia.org/wiki/1952_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1957-01-20",
+    "expectedVotes": 16833316,
+    "recordedVotes": 16833316,
+    "expectedSeats": 460,
+    "recordedSeats": 459,
+    "source": "https://en.wikipedia.org/wiki/1957_Polish_legislative_election",
+    "coverage": "partial"
+  },
+  {
+    "id": "world-poland-sejm-1961-04-16",
+    "expectedVotes": 17634579,
+    "recordedVotes": 17634579,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1961_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1965-05-30",
+    "expectedVotes": 18968476,
+    "recordedVotes": 18968476,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1965_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1969-06-01",
+    "expectedVotes": 20634683,
+    "recordedVotes": 20634683,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1969_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1972-03-19",
+    "expectedVotes": 21849397,
+    "recordedVotes": 21849397,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1972_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1976-03-21",
+    "expectedVotes": 23637333,
+    "recordedVotes": 23637333,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1976_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1980-03-23",
+    "expectedVotes": 24802612,
+    "recordedVotes": 24802612,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1980_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1985-10-13",
+    "expectedVotes": 20489086,
+    "recordedVotes": 20489086,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1985_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1991-10-27",
+    "expectedVotes": 11218602,
+    "recordedVotes": 11218602,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1991_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-1991-10-27",
+    "expectedVotes": 22921366,
+    "recordedVotes": 22921366,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/1991_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1993-09-19",
+    "expectedVotes": 13796227,
+    "recordedVotes": 13796227,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1993_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-1993-09-19",
+    "expectedVotes": 27263952,
+    "recordedVotes": 27263952,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/1993_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1997-09-21",
+    "expectedVotes": 13088231,
+    "recordedVotes": 13088231,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1997_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-1997-09-21",
+    "expectedVotes": 25944449,
+    "recordedVotes": 25944449,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/1997_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-2001-09-23",
+    "expectedVotes": 13017929,
+    "recordedVotes": 13017929,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/2001_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-2001-09-23",
+    "expectedVotes": 27069119,
+    "recordedVotes": 27069119,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/2001_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-2005-09-25",
+    "expectedVotes": 11804676,
+    "recordedVotes": 11804676,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/2005_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-2005-09-25",
+    "expectedVotes": 24141971,
+    "recordedVotes": 24141971,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/2005_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-2007-10-21",
+    "expectedVotes": 16142202,
+    "recordedVotes": 16142202,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/2007_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-2007-10-21",
+    "expectedVotes": 32535656,
+    "recordedVotes": 32535656,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/2007_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-2011-10-09",
+    "expectedVotes": 14369503,
+    "recordedVotes": 14369503,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/2011_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-2011-10-09",
+    "expectedVotes": 14531462,
+    "recordedVotes": 14531462,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/2011_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-2015-10-25",
+    "expectedVotes": 15200671,
+    "recordedVotes": 15200671,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/2015_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-2015-10-25",
+    "expectedVotes": 14988086,
+    "recordedVotes": 14988086,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/2015_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-2019-10-13",
+    "expectedVotes": 18470710,
+    "recordedVotes": 18470710,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/2019_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-2019-10-13",
+    "expectedVotes": 18201348,
+    "recordedVotes": 18201348,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/2019_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-2023-10-15",
+    "expectedVotes": 21596674,
+    "recordedVotes": 21596674,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-2023-10-15",
+    "expectedVotes": 21402998,
+    "recordedVotes": 21402998,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-sejm-1989-06-04",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 460,
+    "recordedSeats": 460,
+    "source": "https://en.wikipedia.org/wiki/1989_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-senate-1989-06-04",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "source": "https://en.wikipedia.org/wiki/1989_Polish_legislative_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1990-11-25",
+    "expectedVotes": 16442474,
+    "recordedVotes": 16442474,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1990_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1990-12-09",
+    "expectedVotes": 14305794,
+    "recordedVotes": 14305794,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1990_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1995-11-05",
+    "expectedVotes": 17872350,
+    "recordedVotes": 17872350,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1995_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1995-11-19",
+    "expectedVotes": 18762615,
+    "recordedVotes": 18762615,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1995_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2000-10-08",
+    "expectedVotes": 17598919,
+    "recordedVotes": 17598919,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2000_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2005-10-09",
+    "expectedVotes": 14946689,
+    "recordedVotes": 14946689,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2005_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2005-10-23",
+    "expectedVotes": 15279787,
+    "recordedVotes": 15279787,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2005_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2010-06-20",
+    "expectedVotes": 16806170,
+    "recordedVotes": 16806170,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2010_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2010-07-04",
+    "expectedVotes": 16853021,
+    "recordedVotes": 16853021,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2010_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2015-05-10",
+    "expectedVotes": 14898934,
+    "recordedVotes": 14898934,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2015_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2015-05-24",
+    "expectedVotes": 16742938,
+    "recordedVotes": 16742938,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2015_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2020-06-28",
+    "expectedVotes": 19425459,
+    "recordedVotes": 19425459,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2020_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2020-07-12",
+    "expectedVotes": 20458911,
+    "recordedVotes": 20458911,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2020_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2025-05-18",
+    "expectedVotes": 19603784,
+    "recordedVotes": 19603784,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2025_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-2025-06-01",
+    "expectedVotes": 20844163,
+    "recordedVotes": 20844163,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/2025_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1922-12-09",
+    "expectedVotes": 516,
+    "recordedVotes": 516,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1922_Polish_presidential_elections",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1922-12-20",
+    "expectedVotes": 519,
+    "recordedVotes": 519,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1922_Polish_presidential_elections",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1926-05-31",
+    "expectedVotes": 485,
+    "recordedVotes": 485,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1926_Polish_presidential_elections",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1926-06-01",
+    "expectedVotes": 482,
+    "recordedVotes": 482,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1926_Polish_presidential_elections",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1933-05-08",
+    "expectedVotes": 332,
+    "recordedVotes": 332,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1933_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1947-02-05",
+    "expectedVotes": 432,
+    "recordedVotes": 432,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1947_Polish_presidential_election",
+    "coverage": "complete"
+  },
+  {
+    "id": "world-poland-president-1989-07-19",
+    "expectedVotes": 537,
+    "recordedVotes": 537,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "source": "https://en.wikipedia.org/wiki/1989_Polish_presidential_election",
+    "coverage": "complete"
+  }
+]

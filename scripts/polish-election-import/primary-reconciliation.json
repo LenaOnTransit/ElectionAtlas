@@ -1,0 +1,31 @@
+[
+  {
+    "id": "world-poland-president-2025-05-18",
+    "validVotes": 19603784,
+    "candidates": {
+      "BARTOSZEWICZ": 95640,
+      "BIEJAT": 829361,
+      "BRAUN": 1242917,
+      "HOŁOWNIA": 978901,
+      "JAKUBIAK": 150698,
+      "MACIAK": 36371,
+      "MENTZEN": 2902448,
+      "NAWROCKI": 5790804,
+      "SENYSZYN": 214198,
+      "STANOWSKI": 243479,
+      "TRZASKOWSKI": 6147797,
+      "WOCH": 18338,
+      "ZANDBERG": 952832
+    },
+    "source": "https://prezydent2025.pkw.gov.pl/prezydent2025/statics/PKW_OBWIESZCZENIA/uploaded_files/1747706738_obwieszczenie-pkw-wyniki.pdf"
+  },
+  {
+    "id": "world-poland-president-2025-06-01",
+    "validVotes": 20844163,
+    "candidates": {
+      "NAWROCKI": 10606877,
+      "TRZASKOWSKI": 10237286
+    },
+    "source": "https://prezydent2025.pkw.gov.pl/prezydent2025/statics/PKW_OBWIESZCZENIA/uploaded_files/1748873119_obwieszczenie-pkw-o-wynikach-ponowne-glosowanie.pdf"
+  }
+]
