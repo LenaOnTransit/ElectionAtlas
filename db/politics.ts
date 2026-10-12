@@ -1,7 +1,19 @@
 import {supabase} from '../lib/supabase';
 import {validateParty,type CountryParty} from '../lib/country-parties';
 import {validateScores,type Axis,type AxisScores,type IdeologyScores,type ParliamentPosition} from '../lib/political-axes';
-export async function getCountryParties(all=false):Promise<CountryParty[]>{let q=supabase.from('ea_country_parties').select('*').order('name');if(!all)q=q.eq('archived',false);const {data,error}=await q;if(error)throw error;return data||[];}
+export async function getCountryParties(all=false):Promise<CountryParty[]>{
+  const parties:CountryParty[]=[];
+  const pageSize=500;
+  for(let offset=0;;offset+=pageSize){
+    let q=supabase.from('ea_country_parties').select('*').order('name').order('id').range(offset,offset+pageSize-1);
+    if(!all)q=q.eq('archived',false);
+    const {data,error}=await q;
+    if(error)throw error;
+    const page=data||[];
+    parties.push(...page);
+    if(page.length<pageSize)return parties;
+  }
+}
 export async function saveCountryParty(p:CountryParty){validateParty(p);const {data,error}=await supabase.from('ea_country_parties').upsert(p).select().single();if(error)throw error;return data as CountryParty;}
 export async function getIdeologyScores():Promise<IdeologyScores[]>{const {data,error}=await supabase.from('ea_ideology_axes').select('ideology_id,scores');if(error)throw error;return data||[];}
 export async function saveIdeologyScores(ideology_id:string,scores:AxisScores){validateScores(scores);const {error}=await supabase.from('ea_ideology_axes').upsert({ideology_id,scores});if(error)throw error;}
