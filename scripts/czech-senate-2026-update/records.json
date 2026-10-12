@@ -3,19 +3,19 @@
     "id": "world-czech-senate-2026",
     "body": "Senate",
     "live": {
-      "enabled": true,
-      "reporting": 96.69,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official first-round snapshot 22:53 CEST on 10 October: 4,855/5,021 precincts reported (96.69%); 1,079,412 valid votes counted. 2/27 seats officially decided in round one. Full Senate: 81 seats. Candidate results are available in the linked district pages. Counts are provisional; runoffs where required are scheduled for 16–17 October.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "Final first-round count: 5,021/5,021 precincts; 1,154,407 valid votes. Five seats decided; 22 district runoffs on 16–17 October. Full Senate: 81 seats.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "The overview retains the full Senate size of 81 seats. This election renews 27 seats; 54 seats are not being elected. Existing party rows and historical metadata are retained. Full chamber composition has not yet been updated from verified incumbent and elected-candidate data. Live district candidate counts are linked below; their percentages must not be added across districts or treated as a national party ballot. First round: 9–10 October 2026. Conditional second round: 16–17 October. No winner is inferred from a partial lead. This is a timestamped snapshot, not a continuously refreshing source. National turnout is omitted while reported precincts form an incomplete electorate. Linked district candidate colours now use saved party profiles. Official membership and coalition nomination are distinguished in each candidate label. New profile colours are editorial display choices.",
+    "notes": "The overview retains the full 81-member Senate. The 2026 cycle renews 27 seats; 54 seats continue without election. First-round votes and district outcomes are final: five seats were decided and 22 require a runoff on 16–17 October. Overall allocation is partial because the runoff has not taken place. Existing overview party rows and historical metadata are preserved; full-chamber party composition is not inferred from the contested cohort. Each district vote share has its own denominator. All first-round live entries are disabled. Official final count: 5,021 precincts; 1,154,407 valid votes; turnout 43.31%. Final XML snapshot: 2026-10-11T07:22:00+02:00.",
     "round": "First round",
     "title": "Senate",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -192,9 +192,9 @@
         "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
       }
     ],
-    "summary": "2026 renewal of 27 seats in the 81-member Senate. Official first-round counting is in progress.",
-    "turnout": null,
-    "version": 8,
+    "summary": "First-round counting complete: five senators elected and 22 district runoffs scheduled for 16–17 October 2026.",
+    "turnout": 43.31,
+    "version": 9,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -216,7 +216,7 @@
     },
     "totalSeats": 81,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-calendar-cz-senate-2026-runoff",
@@ -254,22 +254,30 @@
     "body": "Senate",
     "snap": false,
     "type": "parliamentary",
-    "notes": "Second round only where no first-round majority is reached. Announced dates are conditional on a runoff being required.",
-    "round": "Runoff, if required",
-    "title": "Senate",
+    "notes": "The first round is final. Five senators were elected in round one; the following 22 districts each elect one senator in the runoff on 16–17 October. This election has not yet taken place; no runoff votes or winners are entered. The 81-member Senate has 54 continuing seats. Confirmed first-round advancement pairs:\nSenate — Cheb (district 3): Miroslav Plevný (Independent · Mayors and Independents nomination) versus Sandra Tsoukernik (Independent · ANO 2011 nomination)\nSenate — Louny (district 6): Ivo Trešl (Independent · Mayors and Independents nomination) versus Jaroslav Mikoláš (Independent · ANO 2011 nomination)\nSenate — Plzeň-město (district 9): Karel Řehka (Independent · Mayors and Independents nomination) versus Lucie Kantorová (ANO 2011)\nSenate — Pelhřimov (district 15): Ladislav Med (Civic Democratic Party · nominated by KDU-ČSL,ODS,STAN,TOP 09,STO) versus Michal Kozár (ANO 2011)\nSenate — Příbram (district 18): Petr Štěpánek (Mayors and Independents) versus Barbora Daňhová (ANO 2011)\nSenate — Praha 5 (district 21): Václav Láska (SEN 21) versus Radko Sáblík (Civic Democratic Party · nominated by Koalice KDU-ČSL, ODS, STAN)\nSenate — Praha 9 (district 24): David Smoljak (Independent · KDU-ČSL,Zelení,STAN,Piráti,TOP nomination) versus Dagmar Pecková (Independent · Civic Democratic Party nomination)\nSenate — Praha 1 (district 27): Jiří Padevět (Independent · ODS, STAN, Piráti, TOP 09 nomination) versus Jan Čižinský (Pražská městská str.PRAHA SOBĚ · nominated by KDU-ČSL, Zelení, PRAHA SOBĚ)\nSenate — Kladno (district 30): Adéla Sucharda Šípová (Independent · Zelení,STAN,Piráti,TOP09,SEN21 nomination) versus Petr Paták (Civic Democratic Party)\nSenate — Česká Lípa (district 36): Jitka Volfová (ANO 2011) versus Martin Půta (Mayors for the Liberec Region)\nSenate — Kolín (district 42): Andrea Brzobohatá (ANO 2011) versus Michael Kašpar (Mayors and Independents)\nSenate — Hradec Králové (district 45): Zuzana Ceralová Petrofová (Independent · Civic Democratic Party nomination) versus Martin Dvořák (Mayors and Independents · nominated by Zelení,STAN,Piráti,TOP 09,HDK)\nSenate — Žďár nad Sázavou (district 51): Josef Klement (KDU-ČSL) versus Michal Šmarda (Independent · Koalice SOM, Volt, HR nomination)\nSenate — Znojmo (district 54): Tomáš Třetina (TOP 09 · nominated by KDU, ODS, STAN, Piráti, TOP 09) versus Jiří Kyněra (Independent · ANO 2011 nomination)\nSenate — Brno-město (district 60): Zdeněk Papoušek (Independent · KDU,ODS,Piráti,TOP09,FaktBrno nomination) versus Karel Zitterbart (Independent · Mayors and Independents nomination)\nSenate — Přerov (district 63): Petr Vrána (ANO 2011) versus Jakub Navařík (Civic Democratic Party · nominated by Koalice KDU-ČSL,ODS,STAN,TOP09)\nSenate — Litovel (district 66): Martin Škurek (ANO 2011) versus Marek Ošťádal (24/7)\nSenate — Frýdek-Místek (district 69): Petr Korč (Naše Město F-M) versus Helena Pešatová (Independent · Koalice STAN, Piráti, TOP 09 nomination)\nSenate — Ostrava-město (district 72): Ondřej Šimetka (Independent · KDU, ODS, STAN, Piráti, TOP 09 nomination) versus Lucie Baránková Vilamová (ANO 2011)\nSenate — Karviná (district 75): Lenka Brzyszkowská (ANO 2011) versus Petr Kazík (Independent · Osobnosti pro kraj nomination)\nSenate — Zlín (district 78): Tomáš Goláň (Civic Democratic Party · nominated by Koalice KDU-ČSL, ODS, TOP 09) versus Ivo Mitáček (Independent · Mayors and Independents nomination)\nSenate — Uherské Hradiště (district 81): Jiří Vašica (Independent · ANO 2011 nomination) versus Josef Bazala (KDU-ČSL)",
+    "round": "Second round",
+    "title": "Senate — second round",
     "status": "scheduled",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-17",
     "results": [],
     "sources": [
       {
-        "url": "https://www.velkepritocno.cz/urad-2/volby/",
-        "label": "Election schedule / announcement"
+        "label": "Czech Statistical Office — live official first-round results",
+        "url": "https://volby.gov.cz/appdata/senat/20261009/odata/vysledky.xml"
+      },
+      {
+        "label": "Czech Statistical Office — candidate register",
+        "url": "https://volby.gov.cz/opendata/se2026/json/serk.json"
+      },
+      {
+        "label": "Czech Statistical Office — live XML methodology",
+        "url": "https://volby.gov.cz/opendata/se2026/SENAT_XML.htm"
       }
     ],
-    "summary": "Scheduled national election.",
+    "summary": "Second-round elections in the 22 districts not decided in round one, scheduled for 16–17 October 2026.",
     "turnout": null,
-    "version": 1,
+    "version": 2,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -284,26 +292,55 @@
     "electionMethod": "direct",
     "resultCoverage": "partial",
     "linkedElectionIds": [
-      "world-czech-senate-2026"
-    ]
+      "world-czech-senate-2026",
+      "world-cz-senate-2026-district-3-round-1",
+      "world-cz-senate-2026-district-6-round-1",
+      "world-cz-senate-2026-district-9-round-1",
+      "world-cz-senate-2026-district-15-round-1",
+      "world-cz-senate-2026-district-18-round-1",
+      "world-cz-senate-2026-district-21-round-1",
+      "world-cz-senate-2026-district-24-round-1",
+      "world-cz-senate-2026-district-27-round-1",
+      "world-cz-senate-2026-district-30-round-1",
+      "world-cz-senate-2026-district-36-round-1",
+      "world-cz-senate-2026-district-42-round-1",
+      "world-cz-senate-2026-district-45-round-1",
+      "world-cz-senate-2026-district-51-round-1",
+      "world-cz-senate-2026-district-54-round-1",
+      "world-cz-senate-2026-district-60-round-1",
+      "world-cz-senate-2026-district-63-round-1",
+      "world-cz-senate-2026-district-66-round-1",
+      "world-cz-senate-2026-district-69-round-1",
+      "world-cz-senate-2026-district-72-round-1",
+      "world-cz-senate-2026-district-75-round-1",
+      "world-cz-senate-2026-district-78-round-1",
+      "world-cz-senate-2026-district-81-round-1"
+    ],
+    "live": {
+      "enabled": false,
+      "reporting": null,
+      "unit": "precincts",
+      "bulletin": "Runoff scheduled for 16–17 October; not live yet.",
+      "updated": "2026-10-11T07:22:00+02:00"
+    }
   },
   {
     "id": "world-cz-senate-2026-district-3-round-1",
     "body": "Senate — electoral district 3",
     "live": {
-      "enabled": true,
-      "reporting": 99.42,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 171/172 precincts reported; 33,681 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Cheb (district 3)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -312,15 +349,15 @@
         "color": "#aa0df2",
         "party": "Independent · Mayors and Independents nomination",
         "seats": 0,
-        "share": 40.06,
-        "votes": 13495,
+        "share": 40.08,
+        "votes": 13659,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-2",
@@ -328,13 +365,13 @@
         "color": "#63a527",
         "party": "Independent · Naše Česko nomination",
         "seats": 0,
-        "share": 10.51,
-        "votes": 3541,
+        "share": 10.61,
+        "votes": 3617,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "32648f03-9db5-5299-a9fe-baf6b044cb3b",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-3",
@@ -342,13 +379,13 @@
         "color": "#a54b27",
         "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "share": 3.52,
-        "votes": 1186,
+        "share": 3.49,
+        "votes": 1190,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-4",
@@ -356,15 +393,15 @@
         "color": "#6504f6",
         "party": "Independent · ANO 2011 nomination",
         "seats": 0,
-        "share": 27.16,
-        "votes": 9151,
+        "share": 27.08,
+        "votes": 9227,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-5",
@@ -372,13 +409,13 @@
         "color": "#a52744",
         "party": "VOK – Volba pro kraj",
         "seats": 0,
-        "share": 12.33,
-        "votes": 4155,
+        "share": 12.3,
+        "votes": 4194,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "2d5b5357-bd21-5125-b622-ce0400efa9b5",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-3-6",
@@ -386,13 +423,13 @@
         "color": "#27a59e",
         "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "share": 6.39,
-        "votes": 2153,
+        "share": 6.41,
+        "votes": 2186,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -409,9 +446,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Cheb Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 36.75,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -423,7 +460,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -433,19 +470,19 @@
     "id": "world-cz-senate-2026-district-6-round-1",
     "body": "Senate — electoral district 6",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 295/295 precincts reported; 45,679 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Louny (district 6)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -457,10 +494,10 @@
         "share": 10.92,
         "votes": 4992,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-2",
@@ -471,10 +508,10 @@
         "share": 3.43,
         "votes": 1568,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "7d546375-bebd-569e-8110-8beb9dc26cc2",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-3",
@@ -485,10 +522,10 @@
         "share": 10.1,
         "votes": 4617,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "9f7c0966-cb0f-5827-bf74-ea55a64f59c4",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-4",
@@ -499,10 +536,10 @@
         "share": 6.46,
         "votes": 2955,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "8bc22694-a357-554a-83b5-8a1224f1dfce",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-5",
@@ -513,12 +550,12 @@
         "share": 43.5,
         "votes": 19872,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-6-6",
@@ -529,12 +566,12 @@
         "share": 25.55,
         "votes": 11675,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -551,9 +588,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Louny Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 41.45,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -565,7 +602,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -575,19 +612,19 @@
     "id": "world-cz-senate-2026-district-9-round-1",
     "body": "Senate — electoral district 9",
     "live": {
-      "enabled": true,
-      "reporting": 98.57,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 138/140 precincts reported; 36,865 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Plzeň-město (district 9)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -596,13 +633,13 @@
         "color": "#31a527",
         "party": "Jasný Signál Nezávislých",
         "seats": 0,
-        "share": 1.04,
-        "votes": 387,
+        "share": 1.07,
+        "votes": 412,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "44c91efd-24cb-5ae3-a122-f421a6774b5f",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-2",
@@ -610,15 +647,15 @@
         "color": "#0b4d99",
         "party": "Civic Democratic Party · nominated by ODS, Koruna Česká, TOP 09",
         "seats": 0,
-        "share": 20.05,
-        "votes": 7393,
+        "share": 20.1,
+        "votes": 7714,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": false,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-3",
@@ -626,13 +663,13 @@
         "color": "#3627a5",
         "party": "Independent · PRO PLZEŇ nomination",
         "seats": 0,
-        "share": 7.93,
-        "votes": 2925,
+        "share": 7.92,
+        "votes": 3043,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "4edd5de8-b071-50b0-8ca0-bc1fc21e6f5b",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-4",
@@ -640,15 +677,15 @@
         "color": "#5f9ce3",
         "party": "Independent · SEN 21 nomination",
         "seats": 0,
-        "share": 2.85,
-        "votes": 1053,
+        "share": 2.88,
+        "votes": 1106,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b189113b-5bf6-4bde-8a60-b5d38b2bc9b7",
+        "advanced": false,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-5",
@@ -656,15 +693,15 @@
         "color": "#aa0df2",
         "party": "Independent · Mayors and Independents nomination",
         "seats": 0,
-        "share": 32.68,
-        "votes": 12048,
+        "share": 32.86,
+        "votes": 12611,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-6",
@@ -672,13 +709,13 @@
         "color": "#a54b27",
         "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "share": 3.13,
-        "votes": 1156,
+        "share": 3.07,
+        "votes": 1181,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-7",
@@ -686,15 +723,15 @@
         "color": "#6504f6",
         "party": "ANO 2011",
         "seats": 0,
-        "share": 27.43,
-        "votes": 10114,
+        "share": 27.26,
+        "votes": 10463,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-9-8",
@@ -702,13 +739,13 @@
         "color": "#27a59e",
         "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "share": 4.85,
-        "votes": 1789,
+        "share": 4.8,
+        "votes": 1845,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -725,9 +762,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Plzeň-město Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 40.75,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -739,7 +776,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -749,19 +786,19 @@
     "id": "world-cz-senate-2026-district-12-round-1",
     "body": "Senate — electoral district 12",
     "live": {
-      "enabled": true,
-      "reporting": 99.69,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 323/324 precincts reported; 44,142 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Senator elected in round one.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. The single district seat is allocated.",
     "round": "First round",
     "title": "Senate — Strakonice (district 12)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -770,29 +807,29 @@
         "color": "#e1e345",
         "party": "KDU-ČSL",
         "seats": 0,
-        "share": 20.65,
-        "votes": 9119,
+        "share": 20.67,
+        "votes": 9195,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b4747917-91bb-47f3-98c2-2fedc58ec32c",
+        "advanced": false,
         "ideologyIds": [
           "ideology-christian-democracy"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-12-2",
         "name": "Tomáš Fiala",
         "color": "#63a527",
         "party": "Naše Česko",
-        "seats": 0,
-        "share": 55.5,
-        "votes": 24499,
-        "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
+        "seats": 1,
+        "share": 55.41,
+        "votes": 24643,
+        "winner": true,
         "partyId": "32648f03-9db5-5299-a9fe-baf6b044cb3b",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-12-3",
@@ -800,13 +837,13 @@
         "color": "#27a558",
         "party": "Independent · Koalice Svobodní,SPD,Trikolora nomination",
         "seats": 0,
-        "share": 23.84,
-        "votes": 10524,
+        "share": 23.9,
+        "votes": 10629,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "511c11e9-dadb-519c-92a8-431814b57a97",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -823,9 +860,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Strakonice Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The seat was decided in the first round.",
+    "turnout": 42.51,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -837,8 +874,8 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
-    "resultCoverage": "partial",
+    "resultStatus": "final",
+    "resultCoverage": "complete",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -847,19 +884,19 @@
     "id": "world-cz-senate-2026-district-15-round-1",
     "body": "Senate — electoral district 15",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 346/346 precincts reported; 46,976 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Pelhřimov (district 15)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -871,10 +908,10 @@
         "share": 25.11,
         "votes": 11799,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "7c9a6ffb-c1de-5ce5-9182-fd2569d223dd",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-2",
@@ -885,10 +922,10 @@
         "share": 2.88,
         "votes": 1356,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-3",
@@ -899,12 +936,12 @@
         "share": 30.48,
         "votes": 14321,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": true,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-4",
@@ -915,10 +952,10 @@
         "share": 5.69,
         "votes": 2676,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-5",
@@ -929,12 +966,12 @@
         "share": 27.15,
         "votes": 12758,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-15-6",
@@ -945,10 +982,10 @@
         "share": 8.65,
         "votes": 4066,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "6e8fa257-8cf8-50b8-8b57-9417cdaea20c",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -965,9 +1002,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Pelhřimov Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 45.89,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -979,7 +1016,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -989,19 +1026,19 @@
     "id": "world-cz-senate-2026-district-18-round-1",
     "body": "Senate — electoral district 18",
     "live": {
-      "enabled": true,
-      "reporting": 98.88,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 265/268 precincts reported; 52,327 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Příbram (district 18)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -1010,15 +1047,15 @@
         "color": "#aa0df2",
         "party": "Mayors and Independents",
         "seats": 0,
-        "share": 43.8,
-        "votes": 22922,
+        "share": 43.7,
+        "votes": 23305,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-2",
@@ -1026,15 +1063,15 @@
         "color": "#6504f6",
         "party": "ANO 2011",
         "seats": 0,
-        "share": 25.18,
-        "votes": 13181,
+        "share": 25.21,
+        "votes": 13446,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-3",
@@ -1042,13 +1079,13 @@
         "color": "#a52784",
         "party": "Sdružení pro Místní Správu",
         "seats": 0,
-        "share": 3.74,
-        "votes": 1961,
+        "share": 3.77,
+        "votes": 2014,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "9523ee10-4f04-541a-bb89-3b914d704230",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-4",
@@ -1056,13 +1093,13 @@
         "color": "#9627a5",
         "party": "PRO Právo Respekt Odbornost · nominated by Koalice SPD, PRO",
         "seats": 0,
-        "share": 9.32,
-        "votes": 4881,
+        "share": 9.4,
+        "votes": 5013,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "500a6254-f8b2-5a5a-a693-fe5b98862c40",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-5",
@@ -1070,15 +1107,15 @@
         "color": "#000000",
         "party": "Czech Pirate Party · nominated by Koalice Zelení, Piráti",
         "seats": 0,
-        "share": 12.08,
-        "votes": 6323,
+        "share": 12.07,
+        "votes": 6436,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "1cd92766-9345-49bc-87e3-502ed237bf2d",
+        "advanced": false,
         "ideologyIds": [
           "ideology-pirate-politics"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-18-6",
@@ -1086,13 +1123,13 @@
         "color": "#27a536",
         "party": "Independent · Česká zemědělská strana nomination",
         "seats": 0,
-        "share": 5.84,
-        "votes": 3059,
+        "share": 5.82,
+        "votes": 3106,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "420f5f66-87dc-5955-8551-325f1222e1ae",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -1109,9 +1146,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Příbram Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 46.04,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1123,7 +1160,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -1133,19 +1170,19 @@
     "id": "world-cz-senate-2026-district-21-round-1",
     "body": "Senate — electoral district 21",
     "live": {
-      "enabled": true,
-      "reporting": 69.78,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 97/139 precincts reported; 27,235 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Praha 5 (district 21)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -1154,15 +1191,15 @@
         "color": "#6504f6",
         "party": "ANO 2011",
         "seats": 0,
-        "share": 14.32,
-        "votes": 3902,
+        "share": 13.43,
+        "votes": 6030,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-2",
@@ -1170,15 +1207,15 @@
         "color": "#802182",
         "party": "TOP 09 · nominated by Koalice Piráti, TOP 09, LES",
         "seats": 0,
-        "share": 19.41,
-        "votes": 5287,
+        "share": 19.75,
+        "votes": 8866,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "86026ce1-88a1-46ed-bb5e-e685f7a6e6f6",
+        "advanced": false,
         "ideologyIds": [
           "ideology-liberal-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-3",
@@ -1186,15 +1223,15 @@
         "color": "#5f9ce3",
         "party": "SEN 21",
         "seats": 0,
-        "share": 31.93,
-        "votes": 8698,
+        "share": 32.54,
+        "votes": 14606,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b189113b-5bf6-4bde-8a60-b5d38b2bc9b7",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-4",
@@ -1202,13 +1239,13 @@
         "color": "#27a581",
         "party": "PŘÍSAHA občanské hnutí",
         "seats": 0,
-        "share": 0.92,
-        "votes": 252,
+        "share": 0.93,
+        "votes": 418,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "5b4336eb-11f2-57a3-810e-7fbd46a6900b",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-5",
@@ -1216,13 +1253,13 @@
         "color": "#27a59e",
         "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "share": 4.94,
-        "votes": 1348,
+        "share": 4.64,
+        "votes": 2084,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-6",
@@ -1230,15 +1267,15 @@
         "color": "#0b4d99",
         "party": "Civic Democratic Party · nominated by Koalice KDU-ČSL, ODS, STAN",
         "seats": 0,
-        "share": 26.64,
-        "votes": 7256,
+        "share": 27.1,
+        "votes": 12162,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": true,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-21-7",
@@ -1246,13 +1283,13 @@
         "color": "#a54b27",
         "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "share": 1.8,
-        "votes": 492,
+        "share": 1.58,
+        "votes": 711,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -1269,9 +1306,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Praha 5 Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 45.41,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1283,7 +1320,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -1293,19 +1330,19 @@
     "id": "world-cz-senate-2026-district-24-round-1",
     "body": "Senate — electoral district 24",
     "live": {
-      "enabled": true,
-      "reporting": 61.39,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 62/101 precincts reported; 21,738 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Praha 9 (district 24)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -1314,13 +1351,13 @@
         "color": "#a52733",
         "party": "Independent · Hnutí Kruh nomination",
         "seats": 0,
-        "share": 5.52,
-        "votes": 1200,
+        "share": 5.21,
+        "votes": 2156,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "e77ff800-9898-5c74-a76d-c980d981182a",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-24-2",
@@ -1328,13 +1365,13 @@
         "color": "#61a527",
         "party": "Independent · KDU-ČSL,Zelení,STAN,Piráti,TOP nomination",
         "seats": 0,
-        "share": 46.48,
-        "votes": 10104,
+        "share": 48.92,
+        "votes": 20232,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "edd4d0a6-8d7f-5a21-a41b-1b05777f1ed2",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-24-3",
@@ -1342,13 +1379,13 @@
         "color": "#52a527",
         "party": "Svobodní · nominated by Svobodní, SPD, Trikolora, PRO",
         "seats": 0,
-        "share": 8.62,
-        "votes": 1874,
+        "share": 8.09,
+        "votes": 3346,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "e32c6ca9-a240-5043-8709-fc587b7f94e0",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-24-4",
@@ -1356,15 +1393,15 @@
         "color": "#6504f6",
         "party": "Independent · ANO 2011 nomination",
         "seats": 0,
-        "share": 16.86,
-        "votes": 3666,
+        "share": 14.7,
+        "votes": 6080,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-24-5",
@@ -1372,15 +1409,15 @@
         "color": "#0b4d99",
         "party": "Independent · Civic Democratic Party nomination",
         "seats": 0,
-        "share": 22.51,
-        "votes": 4894,
+        "share": 23.06,
+        "votes": 9539,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": true,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -1397,9 +1434,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Praha 9 Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 44.77,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1411,7 +1448,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -1421,19 +1458,19 @@
     "id": "world-cz-senate-2026-district-27-round-1",
     "body": "Senate — electoral district 27",
     "live": {
-      "enabled": true,
-      "reporting": 51.09,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 47/92 precincts reported; 16,874 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Praha 1 (district 27)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -1442,13 +1479,13 @@
         "color": "#a52780",
         "party": "Independent · Hnutí Generace nomination",
         "seats": 0,
-        "share": 1.57,
-        "votes": 266,
+        "share": 1.68,
+        "votes": 597,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f228b713-d0ee-54a0-a5ed-ce062ba46a95",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-2",
@@ -1456,13 +1493,13 @@
         "color": "#5a27a5",
         "party": "Levice",
         "seats": 0,
-        "share": 3.0,
-        "votes": 507,
+        "share": 2.9,
+        "votes": 1028,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "eb6746d9-a0ed-5b73-a80d-a07b2a2eefef",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-3",
@@ -1470,13 +1507,13 @@
         "color": "#a5275a",
         "party": "„JSME TEAM“",
         "seats": 0,
-        "share": 0.94,
-        "votes": 160,
+        "share": 0.98,
+        "votes": 347,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "86a9dda3-1aff-5ff7-b7ff-bf01a3b235d7",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-4",
@@ -1484,13 +1521,13 @@
         "color": "#2761a5",
         "party": "GEN",
         "seats": 0,
-        "share": 1.44,
-        "votes": 244,
+        "share": 1.38,
+        "votes": 490,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f26c5939-0315-5453-a1fd-7e5c6130e44c",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-5",
@@ -1498,15 +1535,15 @@
         "color": "#6504f6",
         "party": "Independent · ANO 2011 nomination",
         "seats": 0,
-        "share": 12.56,
-        "votes": 2120,
+        "share": 12.22,
+        "votes": 4329,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-6",
@@ -1514,13 +1551,13 @@
         "color": "#6f27a5",
         "party": "Independent · ŠVÝCARSKÁ DEMOKRACIE nomination",
         "seats": 0,
-        "share": 2.54,
-        "votes": 430,
+        "share": 2.62,
+        "votes": 929,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "29e727b1-e1f2-5720-9cfb-fea341bbb048",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-7",
@@ -1528,13 +1565,13 @@
         "color": "#3227a5",
         "party": "Independent · ODS, STAN, Piráti, TOP 09 nomination",
         "seats": 0,
-        "share": 50.73,
-        "votes": 8561,
+        "share": 49.64,
+        "votes": 17576,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "4011ade8-e08e-5a9d-bac3-c4069e74e1af",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-8",
@@ -1542,13 +1579,13 @@
         "color": "#4fa527",
         "party": "Pražská městská str.PRAHA SOBĚ · nominated by KDU-ČSL, Zelení, PRAHA SOBĚ",
         "seats": 0,
-        "share": 26.33,
-        "votes": 4443,
+        "share": 27.74,
+        "votes": 9824,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "18ddaaae-8ee6-5d70-9cd4-1c9bc2def025",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-27-9",
@@ -1556,13 +1593,13 @@
         "color": "#2ca527",
         "party": "Sociální demokracie",
         "seats": 0,
-        "share": 0.84,
-        "votes": 143,
+        "share": 0.8,
+        "votes": 286,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "da3a6195-f812-555c-8886-853624fa993f",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -1579,9 +1616,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Praha 1 Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 46.48,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1593,7 +1630,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -1603,19 +1640,19 @@
     "id": "world-cz-senate-2026-district-30-round-1",
     "body": "Senate — electoral district 30",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 150/150 precincts reported; 47,933 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Kladno (district 30)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -1627,10 +1664,10 @@
         "share": 8.1,
         "votes": 3886,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "32648f03-9db5-5299-a9fe-baf6b044cb3b",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-2",
@@ -1641,10 +1678,10 @@
         "share": 30.8,
         "votes": 14766,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "7812d749-d21e-5be3-b246-bece977ab099",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-3",
@@ -1655,10 +1692,10 @@
         "share": 3.34,
         "votes": 1602,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "5b4336eb-11f2-57a3-810e-7fbd46a6900b",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-4",
@@ -1669,10 +1706,10 @@
         "share": 6.14,
         "votes": 2945,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-5",
@@ -1683,12 +1720,12 @@
         "share": 29.44,
         "votes": 14112,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": true,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-30-6",
@@ -1699,12 +1736,12 @@
         "share": 22.16,
         "votes": 10622,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -1721,9 +1758,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Kladno Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 42.14,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1735,7 +1772,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -1745,19 +1782,19 @@
     "id": "world-cz-senate-2026-district-33-round-1",
     "body": "Senate — electoral district 33",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 143/143 precincts reported; 34,182 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Senator elected in round one.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. The single district seat is allocated.",
     "round": "First round",
     "title": "Senate — Děčín (district 33)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -1769,10 +1806,10 @@
         "share": 10.35,
         "votes": 3539,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "500a6254-f8b2-5a5a-a693-fe5b98862c40",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-33-2",
@@ -1783,24 +1820,24 @@
         "share": 10.45,
         "votes": 3574,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "4d724f2c-1f42-5c5a-8221-b3a8549ada30",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-33-3",
         "name": "Zbyněk Linhart",
         "color": "#27a553",
         "party": "Independent · Koalice STAN, SLK nomination",
-        "seats": 0,
+        "seats": 1,
         "share": 52.22,
         "votes": 17850,
-        "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
+        "winner": true,
         "partyId": "e0c21409-23cf-532e-9d81-85c203d82afe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-33-4",
@@ -1811,12 +1848,12 @@
         "share": 20.13,
         "votes": 6882,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-33-5",
@@ -1827,10 +1864,10 @@
         "share": 6.83,
         "votes": 2337,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "8bc22694-a357-554a-83b5-8a1224f1dfce",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -1847,9 +1884,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Děčín Senate district.",
+    "summary": "Final first-round results. The seat was decided in the first round.",
     "turnout": 35.34,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1861,8 +1898,8 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
-    "resultCoverage": "partial",
+    "resultStatus": "final",
+    "resultCoverage": "complete",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -1871,19 +1908,19 @@
     "id": "world-cz-senate-2026-district-36-round-1",
     "body": "Senate — electoral district 36",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 229/229 precincts reported; 43,013 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Česká Lípa (district 36)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -1895,12 +1932,12 @@
         "share": 13.37,
         "votes": 5753,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": false,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-36-2",
@@ -1912,8 +1949,8 @@
         "votes": 6429,
         "winner": false,
         "advanced": false,
-        "electoralVotes": null,
-        "ideologyIds": []
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-36-3",
@@ -1924,12 +1961,12 @@
         "share": 35.05,
         "votes": 15078,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-36-4",
@@ -1940,10 +1977,10 @@
         "share": 3.95,
         "votes": 1701,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-36-5",
@@ -1954,12 +1991,12 @@
         "share": 32.66,
         "votes": 14052,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "d17956ef-de61-431c-99ee-da7664fe0735",
+        "advanced": true,
         "ideologyIds": [
           "ideology-regionalism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -1976,9 +2013,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Česká Lípa Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 38.38,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -1990,7 +2027,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -2000,19 +2037,19 @@
     "id": "world-cz-senate-2026-district-39-round-1",
     "body": "Senate — electoral district 39",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 175/175 precincts reported; 39,662 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Senator elected in round one.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. The single district seat is allocated.",
     "round": "First round",
     "title": "Senate — Trutnov (district 39)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -2024,26 +2061,26 @@
         "share": 7.31,
         "votes": 2903,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-39-2",
         "name": "Jan Sobotka",
         "color": "#aa0df2",
         "party": "Independent · Mayors and Independents nomination",
-        "seats": 0,
+        "seats": 1,
         "share": 58.42,
         "votes": 23174,
-        "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
+        "winner": true,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": false,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-39-3",
@@ -2054,12 +2091,12 @@
         "share": 28.61,
         "votes": 11350,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-39-4",
@@ -2070,10 +2107,10 @@
         "share": 5.63,
         "votes": 2235,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "500a6254-f8b2-5a5a-a693-fe5b98862c40",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -2090,9 +2127,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Trutnov Senate district.",
+    "summary": "Final first-round results. The seat was decided in the first round.",
     "turnout": 42.5,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2104,8 +2141,8 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
-    "resultCoverage": "partial",
+    "resultStatus": "final",
+    "resultCoverage": "complete",
     "linkedElectionIds": [
       "world-czech-senate-2026"
     ]
@@ -2114,19 +2151,19 @@
     "id": "world-cz-senate-2026-district-42-round-1",
     "body": "Senate — electoral district 42",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 223/223 precincts reported; 50,847 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Kolín (district 42)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -2138,12 +2175,12 @@
         "share": 25.54,
         "votes": 12988,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-2",
@@ -2154,10 +2191,10 @@
         "share": 4.14,
         "votes": 2108,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "018b5d25-1469-5e19-bbe0-0d83530c0980",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-3",
@@ -2168,12 +2205,12 @@
         "share": 17.25,
         "votes": 8773,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": false,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-4",
@@ -2184,10 +2221,10 @@
         "share": 1.24,
         "votes": 632,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "44c91efd-24cb-5ae3-a122-f421a6774b5f",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-5",
@@ -2198,10 +2235,10 @@
         "share": 2.34,
         "votes": 1193,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-6",
@@ -2212,10 +2249,10 @@
         "share": 4.19,
         "votes": 2135,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-42-7",
@@ -2226,12 +2263,12 @@
         "share": 45.26,
         "votes": 23018,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -2248,9 +2285,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Kolín Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 43.97,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2262,7 +2299,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -2272,19 +2309,19 @@
     "id": "world-cz-senate-2026-district-45-round-1",
     "body": "Senate — electoral district 45",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 192/192 precincts reported; 45,752 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Hradec Králové (district 45)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -2297,8 +2334,8 @@
         "votes": 6860,
         "winner": false,
         "advanced": false,
-        "electoralVotes": null,
-        "ideologyIds": []
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-2",
@@ -2309,10 +2346,10 @@
         "share": 2.01,
         "votes": 922,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "0a2f08e8-2ecc-58dd-82e6-79a652a5b694",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-3",
@@ -2323,12 +2360,12 @@
         "share": 18.4,
         "votes": 8421,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-4",
@@ -2339,10 +2376,10 @@
         "share": 5.33,
         "votes": 2439,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-5",
@@ -2353,10 +2390,10 @@
         "share": 12.18,
         "votes": 5573,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "1bf5b7c6-892c-5c42-9b05-b2a2e99a9ba8",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-6",
@@ -2367,12 +2404,12 @@
         "share": 21.94,
         "votes": 10039,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": true,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-45-7",
@@ -2383,12 +2420,12 @@
         "share": 25.13,
         "votes": 11498,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -2405,9 +2442,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Hradec Králové Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 45.0,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2419,7 +2456,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -2429,19 +2466,19 @@
     "id": "world-cz-senate-2026-district-48-round-1",
     "body": "Senate — electoral district 48",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 242/242 precincts reported; 45,813 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Senator elected in round one.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. The single district seat is allocated.",
     "round": "First round",
     "title": "Senate — Rychnov nad Kněžnou (district 48)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -2453,12 +2490,12 @@
         "share": 37.8,
         "votes": 17321,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-48-2",
@@ -2469,12 +2506,12 @@
         "share": 62.19,
         "votes": 28492,
         "winner": true,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "86026ce1-88a1-46ed-bb5e-e685f7a6e6f6",
+        "advanced": false,
         "ideologyIds": [
           "ideology-liberal-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -2491,9 +2528,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Rychnov nad Kněžnou Senate district.",
+    "summary": "Final first-round results. The seat was decided in the first round.",
     "turnout": 45.61,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2515,19 +2552,19 @@
     "id": "world-cz-senate-2026-district-51-round-1",
     "body": "Senate — electoral district 51",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 265/265 precincts reported; 44,386 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Žďár nad Sázavou (district 51)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -2539,10 +2576,10 @@
         "share": 16.49,
         "votes": 7320,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-51-2",
@@ -2553,12 +2590,12 @@
         "share": 25.62,
         "votes": 11373,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "b4747917-91bb-47f3-98c2-2fedc58ec32c",
+        "advanced": true,
         "ideologyIds": [
           "ideology-christian-democracy"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-51-3",
@@ -2569,10 +2606,10 @@
         "share": 27.6,
         "votes": 12254,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "7a2b7da4-29f9-584f-a7aa-218b2b6dcdf8",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-51-4",
@@ -2583,12 +2620,12 @@
         "share": 25.62,
         "votes": 11372,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": false,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-51-5",
@@ -2599,10 +2636,10 @@
         "share": 4.65,
         "votes": 2067,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f0a7a997-b193-5564-80f9-79d641abb915",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -2619,9 +2656,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Žďár nad Sázavou Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 50.14,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2633,7 +2670,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -2643,19 +2680,19 @@
     "id": "world-cz-senate-2026-district-54-round-1",
     "body": "Senate — electoral district 54",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 203/203 precincts reported; 40,301 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Znojmo (district 54)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -2668,8 +2705,8 @@
         "votes": 7528,
         "winner": false,
         "advanced": false,
-        "electoralVotes": null,
-        "ideologyIds": []
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-2",
@@ -2680,12 +2717,12 @@
         "share": 35.55,
         "votes": 14328,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "86026ce1-88a1-46ed-bb5e-e685f7a6e6f6",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberal-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-3",
@@ -2696,12 +2733,12 @@
         "share": 22.28,
         "votes": 8980,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-4",
@@ -2712,10 +2749,10 @@
         "share": 11.78,
         "votes": 4749,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "7d546375-bebd-569e-8110-8beb9dc26cc2",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-5",
@@ -2726,10 +2763,10 @@
         "share": 6.65,
         "votes": 2683,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "65420d49-d667-5f94-b883-0dc3575ec456",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-54-6",
@@ -2740,10 +2777,10 @@
         "share": 5.04,
         "votes": 2033,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "5b4336eb-11f2-57a3-810e-7fbd46a6900b",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -2760,9 +2797,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Znojmo Senate district.",
-    "turnout": 45.07,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 45.03,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2774,7 +2811,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -2784,19 +2821,19 @@
     "id": "world-cz-senate-2026-district-57-round-1",
     "body": "Senate — electoral district 57",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 166/166 precincts reported; 58,522 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Senator elected in round one.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. The single district seat is allocated.",
     "round": "First round",
     "title": "Senate — Vyškov (district 57)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -2808,10 +2845,10 @@
         "share": 6.66,
         "votes": 3898,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "5b4336eb-11f2-57a3-810e-7fbd46a6900b",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-57-2",
@@ -2822,12 +2859,12 @@
         "share": 63.34,
         "votes": 37071,
         "winner": true,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b4747917-91bb-47f3-98c2-2fedc58ec32c",
+        "advanced": false,
         "ideologyIds": [
           "ideology-christian-democracy"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-57-3",
@@ -2838,12 +2875,12 @@
         "share": 29.99,
         "votes": 17553,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -2860,9 +2897,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Vyškov Senate district.",
+    "summary": "Final first-round results. The seat was decided in the first round.",
     "turnout": 52.4,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -2884,19 +2921,19 @@
     "id": "world-cz-senate-2026-district-60-round-1",
     "body": "Senate — electoral district 60",
     "live": {
-      "enabled": true,
-      "reporting": 85.37,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 105/123 precincts reported; 37,312 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Brno-město (district 60)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -2905,13 +2942,13 @@
         "color": "#a5274d",
         "party": "Independent · KDU,ODS,Piráti,TOP09,FaktBrno nomination",
         "seats": 0,
-        "share": 41.56,
-        "votes": 15509,
+        "share": 42.08,
+        "votes": 19395,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "aef8691c-0707-5e13-9873-6b954717249f",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-2",
@@ -2919,13 +2956,13 @@
         "color": "#86a527",
         "party": "Independent · Stačilo! nomination",
         "seats": 0,
-        "share": 3.01,
-        "votes": 1125,
+        "share": 2.94,
+        "votes": 1355,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "7d546375-bebd-569e-8110-8beb9dc26cc2",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-3",
@@ -2933,13 +2970,13 @@
         "color": "#a52733",
         "party": "Hnutí Kruh",
         "seats": 0,
-        "share": 4.01,
-        "votes": 1497,
+        "share": 4.11,
+        "votes": 1896,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "e77ff800-9898-5c74-a76d-c980d981182a",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-4",
@@ -2947,15 +2984,15 @@
         "color": "#6504f6",
         "party": "Independent · ANO 2011 nomination",
         "seats": 0,
-        "share": 20.71,
-        "votes": 7730,
+        "share": 20.12,
+        "votes": 9275,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-5",
@@ -2963,15 +3000,15 @@
         "color": "#aa0df2",
         "party": "Independent · Mayors and Independents nomination",
         "seats": 0,
-        "share": 24.34,
-        "votes": 9084,
+        "share": 24.45,
+        "votes": 11269,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-60-6",
@@ -2979,13 +3016,13 @@
         "color": "#27a59e",
         "party": "Independent · Svoboda a př. demokracie (SPD) nomination",
         "seats": 0,
-        "share": 6.34,
-        "votes": 2367,
+        "share": 6.27,
+        "votes": 2892,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -3002,9 +3039,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Brno-město Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 49.35,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3016,7 +3053,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -3026,19 +3063,19 @@
     "id": "world-cz-senate-2026-district-63-round-1",
     "body": "Senate — electoral district 63",
     "live": {
-      "enabled": true,
-      "reporting": 99.07,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 214/216 precincts reported; 39,461 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Přerov (district 63)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -3047,13 +3084,13 @@
         "color": "#71a527",
         "party": "Česká strana národně sociální",
         "seats": 0,
-        "share": 15.11,
-        "votes": 5963,
+        "share": 15.04,
+        "votes": 6073,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "7463d80a-b336-55bb-8c61-2528b0631251",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-63-2",
@@ -3061,15 +3098,15 @@
         "color": "#6504f6",
         "party": "ANO 2011",
         "seats": 0,
-        "share": 37.75,
-        "votes": 14897,
+        "share": 37.62,
+        "votes": 15192,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-63-3",
@@ -3077,15 +3114,15 @@
         "color": "#0b4d99",
         "party": "Civic Democratic Party · nominated by Koalice KDU-ČSL,ODS,STAN,TOP09",
         "seats": 0,
-        "share": 38.33,
-        "votes": 15129,
+        "share": 38.54,
+        "votes": 15561,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": true,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-63-4",
@@ -3093,13 +3130,13 @@
         "color": "#27a59e",
         "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "share": 8.79,
-        "votes": 3472,
+        "share": 8.78,
+        "votes": 3548,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -3116,9 +3153,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Přerov Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 41.59,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3130,7 +3167,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -3140,19 +3177,19 @@
     "id": "world-cz-senate-2026-district-66-round-1",
     "body": "Senate — electoral district 66",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 229/229 precincts reported; 42,094 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Litovel (district 66)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -3164,12 +3201,12 @@
         "share": 28.44,
         "votes": 11972,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b4747917-91bb-47f3-98c2-2fedc58ec32c",
+        "advanced": false,
         "ideologyIds": [
           "ideology-christian-democracy"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-66-2",
@@ -3180,10 +3217,10 @@
         "share": 9.37,
         "votes": 3948,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-66-3",
@@ -3194,12 +3231,12 @@
         "share": 28.78,
         "votes": 12118,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-66-4",
@@ -3210,10 +3247,10 @@
         "share": 1.21,
         "votes": 512,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "eb6746d9-a0ed-5b73-a80d-a07b2a2eefef",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-66-5",
@@ -3224,10 +3261,10 @@
         "share": 32.17,
         "votes": 13544,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "335c2aed-1610-549f-9815-9628686c38d0",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -3244,9 +3281,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Litovel Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 40.02,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3258,7 +3295,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -3268,19 +3305,19 @@
     "id": "world-cz-senate-2026-district-69-round-1",
     "body": "Senate — electoral district 69",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 124/124 precincts reported; 43,405 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Frýdek-Místek (district 69)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -3292,10 +3329,10 @@
         "share": 2.26,
         "votes": 981,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-2",
@@ -3306,10 +3343,10 @@
         "share": 32.47,
         "votes": 14095,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "785c18ee-f0b1-59be-9743-d119833a5a91",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-3",
@@ -3320,10 +3357,10 @@
         "share": 4.89,
         "votes": 2123,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "2ffc8460-aad5-5e07-a05b-a20604187c06",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-4",
@@ -3334,10 +3371,10 @@
         "share": 3.07,
         "votes": 1334,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "29e727b1-e1f2-5720-9cfb-fea341bbb048",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-5",
@@ -3348,10 +3385,10 @@
         "share": 13.01,
         "votes": 5647,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-6",
@@ -3362,10 +3399,10 @@
         "share": 34.75,
         "votes": 15085,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "16c3f324-a89f-57fd-8798-8850018e6539",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-69-7",
@@ -3376,10 +3413,10 @@
         "share": 9.53,
         "votes": 4140,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "87e27fbb-7bd4-5435-ac59-0951e2f7be0a",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -3396,9 +3433,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Frýdek-Místek Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 44.42,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3410,7 +3447,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -3420,19 +3457,19 @@
     "id": "world-cz-senate-2026-district-72-round-1",
     "body": "Senate — electoral district 72",
     "live": {
-      "enabled": true,
-      "reporting": 93.18,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 82/88 precincts reported; 29,960 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Ostrava-město (district 72)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -3441,13 +3478,13 @@
         "color": "#9627a5",
         "party": "PRO Právo Respekt Odbornost · nominated by Koalice SPD, PRO",
         "seats": 0,
-        "share": 12.8,
-        "votes": 3837,
+        "share": 12.75,
+        "votes": 4239,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "500a6254-f8b2-5a5a-a693-fe5b98862c40",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-2",
@@ -3455,13 +3492,13 @@
         "color": "#274da5",
         "party": "Independent · Ostravak nomination",
         "seats": 0,
-        "share": 6.2,
-        "votes": 1859,
+        "share": 6.22,
+        "votes": 2071,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "d90c9aba-f744-5442-ad96-0ae4c796e6b7",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-3",
@@ -3469,13 +3506,13 @@
         "color": "#a5279b",
         "party": "Independent · KDU, ODS, STAN, Piráti, TOP 09 nomination",
         "seats": 0,
-        "share": 46.33,
-        "votes": 13881,
+        "share": 46.74,
+        "votes": 15542,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "bc82ff56-52b2-54d6-a046-9f4c1ce4424c",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-4",
@@ -3483,15 +3520,15 @@
         "color": "#6504f6",
         "party": "ANO 2011",
         "seats": 0,
-        "share": 31.0,
-        "votes": 9288,
+        "share": 30.61,
+        "votes": 10177,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-5",
@@ -3499,13 +3536,13 @@
         "color": "#6f27a5",
         "party": "ŠVÝCARSKÁ DEMOKRACIE",
         "seats": 0,
-        "share": 1.15,
-        "votes": 347,
+        "share": 1.16,
+        "votes": 388,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "29e727b1-e1f2-5720-9cfb-fea341bbb048",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-6",
@@ -3513,13 +3550,13 @@
         "color": "#a56927",
         "party": "Česká suverenita soc. dem.",
         "seats": 0,
-        "share": 0.58,
-        "votes": 175,
+        "share": 0.61,
+        "votes": 206,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "0a2f08e8-2ecc-58dd-82e6-79a652a5b694",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-72-7",
@@ -3527,13 +3564,13 @@
         "color": "#a58027",
         "party": "hnutí ReMeK pro zrušení SENÁTU",
         "seats": 0,
-        "share": 1.91,
-        "votes": 573,
+        "share": 1.87,
+        "votes": 624,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "74334451-704c-5c13-aef7-862f32954dad",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -3550,9 +3587,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Ostrava-město Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 39.52,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3564,7 +3601,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -3574,19 +3611,19 @@
     "id": "world-cz-senate-2026-district-75-round-1",
     "body": "Senate — electoral district 75",
     "live": {
-      "enabled": true,
-      "reporting": 100.0,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 105/105 precincts reported; 23,821 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Karviná (district 75)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -3598,10 +3635,10 @@
         "share": 13.92,
         "votes": 3316,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "79fcb431-45a5-5bcb-b0dd-0b3d3d109fa1",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-2",
@@ -3612,10 +3649,10 @@
         "share": 14.1,
         "votes": 3361,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "7812d749-d21e-5be3-b246-bece977ab099",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-3",
@@ -3626,10 +3663,10 @@
         "share": 12.43,
         "votes": 2961,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-4",
@@ -3640,10 +3677,10 @@
         "share": 2.48,
         "votes": 593,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "44c91efd-24cb-5ae3-a122-f421a6774b5f",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-5",
@@ -3654,12 +3691,12 @@
         "share": 33.62,
         "votes": 8009,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-6",
@@ -3670,10 +3707,10 @@
         "share": 9.1,
         "votes": 2170,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "da3a6195-f812-555c-8886-853624fa993f",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-75-7",
@@ -3684,10 +3721,10 @@
         "share": 14.31,
         "votes": 3411,
         "winner": false,
-        "advanced": true,
-        "electoralVotes": null,
         "partyId": "5afd889a-f99d-5864-ab8d-e5d166ecf636",
-        "ideologyIds": []
+        "advanced": true,
+        "ideologyIds": [],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -3704,9 +3741,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Karviná Senate district.",
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
     "turnout": 29.51,
-    "version": 3,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3718,7 +3755,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -3728,19 +3765,19 @@
     "id": "world-cz-senate-2026-district-78-round-1",
     "body": "Senate — electoral district 78",
     "live": {
-      "enabled": true,
-      "reporting": 96.6,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 142/147 precincts reported; 44,405 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Zlín (district 78)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -3749,13 +3786,13 @@
         "color": "#27a59e",
         "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "share": 10.72,
-        "votes": 4762,
+        "share": 10.7,
+        "votes": 4987,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-2",
@@ -3764,14 +3801,14 @@
         "party": "Civic Democratic Party · nominated by Koalice KDU-ČSL, ODS, TOP 09",
         "seats": 0,
         "share": 33.54,
-        "votes": 14894,
+        "votes": 15627,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "a562fede-8756-41a7-8ae1-0c3c7261fc22",
+        "advanced": true,
         "ideologyIds": [
           "ideology-conservatism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-3",
@@ -3779,13 +3816,13 @@
         "color": "#a54b27",
         "party": "Komunistická str.Čech a Moravy",
         "seats": 0,
-        "share": 1.89,
-        "votes": 841,
+        "share": 1.86,
+        "votes": 868,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "50ed32cd-3cd8-5289-a8b1-1a94021e07fe",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-4",
@@ -3793,15 +3830,15 @@
         "color": "#6504f6",
         "party": "Independent · ANO 2011 nomination",
         "seats": 0,
-        "share": 19.09,
-        "votes": 8479,
+        "share": 18.87,
+        "votes": 8794,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": false,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-5",
@@ -3809,15 +3846,15 @@
         "color": "#aa0df2",
         "party": "Independent · Mayors and Independents nomination",
         "seats": 0,
-        "share": 22.93,
-        "votes": 10186,
+        "share": 22.83,
+        "votes": 10638,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "dc7c6bee-71f6-4213-89f6-51b7766699b0",
+        "advanced": true,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-78-6",
@@ -3825,15 +3862,15 @@
         "color": "#5f9ce3",
         "party": "Independent · SEN 21 nomination",
         "seats": 0,
-        "share": 11.8,
-        "votes": 5243,
+        "share": 12.16,
+        "votes": 5667,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b189113b-5bf6-4bde-8a60-b5d38b2bc9b7",
+        "advanced": false,
         "ideologyIds": [
           "ideology-liberalism"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -3850,9 +3887,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Zlín Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 45.49,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -3864,7 +3901,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
@@ -3874,19 +3911,19 @@
     "id": "world-cz-senate-2026-district-81-round-1",
     "body": "Senate — electoral district 81",
     "live": {
-      "enabled": true,
-      "reporting": 98.39,
+      "enabled": false,
+      "reporting": 100,
       "unit": "precincts",
-      "bulletin": "Official snapshot 22:53 CEST: 122/124 precincts reported; 43,026 valid first-round votes. Provisional count.",
-      "updated": "2026-10-10T22:53:00+02:00"
+      "bulletin": "First-round counting complete. Runoff candidates confirmed for 16–17 October.",
+      "updated": "2026-10-11T07:22:00+02:00"
     },
     "snap": false,
     "type": "parliamentary",
-    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred.",
+    "notes": "One seat in the 81-member Senate. Candidate percentages use this district’s valid first-round votes only. Zero reported precincts means results are not yet available. Seats/winner/advancement are entered only when the official XML publishes the signed district outcome; a current lead is not a win. A second round on 16–17 October is required if no candidate is officially elected in round one. Turnout is omitted until all district precincts report. Candidate profile links and colours use official registered party membership (PSTRANA). Non-members are explicitly labelled Independent and linked to their nominating electoral list (VSTRANA), where present. Coalition nominations remain named separately from personal party membership. Existing profile colours are preserved; colours for newly added profiles are an editorial display palette. No personal ideology is inferred. All first-round votes and signed district outcomes are now final. Partial coverage refers only to the unresolved seat allocation; the first-round candidate vote table is complete. A second-round result must be recorded separately.",
     "round": "First round",
     "title": "Senate — Uherské Hradiště (district 81)",
     "status": "held",
-    "checked": "2026-10-10",
+    "checked": "2026-10-12",
     "endDate": "2026-10-10",
     "results": [
       {
@@ -3895,13 +3932,13 @@
         "color": "#27a549",
         "party": "Independent · Spojení demokraté-Sdruž.nezáv. nomination",
         "seats": 0,
-        "share": 7.16,
-        "votes": 3084,
+        "share": 7.12,
+        "votes": 3126,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f0a7a997-b193-5564-80f9-79d641abb915",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-2",
@@ -3909,13 +3946,13 @@
         "color": "#a52739",
         "party": "Independent · ZVUK 12 nomination",
         "seats": 0,
-        "share": 9.48,
-        "votes": 4082,
+        "share": 9.4,
+        "votes": 4124,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "1d8d2de7-04c2-5f22-8785-381945a991d7",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-3",
@@ -3923,13 +3960,13 @@
         "color": "#27a59e",
         "party": "Svoboda a př. demokracie (SPD)",
         "seats": 0,
-        "share": 4.09,
-        "votes": 1760,
+        "share": 4.08,
+        "votes": 1793,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "f6526d84-6396-5528-9348-dfb2f8cd16d3",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-4",
@@ -3937,15 +3974,15 @@
         "color": "#6504f6",
         "party": "Independent · ANO 2011 nomination",
         "seats": 0,
-        "share": 28.23,
-        "votes": 12147,
+        "share": 28.34,
+        "votes": 12434,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b8e9f4c6-e1f2-47bd-a51f-71c9d977cad9",
+        "advanced": true,
         "ideologyIds": [
           "ideology-right-wing-populism"
-        ]
+        ],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-5",
@@ -3953,13 +3990,13 @@
         "color": "#27a574",
         "party": "Odvážné Česko",
         "seats": 0,
-        "share": 3.2,
-        "votes": 1379,
+        "share": 3.22,
+        "votes": 1414,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "08c20f32-fb55-5d69-b416-5b9d9d7ba5bf",
-        "ideologyIds": []
+        "advanced": false,
+        "ideologyIds": [],
+        "electoralVotes": null
       },
       {
         "id": "cz-senate-2026-81-6",
@@ -3968,14 +4005,14 @@
         "party": "KDU-ČSL",
         "seats": 0,
         "share": 47.81,
-        "votes": 20574,
+        "votes": 20975,
         "winner": false,
-        "advanced": false,
-        "electoralVotes": null,
         "partyId": "b4747917-91bb-47f3-98c2-2fedc58ec32c",
+        "advanced": true,
         "ideologyIds": [
           "ideology-christian-democracy"
-        ]
+        ],
+        "electoralVotes": null
       }
     ],
     "sources": [
@@ -3992,9 +4029,9 @@
         "label": "Czech Statistical Office — live XML methodology"
       }
     ],
-    "summary": "Provisional first-round count for the Uherské Hradiště Senate district.",
-    "turnout": null,
-    "version": 3,
+    "summary": "Final first-round results. The two officially advancing candidates contest the second round on 16–17 October.",
+    "turnout": 46.75,
+    "version": 4,
     "seriesId": "Czechia-Senate-2026",
     "articleId": "",
     "countryId": "cz",
@@ -4006,7 +4043,7 @@
     "overviewId": "world-czech-senate-2026",
     "totalSeats": 1,
     "publication": "published",
-    "resultStatus": "provisional",
+    "resultStatus": "final",
     "resultCoverage": "partial",
     "linkedElectionIds": [
       "world-czech-senate-2026"
