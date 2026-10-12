@@ -1,0 +1,274 @@
+{
+  "sources": [
+    {
+      "file": "1919_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1919_Polish_legislative_election",
+      "sha256": "d1a0d701357abd909a55e2ec6c4298558f8ef12347799fd2c7f8a5258b304d53",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1947_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1947_Polish_legislative_election",
+      "sha256": "d66d3761ac9a08a37b05c6b723f65c84eddb23c88be94980b028680053d4d6f9",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1989_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1989_Polish_legislative_election",
+      "sha256": "dce218d9daa591b194838ebc8061c63cde1e35be6ff3afdcdf3752f0d62585b8",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1933_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1933_Polish_presidential_election",
+      "sha256": "dbeaaa02632efa0f808a67c0c1491129ea5e8967fc647ae3baee1c97cb81fb38",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1947_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1947_Polish_presidential_election",
+      "sha256": "de8d731df9269449e8159c5e70747093e2df3c94f2ece9cb016c6fc935a46c06",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1922_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1922_Polish_legislative_election",
+      "sha256": "1519f5fe9523477fe2e05a44cbf699b8db1bf9651a66e67b8f15a8e03f5a1890",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1928_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1928_Polish_legislative_election",
+      "sha256": "b093a859f9a9be0bdb28ecff946dc921a4fdafc6def945bd9a4bdb32a86f5de9",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1930_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1930_Polish_legislative_election",
+      "sha256": "796eda155d852d0b709a617f8df982c981d47b2374d1b714995ac3a580149f33",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1935_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1935_Polish_legislative_election",
+      "sha256": "5c58d06b09a164ccbc5c2f2c9dd683fc36f5fe7e0b3ca22d89cf9deb2acf3ffd",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1938_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1938_Polish_legislative_election",
+      "sha256": "e558a865827c4a994a216dde0501cf28bc10ec71bf0980aee4b65bbd7e20940f",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1952_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1952_Polish_legislative_election",
+      "sha256": "20ea1e75a842966de81b879538b1692f24615103e5324002447cdaa50d3a96b9",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1957_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1957_Polish_legislative_election",
+      "sha256": "0697ace9395acacac2567f699cc89c3eec5b99eeb7fafa577243ae1d4abbfd9a",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1961_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1961_Polish_legislative_election",
+      "sha256": "7530f2319ea646e19423c3ae09a6340f009f7111c80c385b31c3cde98b0f9249",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1965_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1965_Polish_legislative_election",
+      "sha256": "02f15ff0fe8e54a1e5e3b2213a3f0144e677cb175e85b373cc459a3c189ce061",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1969_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1969_Polish_legislative_election",
+      "sha256": "beca1d576b835f9f31bdfb8791928eb445761cd734608094e826bccb774fdf18",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1972_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1972_Polish_legislative_election",
+      "sha256": "bc79cd1074fd3b72ec17d00838cacb45d4d251db09b6d7b9ff114b633d3ca624",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1976_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1976_Polish_legislative_election",
+      "sha256": "204cb3d8d4335433e77998775741fd85766377a0042b448791325cf6d948edc6",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1980_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1980_Polish_legislative_election",
+      "sha256": "822fdff864a3543b489ce14a8311953707eb46a1f48eab295cf3a00d0d962cd7",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1985_Polish_legislative_election.html",
+      "url": "https://en.wikipedia.org/wiki/1985_Polish_legislative_election",
+      "sha256": "c6c8092085fbd253f6b44aed4cbf848cb829fbedf069deae7acf6a514da923d8",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1990_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1990_Polish_presidential_election",
+      "sha256": "596417222759c4d5ee5e2597f221aafc4ebd9f4eae0671fb190d091aa2b9ded2",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1991_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/1991_Polish_parliamentary_election",
+      "sha256": "2222836642e57c3a11e26853d6401845a137dd09bc8f22a0d9f147661f0c7b48",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1993_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/1993_Polish_parliamentary_election",
+      "sha256": "9e9d1225177ba4bcc13db33f76f1b713fabe024d4e1dcda1f24928b2138f0ba0",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1995_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1995_Polish_presidential_election",
+      "sha256": "f4a04a7fd529450b63ff740e093d5f85faf01b3c76d86930893c59e0513dd589",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1997_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/1997_Polish_parliamentary_election",
+      "sha256": "dc8bd77a046f020965575eef163f90dee950523b05ac1699ff86cdbf9e44ec82",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2000_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2000_Polish_presidential_election",
+      "sha256": "37ee47d2353986470eb57d74ad10ce05b35612b397adddfd1b3bb8f301a45395",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2001_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/2001_Polish_parliamentary_election",
+      "sha256": "18db621f054e7e2a4e49a16a024d40505f0ab606d9c93eee849d1eef64f3c69b",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2005_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/2005_Polish_parliamentary_election",
+      "sha256": "17baa957244dad53a598a1a2e34f71b18e65ac5f4ae26d4be1c94a0f86b1002c",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2005_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2005_Polish_presidential_election",
+      "sha256": "e81764a29068fdf4338af3b79588b7303e37e0832a0f816b31ea150858126e8f",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2007_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/2007_Polish_parliamentary_election",
+      "sha256": "a92374be849a7e82e74a6ca5029ce9ab556db73244614c7d6e5e4e8949c59956",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2010_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2010_Polish_presidential_election",
+      "sha256": "04262376b03e75bd8ea2f99b1fcdd6b5ba5567aeb043153f327605c36e171e3e",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2011_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/2011_Polish_parliamentary_election",
+      "sha256": "871f4f42e82d7b5da8715097b169dce9f7e3e40e54ab6420939c5e6eb8d34e67",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2015_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/2015_Polish_parliamentary_election",
+      "sha256": "1a164afd67caaac0e49772072c4b6bf10104ae6b35791895d023b82104993ff2",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2019_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/2019_Polish_parliamentary_election",
+      "sha256": "1e7eedf5ca927cf0c0a4346b161caf3a2914d7e27aab49dafb91b2171b5c8bb9",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2020_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2020_Polish_presidential_election",
+      "sha256": "4c2bcd799b49688903937ec21b1f6e8842a2cd6cf6465f66f4eab3802e35e77e",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2023_Polish_parliamentary_election.html",
+      "url": "https://en.wikipedia.org/wiki/2023_Polish_parliamentary_election",
+      "sha256": "c041fc8641bcb729654d4e5a6f582d1b884f2afbd47639844de25955558b9ab9",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2025_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2025_Polish_presidential_election",
+      "sha256": "db02255177c03c8148e6da31e345a80f769c5f6ff343796c7508ef7d81764679",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "2015_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/2015_Polish_presidential_election",
+      "sha256": "895f4dba21778252c4a47771f6b7162d82706842011c464caad5cc13e9e4d09d",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1989_Polish_presidential_election.html",
+      "url": "https://en.wikipedia.org/wiki/1989_Polish_presidential_election",
+      "sha256": "7ffe856a2f227426cf599a5b15e508500c149d7bf3d20dac25137eb8c2586131",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1922_Polish_presidential_elections.html",
+      "url": "https://en.wikipedia.org/wiki/1922_Polish_presidential_elections",
+      "sha256": "19bb40149362ab122dfdf3a6a3e4241ecfa2428b8858a823522cbffb0e968ca7",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "1926_Polish_presidential_elections.html",
+      "url": "https://en.wikipedia.org/wiki/1926_Polish_presidential_elections",
+      "sha256": "f99f648175eca9b89fbefcbc92ca942bbcd6b15280390b4aad5944ac21300378",
+      "kind": "secondary historical table snapshot"
+    },
+    {
+      "file": "pkw-history.pdf",
+      "url": "https://pkw.gov.pl/uploaded_files/1463404861_Ksiega_popr_.pdf",
+      "sha256": "292a4066bc501cdee1711a93b34551c8e6d55b7fdd27582931fafb57da2fa251",
+      "kind": "primary"
+    },
+    {
+      "file": "2023-sejm-official.zip",
+      "url": "https://danewyborcze.kbw.gov.pl/dane/2023/sejmsenat/wyniki_gl_na_listy_po_okregach_sejm_csv.zip",
+      "sha256": "7565b8fa5102f64c0435e994ad11369672a1948987ed639b12ad82da72005b03",
+      "kind": "primary"
+    },
+    {
+      "file": "2025-president-certified-1.pdf",
+      "url": "https://prezydent2025.pkw.gov.pl/prezydent2025/statics/PKW_OBWIESZCZENIA/uploaded_files/1747706738_obwieszczenie-pkw-wyniki.pdf",
+      "sha256": "b4a697b205969936ecf0e37a431cfb6d45c7045ef300a8da1c44ca40eeb457e1",
+      "kind": "primary"
+    },
+    {
+      "file": "2025-president-certified-2.pdf",
+      "url": "https://prezydent2025.pkw.gov.pl/prezydent2025/statics/PKW_OBWIESZCZENIA/uploaded_files/1748873119_obwieszczenie-pkw-o-wynikach-ponowne-glosowanie.pdf",
+      "sha256": "d1d6f95a9cb9ab2a7edd68f8e4cedfe0f84b217c9c118998c1c6f529df7fa43f",
+      "kind": "primary"
+    }
+  ],
+  "limitations": [
+    "Statistics Poland historical PDFs returned HTTP 500; Senate historical PDF returned HTTP 403 locally, with metadata verified from the official Senate index.",
+    "2023 Senate district exports contain blank vote columns and were not used as zero-vote results.",
+    "2025 provincial exports omit overseas ballots; municipal exports also omit maritime ballots. Certified national announcements are used instead.",
+    "PKW retrospective 1993 Sejm chapter heading says 21 September, but its cited announcement and KBW election index establish 19 September; 19 September is retained."
+  ]
+}
