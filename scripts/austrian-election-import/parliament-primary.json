@@ -1,0 +1,1715 @@
+[
+  {
+    "year": 1945,
+    "key": "nationalratswahl_1945",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1945/start.html",
+    "rows": [
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "",
+        "votes": 1602227,
+        "seats": 85
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "",
+        "votes": 1434898,
+        "seats": 76
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "",
+        "votes": 174257,
+        "seats": 4
+      },
+      {
+        "name": "Demokratische Partei Österreichs",
+        "short": "",
+        "votes": 5972,
+        "seats": 0
+      }
+    ],
+    "validVotes": 3217354,
+    "seats": 165
+  },
+  {
+    "year": 1949,
+    "key": "nationalratswahl_1949",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1949/start.html",
+    "rows": [
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "Ö.V.P.",
+        "votes": 1846581,
+        "seats": 77
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "S.P.Ö.",
+        "votes": 1623524,
+        "seats": 67
+      },
+      {
+        "name": "Kommunistische Partei Österreichs u. Linkssozialisten (Linksblock)",
+        "short": "Linksblock",
+        "votes": 213066,
+        "seats": 5
+      },
+      {
+        "name": "Wahlpartei der Unabhängigen",
+        "short": "W. d. U.",
+        "votes": 489273,
+        "seats": 16
+      },
+      {
+        "name": "Demokratische Union",
+        "short": "D. U.",
+        "votes": 12059,
+        "seats": 0
+      },
+      {
+        "name": "Vierte Partei (Ergokraten)",
+        "short": "Vierte Partei",
+        "votes": 7134,
+        "seats": 0
+      },
+      {
+        "name": "Demokraticna fronta delovnegna ljudstva",
+        "short": "D. F.",
+        "votes": 2088,
+        "seats": 0
+      },
+      {
+        "name": "Demokratische Partei Österreichs",
+        "short": "D. P. Ö.",
+        "votes": 5,
+        "seats": 0
+      },
+      {
+        "name": "Wirtschaftspartei der Haus- und Grundbesitzer",
+        "short": "Wirtschaftspartei d. H. u. G.",
+        "votes": 3,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische Patriotische Union",
+        "short": "Ö. P. U.",
+        "votes": 0,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4193733,
+    "seats": 165
+  },
+  {
+    "year": 1953,
+    "key": "nationalratswahl_1953",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1953/start.html",
+    "rows": [
+      {
+        "name": "Bund der österreichischen Monarchisten",
+        "short": "",
+        "votes": 1210,
+        "seats": 0
+      },
+      {
+        "name": "Christlich-demokratische Partei (Krscanska demokratska stranka)",
+        "short": "",
+        "votes": 3668,
+        "seats": 0
+      },
+      {
+        "name": "Christlichsoziale Partei und Parteifreie Persönlichkeiten",
+        "short": "",
+        "votes": 3029,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische National-Republikaner und Parteilose",
+        "short": "",
+        "votes": 1054,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische Patriotische Union",
+        "short": "Ö. P. U.",
+        "votes": 26,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1781777,
+        "seats": 74
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1818517,
+        "seats": 73
+      },
+      {
+        "name": "Überparteiliche Einigung der Mitte, Wahlgemeinschaft parteiloser Persönlichkeiten",
+        "short": "",
+        "votes": 5809,
+        "seats": 0
+      },
+      {
+        "name": "Wahlgemeinschaft Österreichische Volksopposition",
+        "short": "VO",
+        "votes": 228159,
+        "seats": 4
+      },
+      {
+        "name": "Wahlpartei der Unabhängigen",
+        "short": "WdU",
+        "votes": 472866,
+        "seats": 14
+      },
+      {
+        "name": "Wahlpartei Freie Demokraten",
+        "short": "",
+        "votes": 2573,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4318688,
+    "seats": 165
+  },
+  {
+    "year": 1956,
+    "key": "nationalratswahl_1956",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1956/start.html",
+    "rows": [
+      {
+        "name": "Ergokratische Partei",
+        "short": "",
+        "votes": 231,
+        "seats": 0
+      },
+      {
+        "name": "Freie Arbeiterbewegung Österreichs",
+        "short": "",
+        "votes": 1812,
+        "seats": 0
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 283749,
+        "seats": 6
+      },
+      {
+        "name": "Kommunisten und Linkssozialisten",
+        "short": "KuL",
+        "votes": 192438,
+        "seats": 3
+      },
+      {
+        "name": "Österreichische Mittelstandspartei",
+        "short": "",
+        "votes": 23,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische Patriotische Union",
+        "short": "",
+        "votes": 83,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1999986,
+        "seats": 82
+      },
+      {
+        "name": "Parlamentarische Vertretung der Wahlverhinderten, Nichtwähler und ungültigen Stimmen in Österreich",
+        "short": "",
+        "votes": 7,
+        "seats": 0
+      },
+      {
+        "name": "Partei der Vernunft",
+        "short": "",
+        "votes": 284,
+        "seats": 0
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1873295,
+        "seats": 74
+      }
+    ],
+    "validVotes": 4351908,
+    "seats": 165
+  },
+  {
+    "year": 1959,
+    "key": "nationalratswahl_1959",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1959/start.html",
+    "rows": [
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1928043,
+        "seats": 79
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1953935,
+        "seats": 78
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 336110,
+        "seats": 8
+      },
+      {
+        "name": "Kommunisten und Linkssozialisten",
+        "short": "KLS",
+        "votes": 142578,
+        "seats": 0
+      },
+      {
+        "name": "Bund demokratischer Sozialisten",
+        "short": "BDS",
+        "votes": 2190,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4362856,
+    "seats": 165
+  },
+  {
+    "year": 1962,
+    "key": "nationalratswahl_1962",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1962/start.html",
+    "rows": [
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 2024501,
+        "seats": 81
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1960685,
+        "seats": 76
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 313895,
+        "seats": 8
+      },
+      {
+        "name": "Kommunisten und Linkssozialisten",
+        "short": "KLS",
+        "votes": 135520,
+        "seats": 0
+      },
+      {
+        "name": "Europäische Föderalistische Partei Österreichs",
+        "short": "EFP",
+        "votes": 21530,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4456131,
+    "seats": 165
+  },
+  {
+    "year": 1966,
+    "key": "nationalratswahl_1966",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1966/start.html",
+    "rows": [
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 2191109,
+        "seats": 85
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1928985,
+        "seats": 74
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 242570,
+        "seats": 6
+      },
+      {
+        "name": "Demokratische Fortschrittliche Partei, DFP-Liste Franz Olah",
+        "short": "DFP",
+        "votes": 148528,
+        "seats": 0
+      },
+      {
+        "name": "Kommunisten und Linkssozialisten",
+        "short": "KLS",
+        "votes": 18636,
+        "seats": 0
+      },
+      {
+        "name": "Liberale Partei Österreichs",
+        "short": "LPÖ",
+        "votes": 1571,
+        "seats": 0
+      },
+      {
+        "name": "Marxisten-Leninisten Österreichs",
+        "short": "MLÖ",
+        "votes": 486,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4531885,
+    "seats": 165
+  },
+  {
+    "year": 1970,
+    "key": "nationalratswahl_1970",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1970/start.html",
+    "rows": [
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 2078010,
+        "seats": 79
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 2235905,
+        "seats": 81
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 254363,
+        "seats": 5
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 46689,
+        "seats": 0
+      },
+      {
+        "name": "Demokratische Fortschrittliche Partei, DFP-Liste Franz Olah",
+        "short": "DFP",
+        "votes": 17405,
+        "seats": 0
+      },
+      {
+        "name": "Nationaldemokratische Partei",
+        "short": "NDP",
+        "votes": 3484,
+        "seats": 0
+      },
+      {
+        "name": "Adolf Glantschnig - Für Menschlichkeit, Recht und Freiheit in Österreich",
+        "short": "MRF",
+        "votes": 237,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4636093,
+    "seats": 165
+  },
+  {
+    "year": 1970,
+    "key": "nationalratswahl_1970_wiederholungswahl",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1970_wiederholungswahl/start.html",
+    "rows": [
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 2051012,
+        "seats": 78
+      },
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 2221981,
+        "seats": 81
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 253425,
+        "seats": 6
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 44750,
+        "seats": 0
+      },
+      {
+        "name": "Demokratische Fortschrittliche Partei, DFP-Liste Franz Olah",
+        "short": "DFP",
+        "votes": 14925,
+        "seats": 0
+      },
+      {
+        "name": "Nationaldemokratische Partei",
+        "short": "NDP",
+        "votes": 2631,
+        "seats": 0
+      },
+      {
+        "name": "Adolf Glantschnig - Für Menschlichkeit, Recht und Freiheit in Österreich",
+        "short": "MRF",
+        "votes": 237,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4588961,
+    "seats": 165
+  },
+  {
+    "year": 1971,
+    "key": "nationalratswahl_1971",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1971/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 2280168,
+        "seats": 93
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1964713,
+        "seats": 80
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 248473,
+        "seats": 10
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 61762,
+        "seats": 0
+      },
+      {
+        "name": "Offensiv links",
+        "short": "OL",
+        "votes": 1874,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4556990,
+    "seats": 183
+  },
+  {
+    "year": 1975,
+    "key": "nationalratswahl_1975",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1975/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 2326201,
+        "seats": 93
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1981291,
+        "seats": 80
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 249444,
+        "seats": 10
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 55032,
+        "seats": 0
+      },
+      {
+        "name": "Liste Steinacher Franz",
+        "short": "",
+        "votes": 440,
+        "seats": 0
+      },
+      {
+        "name": "Gruppe Revolutionäre Marxisten",
+        "short": "GRM",
+        "votes": 1024,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4613432,
+    "seats": 183
+  },
+  {
+    "year": 1979,
+    "key": "nationalratswahl_1979",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1979/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 2413226,
+        "seats": 95
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1981739,
+        "seats": 77
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 286743,
+        "seats": 11
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 45280,
+        "seats": 0
+      },
+      {
+        "name": "Christlich-Soziale-Arbeitsgemeinschaft",
+        "short": "CSA",
+        "votes": 2263,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4729251,
+    "seats": 183
+  },
+  {
+    "year": 1983,
+    "key": "nationalratswahl_1983",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1983/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 2312529,
+        "seats": 90
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 2097808,
+        "seats": 81
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 241789,
+        "seats": 12
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 31912,
+        "seats": 0
+      },
+      {
+        "name": "Vereinte Grüne Österreichs - Liste Tollmann",
+        "short": "VGÖ",
+        "votes": 93798,
+        "seats": 0
+      },
+      {
+        "name": "Alternative Liste Österreich",
+        "short": "ALÖ",
+        "votes": 65816,
+        "seats": 0
+      },
+      {
+        "name": "Österreich-Partei",
+        "short": "ÖP",
+        "votes": 5851,
+        "seats": 0
+      },
+      {
+        "name": "Ausländer-Halt-Bewegung",
+        "short": "AUS",
+        "votes": 3914,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4853417,
+    "seats": 183
+  },
+  {
+    "year": 1986,
+    "key": "nationalratswahl_1986",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1986/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 2092024,
+        "seats": 80
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 2003663,
+        "seats": 77
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 472205,
+        "seats": 18
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 35104,
+        "seats": 0
+      },
+      {
+        "name": "Die Grüne Alternative - Liste Freda Meissner-Blau",
+        "short": "GRÜNE",
+        "votes": 234028,
+        "seats": 8
+      },
+      {
+        "name": "Die Grünalternativen - Demokratische Liste",
+        "short": "GAL",
+        "votes": 6005,
+        "seats": 0
+      },
+      {
+        "name": "Kärntner Grüne - VGÖ - VÖGA - Unabhängige Gemeinderäte",
+        "short": "",
+        "votes": 1059,
+        "seats": 0
+      },
+      {
+        "name": "Aktionsliste \"Mir reicht`s!\"",
+        "short": "MIR",
+        "votes": 8100,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4852188,
+    "seats": 183
+  },
+  {
+    "year": 1990,
+    "key": "nationalratswahl_1990",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1990/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 2012787,
+        "seats": 80
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1508600,
+        "seats": 60
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 782648,
+        "seats": 33
+      },
+      {
+        "name": "Die Grüne Alternative - Grüne im Parlament",
+        "short": "",
+        "votes": 225084,
+        "seats": 10
+      },
+      {
+        "name": "Vereinte Grüne Österreichs/Das Umwelt-Bürgerforum",
+        "short": "VGÖ",
+        "votes": 92277,
+        "seats": 0
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 25682,
+        "seats": 0
+      },
+      {
+        "name": "Verband der Sozialversicherten",
+        "short": "VDS",
+        "votes": 35833,
+        "seats": 0
+      },
+      {
+        "name": "Christliche-Wähler-Gemeinschaft",
+        "short": "CWG",
+        "votes": 9263,
+        "seats": 0
+      },
+      {
+        "name": "Christdemokratische Partei",
+        "short": "CDP",
+        "votes": 6194,
+        "seats": 0
+      },
+      {
+        "name": "Wahlplattform der Grauen Österreichs",
+        "short": "WGÖ",
+        "votes": 3996,
+        "seats": 0
+      },
+      {
+        "name": "Fritz Georg",
+        "short": "",
+        "votes": 2530,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4704894,
+    "seats": 183
+  },
+  {
+    "year": 1994,
+    "key": "nationalratswahl_1994",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1994/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1617804,
+        "seats": 65
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1281846,
+        "seats": 52
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 1042332,
+        "seats": 42
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 338538,
+        "seats": 13
+      },
+      {
+        "name": "Liberales Forum - Heide Schmidt",
+        "short": "LIF",
+        "votes": 276580,
+        "seats": 11
+      },
+      {
+        "name": "Vereinte Grüne Österreichs - Liste Adi Pinter",
+        "short": "VGÖ",
+        "votes": 5776,
+        "seats": 0
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 11919,
+        "seats": 0
+      },
+      {
+        "name": "Bürgerliche Grüne Österreichs Freie Demokraten - Die Liberalen Verband der Sozialversicherten Bürgerlisten und Unabhängige",
+        "short": "BGÖ",
+        "votes": 2504,
+        "seats": 0
+      },
+      {
+        "name": "Nein - Bürgerinitiative gegen den Verkauf Österreichs",
+        "short": "NEIN",
+        "votes": 41492,
+        "seats": 0
+      },
+      {
+        "name": "Christliche - Wähler - Gemeinschaft",
+        "short": "CWG",
+        "votes": 9051,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische Naturgesetz - Partei",
+        "short": "ÖNP",
+        "votes": 4209,
+        "seats": 0
+      },
+      {
+        "name": "Fritz Georg",
+        "short": "",
+        "votes": 482,
+        "seats": 0
+      },
+      {
+        "name": "Die Beste Partei",
+        "short": "DBP",
+        "votes": 581,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4633114,
+    "seats": 183
+  },
+  {
+    "year": 1995,
+    "key": "nationalratswahl_1995",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1995/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1843679,
+        "seats": 71
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1370497,
+        "seats": 53
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 1060175,
+        "seats": 40
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 233232,
+        "seats": 9
+      },
+      {
+        "name": "Liberales Forum - Heide Schmidt",
+        "short": "LIF",
+        "votes": 267078,
+        "seats": 10
+      },
+      {
+        "name": "Bürgerinitiative Nein zur EU - Austritt jetzt",
+        "short": "NEIN",
+        "votes": 53184,
+        "seats": 0
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 13939,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische Naturgesetz - Partei",
+        "short": "ÖNP",
+        "votes": 1634,
+        "seats": 0
+      },
+      {
+        "name": "Die Beste Partei - Reinhard Eberhart",
+        "short": "DBP",
+        "votes": 830,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4844248,
+    "seats": 183
+  },
+  {
+    "year": 1995,
+    "key": "nationalratswahl_1995_wiederholungswahl_1996",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1995_wiederholungswahl_1996/start.html",
+    "rows": [
+      {
+        "name": "Sozialistische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1843474,
+        "seats": 71
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1370510,
+        "seats": 52
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 1060377,
+        "seats": 41
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 233208,
+        "seats": 9
+      },
+      {
+        "name": "Liberales Forum - Heide Schmidt",
+        "short": "LIF",
+        "votes": 267026,
+        "seats": 10
+      },
+      {
+        "name": "Bürgerinitiative Nein zur EU - Austritt jetzt",
+        "short": "NEIN",
+        "votes": 53176,
+        "seats": 0
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 13938,
+        "seats": 0
+      },
+      {
+        "name": "Österreichische Naturgesetz - Partei",
+        "short": "ÖNP",
+        "votes": 1634,
+        "seats": 0
+      },
+      {
+        "name": "Die Beste Partei - Reinhard Eberhart",
+        "short": "DBP",
+        "votes": 830,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4844173,
+    "seats": 183
+  },
+  {
+    "year": 1999,
+    "key": "nationalratswahl_1999",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1999/start.html",
+    "rows": [
+      {
+        "name": "Sozialdemokratische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1532448,
+        "seats": 65
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1243672,
+        "seats": 52
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 1244087,
+        "seats": 52
+      },
+      {
+        "name": "Liberales Forum - Heide Schmidt",
+        "short": "LIF",
+        "votes": 168612,
+        "seats": 0
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 342260,
+        "seats": 14
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 22016,
+        "seats": 0
+      },
+      {
+        "name": "Die Unabhängigen - Liste Lugner",
+        "short": "DU",
+        "votes": 46943,
+        "seats": 0
+      },
+      {
+        "name": "Nein zu NATO und EU Neutrales Österreich Bürgerinitiative",
+        "short": "NEIN",
+        "votes": 19286,
+        "seats": 0
+      },
+      {
+        "name": "Christliche Wählergemeinschaft",
+        "short": "CWG",
+        "votes": 3030,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4622354,
+    "seats": 183
+  },
+  {
+    "year": 2002,
+    "key": "nationalratswahl_2002",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2002/start.html",
+    "rows": [
+      {
+        "name": "Sozialdemokratische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1792499,
+        "seats": 69
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 491328,
+        "seats": 18
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 2076833,
+        "seats": 79
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 464980,
+        "seats": 17
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 27568,
+        "seats": 0
+      },
+      {
+        "name": "Die Liberalen (Liberales Forum)",
+        "short": "LIF",
+        "votes": 48083,
+        "seats": 0
+      },
+      {
+        "name": "Die Demokraten",
+        "short": "",
+        "votes": 2439,
+        "seats": 0
+      },
+      {
+        "name": "Christliche Wählergemeinschaft",
+        "short": "CWG",
+        "votes": 2009,
+        "seats": 0
+      },
+      {
+        "name": "Sozialistische Links Partei",
+        "short": "SLP",
+        "votes": 3906,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4909645,
+    "seats": 183
+  },
+  {
+    "year": 2006,
+    "key": "nationalratswahl_2006",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2006/start.html",
+    "rows": [
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1616493,
+        "seats": null
+      },
+      {
+        "name": "Sozialdemokratische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1663986,
+        "seats": null
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 519598,
+        "seats": null
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 520130,
+        "seats": null
+      },
+      {
+        "name": "Die Freiheitlichen - Liste Westenthaler - BZÖ",
+        "short": "BZÖ",
+        "votes": 193539,
+        "seats": null
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 47578,
+        "seats": null
+      },
+      {
+        "name": "Liste Dr. Martin - Für Demokratie, Kontrolle, Gerechtigkeit",
+        "short": "MATIN",
+        "votes": 131688,
+        "seats": null
+      },
+      {
+        "name": "EU-Austritt - Neutrales Freies Österreich",
+        "short": "NFÖ",
+        "votes": 10594,
+        "seats": null
+      },
+      {
+        "name": "IVE INITIATIVE2000",
+        "short": "IVE",
+        "votes": 592,
+        "seats": null
+      },
+      {
+        "name": "Liste Stark",
+        "short": "STARK",
+        "votes": 312,
+        "seats": null
+      },
+      {
+        "name": "Sicher-Absolut-Unabhängig, Franz Radinger",
+        "short": "SAU",
+        "votes": 1514,
+        "seats": null
+      },
+      {
+        "name": "Sozialistische LinksPartei, Liste gegen Kapitalismus und Rassismus",
+        "short": "SLP",
+        "votes": 2257,
+        "seats": null
+      }
+    ],
+    "validVotes": 4708281,
+    "seats": null
+  },
+  {
+    "year": 2008,
+    "key": "nationalratswahl_2008",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2008/start.html",
+    "rows": [
+      {
+        "name": "Sozialdemokratische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1430206,
+        "seats": null
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1269656,
+        "seats": null
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 509936,
+        "seats": null
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 857029,
+        "seats": null
+      },
+      {
+        "name": "BZÖ - Liste Jörg Haider",
+        "short": "BZÖ",
+        "votes": 522933,
+        "seats": null
+      },
+      {
+        "name": "Bürgerforum Österreich Liste Fritz Dinkhauser",
+        "short": "FRITZ",
+        "votes": 86194,
+        "seats": null
+      },
+      {
+        "name": "Die Christen",
+        "short": "DC",
+        "votes": 31080,
+        "seats": null
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 37362,
+        "seats": null
+      },
+      {
+        "name": "Liberales Forum",
+        "short": "LIF",
+        "votes": 102249,
+        "seats": null
+      },
+      {
+        "name": "Unabhängige Bürgerinitiative Rettet Österreich",
+        "short": "RETTÖ",
+        "votes": 35718,
+        "seats": null
+      },
+      {
+        "name": "Die Linke",
+        "short": "LINKE",
+        "votes": 349,
+        "seats": null
+      },
+      {
+        "name": "Dipl.Ing. Karlheinz H. Klement",
+        "short": "",
+        "votes": 347,
+        "seats": null
+      },
+      {
+        "name": "Linke",
+        "short": "LINKE",
+        "votes": 1789,
+        "seats": null
+      },
+      {
+        "name": "Liste Stark",
+        "short": "STARK",
+        "votes": 237,
+        "seats": null
+      },
+      {
+        "name": "Tierrechtspartei earth-human-animals-nature",
+        "short": "TRP",
+        "votes": 2224,
+        "seats": null
+      }
+    ],
+    "validVotes": 4887309,
+    "seats": null
+  },
+  {
+    "year": 2013,
+    "key": "nationalratswahl_2013",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2013/start.html",
+    "rows": [
+      {
+        "name": "Sozialdemokratische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1258605,
+        "seats": null
+      },
+      {
+        "name": "Österreichische Volkspartei",
+        "short": "ÖVP",
+        "votes": 1125876,
+        "seats": null
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 962313,
+        "seats": null
+      },
+      {
+        "name": "BZÖ - Liste Josef Bucher",
+        "short": "BZÖ",
+        "votes": 165746,
+        "seats": null
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 582657,
+        "seats": null
+      },
+      {
+        "name": "Team Frank Stronach",
+        "short": "FRANK",
+        "votes": 268679,
+        "seats": null
+      },
+      {
+        "name": "NEOS Das Neue Österreich und Liberales Forum",
+        "short": "NEOS",
+        "votes": 232946,
+        "seats": null
+      },
+      {
+        "name": "Kommunistische Partei Österreichs",
+        "short": "KPÖ",
+        "votes": 48175,
+        "seats": null
+      },
+      {
+        "name": "Piratenpartei Österreichs",
+        "short": "PIRAT",
+        "votes": 36265,
+        "seats": null
+      },
+      {
+        "name": "Christliche Partei Österreichs",
+        "short": "CPÖ",
+        "votes": 6647,
+        "seats": null
+      },
+      {
+        "name": "Der Wandel",
+        "short": "WANDL",
+        "votes": 3051,
+        "seats": null
+      },
+      {
+        "name": "Männerpartei",
+        "short": "M",
+        "votes": 490,
+        "seats": null
+      },
+      {
+        "name": "EU-Austrittspartei",
+        "short": "EUAUS",
+        "votes": 510,
+        "seats": null
+      },
+      {
+        "name": "Sozialistische LinksPartei",
+        "short": "SLP",
+        "votes": 947,
+        "seats": null
+      }
+    ],
+    "validVotes": 4692907,
+    "seats": null
+  },
+  {
+    "year": 2017,
+    "key": "nationalratswahl_2017",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2017/start.html",
+    "rows": [
+      {
+        "name": "Sozialdemokratische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1361746,
+        "seats": null
+      },
+      {
+        "name": "Liste Sebastian Kurz - die neue Volkspartei",
+        "short": "ÖVP",
+        "votes": 1595526,
+        "seats": null
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 1316442,
+        "seats": null
+      },
+      {
+        "name": "Die Grünen - Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 192638,
+        "seats": null
+      },
+      {
+        "name": "NEOS - Das Neue Österreich gemeinsam mit Irmgard Griss, Bürgerinnen und Bürger für Freiheit und Verantwortung",
+        "short": "NEOS",
+        "votes": 268518,
+        "seats": null
+      },
+      {
+        "name": "Liste Peter Pilz",
+        "short": "PILZ",
+        "votes": 223543,
+        "seats": null
+      },
+      {
+        "name": "Liste Roland Düringer - Meine Stimme GILT",
+        "short": "GILT",
+        "votes": 48234,
+        "seats": null
+      },
+      {
+        "name": "Freie Liste Österreich & FPS Liste Dr. Karl Schnell",
+        "short": "FLÖ",
+        "votes": 8889,
+        "seats": null
+      },
+      {
+        "name": "Kommunistische Partei Österreichs und Plattform Plus - offene Liste",
+        "short": "KPÖ",
+        "votes": 39689,
+        "seats": null
+      },
+      {
+        "name": "Die Weissen - Das Recht geht vom Volk aus. Wir alle entscheiden in Österreich. Die Volksbewegung",
+        "short": "WEIẞE",
+        "votes": 9167,
+        "seats": null
+      },
+      {
+        "name": "Sozialistische LinksPartei",
+        "short": "SLP",
+        "votes": 713,
+        "seats": null
+      },
+      {
+        "name": "Für Österreich, Zuwanderungsstopp, Grenzschutz, Neutralität, EU-Austritt",
+        "short": "EUAUS",
+        "votes": 693,
+        "seats": null
+      },
+      {
+        "name": "Männerpartei - für ein faires Miteinander",
+        "short": "M",
+        "votes": 221,
+        "seats": null
+      },
+      {
+        "name": "Christliche Partei Österreichs",
+        "short": "CPÖ",
+        "votes": 425,
+        "seats": null
+      },
+      {
+        "name": "NBZ - Neue Bewegung für die Zukunft",
+        "short": "NBZ",
+        "votes": 2724,
+        "seats": null
+      },
+      {
+        "name": "Obdachlose in der Politik",
+        "short": "ODP",
+        "votes": 761,
+        "seats": null
+      }
+    ],
+    "validVotes": 5069929,
+    "seats": null
+  },
+  {
+    "year": 2019,
+    "key": "nationalratswahl_2019",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2019/start.html",
+    "rows": [
+      {
+        "name": "Liste Sebastian Kurz – die neue Volkspartei",
+        "short": "ÖVP",
+        "votes": 1789417,
+        "seats": null
+      },
+      {
+        "name": "Sozialdemokratische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1011868,
+        "seats": null
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 772666,
+        "seats": null
+      },
+      {
+        "name": "NEOS – Das Neue Österreich",
+        "short": "NEOS",
+        "votes": 387124,
+        "seats": null
+      },
+      {
+        "name": "JETZT – Liste Pilz",
+        "short": "JETZT",
+        "votes": 89169,
+        "seats": null
+      },
+      {
+        "name": "Alternative Listen, KPÖ Plus, Linke und Unabhängige",
+        "short": "KPÖ",
+        "votes": 32736,
+        "seats": null
+      },
+      {
+        "name": "Die Grünen – Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 664055,
+        "seats": null
+      },
+      {
+        "name": "Wandel – Aufbruch in ein gemeinwohlorientiertes Morgen mit guter Arbeit, leistbarem Wohnen und radikaler Klimapolitik. Es gibt viel zu gewinnen.",
+        "short": "WANDL",
+        "votes": 22168,
+        "seats": null
+      },
+      {
+        "name": "Christliche Partei Österreichs",
+        "short": "CPÖ",
+        "votes": 260,
+        "seats": null
+      },
+      {
+        "name": "Allianz der Patrioten",
+        "short": "BZÖ",
+        "votes": 760,
+        "seats": null
+      },
+      {
+        "name": "Sozialistische LinksPartei – SLP",
+        "short": "SLP",
+        "votes": 310,
+        "seats": null
+      },
+      {
+        "name": "Jede Stimme GILT: Bürgerparlamente & Expertenregierung",
+        "short": "GILT",
+        "votes": 1767,
+        "seats": null
+      },
+      {
+        "name": "BPÖ – Bierpartei Österreich",
+        "short": "BIER",
+        "votes": 4946,
+        "seats": null
+      }
+    ],
+    "validVotes": 4777246,
+    "seats": null
+  },
+  {
+    "year": 2024,
+    "key": "nationalratswahl_2024",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2024/start.html",
+    "rows": [
+      {
+        "name": "Karl Nehammer – Die Volkspartei",
+        "short": "ÖVP",
+        "votes": 1282734,
+        "seats": 51
+      },
+      {
+        "name": "Sozialdemokratische Partei Österreichs",
+        "short": "SPÖ",
+        "votes": 1032233,
+        "seats": 41
+      },
+      {
+        "name": "Freiheitliche Partei Österreichs",
+        "short": "FPÖ",
+        "votes": 1408512,
+        "seats": 57
+      },
+      {
+        "name": "Die Grünen – Die Grüne Alternative",
+        "short": "GRÜNE",
+        "votes": 402109,
+        "seats": 16
+      },
+      {
+        "name": "NEOS – Die Reformkraft für dein neues Österreich",
+        "short": "NEOS",
+        "votes": 446379,
+        "seats": 18
+      },
+      {
+        "name": "Die Bierpartei",
+        "short": "BIER",
+        "votes": 98395,
+        "seats": 0
+      },
+      {
+        "name": "MFG – Österreich Menschen – Freiheit – Grundrechte",
+        "short": "MFG",
+        "votes": 19785,
+        "seats": 0
+      },
+      {
+        "name": "Die Gelben",
+        "short": "BGE",
+        "votes": 156,
+        "seats": 0
+      },
+      {
+        "name": "Liste Madeleine Petrovic",
+        "short": "LMP",
+        "votes": 28488,
+        "seats": 0
+      },
+      {
+        "name": "Liste GAZA – Stimmen gegen den Völkermord",
+        "short": "GAZA",
+        "votes": 19376,
+        "seats": 0
+      },
+      {
+        "name": "Kommunistische Partei Österreichs – KPÖ Plus",
+        "short": "KPÖ",
+        "votes": 116891,
+        "seats": 0
+      },
+      {
+        "name": "Keine von denen",
+        "short": "KEINE",
+        "votes": 27830,
+        "seats": 0
+      }
+    ],
+    "validVotes": 4882888,
+    "seats": 183
+  },
+  {
+    "year": 1920,
+    "key": "nrw_1920_ergebnisse",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/files/nrw_1920_ergebnisse.pdf",
+    "rows": [
+      {
+        "name": "Christian Social Party",
+        "short": "",
+        "votes": 1245531,
+        "seats": 85
+      },
+      {
+        "name": "Social Democratic Workers' Party",
+        "short": "",
+        "votes": 1072709,
+        "seats": 69
+      },
+      {
+        "name": "German-national parties",
+        "short": "",
+        "votes": 514127,
+        "seats": 28
+      },
+      {
+        "name": "Democratic parties",
+        "short": "",
+        "votes": 42826,
+        "seats": 1
+      },
+      {
+        "name": "Other parties",
+        "short": "",
+        "votes": 105135,
+        "seats": 0
+      }
+    ],
+    "validVotes": 2980328,
+    "seats": 183
+  }
+]

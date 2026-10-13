@@ -1,0 +1,3082 @@
+[
+  {
+    "id": "f7609239-af37-5d34-b84c-269f292db415",
+    "country_id": "at",
+    "name": "Austrian People's Party",
+    "short_name": "Austrian People's Party",
+    "color": "#63c3d0",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "89a36e90-e71e-5470-bde6-ceb7f1a93f3a",
+    "country_id": "at",
+    "name": "Social Democratic Party of Austria",
+    "short_name": "Social Democratic Party of Austria",
+    "color": "#e30613",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "35dbf859-f380-5698-b96a-001493feb2eb",
+    "country_id": "at",
+    "name": "Freedom Party of Austria",
+    "short_name": "Freedom Party of Austria",
+    "color": "#005ca9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b8e19f43-8e61-5380-aa8a-2b0e2dc93440",
+    "country_id": "at",
+    "name": "The Greens",
+    "short_name": "The Greens",
+    "color": "#84b414",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "177a06a5-821b-54b1-967d-7497500363ef",
+    "country_id": "at",
+    "name": "NEOS",
+    "short_name": "NEOS",
+    "color": "#e84188",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e376128d-7098-5f60-9f6b-f0397615fdb1",
+    "country_id": "at",
+    "name": "JETZT – Pilz List",
+    "short_name": "JETZT – Pilz List",
+    "color": "#2da92f",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "67ce81bd-b6c3-5005-9649-23567645825d",
+    "country_id": "at",
+    "name": "KPÖ Plus",
+    "short_name": "KPÖ Plus",
+    "color": "#b8272d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "dd6046e4-0017-5c08-a107-6c7a3c11f455",
+    "country_id": "at",
+    "name": "Der Wandel",
+    "short_name": "Der Wandel",
+    "color": "#2da9a1",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "380b47c4-d55c-5c2c-b728-28246e7cc1ab",
+    "country_id": "at",
+    "name": "Beer Party",
+    "short_name": "Beer Party",
+    "color": "#74a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1011795a-d857-5c12-b5d2-9330c5cf375d",
+    "country_id": "at",
+    "name": "Every Vote Counts!",
+    "short_name": "Every Vote Counts!",
+    "color": "#2d69a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b00ee11b-5ada-531c-8c07-237b37e50e74",
+    "country_id": "at",
+    "name": "BZÖ Carinthia – Alliance of Patriots",
+    "short_name": "BZÖ Carinthia – Alliance of Patriots",
+    "color": "#90a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7c325f1d-89d3-5bda-b7ad-e94e0e6971a8",
+    "country_id": "at",
+    "name": "Socialist Left Party",
+    "short_name": "Socialist Left Party",
+    "color": "#4f2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "595f494e-a640-5f23-925c-1df9b7885a34",
+    "country_id": "at",
+    "name": "Christian Party of Austria",
+    "short_name": "Christian Party of Austria",
+    "color": "#a72da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2019_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3a6c1250-5f88-570d-aca1-ad24e3442762",
+    "country_id": "at",
+    "name": "The Beer Party",
+    "short_name": "The Beer Party",
+    "color": "#5c2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2024_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "573abe79-618c-524b-bf47-821a7b124226",
+    "country_id": "at",
+    "name": "Madeleine Petrovic List",
+    "short_name": "Madeleine Petrovic List",
+    "color": "#2d35a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2024_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "33f7be5d-bc06-5cde-9a0b-bc9384df76ee",
+    "country_id": "at",
+    "name": "None of the Above",
+    "short_name": "None of the Above",
+    "color": "#55a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2024_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d76199fe-2d5b-50f1-b124-0bbbbe52f425",
+    "country_id": "at",
+    "name": "MFG Austria",
+    "short_name": "MFG Austria",
+    "color": "#2da972",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2024_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ef73aa69-c3ad-50ca-8a0f-0baf68c22f0d",
+    "country_id": "at",
+    "name": "Liste Gaza",
+    "short_name": "Liste Gaza",
+    "color": "#8ea92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2024_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "af30e617-9e36-5a30-bad5-85c71dc0b71d",
+    "country_id": "at",
+    "name": "The Yellows (LBL)",
+    "short_name": "The Yellows (LBL)",
+    "color": "#2da934",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2024_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ddb9efbf-f194-58d3-b3c1-0a5c365804f7",
+    "country_id": "at",
+    "name": "Peter Pilz List",
+    "short_name": "Peter Pilz List",
+    "color": "#a9a02d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2d80942e-91d2-5f67-9fc5-c2fe0616dc34",
+    "country_id": "at",
+    "name": "My Vote Counts!",
+    "short_name": "My Vote Counts!",
+    "color": "#a9832d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "8281e184-393b-56e6-bf48-a3240f26fe67",
+    "country_id": "at",
+    "name": "Communist Party of Austria",
+    "short_name": "Communist Party of Austria",
+    "color": "#b8272d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9ab7eb9e-895a-5c89-be88-e92455cf7485",
+    "country_id": "at",
+    "name": "The Whites",
+    "short_name": "The Whites",
+    "color": "#a0a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e14bf304-a524-548e-8838-a5f9649def66",
+    "country_id": "at",
+    "name": "Free List Austria",
+    "short_name": "Free List Austria",
+    "color": "#a93f2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "8228cafb-803d-504d-b04f-7e56ce33b55f",
+    "country_id": "at",
+    "name": "New Movement for the Future",
+    "short_name": "New Movement for the Future",
+    "color": "#a9712d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5b1c2611-6a09-5ca0-8f17-cf7400a6ba3a",
+    "country_id": "at",
+    "name": "Homeless in Politics",
+    "short_name": "Homeless in Politics",
+    "color": "#a52da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b1e1f605-dccf-5c1b-a51f-19ef90bc0048",
+    "country_id": "at",
+    "name": "EU Exit Party",
+    "short_name": "EU Exit Party",
+    "color": "#2da94d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "78029ad0-56e8-574a-b336-0846020a7be3",
+    "country_id": "at",
+    "name": "Men's Party",
+    "short_name": "Men's Party",
+    "color": "#4f2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2017_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3079cd5e-e87b-542c-bc54-20c106b29e8b",
+    "country_id": "at",
+    "name": "Socialist Party of Austria",
+    "short_name": "Socialist Party of Austria",
+    "color": "#e30613",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1945_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "4572a877-09a8-5fe4-a8de-4d76aed3a417",
+    "country_id": "at",
+    "name": "Democratic Party of Austria",
+    "short_name": "Democratic Party of Austria",
+    "color": "#a92d62",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1945_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0b5501c8-cb3f-51a3-a607-28292010ee5f",
+    "country_id": "at",
+    "name": "Electoral Party of Independents",
+    "short_name": "Electoral Party of Independents",
+    "color": "#2da930",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1949_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f822ba58-7b73-5d60-9824-67ef5f04dd95",
+    "country_id": "at",
+    "name": "Communist Party of Austria and Left Socialists",
+    "short_name": "Communist Party of Austria and Left Socialists",
+    "color": "#a92d5d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1949_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "17a0a900-3a6a-5e17-a5e1-68c12fd81c21",
+    "country_id": "at",
+    "name": "Democratic Union",
+    "short_name": "Democratic Union",
+    "color": "#2da94f",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1949_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5193f5f6-0963-5021-a65c-54b30aefcabc",
+    "country_id": "at",
+    "name": "Fourth Party",
+    "short_name": "Fourth Party",
+    "color": "#a92d56",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1949_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c1c9a6e1-6b16-561f-b174-38830d4233fb",
+    "country_id": "at",
+    "name": "Democratic Front of the Working People",
+    "short_name": "Democratic Front of the Working People",
+    "color": "#a9a42d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1949_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2398e4a9-b272-53a8-a759-670bc4157eee",
+    "country_id": "at",
+    "name": "Economic Party of House and Property Owners",
+    "short_name": "Economic Party of House and Property Owners",
+    "color": "#a82da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1949_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9b211af7-4bbf-5cb3-8f5e-7a54576cc27c",
+    "country_id": "at",
+    "name": "Austrian Patriotic Party",
+    "short_name": "Austrian Patriotic Party",
+    "color": "#2da958",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1949_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "79e614cb-0988-5cc2-be38-7fe73d560578",
+    "country_id": "at",
+    "name": "Austrian People's Opposition",
+    "short_name": "Austrian People's Opposition",
+    "color": "#a9632d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1953_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1e699fb7-275d-5b22-ba76-ad72c57812a8",
+    "country_id": "at",
+    "name": "Bipartisan Agreement of the Centre",
+    "short_name": "Bipartisan Agreement of the Centre",
+    "color": "#382da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1953_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0b75219b-8ba7-5527-9b35-3451ea2f8f88",
+    "country_id": "at",
+    "name": "Christian Democratic Party",
+    "short_name": "Christian Democratic Party",
+    "color": "#2d97a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1953_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fbb9b09a-77da-53e6-b695-bdf268436690",
+    "country_id": "at",
+    "name": "Christian Social Party and Non-Party Personalities",
+    "short_name": "Christian Social Party and Non-Party Personalities",
+    "color": "#2da973",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1953_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7cd8f333-82de-568d-a8cc-b9f5902e2438",
+    "country_id": "at",
+    "name": "Free Democrats",
+    "short_name": "Free Democrats",
+    "color": "#2d52a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1953_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "665e7795-9695-5b89-8d73-106bced32fb5",
+    "country_id": "at",
+    "name": "Association of Austrian Monarchists",
+    "short_name": "Association of Austrian Monarchists",
+    "color": "#a92d89",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1953_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3868e840-facd-5711-bab9-6e4f410708cd",
+    "country_id": "at",
+    "name": "Austrian National Republicans and Independents",
+    "short_name": "Austrian National Republicans and Independents",
+    "color": "#a9362d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1953_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "391e1296-b6c5-5daa-9b79-308704441778",
+    "country_id": "at",
+    "name": "Communists and Left Socialists",
+    "short_name": "Communists and Left Socialists",
+    "color": "#2da99b",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1956_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cb3a5637-f219-57f9-b6ce-46247e077ef7",
+    "country_id": "at",
+    "name": "Free Workers Movement of Austria",
+    "short_name": "Free Workers Movement of Austria",
+    "color": "#35a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1956_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6f528c3c-0a78-5e8d-b7e6-735f9b2f9333",
+    "country_id": "at",
+    "name": "Party of Reason",
+    "short_name": "Party of Reason",
+    "color": "#43a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1956_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "053730da-2e5c-554b-830f-813ab3f98239",
+    "country_id": "at",
+    "name": "Ergokratische Party",
+    "short_name": "Ergokratische Party",
+    "color": "#8aa92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1956_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "54672f9a-f038-5920-a4bf-b26d6ccc2a70",
+    "country_id": "at",
+    "name": "Austrian Middle Class Party",
+    "short_name": "Austrian Middle Class Party",
+    "color": "#a92d96",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1956_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b61bc84a-0fa4-5bf6-af6f-c928f737df53",
+    "country_id": "at",
+    "name": "Parliamentary Representatives of the People prevented from voting, Non-Voters and Invalid Voters",
+    "short_name": "Parliamentary Representatives of the People prevented from voting, Non-Voters and Invalid Voters",
+    "color": "#a92d65",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1956_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c55467ca-2926-5dfe-8b12-136ad6dbc90b",
+    "country_id": "at",
+    "name": "League of Democratic Socialists",
+    "short_name": "League of Democratic Socialists",
+    "color": "#45a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1959_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "69c6bbb5-98de-5774-aa3c-238fca307295",
+    "country_id": "at",
+    "name": "European Federal Party of Austria",
+    "short_name": "European Federal Party of Austria",
+    "color": "#6c2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1962_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b7ece99c-dda8-5e6d-b225-b9b85502bf78",
+    "country_id": "at",
+    "name": "Democratic Progressive Party",
+    "short_name": "Democratic Progressive Party",
+    "color": "#30a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1966_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9517771b-2fa1-5db9-abcd-ed3846c9d6bc",
+    "country_id": "at",
+    "name": "Liberal Party of Austria",
+    "short_name": "Liberal Party of Austria",
+    "color": "#2da92f",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1966_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "4a8bc0a8-5b01-5849-b159-1c504976919e",
+    "country_id": "at",
+    "name": "Marxist–Leninist Party of Austria",
+    "short_name": "Marxist–Leninist Party of Austria",
+    "color": "#2da976",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1966_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e1255831-a3b5-53bf-8900-6f75beec987a",
+    "country_id": "at",
+    "name": "National Democratic Party",
+    "short_name": "National Democratic Party",
+    "color": "#95a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1970_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a0c4c6c1-97b7-5933-b823-e8675e109050",
+    "country_id": "at",
+    "name": "Adolf Glantschnig – For Humanity, Law and Freedom in Austria",
+    "short_name": "Adolf Glantschnig – For Humanity, Law and Freedom in Austria",
+    "color": "#a92d50",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1970_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3ba11c4b-9904-5bcf-a2b2-e65680efe921",
+    "country_id": "at",
+    "name": "Offensive Left",
+    "short_name": "Offensive Left",
+    "color": "#a9972d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1971_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "25f20967-7550-5efe-8e69-62ab9f9e0d82",
+    "country_id": "at",
+    "name": "Group of Revolutionary Marxists",
+    "short_name": "Group of Revolutionary Marxists",
+    "color": "#2d53a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1975_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "bc4a4f4f-023d-5b38-99ce-ecefa3b8f5c0",
+    "country_id": "at",
+    "name": "Steinacher Franz List",
+    "short_name": "Steinacher Franz List",
+    "color": "#392da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1975_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ebdf8c0d-af14-536d-9cd7-3ad38bc1d70e",
+    "country_id": "at",
+    "name": "Christian Social Labour Group",
+    "short_name": "Christian Social Labour Group",
+    "color": "#a9862d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1979_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2543848b-c49d-588d-9f39-40cbb30a7463",
+    "country_id": "at",
+    "name": "United Greens of Austria",
+    "short_name": "United Greens of Austria",
+    "color": "#2d71a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1983_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "8ad37c61-ac1b-552d-a864-1bacf0bd5321",
+    "country_id": "at",
+    "name": "Alternative List Austria",
+    "short_name": "Alternative List Austria",
+    "color": "#37a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1983_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a4fcf111-2b6f-55d8-985e-4469a5a6de69",
+    "country_id": "at",
+    "name": "Austria Party",
+    "short_name": "Austria Party",
+    "color": "#882da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1983_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "426508de-f0bd-5bd8-83f0-c9fa4c22e334",
+    "country_id": "at",
+    "name": "Stop Immigrants Movement",
+    "short_name": "Stop Immigrants Movement",
+    "color": "#3ba92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1983_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6fd1e889-8af2-5941-9f10-4f9f20f72310",
+    "country_id": "at",
+    "name": "Green Alternative–Freda Meissner-Blau List",
+    "short_name": "Green Alternative–Freda Meissner-Blau List",
+    "color": "#2d50a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1986_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e1d99556-99c9-53c8-abd4-03645710e870",
+    "country_id": "at",
+    "name": "Action List – I've Had Enough",
+    "short_name": "Action List – I've Had Enough",
+    "color": "#a9792d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1986_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ef7ab40f-fabd-5fc0-94d6-f4e5b7b7ce0c",
+    "country_id": "at",
+    "name": "Green Alternatives – Democratic List",
+    "short_name": "Green Alternatives – Democratic List",
+    "color": "#2d51a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1986_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "405f9715-2c7c-5bfc-bd1b-87945d7e11cc",
+    "country_id": "at",
+    "name": "Carinthian Greens–VGÖ–VÖGA–Independent Councillors",
+    "short_name": "Carinthian Greens–VGÖ–VÖGA–Independent Councillors",
+    "color": "#a93a2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1986_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "bea8a205-de65-5793-ad35-b952419e4827",
+    "country_id": "at",
+    "name": "Alliance of Welfare Beneficiaries",
+    "short_name": "Alliance of Welfare Beneficiaries",
+    "color": "#9da92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1990_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "45c68326-c42c-5dd9-9733-50db59411ede",
+    "country_id": "at",
+    "name": "Christian Electoral Community",
+    "short_name": "Christian Electoral Community",
+    "color": "#2d7ca9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1990_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e3af7acc-82a4-5b41-8d77-310ce103f9e0",
+    "country_id": "at",
+    "name": "Grey Austrians' Election Platform",
+    "short_name": "Grey Austrians' Election Platform",
+    "color": "#a92d5a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1990_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6b0d66eb-2779-5802-b36b-1b80ebce998f",
+    "country_id": "at",
+    "name": "Fritz Georg",
+    "short_name": "Fritz Georg",
+    "color": "#a92da7",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1990_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7352bfa4-8364-5296-ab7f-05adc16485f5",
+    "country_id": "at",
+    "name": "Liberal Forum",
+    "short_name": "Liberal Forum",
+    "color": "#a9952d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1994_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "50df453d-7fff-54eb-86b0-97fe90697659",
+    "country_id": "at",
+    "name": "No – Civic Action Group against the Sale of Austria",
+    "short_name": "No – Civic Action Group against the Sale of Austria",
+    "color": "#2d6da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1994_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c1888c5a-de46-5208-9bc4-dfcc68cc79ed",
+    "country_id": "at",
+    "name": "Christian Voters' Community",
+    "short_name": "Christian Voters' Community",
+    "color": "#a92d95",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1994_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "860246b3-9803-528b-be3d-daaa6c76c47b",
+    "country_id": "at",
+    "name": "United Greens Austria – List Adi Pinter",
+    "short_name": "United Greens Austria – List Adi Pinter",
+    "color": "#2da995",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1994_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5fa50084-e093-5ce0-ade5-4bf24f09e83f",
+    "country_id": "at",
+    "name": "Austrian Natural Law Party",
+    "short_name": "Austrian Natural Law Party",
+    "color": "#8ca92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1994_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ad6fe255-9b20-5f1c-9715-19057fe9793f",
+    "country_id": "at",
+    "name": "Citizen Greens Austria – Free Democrats",
+    "short_name": "Citizen Greens Austria – Free Democrats",
+    "color": "#a99d2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1994_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "8c4ed2e7-7e33-52aa-a0e7-aa4dc28ddd96",
+    "country_id": "at",
+    "name": "The Best Party",
+    "short_name": "The Best Party",
+    "color": "#2d2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1994_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ebcd8705-437a-519c-b9e0-ced29fe8970a",
+    "country_id": "at",
+    "name": "The Independents",
+    "short_name": "The Independents",
+    "color": "#2d87a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1999_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a3dc8a9a-1f92-509f-899c-d0abbe9c816b",
+    "country_id": "at",
+    "name": "No to NATO and EU – Neutral Austria Citizens' Initiative",
+    "short_name": "No to NATO and EU – Neutral Austria Citizens' Initiative",
+    "color": "#3c2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1999_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "73303b57-5a68-516b-b04e-6213c0025258",
+    "country_id": "at",
+    "name": "Christian Voters Community",
+    "short_name": "Christian Voters Community",
+    "color": "#2da936",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1999_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5f8f3979-de86-5617-b468-12a2b67f0694",
+    "country_id": "at",
+    "name": "The Democrats",
+    "short_name": "The Democrats",
+    "color": "#2d7da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2002_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "121ee5e9-dfb9-54e2-9277-45bde9b69e4e",
+    "country_id": "at",
+    "name": "Alliance for the Future of Austria",
+    "short_name": "Alliance for the Future of Austria",
+    "color": "#ef7a22",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2006_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c3ee0475-ffaf-5bce-bc91-2c16cab4a427",
+    "country_id": "at",
+    "name": "Hans-Peter Martin's List",
+    "short_name": "Hans-Peter Martin's List",
+    "color": "#a3a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2006_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b5f83003-932e-56a5-bcc2-ffe6b9354ac6",
+    "country_id": "at",
+    "name": "EU Withdrawal – Neutral Free Austria",
+    "short_name": "EU Withdrawal – Neutral Free Austria",
+    "color": "#582da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2006_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "35f549d4-1736-5839-af40-9c00929b15f4",
+    "country_id": "at",
+    "name": "Certainly – Absolutely – Independent, Franz Radinger",
+    "short_name": "Certainly – Absolutely – Independent, Franz Radinger",
+    "color": "#a9572d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2006_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a4035c23-79aa-592e-87bf-d09621e6f1ec",
+    "country_id": "at",
+    "name": "Initiative 2000",
+    "short_name": "Initiative 2000",
+    "color": "#5fa92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2006_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "254f3d60-0ef1-5a8f-afda-f41ec8a1ed9a",
+    "country_id": "at",
+    "name": "List Strong",
+    "short_name": "List Strong",
+    "color": "#a92d2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2006_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fc90f010-3ae4-55a7-921b-d75758a91acf",
+    "country_id": "at",
+    "name": "Fritz Dinkhauser List – Citizens' Forum Tyrol",
+    "short_name": "Fritz Dinkhauser List – Citizens' Forum Tyrol",
+    "color": "#a9662d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2008_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2e5b65c4-075d-5d8d-9664-9610061cb38f",
+    "country_id": "at",
+    "name": "The Christians",
+    "short_name": "The Christians",
+    "color": "#a3a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2008_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "379d16d1-ee3b-502b-b6e6-6572934f5945",
+    "country_id": "at",
+    "name": "Animal Rights Party",
+    "short_name": "Animal Rights Party",
+    "color": "#2da0a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2008_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "81e0f1b4-7046-5019-8b79-e410001157ec",
+    "country_id": "at",
+    "name": "List Karlheinz Klement",
+    "short_name": "List Karlheinz Klement",
+    "color": "#6f2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2008_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "84a0a28f-3746-5e43-aef5-757e211c4e49",
+    "country_id": "at",
+    "name": "Team Stronach",
+    "short_name": "Team Stronach",
+    "color": "#6ca92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2013_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3a8c8cea-7956-576a-a928-6d77bb198d33",
+    "country_id": "at",
+    "name": "Pirate Party of Austria",
+    "short_name": "Pirate Party of Austria",
+    "color": "#77a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2013_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0c008a1c-60b1-5620-a727-ba9257d895e1",
+    "country_id": "at",
+    "name": "Christian Social Party — historical",
+    "short_name": "Christian Social Party",
+    "color": "#202020",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1920_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "14a95be0-58e0-52c1-b283-45a1ec171250",
+    "country_id": "at",
+    "name": "Social Democratic Workers' Party — historical",
+    "short_name": "Social Democratic Workers' Party",
+    "color": "#ce2633",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1920_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fea68d2a-a793-51b5-844b-3b0746bdf092",
+    "country_id": "at",
+    "name": "Landbund — historical",
+    "short_name": "Landbund",
+    "color": "#78a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1920_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a12fcf58-e385-50d0-8d34-e4c976610591",
+    "country_id": "at",
+    "name": "Civic Workers' Party / Democrats / Burgenland Citizens' and Farmers' Party — historical",
+    "short_name": "Civic Workers' Party / Democrats / Burgenland Citizens' and Farmers' Party",
+    "color": "#582da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1920_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a57d9237-c12f-5ae5-8cdd-40659348f031",
+    "country_id": "at",
+    "name": "Communist Party of Austria — historical",
+    "short_name": "Communist Party of Austria",
+    "color": "#b8272d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1920_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1500dd64-6c23-5dbd-9e79-90ddb936c95f",
+    "country_id": "at",
+    "name": "Greater German People's Party–Landbund — historical",
+    "short_name": "Greater German People's Party–Landbund",
+    "color": "#a9442d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ccb7d71a-43a9-5374-9a61-4494631069ab",
+    "country_id": "at",
+    "name": "Carinthian Unity List (CS–GdP) — historical",
+    "short_name": "Carinthian Unity List (CS–GdP)",
+    "color": "#2d4ba9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "4a1881ac-c651-5e5b-89ce-a05d75ad549d",
+    "country_id": "at",
+    "name": "Jewish Electoral Group — historical",
+    "short_name": "Jewish Electoral Group",
+    "color": "#2d86a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f1975097-dc65-5988-9045-18be505a8510",
+    "country_id": "at",
+    "name": "Middle Class Democratic Party — historical",
+    "short_name": "Middle Class Democratic Party",
+    "color": "#a92d37",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5719869c-de72-57a2-a190-c84704033887",
+    "country_id": "at",
+    "name": "Party of the Carinthian Slovenes — historical",
+    "short_name": "Party of the Carinthian Slovenes",
+    "color": "#44a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "67860871-7bb4-573f-a530-0a530cd62d1b",
+    "country_id": "at",
+    "name": "Czechoslovak Minority Party — historical",
+    "short_name": "Czechoslovak Minority Party",
+    "color": "#2da974",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6f99216d-dc81-5965-a169-439e3bfa47c6",
+    "country_id": "at",
+    "name": "Croatian Party — historical",
+    "short_name": "Croatian Party",
+    "color": "#a9a02d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "aef5478a-f262-5a5c-adfa-1d3a4e93ca19",
+    "country_id": "at",
+    "name": "Kaiser Loyalty People's Party — historical",
+    "short_name": "Kaiser Loyalty People's Party",
+    "color": "#a94b2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f1d0bb39-a1fe-5f78-9f71-1db24e5dd1a0",
+    "country_id": "at",
+    "name": "Federation of all Workers — historical",
+    "short_name": "Federation of all Workers",
+    "color": "#2d48a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1923_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "dd88393a-4abc-5add-bb37-7f380c637fd7",
+    "country_id": "at",
+    "name": "Unity List (CS–GDVP) — historical",
+    "short_name": "Unity List (CS–GDVP)",
+    "color": "#2d39a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "712dea75-14cd-57b5-a786-3d294b2de70b",
+    "country_id": "at",
+    "name": "Landbund for Austria — historical",
+    "short_name": "Landbund for Austria",
+    "color": "#2d35a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ddfe60bd-de61-53cf-b164-49b0bbd0bcad",
+    "country_id": "at",
+    "name": "Udeverband – Association against Corruption — historical",
+    "short_name": "Udeverband – Association against Corruption",
+    "color": "#53a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b7fab150-0dcd-5d60-89bc-3700f1d0b6cb",
+    "country_id": "at",
+    "name": "National Socialist Bloc — historical",
+    "short_name": "National Socialist Bloc",
+    "color": "#a92d40",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "43c87eca-8d02-540f-9efb-c6fb92a01005",
+    "country_id": "at",
+    "name": "Democratic List — historical",
+    "short_name": "Democratic List",
+    "color": "#2d5ca9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b048741a-4cef-500d-8d5c-1861adc45f3c",
+    "country_id": "at",
+    "name": "Jewish Party — historical",
+    "short_name": "Jewish Party",
+    "color": "#2da940",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3648e2e6-bd3f-50b3-8881-ec2435c5cc5f",
+    "country_id": "at",
+    "name": "German National Socialist Workers' Party — historical",
+    "short_name": "German National Socialist Workers' Party",
+    "color": "#2d52a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "faca0bc8-19fb-5d43-b09b-0885b27c9c0c",
+    "country_id": "at",
+    "name": "Austrian Small Business Party — historical",
+    "short_name": "Austrian Small Business Party",
+    "color": "#a97f2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "4faf163e-1c3c-51cf-9159-c8af7cfe5dbb",
+    "country_id": "at",
+    "name": "Association of Independent Citizens — historical",
+    "short_name": "Association of Independent Citizens",
+    "color": "#542da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "17ecf8b0-518b-50bc-a8e3-f64945d75de7",
+    "country_id": "at",
+    "name": "Farmers and Traders of all Types Party — historical",
+    "short_name": "Farmers and Traders of all Types Party",
+    "color": "#982da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1927_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6ded5f4f-ddd0-5c42-b960-3eed42c048ff",
+    "country_id": "at",
+    "name": "National Economy Bloc (GDVP–LB) — historical",
+    "short_name": "National Economy Bloc (GDVP–LB)",
+    "color": "#2da2a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1930_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7708e979-f2ad-595d-9057-730e508cf746",
+    "country_id": "at",
+    "name": "Homeland Bloc — historical",
+    "short_name": "Homeland Bloc",
+    "color": "#2da999",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1930_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c61c4610-2db1-5355-9223-495c0c721fb0",
+    "country_id": "at",
+    "name": "Austrian People's Party — historical",
+    "short_name": "Austrian People's Party",
+    "color": "#63c3d0",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1930_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "483e26f0-a8d9-586c-b8a3-715f4ce3d4fd",
+    "country_id": "at",
+    "name": "Democratic Centre Party — historical",
+    "short_name": "Democratic Centre Party",
+    "color": "#8aa92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1930_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d2f5cfeb-f984-5c12-8ad0-7b7dd66bcfb5",
+    "country_id": "at",
+    "name": "Jewish List — historical",
+    "short_name": "Jewish List",
+    "color": "#2da97b",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1930_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7926f587-a8e0-5d8e-ace1-3bb278bf9f0f",
+    "country_id": "at",
+    "name": "National Democratic Association — historical",
+    "short_name": "National Democratic Association",
+    "color": "#8a2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1930_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "990bf577-e2db-5c5a-8207-ba8d97316b73",
+    "country_id": "at",
+    "name": "Christian Social Party and allies — historical",
+    "short_name": "Christian Social Party and allies",
+    "color": "#a92d54",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1919_Austrian_Constituent_Assembly_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d531d3d8-acdd-5d3b-aadc-3e6afc39d799",
+    "country_id": "at",
+    "name": "German-National parties — historical",
+    "short_name": "German-National parties",
+    "color": "#77a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1919_Austrian_Constituent_Assembly_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1c766024-b02b-5f2d-abb3-26b7534c229b",
+    "country_id": "at",
+    "name": "Democratic parties — historical",
+    "short_name": "Democratic parties",
+    "color": "#a92d42",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1919_Austrian_Constituent_Assembly_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e6cf81cc-c017-500e-b747-6ae249cb9f4d",
+    "country_id": "at",
+    "name": "United Czechoslovak Parties — historical",
+    "short_name": "United Czechoslovak Parties",
+    "color": "#4d2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1919_Austrian_Constituent_Assembly_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "680e44c5-28a7-5fae-b8eb-5f0690d9b03d",
+    "country_id": "at",
+    "name": "Jewish National Party — historical",
+    "short_name": "Jewish National Party",
+    "color": "#a92d6a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1919_Austrian_Constituent_Assembly_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fe3d4085-314c-5fad-9f5d-bba31267ca4e",
+    "country_id": "at",
+    "name": "Czech Club — historical",
+    "short_name": "Czech Club",
+    "color": "#572da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1885_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "017c3b30-72d1-58eb-af82-077ef67bf9e4",
+    "country_id": "at",
+    "name": "Polish Club — historical",
+    "short_name": "Polish Club",
+    "color": "#792da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1885_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c1539212-1d6b-5dc0-a3fa-19fd97137d5d",
+    "country_id": "at",
+    "name": "Conservative German forces — historical",
+    "short_name": "Conservative German forces",
+    "color": "#a92d7d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1885_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c3ad28ec-c779-5bdb-9689-dd3254a2ae58",
+    "country_id": "at",
+    "name": "Croatian National Party — Croatian Nation — historical",
+    "short_name": "Croatian National Party — Croatian Nation",
+    "color": "#a9382d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7c6ffb1d-1af4-54e4-a8e1-2f42093183d6",
+    "country_id": "at",
+    "name": "Croatian Radical Party — Croatian Nation — historical",
+    "short_name": "Croatian Radical Party — Croatian Nation",
+    "color": "#2d2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "37b75c5a-ccba-59e3-952c-8ab5d131c391",
+    "country_id": "at",
+    "name": "Young Czech Party — Czech Nation — historical",
+    "short_name": "Young Czech Party — Czech Nation",
+    "color": "#a92d7e",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1cfac5e1-9a97-5a7a-a9e8-d79e05d1cd07",
+    "country_id": "at",
+    "name": "Old Czech Party — Czech Nation — historical",
+    "short_name": "Old Czech Party — Czech Nation",
+    "color": "#a92d4b",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d6d8b18b-2d75-5be4-991a-9d54cbc063d5",
+    "country_id": "at",
+    "name": "Czech Compromise Candidates — Czech Nation — historical",
+    "short_name": "Czech Compromise Candidates — Czech Nation",
+    "color": "#2da944",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "bcccd2a0-0ada-53d8-8c8e-6730a3d7f63b",
+    "country_id": "at",
+    "name": "Czech People's Party (Young Czech) — Czech Nation — historical",
+    "short_name": "Czech People's Party (Young Czech) — Czech Nation",
+    "color": "#2da983",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "201d854c-bc82-5ba2-933d-f3539a7ff214",
+    "country_id": "at",
+    "name": "Bohemian Conservative Party — Czech Nation — historical",
+    "short_name": "Bohemian Conservative Party — Czech Nation",
+    "color": "#a02da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ba7f0df7-5eab-5463-a283-19bd319d8b4d",
+    "country_id": "at",
+    "name": "National Czech Party — Czech Nation — historical",
+    "short_name": "National Czech Party — Czech Nation",
+    "color": "#a9772d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ebbe5fa1-0abd-56e9-bb72-c8b7e69849f5",
+    "country_id": "at",
+    "name": "Christian Social and Anti-Semitic Party — German Nation — historical",
+    "short_name": "Christian Social and Anti-Semitic Party — German Nation",
+    "color": "#352da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2c356a1d-b8aa-58e4-8886-404e181171d1",
+    "country_id": "at",
+    "name": "Social Democratic Party — German Nation — historical",
+    "short_name": "Social Democratic Party — German Nation",
+    "color": "#2d89a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "192fee97-263e-5b72-b32a-ca5848e97722",
+    "country_id": "at",
+    "name": "German Liberal and Constitutional Party — German Nation — historical",
+    "short_name": "German Liberal and Constitutional Party — German Nation",
+    "color": "#78a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a406ac04-42f7-5d6d-94ce-ef1e582f8563",
+    "country_id": "at",
+    "name": "German People's Party — German Nation — historical",
+    "short_name": "German People's Party — German Nation",
+    "color": "#37a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b23ac2d6-620e-5093-925d-9533d0087c0c",
+    "country_id": "at",
+    "name": "German-National Party — German Nation — historical",
+    "short_name": "German-National Party — German Nation",
+    "color": "#52a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cf8386a1-017e-551b-856a-9506e281ff9a",
+    "country_id": "at",
+    "name": "Social Politicians — German Nation — historical",
+    "short_name": "Social Politicians — German Nation",
+    "color": "#a92d9d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "55521f81-4d82-51ac-87f3-2530803aefc3",
+    "country_id": "at",
+    "name": "German Clerical and Conservative Party — German Nation — historical",
+    "short_name": "German Clerical and Conservative Party — German Nation",
+    "color": "#2da9a0",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ec03af46-81a0-592a-b5bb-703e8190a151",
+    "country_id": "at",
+    "name": "Catholic Conservative Party — German Nation — historical",
+    "short_name": "Catholic Conservative Party — German Nation",
+    "color": "#a72da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "25ae21e7-325b-5be6-a097-a5b4ed303e1d",
+    "country_id": "at",
+    "name": "German Clerical Party — German Nation — historical",
+    "short_name": "German Clerical Party — German Nation",
+    "color": "#a92da2",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "dd862586-61c0-5625-bf76-32a02f369655",
+    "country_id": "at",
+    "name": "Catholic People’s Party — German Nation — historical",
+    "short_name": "Catholic People’s Party — German Nation",
+    "color": "#a9932d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9e949ad7-c297-5a7b-8055-86245f5a6696",
+    "country_id": "at",
+    "name": "German Compromise Candidates — German Nation — historical",
+    "short_name": "German Compromise Candidates — German Nation",
+    "color": "#502da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "63a90922-95e7-50a6-b267-104d32abee6c",
+    "country_id": "at",
+    "name": "Officials' Party — German Nation — historical",
+    "short_name": "Officials' Party — German Nation",
+    "color": "#4ca92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0cf313b2-b78e-5abd-b4fe-fbedf2519954",
+    "country_id": "at",
+    "name": "German Farmers' Party — German Nation — historical",
+    "short_name": "German Farmers' Party — German Nation",
+    "color": "#2d59a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "135f9b47-8ad5-5559-a833-c4a4fcd0b633",
+    "country_id": "at",
+    "name": "Agrarian Party — German Nation — historical",
+    "short_name": "Agrarian Party — German Nation",
+    "color": "#2da97a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "08a7dd2d-892b-5994-b459-0bf05da2554a",
+    "country_id": "at",
+    "name": "German Independents — German Nation — historical",
+    "short_name": "German Independents — German Nation",
+    "color": "#2da930",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a8e1f19c-b57b-5ad3-a004-3597a2ee33bd",
+    "country_id": "at",
+    "name": "Italian Liberal Party — Italian Nation — historical",
+    "short_name": "Italian Liberal Party — Italian Nation",
+    "color": "#a9a82d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2afecac8-6c31-5e43-af35-2e59a0c00092",
+    "country_id": "at",
+    "name": "Autonomist Party — Italian Nation — historical",
+    "short_name": "Autonomist Party — Italian Nation",
+    "color": "#a92d4d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "72774a42-bf8f-52e3-9ac2-0048d22afd18",
+    "country_id": "at",
+    "name": "Italian Clerical Party — Italian Nation — historical",
+    "short_name": "Italian Clerical Party — Italian Nation",
+    "color": "#2d79a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9294c0cf-689a-517a-aefb-51567e28a1d6",
+    "country_id": "at",
+    "name": "Italian Conservative Party — Italian Nation — historical",
+    "short_name": "Italian Conservative Party — Italian Nation",
+    "color": "#682da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "00adf207-68f6-553a-910b-1c15b717668b",
+    "country_id": "at",
+    "name": "Constitutionalist Landowners — Landowner Candidates — historical",
+    "short_name": "Constitutionalist Landowners — Landowner Candidates",
+    "color": "#a92d5a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3687d030-c369-5a33-988b-d64497b6dca1",
+    "country_id": "at",
+    "name": "Conservative Landowners — Landowner Candidates — historical",
+    "short_name": "Conservative Landowners — Landowner Candidates",
+    "color": "#a98f2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "35d954ba-5aef-561a-a484-65b2dbb89986",
+    "country_id": "at",
+    "name": "Bohemian Conservative Landowners — Landowner Candidates — historical",
+    "short_name": "Bohemian Conservative Landowners — Landowner Candidates",
+    "color": "#83a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "595c1b4c-6719-564d-a076-eca9a099a13e",
+    "country_id": "at",
+    "name": "Bohemian Centre Party–Moravian Centre Party — Landowner Candidates — historical",
+    "short_name": "Bohemian Centre Party–Moravian Centre Party — Landowner Candidates",
+    "color": "#2d5ba9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ef9212e3-aec4-5902-a44b-ef6f4dd61903",
+    "country_id": "at",
+    "name": "Polish Conservative Party — Polish Nation — historical",
+    "short_name": "Polish Conservative Party — Polish Nation",
+    "color": "#a92d31",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "4dad39c0-61b6-542e-9e79-28e7c805ecdd",
+    "country_id": "at",
+    "name": "Polish Radical Party — Polish Nation — historical",
+    "short_name": "Polish Radical Party — Polish Nation",
+    "color": "#a9872d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f3e54118-bc06-5e2b-abed-0f341ab7ee9b",
+    "country_id": "at",
+    "name": "Polish Liberal Party — Polish Nation — historical",
+    "short_name": "Polish Liberal Party — Polish Nation",
+    "color": "#8ba92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6cc1234d-32b8-57e8-b82d-1c3e9c1e3147",
+    "country_id": "at",
+    "name": "Polish Democratic Party — Polish Nation — historical",
+    "short_name": "Polish Democratic Party — Polish Nation",
+    "color": "#2d8aa9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "31e18c76-0921-51ce-aff8-2bd36717c677",
+    "country_id": "at",
+    "name": "Polish People's Party — Polish Nation — historical",
+    "short_name": "Polish People's Party — Polish Nation",
+    "color": "#a7a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b23ce9c2-9d6c-5064-ae50-e9ee41131d15",
+    "country_id": "at",
+    "name": "Polish Clerical Party — Polish Nation — historical",
+    "short_name": "Polish Clerical Party — Polish Nation",
+    "color": "#a4a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2b223d5d-ce40-520a-b41a-e382ea88ab9d",
+    "country_id": "at",
+    "name": "Romanian National Party — Romanian Nation — historical",
+    "short_name": "Romanian National Party — Romanian Nation",
+    "color": "#a92da8",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7caf28fd-51ef-567c-a398-4d298a757985",
+    "country_id": "at",
+    "name": "Ruthenian Radical Party — Ruthenian Nation — historical",
+    "short_name": "Ruthenian Radical Party — Ruthenian Nation",
+    "color": "#a94b2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0ca18f98-9899-5c5f-9c33-f603d52f2afb",
+    "country_id": "at",
+    "name": "Young Ruthenian Party — Ruthenian Nation — historical",
+    "short_name": "Young Ruthenian Party — Ruthenian Nation",
+    "color": "#5d2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e7bdcbaf-758b-5a92-ac24-826d8eec3cbc",
+    "country_id": "at",
+    "name": "Ruthenian Moderate Party — Ruthenian Nation — historical",
+    "short_name": "Ruthenian Moderate Party — Ruthenian Nation",
+    "color": "#7a2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "044b6a1e-982d-5b6a-9f29-bb8bfb4f610d",
+    "country_id": "at",
+    "name": "Ruthenian Radical People’s Party — Ruthenian Nation — historical",
+    "short_name": "Ruthenian Radical People’s Party — Ruthenian Nation",
+    "color": "#2da9a8",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6632a53a-f7ac-5ca7-944d-4e947cd4fc0b",
+    "country_id": "at",
+    "name": "Ruthenian Party — Ruthenian Nation — historical",
+    "short_name": "Ruthenian Party — Ruthenian Nation",
+    "color": "#a92d71",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f3683e2e-6c53-583e-984f-9f270f9698b1",
+    "country_id": "at",
+    "name": "Conservative Ruthenian Party — Ruthenian Nation — historical",
+    "short_name": "Conservative Ruthenian Party — Ruthenian Nation",
+    "color": "#93a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "dd59a92a-8e14-5a8a-ac00-cafc48f54235",
+    "country_id": "at",
+    "name": "Old Ruthenian Party — Ruthenian Nation — historical",
+    "short_name": "Old Ruthenian Party — Ruthenian Nation",
+    "color": "#a92d44",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9a33cb61-6a14-5295-9ef7-32009b840988",
+    "country_id": "at",
+    "name": "Russophilic Party — Ruthenian Nation — historical",
+    "short_name": "Russophilic Party — Ruthenian Nation",
+    "color": "#8c2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1d5b61d1-780d-56d0-891c-2b5953cb6335",
+    "country_id": "at",
+    "name": "Serb People's Party — Serbian Nation — historical",
+    "short_name": "Serb People's Party — Serbian Nation",
+    "color": "#a95e2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d1b5a7a3-b3f1-554f-86f1-18e9db4313f1",
+    "country_id": "at",
+    "name": "Slovenian National Party — Slovenian Nation — historical",
+    "short_name": "Slovenian National Party — Slovenian Nation",
+    "color": "#a7a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ada594b9-d8a8-5343-824f-097af457b60b",
+    "country_id": "at",
+    "name": "Slovenian Liberal Party — Slovenian Nation — historical",
+    "short_name": "Slovenian Liberal Party — Slovenian Nation",
+    "color": "#a92d4a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b3db3f73-3670-5ac7-9f39-86a211c9c117",
+    "country_id": "at",
+    "name": "Slovenian Clerical Party — Slovenian Nation — historical",
+    "short_name": "Slovenian Clerical Party — Slovenian Nation",
+    "color": "#8f2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6710a910-401b-5158-9a86-7037e7a49907",
+    "country_id": "at",
+    "name": "Slovenian Conservative Party — Slovenian Nation — historical",
+    "short_name": "Slovenian Conservative Party — Slovenian Nation",
+    "color": "#54a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e8af87b4-8fbe-5a87-a6e8-ee584136ca08",
+    "country_id": "at",
+    "name": "Young Slovenian Party — Slovenian Nation — historical",
+    "short_name": "Young Slovenian Party — Slovenian Nation",
+    "color": "#a9842d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ec4872c9-08bc-5cbc-a579-0a8e6fce6e6c",
+    "country_id": "at",
+    "name": "Slovenian Radical Party — Slovenian Nation — historical",
+    "short_name": "Slovenian Radical Party — Slovenian Nation",
+    "color": "#a9312d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "007123dc-2713-52c1-b762-2749d7ba4767",
+    "country_id": "at",
+    "name": "Party of Rights — Croatian Nation — historical",
+    "short_name": "Party of Rights — Croatian Nation",
+    "color": "#a98f2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "db485180-65f5-58b5-8914-aa80b62db2d1",
+    "country_id": "at",
+    "name": "Croatian Clerical Party — Croatian Nation — historical",
+    "short_name": "Croatian Clerical Party — Croatian Nation",
+    "color": "#3a2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d8a4968e-8e13-5ac4-becf-18e4cbc1a4e6",
+    "country_id": "at",
+    "name": "Czech National Social Party — Czech Nation — historical",
+    "short_name": "Czech National Social Party — Czech Nation",
+    "color": "#2d44a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "df02658a-dce6-5fc7-872f-a7a6f52da1e3",
+    "country_id": "at",
+    "name": "Czech National Party — Czech Nation — historical",
+    "short_name": "Czech National Party — Czech Nation",
+    "color": "#642da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "58d139b2-43dd-5298-bf8d-28b687b886e1",
+    "country_id": "at",
+    "name": "Czech Radical Party — Czech Nation — historical",
+    "short_name": "Czech Radical Party — Czech Nation",
+    "color": "#2d7ba9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "bcf16e24-5c56-5fc0-b56d-dfd90c8a1e8b",
+    "country_id": "at",
+    "name": "Czech Clerical Party — Czech Nation — historical",
+    "short_name": "Czech Clerical Party — Czech Nation",
+    "color": "#72a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "678f832c-539e-59bb-9972-ced593e4d0ae",
+    "country_id": "at",
+    "name": "Common-Czechs Party — Czech Nation — historical",
+    "short_name": "Common-Czechs Party — Czech Nation",
+    "color": "#90a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6fad92ec-31b1-577b-b54a-651114ed8fa6",
+    "country_id": "at",
+    "name": "Bohemian Agrarian Party — Czech Nation — historical",
+    "short_name": "Bohemian Agrarian Party — Czech Nation",
+    "color": "#2da980",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "71c4bef2-5c91-5440-8d72-cf6e4f9df4f9",
+    "country_id": "at",
+    "name": "Czech Radical Constitutionalist Party — Czech Nation — historical",
+    "short_name": "Czech Radical Constitutionalist Party — Czech Nation",
+    "color": "#2d68a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "21129060-74ad-5870-b0b4-967add76ca11",
+    "country_id": "at",
+    "name": "Czech Radical Progressive Party — Czech Nation — historical",
+    "short_name": "Czech Radical Progressive Party — Czech Nation",
+    "color": "#2da94f",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "920cde2d-b1d5-5678-9869-4858560f2d8b",
+    "country_id": "at",
+    "name": "Czech Independents — Czech Nation — historical",
+    "short_name": "Czech Independents — Czech Nation",
+    "color": "#35a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "dfa97a2e-2938-5920-900b-08bb1d64658e",
+    "country_id": "at",
+    "name": "Czech Trading Party — Czech Nation — historical",
+    "short_name": "Czech Trading Party — Czech Nation",
+    "color": "#6ba92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "abaf71a1-7711-574b-80d1-ba0330091b76",
+    "country_id": "at",
+    "name": "Christian Reform Party — Czech Nation — historical",
+    "short_name": "Christian Reform Party — Czech Nation",
+    "color": "#50a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7b741930-5253-59a0-bcd3-75b714874390",
+    "country_id": "at",
+    "name": "Clerical Independents — German Nation — historical",
+    "short_name": "Clerical Independents — German Nation",
+    "color": "#a92d8e",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1a8833e4-7aa1-5eac-86be-2d42d4350d6e",
+    "country_id": "at",
+    "name": "Italian Autonomist Party — Italian Nation — historical",
+    "short_name": "Italian Autonomist Party — Italian Nation",
+    "color": "#702da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e91ecf02-30b7-59ed-9c56-9edc58989c95",
+    "country_id": "at",
+    "name": "Italian Radical Party — Italian Nation — historical",
+    "short_name": "Italian Radical Party — Italian Nation",
+    "color": "#a97c2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b3954ba3-703f-565a-9122-04a02ff6c77a",
+    "country_id": "at",
+    "name": "Italian Democratic Party — Italian Nation — historical",
+    "short_name": "Italian Democratic Party — Italian Nation",
+    "color": "#2da967",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d374842f-8e84-578d-8f9f-3084d21f732e",
+    "country_id": "at",
+    "name": "Polish-Armenian Landowners — Landowner Candidates — historical",
+    "short_name": "Polish-Armenian Landowners — Landowner Candidates",
+    "color": "#a9432d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "653ad51b-ee16-5b4e-aca3-bebd6e1d3949",
+    "country_id": "at",
+    "name": "Polish Anti-Semitic Party — Polish Nation — historical",
+    "short_name": "Polish Anti-Semitic Party — Polish Nation",
+    "color": "#a12da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ee7718f4-becd-5165-8dc6-1cc787ff2f4d",
+    "country_id": "at",
+    "name": "Polish National Party — Polish Nation — historical",
+    "short_name": "Polish National Party — Polish Nation",
+    "color": "#a5a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "eafc9613-c1af-57ce-8d66-7bf550e6bece",
+    "country_id": "at",
+    "name": "Polish Farmers' Party — Polish Nation — historical",
+    "short_name": "Polish Farmers' Party — Polish Nation",
+    "color": "#5a2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ce95f7ac-196d-53fd-8891-3c7f44fa9ea9",
+    "country_id": "at",
+    "name": "Old Romanian Party — Romanian Nation — historical",
+    "short_name": "Old Romanian Party — Romanian Nation",
+    "color": "#a92d58",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0f0e5ca1-141e-575a-930b-f78ba7023864",
+    "country_id": "at",
+    "name": "Conservative Romanian Party — Romanian Nation — historical",
+    "short_name": "Conservative Romanian Party — Romanian Nation",
+    "color": "#462da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1a7169eb-952e-5214-a6e8-072b75fa3b5f",
+    "country_id": "at",
+    "name": "Young Romanian Party — Romanian Nation — historical",
+    "short_name": "Young Romanian Party — Romanian Nation",
+    "color": "#2da92f",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "43e8b545-6126-56ad-806b-08e230d193e8",
+    "country_id": "at",
+    "name": "Moderate Romanian Party — Romanian Nation — historical",
+    "short_name": "Moderate Romanian Party — Romanian Nation",
+    "color": "#41a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2c309d06-65cf-52b3-ae3d-85dcf7075823",
+    "country_id": "at",
+    "name": "Romanian People's Party — Romanian Nation — historical",
+    "short_name": "Romanian People's Party — Romanian Nation",
+    "color": "#8a2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cb44db33-5747-5eb0-bed1-da27db1a22af",
+    "country_id": "at",
+    "name": "Radical Romanian Party — Romanian Nation — historical",
+    "short_name": "Radical Romanian Party — Romanian Nation",
+    "color": "#a92d3f",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c491434d-3cf7-551d-b6a0-a981b2ffa608",
+    "country_id": "at",
+    "name": "National Ruthenian Party — Ruthenian Nation — historical",
+    "short_name": "National Ruthenian Party — Ruthenian Nation",
+    "color": "#2d5da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "bfc0800f-4c81-5b0a-acfe-a16a99d73b40",
+    "country_id": "at",
+    "name": "Ruthenian People’s Party — Ruthenian Nation — historical",
+    "short_name": "Ruthenian People’s Party — Ruthenian Nation",
+    "color": "#a94d2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "8ac0910e-2fa2-5a83-9569-2fe970397ff0",
+    "country_id": "at",
+    "name": "Moderate Young Ruthenian Independents — Ruthenian Nation — historical",
+    "short_name": "Moderate Young Ruthenian Independents — Ruthenian Nation",
+    "color": "#a94f2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e094b5be-f81f-5d47-820c-5f599eb24e30",
+    "country_id": "at",
+    "name": "Slovenian Progressive Agrarian Party — Slovenian Nation — historical",
+    "short_name": "Slovenian Progressive Agrarian Party — Slovenian Nation",
+    "color": "#2d7aa9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "63067588-2dbb-53ea-bae2-d24eaa49b12c",
+    "country_id": "at",
+    "name": "Slovenian Christian Social Party — Slovenian Nation — historical",
+    "short_name": "Slovenian Christian Social Party — Slovenian Nation",
+    "color": "#4aa92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9a1f3909-db9b-5ff2-9897-45550123ec6e",
+    "country_id": "at",
+    "name": "Slovenian Pro-German Party — Slovenian Nation — historical",
+    "short_name": "Slovenian Pro-German Party — Slovenian Nation",
+    "color": "#a92d61",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9482e39f-46e9-5954-8f6a-86e2ebec3875",
+    "country_id": "at",
+    "name": "People's Party (Anti-Resolutionist) — Croatian Nation — historical",
+    "short_name": "People's Party (Anti-Resolutionist) — Croatian Nation",
+    "color": "#62a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "520132a2-2d81-5da7-a1c0-0eb50bb42f2e",
+    "country_id": "at",
+    "name": "People's Party (Resolutionist) — Croatian Nation — historical",
+    "short_name": "People's Party (Resolutionist) — Croatian Nation",
+    "color": "#a62da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f7032060-4c4b-5a06-a11a-03795af8ee28",
+    "country_id": "at",
+    "name": "Croatian Independents — Croatian Nation — historical",
+    "short_name": "Croatian Independents — Croatian Nation",
+    "color": "#2da969",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ab445ffb-93aa-5b19-808d-f97f9ed18072",
+    "country_id": "at",
+    "name": "People's Party (Democratic) — Croatian Nation — historical",
+    "short_name": "People's Party (Democratic) — Croatian Nation",
+    "color": "#a92d62",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "398b0c17-d934-5856-ab96-84fd08cab67a",
+    "country_id": "at",
+    "name": "Slavic Social Democratic Party — Croatian and Slovenian Nation — historical",
+    "short_name": "Slavic Social Democratic Party — Croatian and Slovenian Nation",
+    "color": "#722da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fc2ef532-7ee4-500d-b525-2bec8b25239c",
+    "country_id": "at",
+    "name": "Social Democratic Party — Czech Nation — historical",
+    "short_name": "Social Democratic Party — Czech Nation",
+    "color": "#a92da0",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9fd2a0c6-914c-55df-9e9d-82945ecbb6a2",
+    "country_id": "at",
+    "name": "Czech Agrarian Party — Czech Nation — historical",
+    "short_name": "Czech Agrarian Party — Czech Nation",
+    "color": "#a92d70",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a7e91ea9-7c8d-5b66-9eeb-b824cd267322",
+    "country_id": "at",
+    "name": "Catholic-National Conservative Parties in Bohemia and Moravia — Czech Nation / Christian Social Party in Bohemia and Moravia — Czech Nation — historical",
+    "short_name": "Catholic-National Conservative Parties in Bohemia and Moravia — Czech Nation / Christian Social Part",
+    "color": "#2da931",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f2826299-6bba-5993-a0c7-72540276820a",
+    "country_id": "at",
+    "name": "Czech Realist Party — Czech Nation — historical",
+    "short_name": "Czech Realist Party — Czech Nation",
+    "color": "#a9362d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7981d411-14c2-5889-802f-dabf9f8991b2",
+    "country_id": "at",
+    "name": "Czech Paper Candidates — Czech Nation — historical",
+    "short_name": "Czech Paper Candidates — Czech Nation",
+    "color": "#2d69a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e3555375-71d9-583d-85cb-ae9d73df694a",
+    "country_id": "at",
+    "name": "Czech Progressive Constitutionalist Party — Czech Nation — historical",
+    "short_name": "Czech Progressive Constitutionalist Party — Czech Nation",
+    "color": "#44a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7614a93d-1bf9-5243-808c-2690408d7e89",
+    "country_id": "at",
+    "name": "Christian Social Party — German Nation — historical",
+    "short_name": "Christian Social Party — German Nation",
+    "color": "#a92da1",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e8a08649-605a-5851-a186-0fea67f1a48f",
+    "country_id": "at",
+    "name": "German Conservative Party — German Nation — historical",
+    "short_name": "German Conservative Party — German Nation",
+    "color": "#2da938",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "acc379a9-9598-5d0c-bf81-52ea401018bb",
+    "country_id": "at",
+    "name": "German Progressive Party — German Nation — historical",
+    "short_name": "German Progressive Party — German Nation",
+    "color": "#2da959",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1f9abce4-4b92-501f-813f-dcd4b1739bca",
+    "country_id": "at",
+    "name": "Free German Party — German Nation — historical",
+    "short_name": "Free German Party — German Nation",
+    "color": "#a92d69",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3ebc408d-088d-5027-812a-558435765e55",
+    "country_id": "at",
+    "name": "Pan-German Association — German Nation — historical",
+    "short_name": "Pan-German Association — German Nation",
+    "color": "#2d3ba9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "935056b1-f085-50f6-ac04-51e56b5e9a8c",
+    "country_id": "at",
+    "name": "Upper Austrian Farmers' Club — German Nation — historical",
+    "short_name": "Upper Austrian Farmers' Club — German Nation",
+    "color": "#2da937",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ea33e85b-12bc-5173-a2c3-28965a052abe",
+    "country_id": "at",
+    "name": "Free Socialists — German Nation — historical",
+    "short_name": "Free Socialists — German Nation",
+    "color": "#2d6ea9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ed6bbea0-f44b-59b1-8644-e3e6982f04ae",
+    "country_id": "at",
+    "name": "German Conservative Farmers' Party — German Nation — historical",
+    "short_name": "German Conservative Farmers' Party — German Nation",
+    "color": "#2d4ea9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "19c990b7-6562-5b40-9cb8-b1d1cba8d3d1",
+    "country_id": "at",
+    "name": "German Workers' Party — German Nation — historical",
+    "short_name": "German Workers' Party — German Nation",
+    "color": "#a9882d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "de17c6d7-cf04-5fee-8037-df2aa533618e",
+    "country_id": "at",
+    "name": "German-Christian Party — German Nation — historical",
+    "short_name": "German-Christian Party — German Nation",
+    "color": "#4aa92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e2eac287-96e3-50f0-b32b-17aa1a71c143",
+    "country_id": "at",
+    "name": "Tiroler Volksbund — German Nation — historical",
+    "short_name": "Tiroler Volksbund — German Nation",
+    "color": "#a92d79",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "11e9627d-cd73-5a9f-a101-327117bdaa27",
+    "country_id": "at",
+    "name": "Radical Party — German Nation — historical",
+    "short_name": "Radical Party — German Nation",
+    "color": "#a0a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "813f34b5-1bb6-54d1-a2e9-022a7e691659",
+    "country_id": "at",
+    "name": "Central Industrial Committee — German Nation — historical",
+    "short_name": "Central Industrial Committee — German Nation",
+    "color": "#2da9a5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "83040eb7-4a1b-53fd-9a7e-6a87ee0a8c40",
+    "country_id": "at",
+    "name": "Trentino People's Party — Italian Nation — historical",
+    "short_name": "Trentino People's Party — Italian Nation",
+    "color": "#2d8fa9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6fbf6a7c-2223-5d39-9195-1682208c6166",
+    "country_id": "at",
+    "name": "Italian National-Liberal Party — Italian Nation — historical",
+    "short_name": "Italian National-Liberal Party — Italian Nation",
+    "color": "#2da952",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "12e356b5-2275-528e-9cfb-f2705a3cbede",
+    "country_id": "at",
+    "name": "Italian Social Democratic Party — Italian Nation — historical",
+    "short_name": "Italian Social Democratic Party — Italian Nation",
+    "color": "#a92d8f",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1796232f-86a0-5123-9d1a-6af99144392e",
+    "country_id": "at",
+    "name": "Italian-National Party — Italian Nation — historical",
+    "short_name": "Italian-National Party — Italian Nation",
+    "color": "#822da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "af63adae-d356-57d2-ad62-acad857f8093",
+    "country_id": "at",
+    "name": "Italian Christian Social Party — Italian Nation — historical",
+    "short_name": "Italian Christian Social Party — Italian Nation",
+    "color": "#a92d63",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fc76c5d3-de18-5024-b774-5a76490bac18",
+    "country_id": "at",
+    "name": "Italian Independents — Italian Nation — historical",
+    "short_name": "Italian Independents — Italian Nation",
+    "color": "#8da92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5acb0525-7dde-54c0-8768-065c7f6bf569",
+    "country_id": "at",
+    "name": "Italian Liberal Farmers' Association — Italian Nation — historical",
+    "short_name": "Italian Liberal Farmers' Association — Italian Nation",
+    "color": "#2d65a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f3f56b6c-4696-5394-b872-34b9f4469266",
+    "country_id": "at",
+    "name": "Jewish National Party — Jewish Candidates — historical",
+    "short_name": "Jewish National Party — Jewish Candidates",
+    "color": "#a92d7d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a0ae6676-6e46-597c-ad5a-ed5c9b531ddb",
+    "country_id": "at",
+    "name": "Polish Centre Party — Polish Nation — historical",
+    "short_name": "Polish Centre Party — Polish Nation",
+    "color": "#7e2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "68e93b9c-bbae-5919-bb00-261217ffeba1",
+    "country_id": "at",
+    "name": "Polish National Democratic Party — Polish Nation — historical",
+    "short_name": "Polish National Democratic Party — Polish Nation",
+    "color": "#2da9a0",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ce690741-6dd5-561f-aa8f-ad655e67fae6",
+    "country_id": "at",
+    "name": "Polish Social Democratic Party — Polish Nation — historical",
+    "short_name": "Polish Social Democratic Party — Polish Nation",
+    "color": "#a92d62",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ff487fd3-8b52-5eab-a293-62f61f23ccc2",
+    "country_id": "at",
+    "name": "Polish Christian Social Party — Polish Nation — historical",
+    "short_name": "Polish Christian Social Party — Polish Nation",
+    "color": "#a98e2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e8eb30cc-ba7d-5cde-b0ab-7766ab1b063f",
+    "country_id": "at",
+    "name": "Polish Agrarian Party — Polish Nation — historical",
+    "short_name": "Polish Agrarian Party — Polish Nation",
+    "color": "#2ea92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0f12a5ed-893f-56eb-9e62-28403768c652",
+    "country_id": "at",
+    "name": "Polish Progressive Democratic Party — Polish Nation — historical",
+    "short_name": "Polish Progressive Democratic Party — Polish Nation",
+    "color": "#2d4fa9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fac8a901-7ab8-55c6-8719-069537afd905",
+    "country_id": "at",
+    "name": "Romanian National (Defense) Party — Romanian Nation — historical",
+    "short_name": "Romanian National (Defense) Party — Romanian Nation",
+    "color": "#78a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2cf510e8-10f8-52da-9e43-63e72541ec68",
+    "country_id": "at",
+    "name": "Romanian National (Democratic) Party — Romanian Nation — historical",
+    "short_name": "Romanian National (Democratic) Party — Romanian Nation",
+    "color": "#2d9aa9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ce4e0dde-7c78-51a7-b50a-885bc158c6b8",
+    "country_id": "at",
+    "name": "Romanian Independents — Romanian Nation — historical",
+    "short_name": "Romanian Independents — Romanian Nation",
+    "color": "#a92d62",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ace0555c-af50-5414-a02c-8c247e28bb8c",
+    "country_id": "at",
+    "name": "Romanian Social Democratic Party — Romanian Nation — historical",
+    "short_name": "Romanian Social Democratic Party — Romanian Nation",
+    "color": "#2d93a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fa696308-bd07-5663-9e4e-bb366c4f7ade",
+    "country_id": "at",
+    "name": "Ukrainian National Democratic Party–Young Ruthenian Party — Ruthenian Nation — historical",
+    "short_name": "Ukrainian National Democratic Party–Young Ruthenian Party — Ruthenian Nation",
+    "color": "#2da954",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d119629c-9c0c-53dc-90f9-307a0436c82d",
+    "country_id": "at",
+    "name": "Russian National Party — Ruthenian Nation — historical",
+    "short_name": "Russian National Party — Ruthenian Nation",
+    "color": "#2da938",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "439e0727-60c0-563f-ac1a-0a017a4e505f",
+    "country_id": "at",
+    "name": "Ukrainian Radical Party — Ruthenian Nation — historical",
+    "short_name": "Ukrainian Radical Party — Ruthenian Nation",
+    "color": "#2da93c",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1486bc84-2947-5847-a9e8-420b5b53b861",
+    "country_id": "at",
+    "name": "Ukrainian Social Democratic Party — Ruthenian Nation — historical",
+    "short_name": "Ukrainian Social Democratic Party — Ruthenian Nation",
+    "color": "#442da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1e62febd-83bb-51dc-b4c6-e10f9efe7f24",
+    "country_id": "at",
+    "name": "Serbian Independents — Serbian Nation — historical",
+    "short_name": "Serbian Independents — Serbian Nation",
+    "color": "#832da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6b11d725-4eb4-5b59-80de-cfb00971b3cb",
+    "country_id": "at",
+    "name": "Slovene Clerical Party — Slovenian Nation — historical",
+    "short_name": "Slovene Clerical Party — Slovenian Nation",
+    "color": "#a92e2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "26580984-9901-5017-a148-49e0f5f1b599",
+    "country_id": "at",
+    "name": "Slovene People's Party — Slovenian Nation — historical",
+    "short_name": "Slovene People's Party — Slovenian Nation",
+    "color": "#a92d7c",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "dc9334f0-c954-5f42-9e20-0412d74c92b8",
+    "country_id": "at",
+    "name": "Slovene Liberal Party — Slovenian Nation — historical",
+    "short_name": "Slovene Liberal Party — Slovenian Nation",
+    "color": "#2d7ca9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c92c022c-7f62-533a-a4ba-8e257ab55b9f",
+    "country_id": "at",
+    "name": "Slovene Social Democratic Party — Slovenian Nation — historical",
+    "short_name": "Slovene Social Democratic Party — Slovenian Nation",
+    "color": "#2d7fa9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5daa1a75-8aff-50c7-baec-9fe5b030f5e6",
+    "country_id": "at",
+    "name": "Slovenian National-Progressive Party — Slovenian Nation — historical",
+    "short_name": "Slovenian National-Progressive Party — Slovenian Nation",
+    "color": "#a92d5c",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c12e9730-83ad-5214-b4c2-9286d32bd901",
+    "country_id": "at",
+    "name": "Slovenian Agrarian Party — Slovenian Nation — historical",
+    "short_name": "Slovenian Agrarian Party — Slovenian Nation",
+    "color": "#a9952d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "556cb856-b1f1-52f3-9d6c-adde13227d75",
+    "country_id": "at",
+    "name": "Slovenian Independents — Slovenian Nation — historical",
+    "short_name": "Slovenian Independents — Slovenian Nation",
+    "color": "#a9602d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "bf7ce528-7058-599d-9a42-ed9732ea9d34",
+    "country_id": "at",
+    "name": "People's Party — Croatian Nation — historical",
+    "short_name": "People's Party — Croatian Nation",
+    "color": "#2d77a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b538fa31-d1a7-5f63-81de-9e32c4542c70",
+    "country_id": "at",
+    "name": "Pure Party of Rights — Croatian Nation — historical",
+    "short_name": "Pure Party of Rights — Croatian Nation",
+    "color": "#2d92a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "10eccc0f-444f-5af7-8e51-0d96c259b133",
+    "country_id": "at",
+    "name": "Croatian Nationalists — Croatian Nation — historical",
+    "short_name": "Croatian Nationalists — Croatian Nation",
+    "color": "#8da92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "423f4631-bb1b-5c46-83e8-385f28b16c78",
+    "country_id": "at",
+    "name": "Social Democratic Party of Croatia and Slavonia — Croatian Nation — historical",
+    "short_name": "Social Democratic Party of Croatia and Slavonia — Croatian Nation",
+    "color": "#31a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "813c5414-1454-5309-af5e-dd50f67110c9",
+    "country_id": "at",
+    "name": "Social Democratic Party (Autonomists) — Czech Nation — historical",
+    "short_name": "Social Democratic Party (Autonomists) — Czech Nation",
+    "color": "#a92d33",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d4143ddd-4437-5fbe-9ab2-bb6a638cb996",
+    "country_id": "at",
+    "name": "Catholic-National Conservative Parties in Bohemia and Moravia — Czech Nation — historical",
+    "short_name": "Catholic-National Conservative Parties in Bohemia and Moravia — Czech Nation",
+    "color": "#a92d4b",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a5d523e7-81e6-5299-b6fd-68b60bc7eac8",
+    "country_id": "at",
+    "name": "Christian Social Parties in Bohemia and Moravia — Czech Nation — historical",
+    "short_name": "Christian Social Parties in Bohemia and Moravia — Czech Nation",
+    "color": "#2d62a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "eeb0c0a1-21df-5e7a-af4a-84df6ca0f796",
+    "country_id": "at",
+    "name": "Czech Progressive People's Party — Czech Nation — historical",
+    "short_name": "Czech Progressive People's Party — Czech Nation",
+    "color": "#a9472d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a3dd8891-ff81-5294-a3cb-a1460744acb7",
+    "country_id": "at",
+    "name": "Czech Constitutionalist Progressive Party — Czech Nation — historical",
+    "short_name": "Czech Constitutionalist Progressive Party — Czech Nation",
+    "color": "#a92d84",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "54f5ec4a-90c3-5694-a133-ad4324f65ac3",
+    "country_id": "at",
+    "name": "Social Democratic Party (Centralists) — Czech Nation — historical",
+    "short_name": "Social Democratic Party (Centralists) — Czech Nation",
+    "color": "#2da9a4",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "de440b4e-a2ca-5221-9f60-9233f49a036b",
+    "country_id": "at",
+    "name": "Paper candidates — Czech Nation — historical",
+    "short_name": "Paper candidates — Czech Nation",
+    "color": "#70a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "135cd6a9-e73b-5504-97f7-42d8aa0ee490",
+    "country_id": "at",
+    "name": "Officials’ Party — Czech Nation — historical",
+    "short_name": "Officials’ Party — Czech Nation",
+    "color": "#a92d37",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5d1907f0-26a6-556f-9d14-80b3a822028d",
+    "country_id": "at",
+    "name": "German Radical Party — German Nation — historical",
+    "short_name": "German Radical Party — German Nation",
+    "color": "#2d57a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ec74ece2-c18b-50b1-a220-307a8f800f15",
+    "country_id": "at",
+    "name": "Deutschfreiheitliche Partei — German Nation — historical",
+    "short_name": "Deutschfreiheitliche Partei — German Nation",
+    "color": "#2da976",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cf73528e-ae9e-5585-bc19-59f37ecd2917",
+    "country_id": "at",
+    "name": "German Miners and Farmers' Association — German Nation — historical",
+    "short_name": "German Miners and Farmers' Association — German Nation",
+    "color": "#a92d60",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "747f5f09-7b9a-5c33-84fe-384c2cd6a9d8",
+    "country_id": "at",
+    "name": "German Conservatives — German Nation — historical",
+    "short_name": "German Conservatives — German Nation",
+    "color": "#a9552d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "574c8c6d-c2e9-5128-b90b-2f80c785b86b",
+    "country_id": "at",
+    "name": "Paper candidates — German Nation — historical",
+    "short_name": "Paper candidates — German Nation",
+    "color": "#692da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "43ad6d58-bbd5-5e76-98de-7b5c40332118",
+    "country_id": "at",
+    "name": "Imperial Economic Policy Party — German Nation — historical",
+    "short_name": "Imperial Economic Policy Party — German Nation",
+    "color": "#2da968",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "41c22e91-0111-5b3a-a2d1-e553612da7ff",
+    "country_id": "at",
+    "name": "German Economic Party — German Nation — historical",
+    "short_name": "German Economic Party — German Nation",
+    "color": "#7ba92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b36dc420-9716-51fa-90b2-ae4a1c7640a8",
+    "country_id": "at",
+    "name": "Italian People's Party — Italian Nation — historical",
+    "short_name": "Italian People's Party — Italian Nation",
+    "color": "#472da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "bbd326ee-87cb-5c01-9d5e-03bd178d0ce3",
+    "country_id": "at",
+    "name": "Democratic Party — Italian Nation — historical",
+    "short_name": "Democratic Party — Italian Nation",
+    "color": "#2d50a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "3fe49d5f-7c1e-5fcc-959d-1f7b3b124930",
+    "country_id": "at",
+    "name": "Polish Social Democratic Party of Galicia and Cieszyn Silesia — Polish Nation — historical",
+    "short_name": "Polish Social Democratic Party of Galicia and Cieszyn Silesia — Polish Nation",
+    "color": "#2d78a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "693ada3c-16d0-5f83-85a1-2519715e8436",
+    "country_id": "at",
+    "name": "Polish Independents — Polish Nation — historical",
+    "short_name": "Polish Independents — Polish Nation",
+    "color": "#a92d41",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6324b3bc-7750-56ec-ab1f-5f58c1c6e983",
+    "country_id": "at",
+    "name": "Galician Christian Social Party — Polish Nation — historical",
+    "short_name": "Galician Christian Social Party — Polish Nation",
+    "color": "#2d38a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2561ff95-e2c8-5044-b067-0f9c4aebec77",
+    "country_id": "at",
+    "name": "Polish Pro-German Party — Polish Nation — historical",
+    "short_name": "Polish Pro-German Party — Polish Nation",
+    "color": "#2d2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "05ba4be9-1b07-5f2f-866b-804d260075f0",
+    "country_id": "at",
+    "name": "Ukrainian Party–Young Ruthenian Party — Ruthenian Nation — historical",
+    "short_name": "Ukrainian Party–Young Ruthenian Party — Ruthenian Nation",
+    "color": "#2da972",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0dd2d9ee-974c-5e16-9576-7fb175645301",
+    "country_id": "at",
+    "name": "Slovene Christian Social Party — Slovenian Nation — historical",
+    "short_name": "Slovene Christian Social Party — Slovenian Nation",
+    "color": "#8ba92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "27fbe8cd-3b9b-5af5-9437-e52f38ee8a6d",
+    "country_id": "at",
+    "name": "Slovenian Nationalists — Slovenian Nation — historical",
+    "short_name": "Slovenian Nationalists — Slovenian Nation",
+    "color": "#522da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "23c83595-a8a9-5cdb-8a60-ebbf2c16f5aa",
+    "country_id": "at",
+    "name": "Slovenian Pro-Germans — Slovenian Nation — historical",
+    "short_name": "Slovenian Pro-Germans — Slovenian Nation",
+    "color": "#3f2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "fbc90f91-df0e-5a6c-839a-73900d2514e4",
+    "country_id": "at",
+    "name": "Die Linke",
+    "short_name": "Die Linke",
+    "color": "#63a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2008_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "85923654-b9f0-5074-ae76-8cf7785a30f8",
+    "country_id": "at",
+    "name": "Linke",
+    "short_name": "Linke",
+    "color": "#a9812d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2008_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b502ac9a-28bf-5a46-bc05-54b94f25b4c7",
+    "country_id": "at",
+    "name": "German-national parties — historical",
+    "short_name": "German-national parties",
+    "color": "#952da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1920_Austrian_legislative_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "02973c1b-124f-5a55-917a-4a46827f60ea",
+    "country_id": "at",
+    "name": "Socialist Party",
+    "short_name": "Socialist Party",
+    "color": "#2da930",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "4bc8e708-2670-5d46-a192-e117900260c3",
+    "country_id": "at",
+    "name": "Green Party",
+    "short_name": "Green Party",
+    "color": "#a9512d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  }
+]

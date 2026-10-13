@@ -1,0 +1,605 @@
+[
+  {
+    "id": "world-austria-parliament-2019-09-29",
+    "expectedVotes": 4777246,
+    "recordedVotes": 4777246,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2019/start.html"
+  },
+  {
+    "id": "world-austria-parliament-2024-09-29",
+    "expectedVotes": 4882888,
+    "recordedVotes": 4882888,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2024/start.html"
+  },
+  {
+    "id": "world-austria-parliament-2017-10-15",
+    "expectedVotes": 5069929,
+    "recordedVotes": 5069929,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2017/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1945-11-25",
+    "expectedVotes": 3217354,
+    "recordedVotes": 3217354,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1945/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1949-10-09",
+    "expectedVotes": 4193733,
+    "recordedVotes": 4193733,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1949/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1953-02-22",
+    "expectedVotes": 4318688,
+    "recordedVotes": 4318688,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1953/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1956-05-13",
+    "expectedVotes": 4351908,
+    "recordedVotes": 4351908,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1956/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1959-05-10",
+    "expectedVotes": 4362856,
+    "recordedVotes": 4362856,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1959/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1962-11-18",
+    "expectedVotes": 4456131,
+    "recordedVotes": 4456131,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1962/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1966-03-06",
+    "expectedVotes": 4531885,
+    "recordedVotes": 4531885,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1966/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1970-03-01",
+    "expectedVotes": 4588961,
+    "recordedVotes": 4588961,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1970_wiederholungswahl/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1971-10-10",
+    "expectedVotes": 4556990,
+    "recordedVotes": 4556990,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1971/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1975-10-05",
+    "expectedVotes": 4613432,
+    "recordedVotes": 4613432,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1975/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1979-05-06",
+    "expectedVotes": 4729251,
+    "recordedVotes": 4729251,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1979/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1983-04-24",
+    "expectedVotes": 4853417,
+    "recordedVotes": 4853417,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1983/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1986-11-23",
+    "expectedVotes": 4852188,
+    "recordedVotes": 4852188,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1986/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1990-10-07",
+    "expectedVotes": 4704894,
+    "recordedVotes": 4704894,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1990/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1994-10-09",
+    "expectedVotes": 4633114,
+    "recordedVotes": 4633114,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1994/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1995-12-17",
+    "expectedVotes": 4844173,
+    "recordedVotes": 4844173,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1995_wiederholungswahl_1996/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1999-10-03",
+    "expectedVotes": 4622354,
+    "recordedVotes": 4622354,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_1999/start.html"
+  },
+  {
+    "id": "world-austria-parliament-2002-11-24",
+    "expectedVotes": 4909645,
+    "recordedVotes": 4909645,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2002/start.html"
+  },
+  {
+    "id": "world-austria-parliament-2006-10-01",
+    "expectedVotes": 4708281,
+    "recordedVotes": 4708281,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2006/start.html"
+  },
+  {
+    "id": "world-austria-parliament-2008-09-28",
+    "expectedVotes": 4887309,
+    "recordedVotes": 4887309,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2008/start.html"
+  },
+  {
+    "id": "world-austria-parliament-2013-09-29",
+    "expectedVotes": 4692907,
+    "recordedVotes": 4692907,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2013/start.html"
+  },
+  {
+    "id": "world-austria-parliament-1920-10-17",
+    "expectedVotes": 2980328,
+    "recordedVotes": 2980328,
+    "expectedSeats": 183,
+    "recordedSeats": 183,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/nationalratswahlen/files/nrw_1920_ergebnisse.pdf"
+  },
+  {
+    "id": "world-austria-parliament-1923-10-21",
+    "expectedVotes": 3312606,
+    "recordedVotes": 3312606,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1923_Austrian_legislative_election"
+  },
+  {
+    "id": "world-austria-parliament-1927-04-24",
+    "expectedVotes": 3641526,
+    "recordedVotes": 3641526,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1927_Austrian_legislative_election"
+  },
+  {
+    "id": "world-austria-parliament-1930-11-09",
+    "expectedVotes": 3688068,
+    "recordedVotes": 3688068,
+    "expectedSeats": 165,
+    "recordedSeats": 165,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1930_Austrian_legislative_election"
+  },
+  {
+    "id": "world-austria-assembly-1919-02-16",
+    "expectedVotes": 2972295,
+    "recordedVotes": 2972295,
+    "expectedSeats": 170,
+    "recordedSeats": 170,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1919_Austrian_Constituent_Assembly_election"
+  },
+  {
+    "id": "world-austria-reichstag-1848-06-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/1848_Cisleithanian_legislative_election"
+  },
+  {
+    "id": "world-austria-imperial-1861-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.gv.at/verstehen/historisches/wahlen/geschichte-des-wahlrechts/index.html"
+  },
+  {
+    "id": "world-austria-imperial-1867-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.historickycasopis.sk/42024/lutz-georgi-political-representation-and-social-transformations-in-austria-hungary-case-study-german-elected-deputies-from-transylvania-and-bohemia-1867-1918.pdf"
+  },
+  {
+    "id": "world-austria-imperial-1870-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.historickycasopis.sk/42024/lutz-georgi-political-representation-and-social-transformations-in-austria-hungary-case-study-german-elected-deputies-from-transylvania-and-bohemia-1867-1918.pdf"
+  },
+  {
+    "id": "world-austria-imperial-1871-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.historickycasopis.sk/42024/lutz-georgi-political-representation-and-social-transformations-in-austria-hungary-case-study-german-elected-deputies-from-transylvania-and-bohemia-1867-1918.pdf"
+  },
+  {
+    "id": "world-austria-imperial-1873-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.historickycasopis.sk/42024/lutz-georgi-political-representation-and-social-transformations-in-austria-hungary-case-study-german-elected-deputies-from-transylvania-and-bohemia-1867-1918.pdf"
+  },
+  {
+    "id": "world-austria-imperial-1879-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.historickycasopis.sk/42024/lutz-georgi-political-representation-and-social-transformations-in-austria-hungary-case-study-german-elected-deputies-from-transylvania-and-bohemia-1867-1918.pdf"
+  },
+  {
+    "id": "world-austria-imperial-1885-06-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 353,
+    "recordedSeats": 174,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/1885_Cisleithanian_legislative_election"
+  },
+  {
+    "id": "world-austria-imperial-1891-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/1891_Cisleithanian_legislative_election"
+  },
+  {
+    "id": "world-austria-imperial-1897-03-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 425,
+    "recordedSeats": 425,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election"
+  },
+  {
+    "id": "world-austria-imperial-1900-12-12",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 425,
+    "recordedSeats": 425,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election"
+  },
+  {
+    "id": "world-austria-imperial-1907-05-14",
+    "expectedVotes": 4617360,
+    "recordedVotes": 4617360,
+    "expectedSeats": 516,
+    "recordedSeats": 516,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election"
+  },
+  {
+    "id": "world-austria-imperial-1911-06-01",
+    "expectedVotes": 4537086,
+    "recordedVotes": 4537086,
+    "expectedSeats": 516,
+    "recordedSeats": 516,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election"
+  },
+  {
+    "id": "world-austria-president-1951-05-06",
+    "expectedVotes": 4298347,
+    "recordedVotes": 4298347,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1951-05-27",
+    "expectedVotes": 4184953,
+    "recordedVotes": 4184953,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1957-05-05",
+    "expectedVotes": 4417859,
+    "recordedVotes": 4417859,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1963-04-28",
+    "expectedVotes": 4464120,
+    "recordedVotes": 4464120,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1965-05-23",
+    "expectedVotes": 4585324,
+    "recordedVotes": 4585324,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1971-04-25",
+    "expectedVotes": 4712048,
+    "recordedVotes": 4712048,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1974-06-23",
+    "expectedVotes": 4630837,
+    "recordedVotes": 4630837,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1980-05-18",
+    "expectedVotes": 4430889,
+    "recordedVotes": 4430889,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1986-05-04",
+    "expectedVotes": 4719980,
+    "recordedVotes": 4719980,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1986-06-08",
+    "expectedVotes": 4571810,
+    "recordedVotes": 4571810,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1992-04-26",
+    "expectedVotes": 4645177,
+    "recordedVotes": 4645177,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1992-05-24",
+    "expectedVotes": 4443386,
+    "recordedVotes": 4443386,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1998-04-19",
+    "expectedVotes": 4169319,
+    "recordedVotes": 4169319,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-2004-04-25",
+    "expectedVotes": 4136016,
+    "recordedVotes": 4136016,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-2010-04-25",
+    "expectedVotes": 3161964,
+    "recordedVotes": 3161964,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-2016-04-24",
+    "expectedVotes": 4279170,
+    "recordedVotes": 4279170,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-2016-05-22",
+    "expectedVotes": 4472171,
+    "recordedVotes": 4472171,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.vfgh.gv.at/timeline/2016__Bundespraesidentenstichwahl.en.html"
+  },
+  {
+    "id": "world-austria-president-2016-12-04",
+    "expectedVotes": 4597553,
+    "recordedVotes": 4597553,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-2022-10-09",
+    "expectedVotes": 4056729,
+    "recordedVotes": 4056729,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-2016-10-02",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.gv.at/aktuelles/pk/jahr_2016/pk0985"
+  },
+  {
+    "id": "world-austria-president-1920-12-09",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1924-12-09",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1928-12-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  },
+  {
+    "id": "world-austria-president-1931-10-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://publikacio.ppke.hu/id/eprint/1179/1/Das_Staatsoberhaupt_in_der_Zwischenkriegszeit.pdf"
+  },
+  {
+    "id": "world-austria-president-1945-12-20",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html"
+  }
+]

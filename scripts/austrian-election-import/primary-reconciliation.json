@@ -1,0 +1,215 @@
+[
+  {
+    "id": "world-austria-president-1951-05-06",
+    "candidates": {
+      "Dr. Burghard Breitner": 662501,
+      "Gottlieb Fiala": 219969,
+      "Dr. Heinrich Gleißner": 1725451,
+      "Ludovica Hainisch": 2132,
+      "Dr. h.c. Theodor Körner": 1682881,
+      "Dr. Johannes Ude": 5413
+    },
+    "validVotes": 4298347,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1951, erster Wahlgang"
+  },
+  {
+    "id": "world-austria-president-1951-05-27",
+    "candidates": {
+      "Dr. Heinrich Gleißner": 2006322,
+      "Dr. h.c. Theodor Körner": 2178631
+    },
+    "validVotes": 4184953,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1951, zweiter Wahlgang"
+  },
+  {
+    "id": "world-austria-president-1957-05-05",
+    "candidates": {
+      "Dr. Wolfgang Denk": 2159604,
+      "Dr. Adolf Schärf": 2258255
+    },
+    "validVotes": 4417859,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1957"
+  },
+  {
+    "id": "world-austria-president-1963-04-28",
+    "candidates": {
+      "Dr. Josef Kimmel": 176646,
+      "Ing. Dr. h.c. Julius Raab": 1814125,
+      "Dr. Adolf Schärf": 2473349
+    },
+    "validVotes": 4464120,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1963"
+  },
+  {
+    "id": "world-austria-president-1965-05-23",
+    "candidates": {
+      "Dr. Alfons Gorbach": 2260888,
+      "Dr. h.c. Franz Jonas": 2324436
+    },
+    "validVotes": 4585324,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1965"
+  },
+  {
+    "id": "world-austria-president-1971-04-25",
+    "candidates": {
+      "Dr. h.c. Franz Jonas": 2487239,
+      "Dr. Kurt Waldheim": 2224809
+    },
+    "validVotes": 4712048,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1971"
+  },
+  {
+    "id": "world-austria-president-1974-06-23",
+    "candidates": {
+      "Dr. Rudolf Kirchschläger": 2392367,
+      "Dr. Alois Lugger": 2238470
+    },
+    "validVotes": 4630837,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1974"
+  },
+  {
+    "id": "world-austria-president-1980-05-18",
+    "candidates": {
+      "Dr. Norbert Burger": 140741,
+      "Dr. Willfried Gredler": 751400,
+      "Dr. Rudolf Kirchschläger": 3538748
+    },
+    "validVotes": 4430889,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1980"
+  },
+  {
+    "id": "world-austria-president-1986-05-04",
+    "candidates": {
+      "Dr. Kurt Steyrer": 2061104,
+      "Dr. Kurt Waldheim": 2343463,
+      "Dr. Otto Scrinzi": 55724,
+      "Freda Meissner-Blau": 259689
+    },
+    "validVotes": 4719980,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1986, erster Wahlgang"
+  },
+  {
+    "id": "world-austria-president-1986-06-08",
+    "candidates": {
+      "Dr. Kurt Steyrer": 2107023,
+      "Dr. Kurt Waldheim": 2464787
+    },
+    "validVotes": 4571810,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1986, zweiter Wahlgang"
+  },
+  {
+    "id": "world-austria-president-1992-04-26",
+    "candidates": {
+      "Dr. Rudolf Streicher": 1888599,
+      "Dr. Thomas Klestil": 1728234,
+      "Dr. Heide Schmidt": 761390,
+      "Robert Jungk": 266954
+    },
+    "validVotes": 4645177,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1992, erster Wahlgang"
+  },
+  {
+    "id": "world-austria-president-1992-05-24",
+    "candidates": {
+      "Dr. Rudolf Streicher": 1915380,
+      "Dr. Thomas Klestil": 2528006
+    },
+    "validVotes": 4443386,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1992, zweiter Wahlgang"
+  },
+  {
+    "id": "world-austria-president-1998-04-19",
+    "candidates": {
+      "Mag. Gertraud Knoll": 566551,
+      "Dr. Heide Schmidt": 464625,
+      "Dr. Thomas Klestil": 2644034,
+      "Ing. Richard Lugner": 413066,
+      "Karl Nowak": 81043
+    },
+    "validVotes": 4169319,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 1998"
+  },
+  {
+    "id": "world-austria-president-2004-04-25",
+    "candidates": {
+      "Dr. Benita Ferrero-Waldner": 1969326,
+      "Dr. Heinz Fischer": 2166690
+    },
+    "validVotes": 4136016,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 2004"
+  },
+  {
+    "id": "world-austria-president-2010-04-25",
+    "candidates": {
+      "Dr. Heinz Fischer": 2508373,
+      "Dr. Rudolf Gehring": 171668,
+      "Barbara Rosenkranz": 481923
+    },
+    "validVotes": 3161964,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 2010"
+  },
+  {
+    "id": "world-austria-president-2016-04-24",
+    "candidates": {
+      "Dr. Irmgard Griss": 810641,
+      "Ing. Norbert Hofer": 1499971,
+      "Rudolf Hundstorfer": 482790,
+      "Dr. Andreas Khol": 475767,
+      "Ing. Richard Lugner": 96783,
+      "Dr. Alexander Van der Bellen": 913218
+    },
+    "validVotes": 4279170,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 2016, erster Wahlgang"
+  },
+  {
+    "id": "world-austria-president-2016-05-22",
+    "candidates": {
+      "Ing. Norbert Hofer": 2220654,
+      "Dr. Alexander Van der Bellen": 2251517
+    },
+    "validVotes": 4472171,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 2016, zweiter Wahlgang"
+  },
+  {
+    "id": "world-austria-president-2016-12-04",
+    "candidates": {
+      "Ing. Norbert Hofer": 2124661,
+      "Dr. Alexander Van der Bellen": 2472892
+    },
+    "validVotes": 4597553,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 2016, Wiederholung zweiter Wahlgang"
+  },
+  {
+    "id": "world-austria-president-2022-10-09",
+    "candidates": {
+      "Dr. Michael Brunner": 85465,
+      "Gerald Grosz": 225942,
+      "Dr. Walter Rosenkranz": 717097,
+      "Heinrich Staudinger": 64411,
+      "Dr. Alexander Van der Bellen": 2299590,
+      "Dr. Tassilo Wallentin": 327214,
+      "Dr. Dominik Wlazny": 337010
+    },
+    "validVotes": 4056729,
+    "source": "https://www.bmi.gv.at/412/bundespraesidentenwahlen/historischer_rueckblick.html",
+    "caption": "Ergebnis Bundespräsidentenwahl 2022"
+  }
+]
