@@ -1,0 +1,39 @@
+{
+  "sweden": {
+    "url": "https://www.val.se/english/election-results/elections-to-the-riksdag-and-regional-and-municipal-councils/election-results-2026",
+    "checked": "2026-10-13",
+    "turnout": 84.9,
+    "rows": [
+      ["The Social Democratic Party",28.02,99,"#e8112d"],
+      ["The Moderate Party",19.85,70,"#52bdec"],
+      ["The Sweden Democrats",17.48,62,"#dddd00"],
+      ["The Left Party",8.40,30,"#da291c"],
+      ["The Centre Party",7.03,25,"#009933"],
+      ["The Christian Democrats",6.17,22,"#000077"],
+      ["The Green Party",6.12,22,"#83cf39"],
+      ["The Liberal Party",5.34,19,"#006ab3"],
+      ["Other participating parties — source aggregate",1.58,0,"#777777"]
+    ]
+  },
+  "morocco": {
+    "url": "https://maroc.ma/en/news/2026-legislative-elections-pam-leads-97-seats-according-preliminary-results-minister-interior",
+    "checked": "2026-10-13",
+    "turnout": 38.08,
+    "rows": [
+      ["Authenticity and Modernity Party","PAM",97],
+      ["National Rally of Independents","RNI",66],
+      ["Istiqlal Party","PI",65],
+      ["Justice and Development Party","PJD",54],
+      ["Popular Movement","MP",29],
+      ["Socialist Union of Popular Forces","USFP",26],
+      ["Party of Progress and Socialism","PPS",19],
+      ["Constitutional Union","UC",17],
+      ["Democratic and Social Movement","MDS",8],
+      ["Left Alliance","AG",8],
+      ["Front of Democratic Forces","FFD",2],
+      ["Party of Equity","PE",2],
+      ["Party of New Democrats","PND",1],
+      ["Party of Unity and Democracy","PUD",1]
+    ]
+  }
+}

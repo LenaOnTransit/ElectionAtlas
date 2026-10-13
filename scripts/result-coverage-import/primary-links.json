@@ -1,0 +1,71 @@
+[
+  {
+    "year": 1999,
+    "category": "votes",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/1/Detailed%20Results/National.pdf",
+    "file": "za-1999-votes",
+    "error": 0
+  },
+  {
+    "year": 1999,
+    "category": "seats",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/1/Seat%20Calculation/National.pdf",
+    "error": 22
+  },
+  {
+    "year": 2004,
+    "category": "votes",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/45/Detailed%20Results/National.pdf",
+    "file": "za-2004-votes",
+    "error": 0
+  },
+  {
+    "year": 2004,
+    "category": "seats",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/45/Seat%20Calculation/National.pdf",
+    "file": "za-2004-seats",
+    "error": 0
+  },
+  {
+    "year": 2009,
+    "category": "votes",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/146/Detailed%20Results/National.pdf",
+    "file": "za-2009-votes",
+    "error": 0
+  },
+  {
+    "year": 2009,
+    "category": "seats",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/146/Seat%20Calculation/National.pdf",
+    "file": "za-2009-seats",
+    "error": 0
+  },
+  {
+    "year": 2014,
+    "category": "votes",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/291/Results%20Report/National.pdf",
+    "file": "za-2014-votes",
+    "error": 0
+  },
+  {
+    "year": 2014,
+    "category": "seats",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/291/Seat%20Calculation/National.pdf",
+    "file": "za-2014-seats",
+    "error": 0
+  },
+  {
+    "year": 2019,
+    "category": "votes",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/699/Results%20Report/National.pdf",
+    "file": "za-2019-votes",
+    "error": 0
+  },
+  {
+    "year": 2019,
+    "category": "seats",
+    "url": "https://results.elections.org.za/home/NPEPublicReports/699/Seat%20Calculation/National.pdf",
+    "file": "za-2019-seats",
+    "error": 0
+  }
+]

@@ -1,3 +1,4 @@
+import {archiveCoverage} from '../lib/archive-coverage.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {educationCategories,educationCategory,publicEducation,readingMinutes} from '../lib/education.mjs';
@@ -69,6 +70,7 @@ for(const [route,{title,description}]of Object.entries(staticPages)){
     items=guides;body+=`<ul>${guides.map(a=>`<li>${articleLink(a)}${paragraphs(a.summary)}</li>`).join('')}</ul>`;
   }else if(['/archive','/calendar','/live-elections'].includes(route)){
     items=elections.filter(e=>route==='/archive'?e.status==='held':route==='/calendar'?e.status!=='held':e.live?.enabled);
+    if(route==='/archive'){const c=archiveCoverage(elections);body+=`<div class="archive-stats"><div><b>${c.total}</b><span>Election records</span></div><div><b>${c.countries}</b><span>Countries with records</span></div><div><b>${c.withTables}</b><span>Records with result tables</span></div></div><p>Includes national, state and electoral-college tables. A table may have partial coverage; ${c.missing.length} records still have no result table.</p>`;}
     body+=electionList(items)+(route==='/archive'?directory():'');
     if(route==='/archive')items=[...items,...countries];
   }else if(route==='/municipalities/netherlands'){
