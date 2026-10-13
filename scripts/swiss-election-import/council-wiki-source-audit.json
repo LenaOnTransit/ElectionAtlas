@@ -1,0 +1,47 @@
+[
+  {
+    "key": "1848_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/1848_Swiss_Federal_Council_election",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "key": "1999_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election",
+    "sha256": "bc8d3aaa9352b33aff6427199fec23c2777190df4f9c9a5740b203c74400de27"
+  },
+  {
+    "key": "2003_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election",
+    "sha256": "84bbc924d2dd5871d2448f839f279ef3919bde2332835f6dd883acb30be2259b"
+  },
+  {
+    "key": "2007_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election",
+    "sha256": "48ec1059ed0a9b9045e609e0b3a115f50f571bdfd4bd3cf362631f07afd11ba2"
+  },
+  {
+    "key": "2011_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election",
+    "sha256": "e7dee120bc72e1b9feffee4d1100b7a63baf27ae67e5d4a500b660cf7a133774"
+  },
+  {
+    "key": "2015_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election",
+    "sha256": "8c42a5a971bfc356d2e56f4908f28236448ce060c921b4c4044b7a5d43f0fa46"
+  },
+  {
+    "key": "2019_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election",
+    "sha256": "3d7c9fda41a5e8076cda6828ad70e42e2067da8ce80d49d33e3eaa60d442c009"
+  },
+  {
+    "key": "2023_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election",
+    "sha256": "72ba50332eee4843b769c433606728aba8e0fb343f358ee148e70430c180782a"
+  },
+  {
+    "key": "2025_Swiss_Federal_Council_election",
+    "url": "https://en.wikipedia.org/wiki/2025_Swiss_Federal_Council_election",
+    "sha256": "4a124ac709e07315db5e6dd18de662439d04ae58ba20556e5a53a3f7298b2fc0"
+  }
+]

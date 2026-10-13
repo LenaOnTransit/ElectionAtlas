@@ -1,0 +1,832 @@
+[
+  {
+    "id": "40295e74-aef2-5fde-8c03-71a81e7594a0",
+    "country_id": "ch",
+    "name": "Radical Left — historical",
+    "short_name": "Radical Left",
+    "color": "#0077b8",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1848_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ee136a4a-e253-5585-a514-0b71573167b4",
+    "country_id": "ch",
+    "name": "Liberal Centre — historical",
+    "short_name": "Liberal Centre",
+    "color": "#638fbd",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1848_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0dee7391-3acf-5b49-8f77-c6903ffae57e",
+    "country_id": "ch",
+    "name": "Catholic Right — historical",
+    "short_name": "Catholic Right",
+    "color": "#e89b3a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1848_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "387665ea-da34-5da7-a25e-3ab1b72d97fa",
+    "country_id": "ch",
+    "name": "Evangelical Right — historical",
+    "short_name": "Evangelical Right",
+    "color": "#2d94a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1848_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "99d52023-e185-5b0d-a780-5dfc3b33bfbe",
+    "country_id": "ch",
+    "name": "Democratic Left — historical",
+    "short_name": "Democratic Left",
+    "color": "#5fa92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1848_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f4c557c5-919e-5e9b-b8ab-350fcb2c63a0",
+    "country_id": "ch",
+    "name": "Dissidents — historical",
+    "short_name": "Dissidents",
+    "color": "#a92da5",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1854_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "81f91497-b030-5100-9626-85a8f7728e33",
+    "country_id": "ch",
+    "name": "Radical Left dissidents — historical",
+    "short_name": "Radical Left dissidents",
+    "color": "#9aa92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1860_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9ec7c3e4-c387-53a5-9b75-03c0e8d15cb3",
+    "country_id": "ch",
+    "name": "Socialists — historical",
+    "short_name": "Socialists",
+    "color": "#2da951",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1875_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "44f71d55-9b86-56bb-bfd3-52cb7c4e664d",
+    "country_id": "ch",
+    "name": "Democratic Group — historical",
+    "short_name": "Democratic Group",
+    "color": "#2d5ba9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1878_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e43fca0d-3f70-5737-9c8b-b9e17a0d2a0e",
+    "country_id": "ch",
+    "name": "Social Democratic Party — historical",
+    "short_name": "Social Democratic Party",
+    "color": "#e30613",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1890_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "c7d472a9-e5e2-5842-98e4-22c40cef24cf",
+    "country_id": "ch",
+    "name": "Free Democratic Party — historical",
+    "short_name": "Free Democratic Party",
+    "color": "#0077b8",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1896_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5661e19d-cbd8-55cf-8cb3-e25af0a5e928",
+    "country_id": "ch",
+    "name": "Catholic People's Party — historical",
+    "short_name": "Catholic People's Party",
+    "color": "#a9752d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1896_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "031dcee7-5ebe-5484-a249-e353a7193dfa",
+    "country_id": "ch",
+    "name": "Bern People's Party — historical",
+    "short_name": "Bern People's Party",
+    "color": "#2da940",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1902_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "325daa2c-b98f-55a0-9c9f-f5414b0224be",
+    "country_id": "ch",
+    "name": "Circle of Rhine Party — historical",
+    "short_name": "Circle of Rhine Party",
+    "color": "#2d40a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1911_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "87abd499-404f-5124-8c3c-504b30f499c4",
+    "country_id": "ch",
+    "name": "Conservative People's Party — historical",
+    "short_name": "Conservative People's Party",
+    "color": "#a97c2d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1914_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e2216cb5-4568-506a-a0d1-9f99e1c218c8",
+    "country_id": "ch",
+    "name": "Liberal Democratic Party — historical",
+    "short_name": "Liberal Democratic Party",
+    "color": "#962da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1914_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "573f1ed7-74f2-5da3-9bd4-ae6a374a608b",
+    "country_id": "ch",
+    "name": "Agrarian Movement — historical",
+    "short_name": "Agrarian Movement",
+    "color": "#2da95a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1914_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "4a623364-6dfb-51a6-960f-72d4ec3a4dbf",
+    "country_id": "ch",
+    "name": "Democratic-Economic Association — historical",
+    "short_name": "Democratic-Economic Association",
+    "color": "#9d2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1914_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cece59b4-5152-5273-9e0e-02c0602af83a",
+    "country_id": "ch",
+    "name": "Party of Farmers, Traders and Independents — historical",
+    "short_name": "Party of Farmers, Traders and Independents",
+    "color": "#2d36a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1917_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f67a925f-528d-5a58-a1ad-25637e99064c",
+    "country_id": "ch",
+    "name": "Grütli Union — historical",
+    "short_name": "Grütli Union",
+    "color": "#412da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1919_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "74d95eed-12fb-5bc0-af58-a4d16f3f0dce",
+    "country_id": "ch",
+    "name": "Evangelical People's Party — historical",
+    "short_name": "Evangelical People's Party",
+    "color": "#edc331",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1919_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "dc69052a-6909-50cb-a17f-3cdd623e6146",
+    "country_id": "ch",
+    "name": "Young Radicals / Others — historical",
+    "short_name": "Young Radicals / Others",
+    "color": "#2d84a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1919_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "6a96b44b-e042-5abe-af49-0eff43890b86",
+    "country_id": "ch",
+    "name": "Communist Party — historical",
+    "short_name": "Communist Party",
+    "color": "#2da9a8",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1922_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d83bc840-6558-556e-a350-f999e4304140",
+    "country_id": "ch",
+    "name": "Liberal Socialist Party — historical",
+    "short_name": "Liberal Socialist Party",
+    "color": "#2d32a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1922_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "77900223-bb42-522c-b8a0-252e06236e76",
+    "country_id": "ch",
+    "name": "National Progressive Party / Independent Free Voters / Young Liberals / Young Radicals — historical",
+    "short_name": "National Progressive Party / Independent Free Voters / Young Liberals / Young Radicals",
+    "color": "#2d49a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1922_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cc5d92da-19ae-57b9-8b21-5356f57b3d6e",
+    "country_id": "ch",
+    "name": "Union for Economic Defence / Other parties — historical",
+    "short_name": "Union for Economic Defence / Other parties",
+    "color": "#7a2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1925_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ab7e6f6a-4442-56fe-97cc-6bca0dfebd64",
+    "country_id": "ch",
+    "name": "Social-Political Group — historical",
+    "short_name": "Social-Political Group",
+    "color": "#2d86a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1931_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "bbf5d5c4-3a79-5dab-aca5-e332e645cb42",
+    "country_id": "ch",
+    "name": "Communist Party Opposition / Other parties — historical",
+    "short_name": "Communist Party Opposition / Other parties",
+    "color": "#a92d62",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1931_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "78e6739c-a685-58f7-a761-9c5b6adba8ab",
+    "country_id": "ch",
+    "name": "Alliance of Independents — historical",
+    "short_name": "Alliance of Independents",
+    "color": "#442da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1935_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0bbac3cd-29aa-5bd5-954f-7e7cb983cb7d",
+    "country_id": "ch",
+    "name": "Young Farmers — historical",
+    "short_name": "Young Farmers",
+    "color": "#382da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1935_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9c5dcedc-84e6-5396-a272-4f15075b7f43",
+    "country_id": "ch",
+    "name": "National Front — historical",
+    "short_name": "National Front",
+    "color": "#2d88a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1935_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "92d15ba1-bc0b-574a-900e-b6f02ad2b844",
+    "country_id": "ch",
+    "name": "National Union / General People's List / Other parties — historical",
+    "short_name": "National Union / General People's List / Other parties",
+    "color": "#a22da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1935_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "dbb2e8b0-9173-5229-9207-59303558b5d1",
+    "country_id": "ch",
+    "name": "Social Democratic Party",
+    "short_name": "Social Democratic Party",
+    "color": "#e30613",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cc6a0f3b-fcb6-5d39-8c37-9ccc90c3a8b5",
+    "country_id": "ch",
+    "name": "Free Democratic Party",
+    "short_name": "Free Democratic Party",
+    "color": "#0077b8",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "55867e82-259e-5a19-81fe-ee3b35fa7940",
+    "country_id": "ch",
+    "name": "Conservative People's Party",
+    "short_name": "Conservative People's Party",
+    "color": "#33a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "84f8aab8-24e4-58bf-9d4e-417ceabdd914",
+    "country_id": "ch",
+    "name": "Party of Farmers, Traders and Independents",
+    "short_name": "Party of Farmers, Traders and Independents",
+    "color": "#2d54a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7ae89c72-c32b-5487-ad2b-26996c0a1d36",
+    "country_id": "ch",
+    "name": "Swiss Party of Labour",
+    "short_name": "Swiss Party of Labour",
+    "color": "#b5262d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9f4f4b52-694a-5370-abb9-ece0b0ca312b",
+    "country_id": "ch",
+    "name": "Alliance of Independents",
+    "short_name": "Alliance of Independents",
+    "color": "#a9692d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "b70bc0f1-77ab-56f7-909d-79e6cdbea1d2",
+    "country_id": "ch",
+    "name": "Liberal Democratic Party",
+    "short_name": "Liberal Democratic Party",
+    "color": "#2d34a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "5807e3ad-d438-50fa-8479-663bc5280fae",
+    "country_id": "ch",
+    "name": "Social-Political Group",
+    "short_name": "Social-Political Group",
+    "color": "#a9592d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7be645e1-9a80-5862-853c-30f9305a1ad4",
+    "country_id": "ch",
+    "name": "Evangelical People's Party",
+    "short_name": "Evangelical People's Party",
+    "color": "#edc331",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "614cfc50-a30f-5536-85e8-2d1dac1ad77f",
+    "country_id": "ch",
+    "name": "Liberal Socialist Party",
+    "short_name": "Liberal Socialist Party",
+    "color": "#9d2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1947_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d523c9b2-e247-55d1-9571-b5e6c79bd42a",
+    "country_id": "ch",
+    "name": "Democratic Group",
+    "short_name": "Democratic Group",
+    "color": "#a92d54",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1947. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ff58d585-08db-5e71-987d-2d399c99aa62",
+    "country_id": "ch",
+    "name": "Sonst.",
+    "short_name": "Sonst.",
+    "color": "#2da98d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1951. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "13369a2b-32cc-5c78-a975-f0279e9594c5",
+    "country_id": "ch",
+    "name": "Conservative Christian Social Party",
+    "short_name": "Conservative Christian Social Party",
+    "color": "#a9a52d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1959_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "271255cc-f29c-5401-aba6-0d9f014daaf3",
+    "country_id": "ch",
+    "name": "Conservative-Christian Social People’s Party",
+    "short_name": "Conservative-Christian Social People’s Party",
+    "color": "#a92d4a",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1959. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7602026d-4481-5b0b-afce-406be70ec954",
+    "country_id": "ch",
+    "name": "Liberal Democratic Union",
+    "short_name": "Liberal Democratic Union",
+    "color": "#2d94a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1963_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "92853b46-9ef8-5ece-b8a0-df6c3a6ad848",
+    "country_id": "ch",
+    "name": "Parteilose",
+    "short_name": "Parteilose",
+    "color": "#a92d60",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1963. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "81ab71ed-456b-58a7-b7fd-ec4f652529b9",
+    "country_id": "ch",
+    "name": "National Action",
+    "short_name": "National Action",
+    "color": "#9b2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1967_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0f008b0a-64ba-562f-ba1c-9eaf75a56b76",
+    "country_id": "ch",
+    "name": "Republican Movement",
+    "short_name": "Republican Movement",
+    "color": "#a92d7e",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1967_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9c0bcabd-922d-581b-8973-c86b1d7392af",
+    "country_id": "ch",
+    "name": "Dellberg List / Other parties",
+    "short_name": "Dellberg List / Other parties",
+    "color": "#a02da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1967_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f16b98b2-2932-535a-ad4d-a7d150120025",
+    "country_id": "ch",
+    "name": "Christian Democratic People's Party",
+    "short_name": "Christian Democratic People's Party",
+    "color": "#f39325",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1971_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ee19e37d-c8af-5d95-a43f-30997b902553",
+    "country_id": "ch",
+    "name": "Swiss People's Party",
+    "short_name": "Swiss People's Party",
+    "color": "#4b8b3b",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1971_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2671c463-2349-5be2-9024-5560c5988b7f",
+    "country_id": "ch",
+    "name": "Autonomous Socialist Party",
+    "short_name": "Autonomous Socialist Party",
+    "color": "#542da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1971_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "66ab2a5c-823c-5b29-9574-3f1cbbd3964c",
+    "country_id": "ch",
+    "name": "Christian Social Party",
+    "short_name": "Christian Social Party",
+    "color": "#2d39a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1971_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "de888e45-9dab-5fcd-b0ce-175097b15b4f",
+    "country_id": "ch",
+    "name": "Swiss Democrats",
+    "short_name": "Swiss Democrats",
+    "color": "#a9992d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1971_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "41626c71-ab09-5626-9fbb-a4c29525b418",
+    "country_id": "ch",
+    "name": "Progressive Organisations of Switzerland",
+    "short_name": "Progressive Organisations of Switzerland",
+    "color": "#a92d9f",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1971_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7273159d-23a7-5c4e-a22e-9837ce53b5b8",
+    "country_id": "ch",
+    "name": "Federal Democratic Union",
+    "short_name": "Federal Democratic Union",
+    "color": "#a92d63",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1975_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "4624e384-ba5d-591f-bf50-e34ee4849f95",
+    "country_id": "ch",
+    "name": "Green Party",
+    "short_name": "Green Party",
+    "color": "#65a83d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1975_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "ba82b506-5d41-56ad-ba2e-2752df355da7",
+    "country_id": "ch",
+    "name": "Jurassian separatists",
+    "short_name": "Jurassian separatists",
+    "color": "#2da98d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1975_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "79bc5095-301d-5268-b2bf-d0161f9837b9",
+    "country_id": "ch",
+    "name": "Liberal Party",
+    "short_name": "Liberal Party",
+    "color": "#4ba92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1979_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "a3c4af56-463f-5ac3-8d8d-9e4ff53d7795",
+    "country_id": "ch",
+    "name": "Feminist and Green Alternative Groups",
+    "short_name": "Feminist and Green Alternative Groups",
+    "color": "#a9392d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1979_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0b04f39e-b8f8-58af-8863-42a276c57c40",
+    "country_id": "ch",
+    "name": "Freedom Party of Switzerland",
+    "short_name": "Freedom Party of Switzerland",
+    "color": "#2da972",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1987_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9b99e753-bf3c-5946-aca9-003f167b6dc5",
+    "country_id": "ch",
+    "name": "Ticino League",
+    "short_name": "Ticino League",
+    "color": "#9e2da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1991_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f0fcafae-7b4a-570a-bf34-91ab10cecbfc",
+    "country_id": "ch",
+    "name": "Solidarity",
+    "short_name": "Solidarity",
+    "color": "#5da92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/1995_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "d2428e1e-e3be-5461-85e1-37c793085519",
+    "country_id": "ch",
+    "name": "Green Liberal Party",
+    "short_name": "Green Liberal Party",
+    "color": "#a6bb39",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2007_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cc986f53-6ade-5ec3-b1a4-7a480f9b50c4",
+    "country_id": "ch",
+    "name": "Geneva Citizens Movement",
+    "short_name": "Geneva Citizens Movement",
+    "color": "#2da966",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2007_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "7994cfd6-2aab-55ea-a91d-f2177744e3f2",
+    "country_id": "ch",
+    "name": "FDP.The Liberals",
+    "short_name": "FDP.The Liberals",
+    "color": "#0077b8",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2011_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "437d41df-d037-50a3-bf17-602e7e7e0c86",
+    "country_id": "ch",
+    "name": "Conservative Democratic Party",
+    "short_name": "Conservative Democratic Party",
+    "color": "#dda02b",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2011_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9cfef7f2-3142-5bab-ae92-68a9fd99b046",
+    "country_id": "ch",
+    "name": "Geneva Citizens' Movement",
+    "short_name": "Geneva Citizens' Movement",
+    "color": "#65a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2011_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "8bfe0ca6-a353-5d9e-90b6-1a237dd01033",
+    "country_id": "ch",
+    "name": "The Centre",
+    "short_name": "The Centre",
+    "color": "#f39325",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://en.wikipedia.org/wiki/2023_Swiss_federal_election. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0679a614-4caf-556d-8fbe-181b72531086",
+    "country_id": "ch",
+    "name": "Historical Mitte (Lib.) group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical Mitte (Lib.) group (initial Federal Council affiliation)",
+    "color": "#a9692d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "1fb33ce8-d4af-5215-8d2e-b7a502206181",
+    "country_id": "ch",
+    "name": "Historical Rad. group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical Rad. group (initial Federal Council affiliation)",
+    "color": "#a9622d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "0d229577-d040-54cb-b5ca-1622f516e7c6",
+    "country_id": "ch",
+    "name": "Historical Mitte group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical Mitte group (initial Federal Council affiliation)",
+    "color": "#2da985",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "15eccd01-bbd1-5e4c-9f1d-c21a436f9d3d",
+    "country_id": "ch",
+    "name": "Historical Zentrum (Lib.) group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical Zentrum (Lib.) group (initial Federal Council affiliation)",
+    "color": "#2d93a9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "2b6e4083-2ae7-5a8c-8fb8-4fdf6c341aba",
+    "country_id": "ch",
+    "name": "Historical Zentrum (Dem.) group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical Zentrum (Dem.) group (initial Federal Council affiliation)",
+    "color": "#50a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "becbc18f-d700-511e-a6c7-25ebc58b438a",
+    "country_id": "ch",
+    "name": "Historical Zentrum group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical Zentrum group (initial Federal Council affiliation)",
+    "color": "#a9322d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e0cf8640-f3e7-5850-b650-320f32ca1992",
+    "country_id": "ch",
+    "name": "Historical Rad. (Dem.) group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical Rad. (Dem.) group (initial Federal Council affiliation)",
+    "color": "#a9822d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "f865aa2d-0c3b-5f8e-8b94-61d0d7e66c1c",
+    "country_id": "ch",
+    "name": "Historical Kath.-Kons. group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical Kath.-Kons. group (initial Federal Council affiliation)",
+    "color": "#a2a92d",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "636914dd-abed-55ea-aef1-ea22b24ee6ab",
+    "country_id": "ch",
+    "name": "Historical FDP group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical FDP group (initial Federal Council affiliation)",
+    "color": "#552da9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "cb4d3e56-0874-50af-8421-b962c6730249",
+    "country_id": "ch",
+    "name": "Lib. — historical",
+    "short_name": "Lib.",
+    "color": "#a92d50",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "e4a2a161-7b97-52ac-bb8a-3954318efbf4",
+    "country_id": "ch",
+    "name": "KCVP",
+    "short_name": "KCVP",
+    "color": "#2d3ba9",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  },
+  {
+    "id": "9bac669e-28de-5738-9a50-8be2b39d2e67",
+    "country_id": "ch",
+    "name": "Historical radical group (initial Federal Council affiliation) — historical",
+    "short_name": "Historical radical group (initial Federal Council affiliation)",
+    "color": "#a92d39",
+    "ideology_ids": [],
+    "archived": false,
+    "notes": "Election-era party, front or alliance label. No continuity with a similarly named organisation is inferred. Source: https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236. Display colour is an editorial palette; no official-branding or ideological assessment is implied."
+  }
+]

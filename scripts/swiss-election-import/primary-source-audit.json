@@ -1,0 +1,42 @@
+[
+  {
+    "key": "official-dates.html",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/nr-wahltermine-seit-1848.aspx",
+    "sha256": "1c2bb6c89719071dff85be9c6a1faa2d7ec80f2f2c419c55543e0951310a4ded"
+  },
+  {
+    "key": "official-presidents.html",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+    "sha256": "dd7bcc45005acb3f866d7e8517ce10ebdfbe25ce3a388f66516b08828679884f"
+  },
+  {
+    "key": "presidents-history.pdf",
+    "url": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+    "sha256": "765bb470fafbc5cce9b24aac5025227930321c8003e0feae91266de784e88fdd"
+  },
+  {
+    "key": "presidents-1920.xls",
+    "url": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-6765",
+    "sha256": "c5ea00acd16b7b03d6b9c43ec8366dfd5c0afb2e7aa5923655a70e03c7074561"
+  },
+  {
+    "key": "official-calendar.html",
+    "url": "https://www.parlament.ch/en/ratsbetrieb/sessions/schedule",
+    "sha256": "a8c481097cddd9a2b26d936fd90dc3fd2d4acbe5e8d83bee947735226e09d185"
+  },
+  {
+    "key": "px-nr-results.json",
+    "url": "https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1702020000_104/px-x-1702020000_104.px",
+    "sha256": "6d972eba3a3fc8b7f1dc942279e3738189efb6512c328f11b23565eb63ee5fd7"
+  },
+  {
+    "key": "px-nr-seats-results.json",
+    "url": "https://www.pxweb.bfs.admin.ch/api/v1/de/px-x-1702020000_103/px-x-1702020000_103.px",
+    "sha256": "46a93aee7580064f511f16ac5768c954a374389f18f48c91a98230e2302811d7"
+  },
+  {
+    "key": "council-2019-fr.html",
+    "url": "https://www.parlament.ch/fr/ratsbetrieb/elections/renouvellement-integral-2019",
+    "sha256": "cd254a61b53896bafcca1114c98b98740ce7396f7751ef21391f123598915bb9"
+  }
+]
