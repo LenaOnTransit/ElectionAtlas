@@ -1,0 +1,48 @@
+{
+  "listSource": "https://valtor.valasztas.hu/valtort/jsp/orszjkv.jsp?EA=47&W=33",
+  "seatSource": "https://valtor.valasztas.hu/valtort/jsp/ma1.jsp?EA=47",
+  "validListVotes": 6366733,
+  "registeredListVoters": 8112646,
+  "participatingListVoters": 6408362,
+  "majorParties": {
+    "Tisza Party": {
+      "listVotes": 3385890,
+      "totalSeats": 141
+    },
+    "Fidesz–KDNP": {
+      "listVotes": 2458337,
+      "totalSeats": 52
+    },
+    "Our Homeland Movement": {
+      "listVotes": 358372,
+      "totalSeats": 6
+    },
+    "Democratic Coalition": {
+      "listVotes": 70298,
+      "totalSeats": 0
+    },
+    "Hungarian Two Tailed Dog Party": {
+      "listVotes": 51965,
+      "totalSeats": 0
+    }
+  },
+  "allListVoteCounts": [
+    108,
+    116,
+    147,
+    159,
+    179,
+    379,
+    440,
+    512,
+    902,
+    1307,
+    18419,
+    19203,
+    51965,
+    70298,
+    358372,
+    2458337,
+    3385890
+  ]
+}

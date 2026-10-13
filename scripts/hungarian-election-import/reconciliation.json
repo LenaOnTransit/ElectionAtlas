@@ -1,0 +1,614 @@
+[
+  {
+    "id": "world-hungary-parliament-2026-04-12",
+    "expectedVotes": 6366733,
+    "recordedVotes": 6366733,
+    "expectedSeats": 199,
+    "recordedSeats": 199,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-2022-04-03",
+    "expectedVotes": 5654860,
+    "recordedVotes": 5654860,
+    "expectedSeats": 199,
+    "recordedSeats": 199,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-1825-08-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 219,
+    "recordedSeats": 219,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1825_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1830-08-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/1830_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1832-11-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 216,
+    "recordedSeats": 216,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1832_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1839-05-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 209,
+    "recordedSeats": 209,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1839_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1843-04-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 210,
+    "recordedSeats": 210,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1843_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1847-08-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 205,
+    "recordedSeats": 205,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1847_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1848-06-02",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/1848_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1861-03-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 332,
+    "recordedSeats": 332,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1861_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1865-11-10",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 409,
+    "recordedSeats": 409,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1865_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1869-03-09",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 409,
+    "recordedSeats": 409,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1869_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1872-06-12",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1872_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1875-07-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1875_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1878-08-05",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1878_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1881-06-24",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1881_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1884-06-13",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1884_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1887-07-17",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1887_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1892-01-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1892_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1896-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1896_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1901-10-02",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1901_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1905-01-26",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1905_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1906-04-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1906_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1910-06-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 413,
+    "recordedSeats": 413,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1910_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1920-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 219,
+    "recordedSeats": 219,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1920_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1922-05-28",
+    "expectedVotes": 1632304,
+    "recordedVotes": 1632304,
+    "expectedSeats": 245,
+    "recordedSeats": 245,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1922_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1926-12-08",
+    "expectedVotes": 1143519,
+    "recordedVotes": 1143519,
+    "expectedSeats": 245,
+    "recordedSeats": 245,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1926_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1931-06-28",
+    "expectedVotes": 1510509,
+    "recordedVotes": 1510509,
+    "expectedSeats": 245,
+    "recordedSeats": 245,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1931_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1935-03-31",
+    "expectedVotes": 1974089,
+    "recordedVotes": 1974089,
+    "expectedSeats": 245,
+    "recordedSeats": 245,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1935_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1939-05-28",
+    "expectedVotes": 3686603,
+    "recordedVotes": 3686603,
+    "expectedSeats": 260,
+    "recordedSeats": 260,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1939_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1944-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 498,
+    "recordedSeats": 498,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1944_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1945-11-04",
+    "expectedVotes": 4729301,
+    "recordedVotes": 4729301,
+    "expectedSeats": 359,
+    "recordedSeats": 359,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1945_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1947-08-31",
+    "expectedVotes": 4994338,
+    "recordedVotes": 4994338,
+    "expectedSeats": 351,
+    "recordedSeats": 351,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1947_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1949-05-15",
+    "expectedVotes": 5643798,
+    "recordedVotes": 5643798,
+    "expectedSeats": 402,
+    "recordedSeats": 402,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1949_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1953-05-17",
+    "expectedVotes": 6317910,
+    "recordedVotes": 6317910,
+    "expectedSeats": 298,
+    "recordedSeats": 298,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1953_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1958-11-16",
+    "expectedVotes": 6460483,
+    "recordedVotes": 6460483,
+    "expectedSeats": 338,
+    "recordedSeats": 338,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1958_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1963-02-24",
+    "expectedVotes": 6888835,
+    "recordedVotes": 6888835,
+    "expectedSeats": 340,
+    "recordedSeats": 340,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1963_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1967-03-19",
+    "expectedVotes": 7105709,
+    "recordedVotes": 7105709,
+    "expectedSeats": 349,
+    "recordedSeats": 349,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1967_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1971-04-25",
+    "expectedVotes": 7258121,
+    "recordedVotes": 7258121,
+    "expectedSeats": 352,
+    "recordedSeats": 352,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1971_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1975-06-15",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 352,
+    "recordedSeats": 352,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1975_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1980-06-08",
+    "expectedVotes": 7516663,
+    "recordedVotes": 7516663,
+    "expectedSeats": 352,
+    "recordedSeats": 352,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1980_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1985-06-08",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 387,
+    "recordedSeats": 387,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1985_Hungarian_parliamentary_election"
+  },
+  {
+    "id": "world-hungary-parliament-1990-03-25",
+    "expectedVotes": 4911241,
+    "recordedVotes": 4911241,
+    "expectedSeats": 386,
+    "recordedSeats": 386,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-1994-05-08",
+    "expectedVotes": 5400194,
+    "recordedVotes": 5400194,
+    "expectedSeats": 386,
+    "recordedSeats": 386,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-1998-05-10",
+    "expectedVotes": 4547682,
+    "recordedVotes": 4547682,
+    "expectedSeats": 386,
+    "recordedSeats": 386,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-2002-04-07",
+    "expectedVotes": 5616750,
+    "recordedVotes": 5616750,
+    "expectedSeats": 386,
+    "recordedSeats": 386,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-2006-04-09",
+    "expectedVotes": 5408050,
+    "recordedVotes": 5408050,
+    "expectedSeats": 386,
+    "recordedSeats": 386,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-2010-04-11",
+    "expectedVotes": 5132531,
+    "recordedVotes": 5132531,
+    "expectedSeats": 386,
+    "recordedSeats": 386,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-2014-04-06",
+    "expectedVotes": 5047363,
+    "recordedVotes": 5047363,
+    "expectedSeats": 199,
+    "recordedSeats": 199,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-parliament-2018-04-08",
+    "expectedVotes": 5732283,
+    "recordedVotes": 5732283,
+    "expectedSeats": 199,
+    "recordedSeats": 199,
+    "coverage": "complete",
+    "source": "https://www.valasztas.hu/orszaggyulesi-valasztasok"
+  },
+  {
+    "id": "world-hungary-president-1990-08-03",
+    "expectedVotes": 308,
+    "recordedVotes": 308,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1990_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-1995-06-19",
+    "expectedVotes": 335,
+    "recordedVotes": 335,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1995_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2000-06-05-ballot-1",
+    "expectedVotes": 356,
+    "recordedVotes": 356,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2000_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2000-06-06-ballot-2",
+    "expectedVotes": 341,
+    "recordedVotes": 341,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2000_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2000-06-06-ballot-3",
+    "expectedVotes": 339,
+    "recordedVotes": 339,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2000_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2005-06-06-ballot-1",
+    "expectedVotes": 196,
+    "recordedVotes": 196,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2005_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2005-06-07-ballot-2",
+    "expectedVotes": 363,
+    "recordedVotes": 363,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2005_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2005-06-07-ballot-3",
+    "expectedVotes": 367,
+    "recordedVotes": 367,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2005_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2010-06-29",
+    "expectedVotes": 322,
+    "recordedVotes": 322,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2010_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2012-05-02",
+    "expectedVotes": 302,
+    "recordedVotes": 302,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2012_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2017-03-13-ballot-1",
+    "expectedVotes": 175,
+    "recordedVotes": 175,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2017_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2017-03-13-ballot-2",
+    "expectedVotes": 170,
+    "recordedVotes": 170,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2017_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2022-03-10",
+    "expectedVotes": 188,
+    "recordedVotes": 188,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2022_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2024-02-26",
+    "expectedVotes": 139,
+    "recordedVotes": 139,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2024_Hungarian_presidential_election"
+  },
+  {
+    "id": "world-hungary-president-2026-08-11",
+    "expectedVotes": 146,
+    "recordedVotes": 146,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://kormany.hu/hirek/koztarsasagi-elnokot-valasztott-az-orszaggyules"
+  },
+  {
+    "id": "world-hungary-president-1919-01-11",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://hirado.hu/2010/06/29/schmitt-pal-magyarorszag-uj-koztarsasagi-elnoke/"
+  },
+  {
+    "id": "world-hungary-president-1946-02-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://mnl.gov.hu/mnl/tml/hirek/tildy_zoltan_koztarsasagi_elnok_a_szekszardi_szureti_mulatsagon?theme=mnl"
+  },
+  {
+    "id": "world-hungary-president-1948-08-03",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://neb.hu/nemzeti-emlekezet-bizottsaga/articles/show/szakasits-arpad"
+  }
+]
