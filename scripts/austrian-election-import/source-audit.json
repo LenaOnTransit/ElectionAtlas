@@ -1,0 +1,332 @@
+[
+  {
+    "key": "2019_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/2019_Austrian_legislative_election",
+    "sha256": "1503795699afbfcefb4783c2b8c03114dcbba178286fa40e55774051f2457add",
+    "bytes": 521122
+  },
+  {
+    "key": "2024_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/2024_Austrian_legislative_election",
+    "sha256": "2b1c33141c4c5afb94a443cbe3e7f800d9f12b867e162e2e10c4eeb2b197ca7c",
+    "bytes": 523116
+  },
+  {
+    "key": "2016_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/2016_Austrian_presidential_election",
+    "sha256": "80da472a6c18e31e095f9a1e0bf12c8248adce85aef1dd99a6f51494feabb0ae",
+    "bytes": 552502
+  },
+  {
+    "key": "2022_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/2022_Austrian_presidential_election",
+    "sha256": "5802a2c6ebbe4e59ce0ff6d6e8bf00309c14ab960afd6e252422d6ca22519f31",
+    "bytes": 387414
+  },
+  {
+    "key": "2017_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/2017_Austrian_legislative_election",
+    "sha256": "df94ee7cae9cf841a01b23d1295d495f92cfdd53996d204d13df09f6c6ea0848",
+    "bytes": 313060
+  },
+  {
+    "key": "1945_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1945_Austrian_legislative_election",
+    "sha256": "9d1f074b1380bbb723671a557b94ddc98a42eda5303bc0b4cc3279c42554a2ef",
+    "bytes": 185449
+  },
+  {
+    "key": "1949_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1949_Austrian_legislative_election",
+    "sha256": "eaaa00f1d0209e358e66e14d3dc882faf308f4eb376d26bfe296293916c19359",
+    "bytes": 193287
+  },
+  {
+    "key": "1953_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1953_Austrian_legislative_election",
+    "sha256": "25e72ba69990233e62ab95442ab744450c8868de3ed3952783c6b721817ffe3e",
+    "bytes": 192730
+  },
+  {
+    "key": "1956_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1956_Austrian_legislative_election",
+    "sha256": "69b79da2bd71b6bbf7934167a9fe7a8dfee5b561ee4b783c375dc66a4ed0bcd6",
+    "bytes": 192163
+  },
+  {
+    "key": "1959_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1959_Austrian_legislative_election",
+    "sha256": "bb331b79caef75886941b8c921cb5efca11896800909d8814385a31d5c3692bd",
+    "bytes": 194822
+  },
+  {
+    "key": "1962_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1962_Austrian_legislative_election",
+    "sha256": "2515ec0a04805ffc11823e7f1eb05e6a57ddf38383540af26415a2d8841a1510",
+    "bytes": 187654
+  },
+  {
+    "key": "1966_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1966_Austrian_legislative_election",
+    "sha256": "d33216b54d952eca922b6d4b46cdde7d443f4b0c51a5c538e3ac45800361c8de",
+    "bytes": 194489
+  },
+  {
+    "key": "1970_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1970_Austrian_legislative_election",
+    "sha256": "cb9aef98c5376f337b80a821e15d7efce0e0972b73860ffa7f2beaf21426d4c1",
+    "bytes": 194647
+  },
+  {
+    "key": "1971_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1971_Austrian_legislative_election",
+    "sha256": "f98122b6e17ab0b22370bf2003788991a64d76e31444b8db869b974b3f96daac",
+    "bytes": 188228
+  },
+  {
+    "key": "1975_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1975_Austrian_legislative_election",
+    "sha256": "fc828b1b0300b8a1d53c2717946006cf14c12158a6fe1b45036f4ed50a08ccf5",
+    "bytes": 190247
+  },
+  {
+    "key": "1979_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1979_Austrian_legislative_election",
+    "sha256": "7585879ec6da61ee82df517bd76d96d3f3e8aacad1828411c56366c53ddd73ef",
+    "bytes": 185997
+  },
+  {
+    "key": "1983_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1983_Austrian_legislative_election",
+    "sha256": "2122a270a2b82568e03a7b990a5a8443352414e33b8cf03ae10d73902bda328c",
+    "bytes": 193710
+  },
+  {
+    "key": "1986_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1986_Austrian_legislative_election",
+    "sha256": "dde7fc8dd88090e0f0a63706c155bb027f8446d836b6cf84436a6ecfbf976ff3",
+    "bytes": 196472
+  },
+  {
+    "key": "1990_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1990_Austrian_legislative_election",
+    "sha256": "edbd1705782aa7fc09fda4fd7b57a24f72ac409daf4298849e119931f156c421",
+    "bytes": 194986
+  },
+  {
+    "key": "1994_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1994_Austrian_legislative_election",
+    "sha256": "21db159f32909285fdc48c172e49cbe561ec06cd6fcd00e42d9fe98d05b64ab9",
+    "bytes": 218674
+  },
+  {
+    "key": "1995_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1995_Austrian_legislative_election",
+    "sha256": "b346e69dd4dcef9c5ac2fb6e46fb55f536c1544c6cedef9c74ea31c231dec441",
+    "bytes": 202358
+  },
+  {
+    "key": "1999_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1999_Austrian_legislative_election",
+    "sha256": "ed53e3810e9b54579932eb14974c9974fd60d280f0dc9c94e1e9f26f6ebb0c15",
+    "bytes": 205128
+  },
+  {
+    "key": "2002_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/2002_Austrian_legislative_election",
+    "sha256": "c94e59df6732efc5b07a809c7027c557c5139ef3f39e4550c3908044106840ff",
+    "bytes": 203415
+  },
+  {
+    "key": "2006_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/2006_Austrian_legislative_election",
+    "sha256": "657cdc60696523252fda1a57c456e2630de5b6049b4f79614ceeb89b130214ca",
+    "bytes": 271286
+  },
+  {
+    "key": "2008_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/2008_Austrian_legislative_election",
+    "sha256": "f7721defc323be9666731421406a8c3c158147f5e78cd1a620e4581d05f6f75a",
+    "bytes": 592940
+  },
+  {
+    "key": "2013_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/2013_Austrian_legislative_election",
+    "sha256": "83a26e87fc70efac2167f066632a566f72a26ff834a8bf1fc47bc95fea78ac5f",
+    "bytes": 321128
+  },
+  {
+    "key": "1920_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1920_Austrian_legislative_election",
+    "sha256": "4c26e1af03495c3a0d78651e22cdd12af0f643939f755edd854b1a11b337ea51",
+    "bytes": 162515
+  },
+  {
+    "key": "1923_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1923_Austrian_legislative_election",
+    "sha256": "60ab21b3e830ab2b8303518d7262e7c9f2f8a812089d3e9238e83fa76e98230c",
+    "bytes": 161050
+  },
+  {
+    "key": "1927_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1927_Austrian_legislative_election",
+    "sha256": "448d39e0f3a89cb80a7f501a2d1a70dfa2eb469e7f92d71bef1391f68fadca86",
+    "bytes": 158885
+  },
+  {
+    "key": "1930_Austrian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1930_Austrian_legislative_election",
+    "sha256": "6a926c139c3b0367aa65ce6d29c1c7a5b0af84319fbc83299537b47a66f1477c",
+    "bytes": 182913
+  },
+  {
+    "key": "1951_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1951_Austrian_presidential_election",
+    "sha256": "f50657378beaa1bd92243c68fb4b8aced4ac9741010fd869d0224887e4da80f8",
+    "bytes": 164302
+  },
+  {
+    "key": "1957_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1957_Austrian_presidential_election",
+    "sha256": "24d7d53d958851c918dc650dce05172a7ace874a851ebce2240ad58a6a8d389d",
+    "bytes": 159384
+  },
+  {
+    "key": "1963_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1963_Austrian_presidential_election",
+    "sha256": "97bad6ddff7ec05041c3e3eb7dd3d3ff25782d71aa08d9c7036d7344d0d185a4",
+    "bytes": 159309
+  },
+  {
+    "key": "1965_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1965_Austrian_presidential_election",
+    "sha256": "3180941c3d18b40dd12e254d65758b9a90dda427a0565d5650135b95d9966a90",
+    "bytes": 158506
+  },
+  {
+    "key": "1971_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1971_Austrian_presidential_election",
+    "sha256": "4a714963df982e83165a6f23f8b2348644c2149f2b0ef6ca7be60e7af608b4bb",
+    "bytes": 157790
+  },
+  {
+    "key": "1974_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1974_Austrian_presidential_election",
+    "sha256": "c5fa5428f9af68aae5801d8f767c7ce313d43a2785b88a4e910b5a14b8ea0e00",
+    "bytes": 162122
+  },
+  {
+    "key": "1980_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1980_Austrian_presidential_election",
+    "sha256": "ea91301598f6246a20766d80aa2177a9735747bf815844464ab7ed8b352c62ae",
+    "bytes": 159641
+  },
+  {
+    "key": "1986_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1986_Austrian_presidential_election",
+    "sha256": "01d3f945263d0bad7d3faa9b300f55a1c4636360b6fb699a524e57a1b60815bb",
+    "bytes": 127058
+  },
+  {
+    "key": "1992_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1992_Austrian_presidential_election",
+    "sha256": "a92b3fc0b0935c9e7dc8ac3c4fafa4ea284b4cc21eb27dbd55560b1c38cee707",
+    "bytes": 177383
+  },
+  {
+    "key": "1998_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/1998_Austrian_presidential_election",
+    "sha256": "8eb3cfe45f93b458043e550c97f7673bcf60689adc8e8ddc8cdbde561ec11737",
+    "bytes": 171123
+  },
+  {
+    "key": "2004_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/2004_Austrian_presidential_election",
+    "sha256": "b93397de001fc6c2d1f8d72ea5e836f32ae9f7034475f0ff2881df986603ab28",
+    "bytes": 159004
+  },
+  {
+    "key": "2010_Austrian_presidential_election",
+    "url": "https://en.wikipedia.org/wiki/2010_Austrian_presidential_election",
+    "sha256": "9cbd23aaae6031a2b2ef2cb8a7ab2fa5ba18a89bfd384f6b97723df210ba269f",
+    "bytes": 308251
+  },
+  {
+    "key": "1848_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1848_Cisleithanian_legislative_election",
+    "sha256": "d0935374d187f059102796584025b2ff7613aefdbdf78064110abc8758f4c26d",
+    "bytes": 127249
+  },
+  {
+    "key": "1861_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1861_Cisleithanian_legislative_election",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "key": "1867_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1867_Cisleithanian_legislative_election",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "key": "1870_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1870_Cisleithanian_legislative_election",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "key": "1871_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1871_Cisleithanian_legislative_election",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "key": "1873_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1873_Cisleithanian_legislative_election",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "key": "1879_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1879_Cisleithanian_legislative_election",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "key": "1885_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1885_Cisleithanian_legislative_election",
+    "sha256": "1b91726ef421b273ffc0622b18a7860cd1d44f40afc227a35b8ebeb90e792b29",
+    "bytes": 95318
+  },
+  {
+    "key": "1891_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1891_Cisleithanian_legislative_election",
+    "sha256": "9971b3c45c86b5d75b66f8ed69ec724f68587ad826545897a45d48ec28b81487",
+    "bytes": 127328
+  },
+  {
+    "key": "1897_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1897_Cisleithanian_legislative_election",
+    "sha256": "bbfe88ce14901fe9b4044a2fec703d257403438bab10e13528ae088687de6e76",
+    "bytes": 188983
+  },
+  {
+    "key": "1907_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1907_Cisleithanian_legislative_election",
+    "sha256": "94fae52b07126161e136c6c00eafe77157e5d26c481782c2fe65b35255c9f5c8",
+    "bytes": 226186
+  },
+  {
+    "key": "1911_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1911_Cisleithanian_legislative_election",
+    "sha256": "1a20d9580fc6f999f4ecdb6c82657d01f5b925452cfc76f4c7cc4a369e0b0555",
+    "bytes": 208473
+  },
+  {
+    "key": "1900-01_Cisleithanian_legislative_election",
+    "url": "https://en.wikipedia.org/wiki/1900%E2%80%9301_Cisleithanian_legislative_election",
+    "sha256": "76981467110e1c74131c2a24d9ebdf2f7cf29c7cf523463055686f1ece8108bb",
+    "bytes": 200211
+  },
+  {
+    "key": "1919_Austrian_Constituent_Assembly_election",
+    "url": "https://en.wikipedia.org/wiki/1919_Austrian_Constituent_Assembly_election",
+    "sha256": "765d89a27aa3ea3fbd6fbba1898903e635bce388418b2489f36bbd9815c3131f",
+    "bytes": 184361
+  }
+]
