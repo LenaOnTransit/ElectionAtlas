@@ -1,0 +1,802 @@
+[
+  {
+    "id": "world-south-africa-2004",
+    "data": {
+      "id": "world-south-africa-2004",
+      "body": "National Assembly",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Election date and turnout entered. Party results have not yet been imported.",
+      "round": "",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/countries/id/198/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": 76.73,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "za",
+      "precision": "day",
+      "startDate": "2004-04-14",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-south-africa-1999",
+    "data": {
+      "id": "world-south-africa-1999",
+      "body": "National Assembly",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Election date and turnout entered. Party results have not yet been imported.",
+      "round": "",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/countries/id/198/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": 89.3,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "za",
+      "precision": "day",
+      "startDate": "1999-06-02",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-south-africa-2024",
+    "data": {
+      "id": "world-south-africa-2024",
+      "body": "National Assembly",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Selected parties only. Government formation is distinct from party seat rankings.",
+      "round": "",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [
+        {
+          "id": "african-national-congress",
+          "name": "African National Congress",
+          "color": "#c0a22b",
+          "party": "ANC",
+          "seats": 159,
+          "share": 40.18,
+          "votes": null,
+          "winner": false,
+          "ideologyIds": [
+            "ideology-social-democracy"
+          ],
+          "electoralVotes": null
+        },
+        {
+          "id": "democratic-alliance",
+          "name": "Democratic Alliance",
+          "color": "#2767ad",
+          "party": "DA",
+          "seats": 87,
+          "share": 21.81,
+          "votes": null,
+          "winner": false,
+          "ideologyIds": [
+            "ideology-social-liberalism"
+          ],
+          "electoralVotes": null
+        },
+        {
+          "id": "umkhonto-we-sizwe",
+          "name": "uMkhonto we Sizwe",
+          "color": "#428050",
+          "party": "MK",
+          "seats": 58,
+          "share": 14.58,
+          "votes": null,
+          "winner": false,
+          "ideologyIds": [
+            "ideology-left-wing-populism"
+          ],
+          "electoralVotes": null
+        },
+        {
+          "id": "economic-freedom-fighters",
+          "name": "Economic Freedom Fighters",
+          "color": "#bc3138",
+          "party": "EFF",
+          "seats": 39,
+          "share": 9.52,
+          "votes": null,
+          "winner": false,
+          "ideologyIds": [
+            "ideology-marxism-leninism"
+          ],
+          "electoralVotes": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/elections/id/4318/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "The ANC remained the largest party but fell below a parliamentary majority.",
+      "turnout": 58.64,
+      "version": 1,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "za",
+      "precision": "day",
+      "startDate": "2024-05-29",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": 400,
+      "publication": "published",
+      "resultStatus": "final",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-south-africa-2009",
+    "data": {
+      "id": "world-south-africa-2009",
+      "body": "National Assembly",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Election date and turnout entered. Party results have not yet been imported.",
+      "round": "",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/countries/id/198/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": 77.3,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "za",
+      "precision": "day",
+      "startDate": "2009-04-22",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-south-africa-2014",
+    "data": {
+      "id": "world-south-africa-2014",
+      "body": "National Assembly",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Election date and turnout entered. Party results have not yet been imported.",
+      "round": "",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/countries/id/198/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": 73.55,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "za",
+      "precision": "day",
+      "startDate": "2014-05-07",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-south-africa-2019",
+    "data": {
+      "id": "world-south-africa-2019",
+      "body": "National Assembly",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Election date and turnout entered. Party results have not yet been imported.",
+      "round": "",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/countries/id/198/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": 65.99,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "za",
+      "precision": "day",
+      "startDate": "2019-05-08",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-brazil-president-2022-first",
+    "data": {
+      "id": "world-brazil-president-2022-first",
+      "body": "President",
+      "snap": false,
+      "type": "presidential",
+      "notes": "First-round vote detail has not yet been entered. The linked runoff record includes the final outcome.",
+      "round": "First round",
+      "title": "President",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Outubro/lula-e-bolsonaro-vao-disputar-o-2o-turno-para-a-presidencia-da-republica",
+          "label": "Official election source"
+        }
+      ],
+      "summary": "",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "brazil-president-2022",
+      "articleId": "",
+      "countryId": "br",
+      "precision": "day",
+      "startDate": "2022-10-02",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-brazil-president-2022-runoff",
+    "data": {
+      "id": "world-brazil-president-2022-runoff",
+      "body": "President",
+      "snap": false,
+      "type": "presidential",
+      "notes": "",
+      "round": "Runoff",
+      "title": "President",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [
+        {
+          "id": "luiz-in-cio-lula-da-silva",
+          "name": "Luiz Inácio Lula da Silva",
+          "color": "#bf3439",
+          "party": "Workers’ Party",
+          "seats": null,
+          "share": 50.9,
+          "votes": 60345999,
+          "winner": true,
+          "ideologyIds": [
+            "ideology-social-democracy",
+            "ideology-progressivism",
+            "ideology-social-liberalism"
+          ],
+          "electoralVotes": null
+        },
+        {
+          "id": "jair-bolsonaro",
+          "name": "Jair Bolsonaro",
+          "color": "#397b46",
+          "party": "Liberal Party",
+          "seats": null,
+          "share": 49.1,
+          "votes": 58206354,
+          "winner": false,
+          "ideologyIds": [
+            "ideology-economic-liberalism",
+            "ideology-right-wing-populism",
+            "ideology-national-conservatism"
+          ],
+          "electoralVotes": null
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tse.jus.br/comunicacao/noticias/2022/Dezembro/tse-proclama-eleitos-presidente-e-vice-presidente-da-republica-luiz-inacio-lula-da-silva-e-geraldo-alckmin",
+          "label": "Official election source"
+        }
+      ],
+      "summary": "Luiz Inácio Lula da Silva won the presidential runoff.",
+      "turnout": null,
+      "version": 1,
+      "seriesId": "brazil-president-2022",
+      "articleId": "",
+      "countryId": "br",
+      "precision": "day",
+      "startDate": "2022-10-30",
+      "voteBasis": "Valid runoff votes",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "final",
+      "resultCoverage": "complete"
+    }
+  },
+  {
+    "id": "world-india-2024",
+    "data": {
+      "id": "world-india-2024",
+      "body": "Lok Sabha",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Voting took place in multiple phases. Party results have not yet been imported.",
+      "round": "",
+      "title": "Lok Sabha",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "2024-06-01",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/elections/id/4250/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "in",
+      "precision": "day",
+      "startDate": "2024-04-19",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": 543,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-denmark-2026",
+    "data": {
+      "id": "world-denmark-2026",
+      "body": "Folketing",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Election date entered from IFES ElectionGuide. Results have not yet been imported.",
+      "round": "",
+      "title": "Folketing",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/elections/type/past/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "dk",
+      "precision": "day",
+      "startDate": "2026-03-24",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-morocco-2026",
+    "data": {
+      "id": "world-morocco-2026",
+      "body": "House of Representatives",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Election date entered from IFES ElectionGuide. Results have not yet been imported.",
+      "round": "",
+      "title": "House of Representatives",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/elections/type/past/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "ma",
+      "precision": "day",
+      "startDate": "2026-09-23",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-sweden-2026",
+    "data": {
+      "id": "world-sweden-2026",
+      "body": "Riksdag",
+      "snap": false,
+      "type": "parliamentary",
+      "notes": "Election date entered from IFES ElectionGuide. Results have not yet been imported.",
+      "round": "",
+      "title": "Riksdag",
+      "status": "held",
+      "checked": "2026-10-01",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.electionguide.org/elections/type/past/",
+          "label": "IFES ElectionGuide"
+        }
+      ],
+      "summary": "",
+      "turnout": null,
+      "version": 0,
+      "seriesId": "",
+      "articleId": "",
+      "countryId": "se",
+      "precision": "day",
+      "startDate": "2026-09-13",
+      "voteBasis": "National vote share",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-nepal-national-assembly-2018",
+    "data": {
+      "id": "world-nepal-national-assembly-2018",
+      "body": "National Assembly",
+      "snap": true,
+      "type": "parliamentary",
+      "notes": "The initial National Assembly had 56 indirectly elected members and three appointed members; party seat breakdown remains to be verified.",
+      "round": "Indirect election",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-07",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://data.ipu.org/parliament/NP/NP-UC01/election/NP-UC01-E20180207/",
+          "label": "Inter-Parliamentary Union (IPU) election record"
+        }
+      ],
+      "summary": "Nepal's 2018 indirect National Assembly election. The upper chamber is chosen by provincial and local elected representatives, with a separate appointed component.",
+      "turnout": null,
+      "version": 3,
+      "seriesId": "nepal-national-assembly",
+      "articleId": "",
+      "countryId": "np",
+      "precision": "day",
+      "startDate": "2018-02-07",
+      "voteBasis": "",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": 56,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "indirect",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-nepal-national-assembly-2020",
+    "data": {
+      "id": "world-nepal-national-assembly-2020",
+      "body": "National Assembly",
+      "snap": true,
+      "type": "parliamentary",
+      "notes": "This was a partial renewal. Eighteen seats were indirectly elected; a nineteenth seat in the renewal cohort was appointed. Party seat breakdown remains to be verified.",
+      "round": "Indirect election",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-07",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://data.ipu.org/parliament/NP/NP-UC01/election/NP-UC01-E20200123/",
+          "label": "Inter-Parliamentary Union (IPU) election record"
+        }
+      ],
+      "summary": "Nepal's 2020 indirect National Assembly election. The upper chamber is chosen by provincial and local elected representatives, with a separate appointed component.",
+      "turnout": null,
+      "version": 3,
+      "seriesId": "nepal-national-assembly",
+      "articleId": "",
+      "countryId": "np",
+      "precision": "day",
+      "startDate": "2020-01-23",
+      "voteBasis": "",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": 19,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "indirect",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-nepal-national-assembly-2022",
+    "data": {
+      "id": "world-nepal-national-assembly-2022",
+      "body": "National Assembly",
+      "snap": true,
+      "type": "parliamentary",
+      "notes": "This was a partial renewal. Eighteen seats were indirectly elected; a nineteenth seat in the renewal cohort was appointed. Party seat breakdown remains to be verified.",
+      "round": "Indirect election",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-07",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://data.ipu.org/parliament/NP/NP-UC01/election/NP-UC01-E20220126/",
+          "label": "Inter-Parliamentary Union (IPU) election record"
+        }
+      ],
+      "summary": "Nepal's 2022 indirect National Assembly election. The upper chamber is chosen by provincial and local elected representatives, with a separate appointed component.",
+      "turnout": null,
+      "version": 3,
+      "seriesId": "nepal-national-assembly",
+      "articleId": "",
+      "countryId": "np",
+      "precision": "day",
+      "startDate": "2022-01-26",
+      "voteBasis": "",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": 19,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "indirect",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-nepal-national-assembly-2024",
+    "data": {
+      "id": "world-nepal-national-assembly-2024",
+      "body": "National Assembly",
+      "snap": true,
+      "type": "parliamentary",
+      "notes": "This was a partial renewal. Eighteen seats were indirectly elected; a nineteenth seat in the renewal cohort was appointed. Party seat breakdown remains to be verified.",
+      "round": "Indirect election",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-07",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://data.ipu.org/parliament/NP/NP-UC01/election/NP-UC01-E20240125/",
+          "label": "Inter-Parliamentary Union (IPU) election record"
+        }
+      ],
+      "summary": "Nepal's 2024 indirect National Assembly election. The upper chamber is chosen by provincial and local elected representatives, with a separate appointed component.",
+      "turnout": null,
+      "version": 3,
+      "seriesId": "nepal-national-assembly",
+      "articleId": "",
+      "countryId": "np",
+      "precision": "day",
+      "startDate": "2024-01-25",
+      "voteBasis": "",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": 19,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "indirect",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-nepal-national-assembly-2026",
+    "data": {
+      "id": "world-nepal-national-assembly-2026",
+      "body": "National Assembly",
+      "snap": true,
+      "type": "parliamentary",
+      "notes": "This was a partial renewal. Eighteen seats were indirectly elected; a nineteenth seat in the renewal cohort was appointed. Party seat breakdown remains to be verified.",
+      "round": "Indirect election",
+      "title": "National Assembly",
+      "status": "held",
+      "checked": "2026-10-07",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://data.ipu.org/parliament/NP/NP-UC01/election/NP-UC01-E20260125/",
+          "label": "Inter-Parliamentary Union (IPU) election record"
+        }
+      ],
+      "summary": "Nepal's 2026 indirect National Assembly election. The upper chamber is chosen by provincial and local elected representatives, with a separate appointed component.",
+      "turnout": null,
+      "version": 3,
+      "seriesId": "nepal-national-assembly",
+      "articleId": "",
+      "countryId": "np",
+      "precision": "day",
+      "startDate": "2026-01-25",
+      "voteBasis": "",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": 19,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "indirect",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-tunisia-2014-11-23-presidential-election",
+    "data": {
+      "id": "world-tunisia-2014-11-23-presidential-election",
+      "body": "Presidential election",
+      "snap": true,
+      "type": "presidential",
+      "notes": "First round of the first direct presidential election after the revolution. Beji Caid Essebsi and Moncef Marzouki advanced.",
+      "round": "First round",
+      "title": "Presidential election",
+      "status": "held",
+      "checked": "2026-10-07",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.isie.tn/en/isie/election-and-referendum-reports/",
+          "label": "Inter-Parliamentary Union"
+        }
+      ],
+      "summary": "Presidential election in Tunisia, 2014.",
+      "turnout": null,
+      "version": 3,
+      "seriesId": "TN-PRES-2014",
+      "articleId": "",
+      "countryId": "tn",
+      "precision": "day",
+      "startDate": "2014-11-23",
+      "voteBasis": "",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "direct",
+      "resultCoverage": "partial"
+    }
+  },
+  {
+    "id": "world-tunisia-2019-09-15-presidential-election",
+    "data": {
+      "id": "world-tunisia-2019-09-15-presidential-election",
+      "body": "Presidential election",
+      "snap": true,
+      "type": "presidential",
+      "notes": "Kais Saied and Nabil Karoui advanced from a field of 26 candidates.",
+      "round": "First round",
+      "title": "Presidential election",
+      "status": "held",
+      "checked": "2026-10-07",
+      "endDate": "",
+      "results": [],
+      "sources": [
+        {
+          "url": "https://www.isie.tn/en/isie/election-and-referendum-reports/",
+          "label": "Inter-Parliamentary Union"
+        }
+      ],
+      "summary": "Presidential election in Tunisia, 2019.",
+      "turnout": null,
+      "version": 3,
+      "seriesId": "TN-PRES-2019",
+      "articleId": "",
+      "countryId": "tn",
+      "precision": "day",
+      "startDate": "2019-09-15",
+      "voteBasis": "",
+      "dateStatus": "confirmed",
+      "government": "",
+      "totalSeats": null,
+      "publication": "published",
+      "resultStatus": "not-entered",
+      "electionMethod": "direct",
+      "resultCoverage": "partial"
+    }
+  }
+]

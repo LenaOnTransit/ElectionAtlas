@@ -1,0 +1,135 @@
+[
+  {
+    "id": "world-south-africa-1999",
+    "rows": 16,
+    "votes": 15977142,
+    "seats": 400,
+    "officialVoteRowsChecked": 16,
+    "htmlSha256": "64a9ab54cd54874682ef428f86da1659d44bd492bd84d42dac08353667785f4c"
+  },
+  {
+    "id": "world-south-africa-2004",
+    "rows": 21,
+    "votes": 15612671,
+    "seats": 400,
+    "officialVoteRowsChecked": 21,
+    "htmlSha256": "8468eba0e1eece33210d2d004224f2aec078a55d0f054c04342cef995bf4ac78"
+  },
+  {
+    "id": "world-south-africa-2009",
+    "rows": 26,
+    "votes": 17680729,
+    "seats": 400,
+    "officialVoteRowsChecked": 26,
+    "htmlSha256": "0c2cde0ea8895e5f8d4ddfbeca186525e22d14d154bba58e25eb3f2d2c0f0f0e"
+  },
+  {
+    "id": "world-south-africa-2014",
+    "rows": 29,
+    "votes": 18402497,
+    "seats": 400,
+    "officialVoteRowsChecked": 29,
+    "htmlSha256": "de40d8fb6d78bf9847d6248cecb6cc81c5fd9021f5e1ddb7cd08e52db4a63c2a"
+  },
+  {
+    "id": "world-south-africa-2019",
+    "rows": 48,
+    "votes": 17437379,
+    "seats": 400,
+    "officialVoteRowsChecked": 48,
+    "htmlSha256": "d53d660637a970447a894a37d3c2b9538a8be452e3b415505a3cd9c5213db371"
+  },
+  {
+    "id": "world-india-2024",
+    "rows": 42,
+    "seats": 543,
+    "coverage": "partial",
+    "htmlSha256": "10a7c89cf531ebd02520842d4612292253499291ce22859663246089ed5540f1"
+  },
+  {
+    "id": "world-brazil-president-2022-first",
+    "rows": 11,
+    "votes": 118229719,
+    "htmlSha256": "94ee08229addb8fcfea18ff489cdcb4f93bb918fc4a751d4fbf8ae0ad13922eb"
+  },
+  {
+    "id": "world-sweden-2026",
+    "rows": 9,
+    "seats": 349,
+    "shareTotal": 99.99000000000001,
+    "source": "https://www.val.se/english/election-results/elections-to-the-riksdag-and-regional-and-municipal-councils/election-results-2026"
+  },
+  {
+    "id": "world-denmark-2026",
+    "rows": 13,
+    "votes": 3567625,
+    "seats": 175,
+    "expectedChamberSeats": 179,
+    "coverage": "partial",
+    "htmlSha256": "ff173f8bce89522a29ffa53784d6337bbc184725a52b286492b07344c04e52bb"
+  },
+  {
+    "id": "world-morocco-2026",
+    "rows": 14,
+    "seats": 395,
+    "status": "provisional",
+    "coverage": "partial",
+    "source": "https://maroc.ma/en/news/2026-legislative-elections-pam-leads-97-seats-according-preliminary-results-minister-interior"
+  },
+  {
+    "id": "world-nepal-national-assembly-2018",
+    "rows": 5,
+    "seats": 56,
+    "expectedChamberSeats": 59,
+    "coverage": "partial",
+    "source": "https://kathmandupost.com/national/2018/02/09/left-alliance-commands-two-thirds-majority-in-na"
+  },
+  {
+    "id": "world-nepal-national-assembly-2020",
+    "rows": 2,
+    "seats": 18,
+    "expectedChamberSeats": 59,
+    "coverage": "partial",
+    "source": "https://english.onlinekhabar.com/ncp-regional-ally-sweep-national-assembly-polls.html"
+  },
+  {
+    "id": "world-nepal-national-assembly-2022",
+    "rows": 6,
+    "seats": 19,
+    "expectedChamberSeats": 59,
+    "coverage": "partial",
+    "source": "https://kathmandupost.com/national/2022/01/27/uml-the-main-sufferer-yet-a-winner-in-national-assembly-elections"
+  },
+  {
+    "id": "world-nepal-national-assembly-2024",
+    "rows": 5,
+    "seats": 19,
+    "expectedChamberSeats": 59,
+    "coverage": "partial",
+    "source": "https://radionepalonline.com/en/2024/01/25/371109.html"
+  },
+  {
+    "id": "world-nepal-national-assembly-2026",
+    "rows": 3,
+    "seats": 18,
+    "expectedChamberSeats": 59,
+    "coverage": "partial",
+    "source": "https://radionepalonline.com/en/2026/01/25/423848.html"
+  },
+  {
+    "id": "world-tunisia-2014-11-23-presidential-election",
+    "rows": 27,
+    "votes": 3267569,
+    "verifiedCandidatePairs": 27,
+    "source": "https://www.cartercenter.org/publication/final-report-legislative-and-presidential-elections-in-tunisia-october-november-and-december-2014/",
+    "htmlSha256": "21746026af1adec04b98e3a6370702a21cd362415c3bc08a3db2fb9de490dfd7"
+  },
+  {
+    "id": "world-tunisia-2019-09-15-presidential-election",
+    "rows": 26,
+    "votes": 3372973,
+    "verifiedCandidatePairs": 26,
+    "source": "https://9anoun.tn/kb/jorts/jort-2019-080-fa973/decision-de-linstance-superieure-independante-pour-les-elections-ndeg-2019-27-du-2-octobre-2019-portant-proclamation-des-resultats-definitifs-du-premier-tour-des-elections-presiden-30ecc15b0f3bf6a4cadcb3ebf291a061",
+    "htmlSha256": "a2b7be356b6f464e154ee9a06b7fc46450177fc38a1f2e3a30a62988a3802f18"
+  }
+]
