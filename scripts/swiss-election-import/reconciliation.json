@@ -1,0 +1,3557 @@
+[
+  {
+    "id": "world-switzerland-national-council-1848-10-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 111,
+    "recordedSeats": 111,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1848_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1848-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1848_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1851-10-26",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 120,
+    "recordedSeats": 120,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1851_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1851-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1851_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1854-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 120,
+    "recordedSeats": 120,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1854_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1854-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1854_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1857-10-25",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 120,
+    "recordedSeats": 120,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1857_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1857-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1857_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1860-10-28",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 107,
+    "recordedSeats": 107,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1860_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1860-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1860_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1863-10-25",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 128,
+    "recordedSeats": 128,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1863_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1863-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1863_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1866-10-28",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 128,
+    "recordedSeats": 128,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1866_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1866-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1866_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1869-10-31",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 113,
+    "recordedSeats": 113,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1869_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1869-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1869_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1872-10-27",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 135,
+    "recordedSeats": 135,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1872_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1872-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1872_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1875-10-31",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 135,
+    "recordedSeats": 135,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1875_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1875-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1875_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1878-10-27",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 135,
+    "recordedSeats": 135,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1878_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1878-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1878_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1881-10-30",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 145,
+    "recordedSeats": 145,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1881_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1881-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1881_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1884-10-26",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 145,
+    "recordedSeats": 145,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1884_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1884-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1884_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1887-10-30",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 145,
+    "recordedSeats": 145,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1887_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1890-10-26",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1890_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1890-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1890_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1893-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1893_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1893-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1893_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1896-10-25",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1896_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1899-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1899_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1902-10-26",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 167,
+    "recordedSeats": 167,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1902_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1905-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 167,
+    "recordedSeats": 167,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1905_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1908-10-25",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 167,
+    "recordedSeats": 167,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1908_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1911-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 189,
+    "recordedSeats": 189,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1911_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1914-10-25",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 189,
+    "recordedSeats": 189,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1914_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1914-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1914_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1917-10-28",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 189,
+    "recordedSeats": 189,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1917_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1919-10-26",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 189,
+    "recordedSeats": 189,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1919_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1919-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1919_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1922-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 198,
+    "recordedSeats": 198,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1922_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1922-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1922"
+  },
+  {
+    "id": "world-switzerland-national-council-1925-10-25",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 198,
+    "recordedSeats": 198,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1925_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1925-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1925_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1928-10-28",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 198,
+    "recordedSeats": 198,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1928_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1928-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1928_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1931-10-25",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 187,
+    "recordedSeats": 187,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1931_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1931-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1931_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-1935-10-27",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 187,
+    "recordedSeats": 187,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1935_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1935-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1935"
+  },
+  {
+    "id": "world-switzerland-national-council-1939-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 187,
+    "recordedSeats": 187,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1939_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1939-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 43,
+    "coverage": "partial",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1939"
+  },
+  {
+    "id": "world-switzerland-national-council-1943-10-31",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 194,
+    "recordedSeats": 194,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1943_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1943-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1943"
+  },
+  {
+    "id": "world-switzerland-national-council-1947-10-26",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 194,
+    "recordedSeats": 194,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1947_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1947-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1947"
+  },
+  {
+    "id": "world-switzerland-national-council-1951-10-28",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 196,
+    "recordedSeats": 196,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1951_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1951-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1951"
+  },
+  {
+    "id": "world-switzerland-national-council-1955-10-30",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 196,
+    "recordedSeats": 196,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1955_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1955-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1955"
+  },
+  {
+    "id": "world-switzerland-national-council-1959-10-25",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 196,
+    "recordedSeats": 196,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1959_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1959-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1959"
+  },
+  {
+    "id": "world-switzerland-national-council-1963-10-27",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1963_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1963-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1963"
+  },
+  {
+    "id": "world-switzerland-national-council-1967-10-29",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1967_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-states-1967-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1967"
+  },
+  {
+    "id": "world-switzerland-national-council-1971-10-31",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-1971-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1971"
+  },
+  {
+    "id": "world-switzerland-national-council-1975-10-26",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-1975-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 44,
+    "recordedSeats": 44,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1975"
+  },
+  {
+    "id": "world-switzerland-national-council-1979-10-21",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-1979-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1979"
+  },
+  {
+    "id": "world-switzerland-national-council-1983-10-23",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-1983-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1983"
+  },
+  {
+    "id": "world-switzerland-national-council-1987-10-18",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-1987-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1987"
+  },
+  {
+    "id": "world-switzerland-national-council-1991-10-20",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-1991-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1991"
+  },
+  {
+    "id": "world-switzerland-national-council-1995-10-22",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-1995-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1995"
+  },
+  {
+    "id": "world-switzerland-national-council-1999-10-24",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-1999-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1999"
+  },
+  {
+    "id": "world-switzerland-national-council-2003-10-19",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-2003-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_2003"
+  },
+  {
+    "id": "world-switzerland-national-council-2007-10-21",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-2007-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-2011-10-23",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-2011-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-2015-10-18",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-2015-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-2019-10-20",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-2019-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-national-council-2023-10-22",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "coverage": "complete",
+    "source": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px"
+  },
+  {
+    "id": "world-switzerland-states-2023-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 46,
+    "recordedSeats": 46,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_federal_election"
+  },
+  {
+    "id": "world-switzerland-president-for-1848-49",
+    "expectedVotes": null,
+    "recordedVotes": 88,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1850",
+    "expectedVotes": null,
+    "recordedVotes": 76,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1851",
+    "expectedVotes": null,
+    "recordedVotes": 76,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1852",
+    "expectedVotes": null,
+    "recordedVotes": 101,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1853",
+    "expectedVotes": null,
+    "recordedVotes": 100,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1854",
+    "expectedVotes": null,
+    "recordedVotes": 65,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1855",
+    "expectedVotes": null,
+    "recordedVotes": 107,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1856",
+    "expectedVotes": null,
+    "recordedVotes": 111,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1857",
+    "expectedVotes": null,
+    "recordedVotes": 89,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1858",
+    "expectedVotes": null,
+    "recordedVotes": 112,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1859",
+    "expectedVotes": null,
+    "recordedVotes": 68,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1860",
+    "expectedVotes": null,
+    "recordedVotes": 66,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1861",
+    "expectedVotes": null,
+    "recordedVotes": 80,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1862",
+    "expectedVotes": null,
+    "recordedVotes": 94,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1863",
+    "expectedVotes": null,
+    "recordedVotes": 86,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1864",
+    "expectedVotes": null,
+    "recordedVotes": 128,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1865",
+    "expectedVotes": null,
+    "recordedVotes": 105,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1866",
+    "expectedVotes": null,
+    "recordedVotes": 95,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1867",
+    "expectedVotes": null,
+    "recordedVotes": 87,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1868",
+    "expectedVotes": null,
+    "recordedVotes": 124,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1869",
+    "expectedVotes": null,
+    "recordedVotes": 118,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1870",
+    "expectedVotes": null,
+    "recordedVotes": 122,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1871",
+    "expectedVotes": null,
+    "recordedVotes": 103,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1872",
+    "expectedVotes": null,
+    "recordedVotes": 105,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1873",
+    "expectedVotes": null,
+    "recordedVotes": 120,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1874",
+    "expectedVotes": null,
+    "recordedVotes": 80,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1875",
+    "expectedVotes": null,
+    "recordedVotes": 102,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1876",
+    "expectedVotes": null,
+    "recordedVotes": 139,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1877",
+    "expectedVotes": null,
+    "recordedVotes": 136,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1878",
+    "expectedVotes": null,
+    "recordedVotes": 103,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1879",
+    "expectedVotes": null,
+    "recordedVotes": 143,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1880",
+    "expectedVotes": null,
+    "recordedVotes": 133,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1881",
+    "expectedVotes": null,
+    "recordedVotes": 151,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1882",
+    "expectedVotes": null,
+    "recordedVotes": 110,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1883",
+    "expectedVotes": null,
+    "recordedVotes": 121,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1884",
+    "expectedVotes": null,
+    "recordedVotes": 133,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1885",
+    "expectedVotes": null,
+    "recordedVotes": 102,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1886",
+    "expectedVotes": null,
+    "recordedVotes": 149,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1887",
+    "expectedVotes": null,
+    "recordedVotes": 140,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1888",
+    "expectedVotes": null,
+    "recordedVotes": 145,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1889",
+    "expectedVotes": null,
+    "recordedVotes": 154,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1890",
+    "expectedVotes": null,
+    "recordedVotes": 149,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1891",
+    "expectedVotes": null,
+    "recordedVotes": 144,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1892",
+    "expectedVotes": null,
+    "recordedVotes": 165,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1893",
+    "expectedVotes": null,
+    "recordedVotes": 152,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1894",
+    "expectedVotes": null,
+    "recordedVotes": 132,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1895",
+    "expectedVotes": null,
+    "recordedVotes": 128,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1896",
+    "expectedVotes": null,
+    "recordedVotes": 147,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1897",
+    "expectedVotes": null,
+    "recordedVotes": 149,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1898",
+    "expectedVotes": null,
+    "recordedVotes": 133,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1899",
+    "expectedVotes": null,
+    "recordedVotes": 134,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1900",
+    "expectedVotes": null,
+    "recordedVotes": 160,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1901",
+    "expectedVotes": null,
+    "recordedVotes": 157,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1902",
+    "expectedVotes": null,
+    "recordedVotes": 151,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1903",
+    "expectedVotes": null,
+    "recordedVotes": 173,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1904",
+    "expectedVotes": null,
+    "recordedVotes": 165,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1905",
+    "expectedVotes": null,
+    "recordedVotes": 175,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1906",
+    "expectedVotes": null,
+    "recordedVotes": 131,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1907",
+    "expectedVotes": null,
+    "recordedVotes": 163,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1908",
+    "expectedVotes": null,
+    "recordedVotes": 186,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1909",
+    "expectedVotes": null,
+    "recordedVotes": 147,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1910",
+    "expectedVotes": null,
+    "recordedVotes": 148,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1911",
+    "expectedVotes": null,
+    "recordedVotes": 160,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1912",
+    "expectedVotes": null,
+    "recordedVotes": 198,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1913",
+    "expectedVotes": null,
+    "recordedVotes": 99,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1914",
+    "expectedVotes": null,
+    "recordedVotes": 180,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1915",
+    "expectedVotes": null,
+    "recordedVotes": 181,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1916",
+    "expectedVotes": null,
+    "recordedVotes": 185,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1917",
+    "expectedVotes": null,
+    "recordedVotes": 176,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1918",
+    "expectedVotes": null,
+    "recordedVotes": 176,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1919",
+    "expectedVotes": null,
+    "recordedVotes": 142,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1920",
+    "expectedVotes": null,
+    "recordedVotes": 169,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1921",
+    "expectedVotes": null,
+    "recordedVotes": 136,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1922",
+    "expectedVotes": null,
+    "recordedVotes": 154,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1923",
+    "expectedVotes": null,
+    "recordedVotes": 172,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1924",
+    "expectedVotes": null,
+    "recordedVotes": 189,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1925",
+    "expectedVotes": null,
+    "recordedVotes": 172,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1926",
+    "expectedVotes": null,
+    "recordedVotes": 151,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1927",
+    "expectedVotes": null,
+    "recordedVotes": 155,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1928",
+    "expectedVotes": null,
+    "recordedVotes": 156,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1929",
+    "expectedVotes": null,
+    "recordedVotes": 178,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1930",
+    "expectedVotes": null,
+    "recordedVotes": 143,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1931",
+    "expectedVotes": null,
+    "recordedVotes": 158,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1932",
+    "expectedVotes": null,
+    "recordedVotes": 160,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1933",
+    "expectedVotes": null,
+    "recordedVotes": 165,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1934",
+    "expectedVotes": null,
+    "recordedVotes": 137,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1935",
+    "expectedVotes": null,
+    "recordedVotes": 139,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1936",
+    "expectedVotes": null,
+    "recordedVotes": 153,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1937",
+    "expectedVotes": null,
+    "recordedVotes": 157,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1938",
+    "expectedVotes": null,
+    "recordedVotes": 153,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1939",
+    "expectedVotes": null,
+    "recordedVotes": 150,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1940",
+    "expectedVotes": null,
+    "recordedVotes": 142,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1941",
+    "expectedVotes": null,
+    "recordedVotes": 176,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1942",
+    "expectedVotes": null,
+    "recordedVotes": 152,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1943",
+    "expectedVotes": null,
+    "recordedVotes": 153,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1944",
+    "expectedVotes": null,
+    "recordedVotes": 197,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1945",
+    "expectedVotes": null,
+    "recordedVotes": 192,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1946",
+    "expectedVotes": null,
+    "recordedVotes": 165,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1947",
+    "expectedVotes": null,
+    "recordedVotes": 148,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1948",
+    "expectedVotes": null,
+    "recordedVotes": 172,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1949",
+    "expectedVotes": null,
+    "recordedVotes": 192,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1950",
+    "expectedVotes": null,
+    "recordedVotes": 195,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1951",
+    "expectedVotes": null,
+    "recordedVotes": 167,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1952",
+    "expectedVotes": null,
+    "recordedVotes": 179,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1953",
+    "expectedVotes": null,
+    "recordedVotes": 156,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1954",
+    "expectedVotes": null,
+    "recordedVotes": 185,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1955",
+    "expectedVotes": null,
+    "recordedVotes": 197,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1956",
+    "expectedVotes": null,
+    "recordedVotes": 161,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1957",
+    "expectedVotes": null,
+    "recordedVotes": 175,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1958",
+    "expectedVotes": null,
+    "recordedVotes": 158,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1959",
+    "expectedVotes": null,
+    "recordedVotes": 180,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1960",
+    "expectedVotes": null,
+    "recordedVotes": 179,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1961",
+    "expectedVotes": null,
+    "recordedVotes": 200,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1962",
+    "expectedVotes": null,
+    "recordedVotes": 185,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1963",
+    "expectedVotes": null,
+    "recordedVotes": 179,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1964",
+    "expectedVotes": null,
+    "recordedVotes": 178,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1965",
+    "expectedVotes": null,
+    "recordedVotes": 200,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1966",
+    "expectedVotes": null,
+    "recordedVotes": 198,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1967",
+    "expectedVotes": null,
+    "recordedVotes": 181,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1968",
+    "expectedVotes": null,
+    "recordedVotes": 148,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1969",
+    "expectedVotes": null,
+    "recordedVotes": 166,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1970",
+    "expectedVotes": null,
+    "recordedVotes": 213,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1971",
+    "expectedVotes": null,
+    "recordedVotes": 180,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1972",
+    "expectedVotes": null,
+    "recordedVotes": 179,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1973",
+    "expectedVotes": null,
+    "recordedVotes": 174,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1974",
+    "expectedVotes": null,
+    "recordedVotes": 198,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1975",
+    "expectedVotes": null,
+    "recordedVotes": 187,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1976",
+    "expectedVotes": null,
+    "recordedVotes": 180,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1977",
+    "expectedVotes": null,
+    "recordedVotes": 190,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1978",
+    "expectedVotes": null,
+    "recordedVotes": 213,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1979",
+    "expectedVotes": null,
+    "recordedVotes": 212,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1980",
+    "expectedVotes": null,
+    "recordedVotes": 183,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1981",
+    "expectedVotes": null,
+    "recordedVotes": 191,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1982",
+    "expectedVotes": null,
+    "recordedVotes": 210,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1983",
+    "expectedVotes": null,
+    "recordedVotes": 193,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1984",
+    "expectedVotes": null,
+    "recordedVotes": 187,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1985",
+    "expectedVotes": null,
+    "recordedVotes": 177,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1986",
+    "expectedVotes": null,
+    "recordedVotes": 198,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1987",
+    "expectedVotes": null,
+    "recordedVotes": 186,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1988",
+    "expectedVotes": null,
+    "recordedVotes": 165,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1989",
+    "expectedVotes": null,
+    "recordedVotes": 201,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1990",
+    "expectedVotes": null,
+    "recordedVotes": 194,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1991",
+    "expectedVotes": null,
+    "recordedVotes": 161,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1992",
+    "expectedVotes": null,
+    "recordedVotes": 158,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1993",
+    "expectedVotes": null,
+    "recordedVotes": 185,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1994",
+    "expectedVotes": null,
+    "recordedVotes": 167,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1995",
+    "expectedVotes": null,
+    "recordedVotes": 186,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1996",
+    "expectedVotes": null,
+    "recordedVotes": 165,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1997",
+    "expectedVotes": null,
+    "recordedVotes": 171,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1998",
+    "expectedVotes": null,
+    "recordedVotes": 173,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1999",
+    "expectedVotes": null,
+    "recordedVotes": 158,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-2026",
+    "expectedVotes": null,
+    "recordedVotes": 203,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2025",
+    "expectedVotes": null,
+    "recordedVotes": 168,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2024",
+    "expectedVotes": null,
+    "recordedVotes": 158,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2023",
+    "expectedVotes": null,
+    "recordedVotes": 140,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2022",
+    "expectedVotes": null,
+    "recordedVotes": 156,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2021",
+    "expectedVotes": null,
+    "recordedVotes": 188,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2020",
+    "expectedVotes": null,
+    "recordedVotes": 186,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2019",
+    "expectedVotes": null,
+    "recordedVotes": 201,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2018",
+    "expectedVotes": null,
+    "recordedVotes": 190,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2017",
+    "expectedVotes": null,
+    "recordedVotes": 188,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2016",
+    "expectedVotes": null,
+    "recordedVotes": 196,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2015",
+    "expectedVotes": null,
+    "recordedVotes": 181,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2014",
+    "expectedVotes": null,
+    "recordedVotes": 183,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2013",
+    "expectedVotes": null,
+    "recordedVotes": 148,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2012",
+    "expectedVotes": null,
+    "recordedVotes": 174,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2011",
+    "expectedVotes": null,
+    "recordedVotes": 106,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2010",
+    "expectedVotes": null,
+    "recordedVotes": 158,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2009",
+    "expectedVotes": null,
+    "recordedVotes": 185,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2008",
+    "expectedVotes": null,
+    "recordedVotes": 197,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2007",
+    "expectedVotes": null,
+    "recordedVotes": 147,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2006",
+    "expectedVotes": null,
+    "recordedVotes": 159,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2005",
+    "expectedVotes": null,
+    "recordedVotes": 174,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2004",
+    "expectedVotes": null,
+    "recordedVotes": 174,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2003",
+    "expectedVotes": null,
+    "recordedVotes": 166,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2002",
+    "expectedVotes": null,
+    "recordedVotes": 183,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2001",
+    "expectedVotes": null,
+    "recordedVotes": 187,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-2000",
+    "expectedVotes": null,
+    "recordedVotes": 176,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen"
+  },
+  {
+    "id": "world-switzerland-president-for-1870-original",
+    "expectedVotes": null,
+    "recordedVotes": 121,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-president-for-1881-original",
+    "expectedVotes": null,
+    "recordedVotes": 101,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236"
+  },
+  {
+    "id": "world-switzerland-federal-council-1848-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1851-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1854-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1857-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1860-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1863-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1866-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1869-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1872-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1875-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1878-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1881-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1884-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1887-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1890-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1893-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1896-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1899-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1902-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1905-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1908-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1911-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1914-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1917-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1919-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1922-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1925-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1928-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1931-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1935-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1939-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1943-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1947-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1951-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1955-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1959-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1963-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1967-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1971-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1975-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1979-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1983-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1987-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1991-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1995-01-01",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx"
+  },
+  {
+    "id": "world-switzerland-federal-council-1999-12-15-seat-1-ballot-1",
+    "expectedVotes": 229,
+    "recordedVotes": 229,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-1999-12-15-seat-2-ballot-1",
+    "expectedVotes": 233,
+    "recordedVotes": 233,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-1999-12-15-seat-3-ballot-1",
+    "expectedVotes": 235,
+    "recordedVotes": 235,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-1999-12-15-seat-4-ballot-1",
+    "expectedVotes": 235,
+    "recordedVotes": 235,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-1999-12-15-seat-5-ballot-1",
+    "expectedVotes": 224,
+    "recordedVotes": 224,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-1999-12-15-seat-6-ballot-1",
+    "expectedVotes": 231,
+    "recordedVotes": 231,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-1999-12-15-seat-7-ballot-1",
+    "expectedVotes": 229,
+    "recordedVotes": 229,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-1999-12-15",
+    "expectedVotes": null,
+    "recordedVotes": 1121,
+    "expectedSeats": 7,
+    "recordedSeats": 7,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-1-ballot-1",
+    "expectedVotes": 234,
+    "recordedVotes": 234,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-2-ballot-1",
+    "expectedVotes": 230,
+    "recordedVotes": 230,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-3-ballot-1",
+    "expectedVotes": 240,
+    "recordedVotes": 240,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-3-ballot-2",
+    "expectedVotes": 241,
+    "recordedVotes": 241,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-3-ballot-3",
+    "expectedVotes": 237,
+    "recordedVotes": 237,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-4-ballot-1",
+    "expectedVotes": 241,
+    "recordedVotes": 241,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-5-ballot-1",
+    "expectedVotes": 204,
+    "recordedVotes": 204,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-6-ballot-1",
+    "expectedVotes": 226,
+    "recordedVotes": 226,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-7-ballot-1",
+    "expectedVotes": 241,
+    "recordedVotes": 241,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10-seat-7-ballot-2",
+    "expectedVotes": 239,
+    "recordedVotes": 239,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2003-12-10",
+    "expectedVotes": null,
+    "recordedVotes": 1148,
+    "expectedSeats": 7,
+    "recordedSeats": 7,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12-seat-1-ballot-1",
+    "expectedVotes": 178,
+    "recordedVotes": 178,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12-seat-2-ballot-1",
+    "expectedVotes": 231,
+    "recordedVotes": 231,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12-seat-3-ballot-1",
+    "expectedVotes": 219,
+    "recordedVotes": 219,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12-seat-4-ballot-1",
+    "expectedVotes": 180,
+    "recordedVotes": 180,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12-seat-5-ballot-1",
+    "expectedVotes": 238,
+    "recordedVotes": 238,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12-seat-5-ballot-2",
+    "expectedVotes": 242,
+    "recordedVotes": 242,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12-seat-6-ballot-1",
+    "expectedVotes": 233,
+    "recordedVotes": 233,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12-seat-7-ballot-1",
+    "expectedVotes": 191,
+    "recordedVotes": 191,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2007-12-12",
+    "expectedVotes": null,
+    "recordedVotes": 1214,
+    "expectedSeats": 7,
+    "recordedSeats": 7,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14-seat-1-ballot-1",
+    "expectedVotes": 227,
+    "recordedVotes": 227,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14-seat-2-ballot-1",
+    "expectedVotes": 239,
+    "recordedVotes": 239,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14-seat-3-ballot-1",
+    "expectedVotes": 226,
+    "recordedVotes": 226,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14-seat-4-ballot-1",
+    "expectedVotes": 232,
+    "recordedVotes": 232,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14-seat-5-ballot-1",
+    "expectedVotes": 242,
+    "recordedVotes": 242,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14-seat-6-ballot-1",
+    "expectedVotes": 234,
+    "recordedVotes": 234,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14-seat-7-ballot-1",
+    "expectedVotes": 243,
+    "recordedVotes": 243,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14-seat-7-ballot-2",
+    "expectedVotes": 245,
+    "recordedVotes": 245,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2011-12-14",
+    "expectedVotes": null,
+    "recordedVotes": 1164,
+    "expectedSeats": 7,
+    "recordedSeats": 7,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-1-ballot-1",
+    "expectedVotes": 234,
+    "recordedVotes": 234,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-2-ballot-1",
+    "expectedVotes": 210,
+    "recordedVotes": 210,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-3-ballot-1",
+    "expectedVotes": 231,
+    "recordedVotes": 231,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-4-ballot-1",
+    "expectedVotes": 221,
+    "recordedVotes": 221,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-5-ballot-1",
+    "expectedVotes": 219,
+    "recordedVotes": 219,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-6-ballot-1",
+    "expectedVotes": 233,
+    "recordedVotes": 233,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-7-ballot-1",
+    "expectedVotes": 243,
+    "recordedVotes": 243,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-7-ballot-2",
+    "expectedVotes": 239,
+    "recordedVotes": 239,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09-seat-7-ballot-3",
+    "expectedVotes": 237,
+    "recordedVotes": 237,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2015-12-09",
+    "expectedVotes": null,
+    "recordedVotes": 1326,
+    "expectedSeats": 7,
+    "recordedSeats": 7,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2019-12-11-seat-1-ballot-1",
+    "expectedVotes": 221,
+    "recordedVotes": 221,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2019-12-11-seat-2-ballot-1",
+    "expectedVotes": 218,
+    "recordedVotes": 218,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2019-12-11-seat-3-ballot-1",
+    "expectedVotes": 230,
+    "recordedVotes": 230,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2019-12-11-seat-4-ballot-1",
+    "expectedVotes": 204,
+    "recordedVotes": 204,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2019-12-11-seat-5-ballot-1",
+    "expectedVotes": 238,
+    "recordedVotes": 238,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2019-12-11-seat-6-ballot-1",
+    "expectedVotes": 232,
+    "recordedVotes": 232,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2019-12-11-seat-7-ballot-1",
+    "expectedVotes": 206,
+    "recordedVotes": 206,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2019-12-11",
+    "expectedVotes": null,
+    "recordedVotes": 1342,
+    "expectedSeats": 7,
+    "recordedSeats": 7,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-1-ballot-1",
+    "expectedVotes": 243,
+    "recordedVotes": 243,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-1-ballot-2",
+    "expectedVotes": 246,
+    "recordedVotes": 246,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-1-ballot-3",
+    "expectedVotes": 245,
+    "recordedVotes": 245,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-2-ballot-1",
+    "expectedVotes": 233,
+    "recordedVotes": 233,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-3-ballot-1",
+    "expectedVotes": 239,
+    "recordedVotes": 239,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-4-ballot-1",
+    "expectedVotes": 228,
+    "recordedVotes": 228,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-5-ballot-1",
+    "expectedVotes": 224,
+    "recordedVotes": 224,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-6-ballot-1",
+    "expectedVotes": 217,
+    "recordedVotes": 217,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13-seat-7-ballot-1",
+    "expectedVotes": 216,
+    "recordedVotes": 216,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2023-12-13",
+    "expectedVotes": null,
+    "recordedVotes": 1233,
+    "expectedSeats": 7,
+    "recordedSeats": 7,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2025-03-12-ballot-1",
+    "expectedVotes": 245,
+    "recordedVotes": 245,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2025_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2025-03-12-ballot-2",
+    "expectedVotes": 245,
+    "recordedVotes": 245,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "complete",
+    "source": "https://en.wikipedia.org/wiki/2025_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2025-03-12",
+    "expectedVotes": null,
+    "recordedVotes": 134,
+    "expectedSeats": 1,
+    "recordedSeats": 1,
+    "coverage": "partial",
+    "source": "https://en.wikipedia.org/wiki/2025_Swiss_Federal_Council_election"
+  },
+  {
+    "id": "world-switzerland-federal-council-2026-12-09",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 1,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://svp-sh.ch/artikel/guy-parmelin-tritt-zurueck-die-svp-kanton-schaffhausen-dankt/"
+  },
+  {
+    "id": "world-calendar-ch-council-of-states-2027",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://ch-info.swiss/fr/direkte-demokratie/wahlen"
+  },
+  {
+    "id": "world-calendar-ch-national-council-2027",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://ch-info.swiss/fr/direkte-demokratie/wahlen"
+  },
+  {
+    "id": "world-calendar-ch-president-of-the-confederation-2026",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.ch-info.swiss/fr/die-regierung/mitglieder-des-bundesrats"
+  },
+  {
+    "id": "world-switzerland-federal-council-2027-12-15",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 7,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/en/ratsbetrieb/sessions/schedule"
+  },
+  {
+    "id": "world-switzerland-president-2027-12-15",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "coverage": "partial",
+    "source": "https://www.parlament.ch/en/ratsbetrieb/sessions/schedule"
+  }
+]

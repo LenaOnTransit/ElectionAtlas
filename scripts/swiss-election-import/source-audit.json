@@ -1,0 +1,314 @@
+[
+  {
+    "key": "1848_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1848_Swiss_federal_election",
+    "sha256": "69baaa9ff7a9a4333bec4da4f307659bfaee6d0c4746c6859f98fbafa0c7d097",
+    "bytes": 231725
+  },
+  {
+    "key": "1851_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1851_Swiss_federal_election",
+    "sha256": "64a616a1af32099098757ab71b8234c6e4a267c0e3e3bcb86f1a705dcfc11c09",
+    "bytes": 242262
+  },
+  {
+    "key": "1854_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1854_Swiss_federal_election",
+    "sha256": "42d2fbe23d0db84674ea290e10a7289414d314e24726ef335324fc5acbb791da",
+    "bytes": 246990
+  },
+  {
+    "key": "1857_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1857_Swiss_federal_election",
+    "sha256": "bbfa7bce9b5e0509c81774ce2089eab417143c5546b63e113729a09717072888",
+    "bytes": 242832
+  },
+  {
+    "key": "1860_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1860_Swiss_federal_election",
+    "sha256": "3285cdd54882fc0822ad7b45830224bb78bdcc7b9c789055095a957e7ef2c791",
+    "bytes": 267028
+  },
+  {
+    "key": "1863_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1863_Swiss_federal_election",
+    "sha256": "9e879a68329fda94507d92dea7c3d0f47a7dc40899e698fcb6bbf06965957e4c",
+    "bytes": 242862
+  },
+  {
+    "key": "1866_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1866_Swiss_federal_election",
+    "sha256": "dc68213631027cdbd1be361666ddfd6bc37700a5f0310109de78554b93beb54b",
+    "bytes": 240914
+  },
+  {
+    "key": "1869_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1869_Swiss_federal_election",
+    "sha256": "b05bbf61760a7d35578ce7fab8dc63cc5ca7ce8c0c86098e618097854e7100db",
+    "bytes": 266843
+  },
+  {
+    "key": "1872_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1872_Swiss_federal_election",
+    "sha256": "715ac4c21291f997359bfe8a46b66fbab6a2d5cc20faa38bb785ad3b8ef0c23b",
+    "bytes": 270131
+  },
+  {
+    "key": "1875_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1875_Swiss_federal_election",
+    "sha256": "693cbe10759e3534c9df7e41429a0368b1650266f398ad3532acdff7054ce7f3",
+    "bytes": 239094
+  },
+  {
+    "key": "1878_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1878_Swiss_federal_election",
+    "sha256": "d040c3288d3bd0612666ff29cb807b608843bda2fde6a75f3935cd60d08ad1da",
+    "bytes": 243407
+  },
+  {
+    "key": "1881_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1881_Swiss_federal_election",
+    "sha256": "da669101ab35f389ccfe25d63dbe413cc8be852d9a1a2959f31cb7e5b8d944f1",
+    "bytes": 243183
+  },
+  {
+    "key": "1884_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1884_Swiss_federal_election",
+    "sha256": "a7fa0456ef81aff70a06550c56e2ec015f4372f0305579206d00c2edf80d5746",
+    "bytes": 240437
+  },
+  {
+    "key": "1887_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1887_Swiss_federal_election",
+    "sha256": "ef6e7f6dba2c755bd5148f5d6b841afc2678f4665b878fffb406265cca07570e",
+    "bytes": 235845
+  },
+  {
+    "key": "1890_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1890_Swiss_federal_election",
+    "sha256": "590a9b8d437aab7a0d9d0892599f1b7ee4a336ebffbedee3a1548df530b9ae37",
+    "bytes": 261221
+  },
+  {
+    "key": "1893_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1893_Swiss_federal_election",
+    "sha256": "2fb7daced3fdef6ccc975bb49a5952e9e0ca7576dd6031577b76c7432ef70322",
+    "bytes": 263033
+  },
+  {
+    "key": "1896_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1896_Swiss_federal_election",
+    "sha256": "ac0505bd23aa908456a7088a894e6c016407a03bda4f93f12f2b091e07479d0d",
+    "bytes": 250051
+  },
+  {
+    "key": "1899_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1899_Swiss_federal_election",
+    "sha256": "84bfe81d310a4f4744c067998724f145aec9e365ba8f45eca8b1337464c60610",
+    "bytes": 257543
+  },
+  {
+    "key": "1902_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1902_Swiss_federal_election",
+    "sha256": "2d42412b9c6ce786ec4dca7b5e5f061afc2e5ec0ef3310d9cb58516eac2b9d1d",
+    "bytes": 258772
+  },
+  {
+    "key": "1905_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1905_Swiss_federal_election",
+    "sha256": "6fa71665cc670ac4c5aebe61ed9ceeb0a00c4706de3533aeea62e28413b163fa",
+    "bytes": 254465
+  },
+  {
+    "key": "1908_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1908_Swiss_federal_election",
+    "sha256": "b6da6bd6719004ac5a56c7df29c76b3c76b4359fffe6c3a5dc195d27f81bb318",
+    "bytes": 254625
+  },
+  {
+    "key": "1911_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1911_Swiss_federal_election",
+    "sha256": "d74c83da5635effe0bb531b90863110463f69cd6b1af683ff0a9c5923018d69c",
+    "bytes": 266994
+  },
+  {
+    "key": "1914_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1914_Swiss_federal_election",
+    "sha256": "4ace1908dc8ede4b8f19c4a7233c724afdfef793a4bf01a81b5a462116681d55",
+    "bytes": 312343
+  },
+  {
+    "key": "1917_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1917_Swiss_federal_election",
+    "sha256": "99e1a05f00dccebdc89723823c2eea7f0283a02cbd101013c862d70efd845d49",
+    "bytes": 278098
+  },
+  {
+    "key": "1919_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1919_Swiss_federal_election",
+    "sha256": "c434996a1ff2ee70c6ca157df023a404bb281f096d7be08d75abec005b99d271",
+    "bytes": 286252
+  },
+  {
+    "key": "1922_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1922_Swiss_federal_election",
+    "sha256": "fae4ed1750e63a75ab6e992570dce3f047c6bb2cc18a8f77a0bcb041023bde2c",
+    "bytes": 272625
+  },
+  {
+    "key": "1925_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1925_Swiss_federal_election",
+    "sha256": "8c5f0182257802c74b27c82f78158d1e99358171d35bf23d36ffc961bdbc0f2e",
+    "bytes": 274531
+  },
+  {
+    "key": "1928_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1928_Swiss_federal_election",
+    "sha256": "c8214850c874526f391ece96f3a60af756bf3860616ef0347f2a494f8c24833a",
+    "bytes": 292129
+  },
+  {
+    "key": "1931_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1931_Swiss_federal_election",
+    "sha256": "ef5f30fe65a2c8d512c34c48fa5dbd44fb7416bcbcd3f0a0134b8a1cacce5e38",
+    "bytes": 298683
+  },
+  {
+    "key": "1935_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1935_Swiss_federal_election",
+    "sha256": "059237afb36dfbf877250c6b8ea2b1707fca297fd48786d9c00be2660c31e802",
+    "bytes": 305135
+  },
+  {
+    "key": "1939_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1939_Swiss_federal_election",
+    "sha256": "473f0928320a4ad7383e7148cc9ad9b492db133cb8497ffb5aa2f3e09872e89d",
+    "bytes": 261307
+  },
+  {
+    "key": "1943_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1943_Swiss_federal_election",
+    "sha256": "0e88c309c7dff8815ed37ffaa7bcf07b55edadbd85900948b205e38f7609aec4",
+    "bytes": 263106
+  },
+  {
+    "key": "1947_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1947_Swiss_federal_election",
+    "sha256": "9ddd1eff085203dea609e957c03d903d253da144e0b80ab59529e3fedf789a6a",
+    "bytes": 262209
+  },
+  {
+    "key": "1951_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1951_Swiss_federal_election",
+    "sha256": "b051dbb9ecef6dec897b3948f16077d240f1f621be8b85ce1ce9db29ade88069",
+    "bytes": 258199
+  },
+  {
+    "key": "1955_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1955_Swiss_federal_election",
+    "sha256": "31457ea15c4a2838e835d4f5a024a2f30605c6d4949800c94efd95b1c486fcc9",
+    "bytes": 257656
+  },
+  {
+    "key": "1959_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1959_Swiss_federal_election",
+    "sha256": "05fe1d2a12aa81cf5e2c36612bfa27bbf3bf2f4d12302d9820d91173aaa5844b",
+    "bytes": 257010
+  },
+  {
+    "key": "1963_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1963_Swiss_federal_election",
+    "sha256": "1536da94efe07773c8fb7278330bc414f18db9d88b81ae0e796f4e800efc89fd",
+    "bytes": 260604
+  },
+  {
+    "key": "1967_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1967_Swiss_federal_election",
+    "sha256": "dd15641e79fad47e5cdf1014e6f0efacdcde3e585e4bf0072c6fd0538ccb255e",
+    "bytes": 267139
+  },
+  {
+    "key": "1971_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1971_Swiss_federal_election",
+    "sha256": "ac7cb38909c697e950a8b654e7c2f52d975204c1c1eca56836e20cbb27676ada",
+    "bytes": 287478
+  },
+  {
+    "key": "1975_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1975_Swiss_federal_election",
+    "sha256": "60c9d1004691bd0c7caf913dd56c38014c8916d4f1c2dc0f9f8ce4a233781abd",
+    "bytes": 304116
+  },
+  {
+    "key": "1979_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1979_Swiss_federal_election",
+    "sha256": "db44fa9bb7e56e2d9bee20e14025e331e9f2c3e1e329cc9b2258bfdb2d538e70",
+    "bytes": 330904
+  },
+  {
+    "key": "1983_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1983_Swiss_federal_election",
+    "sha256": "edf51c6778cdc984399dd4c1db9460540e5d68ff1192cc5bee61ecebb845a25a",
+    "bytes": 329340
+  },
+  {
+    "key": "1987_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1987_Swiss_federal_election",
+    "sha256": "4f7768271a564978334e04602bd0cde7a426afcff709c89bba22ff2f44dc8757",
+    "bytes": 360430
+  },
+  {
+    "key": "1991_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1991_Swiss_federal_election",
+    "sha256": "91db19d8c30f61e587db0d5a67b57afad7944b3685be4976a6f20ccfb2ea82ba",
+    "bytes": 371650
+  },
+  {
+    "key": "1995_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1995_Swiss_federal_election",
+    "sha256": "15880dbc6628aefffdee7b1581662f0d359a2524aa6c2ec5f1ec54df0afca60b",
+    "bytes": 381542
+  },
+  {
+    "key": "1999_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/1999_Swiss_federal_election",
+    "sha256": "2e992c87d4c27ea57e3328d3f15d381e8bf0a2e61935eb34827fd1011b0e5853",
+    "bytes": 360910
+  },
+  {
+    "key": "2003_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/2003_Swiss_federal_election",
+    "sha256": "f4614401be218b98b6837ffae9dd09ea82b2852dcfcf198b9056632c51dff5ee",
+    "bytes": 360202
+  },
+  {
+    "key": "2007_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/2007_Swiss_federal_election",
+    "sha256": "fdd09ade297bd7c386132521962ea3d7919efc417db28dfe3cc895c284e72a06",
+    "bytes": 365872
+  },
+  {
+    "key": "2011_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/2011_Swiss_federal_election",
+    "sha256": "b74d6f19f4cde1f8ce7a18cba929f2f317693320affa09d39c4f4c60a1af3982",
+    "bytes": 507587
+  },
+  {
+    "key": "2015_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/2015_Swiss_federal_election",
+    "sha256": "6601e0398bbd61f54d753c6edb97ae5ddb549e32f0de6b7df489cea5f1e74848",
+    "bytes": 410735
+  },
+  {
+    "key": "2019_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/2019_Swiss_federal_election",
+    "sha256": "7df70adc3e3b5945c0c45e8812c45924391a40d6f606fb114622433227643d86",
+    "bytes": 651947
+  },
+  {
+    "key": "2023_Swiss_federal_election",
+    "url": "https://en.wikipedia.org/wiki/2023_Swiss_federal_election",
+    "sha256": "b81087501dd3301575409807a015352a9d01a5be2029aa879b3aaeaaa501d86d",
+    "bytes": 597767
+  }
+]

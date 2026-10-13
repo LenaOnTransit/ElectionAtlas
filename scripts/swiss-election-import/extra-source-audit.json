@@ -1,0 +1,117 @@
+[
+  {
+    "key": "1922_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1922",
+    "sha256": "bb2af97e6d3edcd266004eecd9793d6bc78cabd98ea15f3d198a853b3542beb1"
+  },
+  {
+    "key": "1935_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1935",
+    "sha256": "d120a278b6edd9db2b749b795451259918f34df65c4997cb047a380e362781ba"
+  },
+  {
+    "key": "1939_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1939",
+    "sha256": "b09a32d124c10b56cd3649376f0092a2a77933df856ee636f648ff7d3c3d3087"
+  },
+  {
+    "key": "1943_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1943",
+    "sha256": "86a610dfe84bc8572412ab30bc83c51b0c7551d6e61f48a9faa7863519f9ff82"
+  },
+  {
+    "key": "1947_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1947",
+    "sha256": "e015409917bb5233abe045f48a3a09ad4a7d71890fcb5ffe9fb6aa146cabd6aa"
+  },
+  {
+    "key": "1951_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1951",
+    "sha256": "6d5fbb4ae8e8755bc7b2216b470d385d8685e7c3d24c18c5667c7c60771f75e5"
+  },
+  {
+    "key": "1955_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1955",
+    "sha256": "24380a4521892df0f5757998757ed57abd291ace39864a5180871f46b2d3dbb5"
+  },
+  {
+    "key": "1959_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1959",
+    "sha256": "6749960209b5ab99069a65da58d5d14ca3a4d5503f5f6b4af0e92346fe147c84"
+  },
+  {
+    "key": "1963_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1963",
+    "sha256": "e945e852a8a29708082d8c9906cb0e5c5001472d318ff5af01ec551f79fcb156"
+  },
+  {
+    "key": "1967_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1967",
+    "sha256": "6583d35fa86a900c393f8629cdd57f424558d36274527fc02bde1dce67c5b6a2"
+  },
+  {
+    "key": "1971_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1971",
+    "sha256": "6a8c14dcc44138f1162f4aff4007c240dc72b0e719621c241c74edccbf7d3b9a"
+  },
+  {
+    "key": "1975_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1975",
+    "sha256": "d8833f575dbbe6f93bfcd1b5a8366997c48a53edce309c9e0e5f0282a70975fc"
+  },
+  {
+    "key": "1979_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1979",
+    "sha256": "5534358b2fc36d09629a941cb2393fc096014152ba24b70cb74dc0be6e73b4bc"
+  },
+  {
+    "key": "1983_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1983",
+    "sha256": "06267b7a64f61d8afe39f4393cb2bef6a1064e6413a5238ccc51d2d5d6cdbb8f"
+  },
+  {
+    "key": "1987_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1987",
+    "sha256": "9757d91f91e532ac75c73f770b8a82fcc2c2e579d6fe94360f503908aa52a500"
+  },
+  {
+    "key": "1991_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1991",
+    "sha256": "dc1c93257775df9fe0eba553536b3946e068e9a9d7ae8cb14058b51dca81cd4a"
+  },
+  {
+    "key": "1995_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1995",
+    "sha256": "73ec1db233a8636099a6b8d3aa390532c790d98046ca03d0c7530b503bc0ae39"
+  },
+  {
+    "key": "1999_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1999",
+    "sha256": "a4d64dae94d0c504871a7e02f7b6d38a4d559b0a4740665c5a066deb4eb1b415"
+  },
+  {
+    "key": "2003_Swiss_states_german",
+    "url": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_2003",
+    "sha256": "2734b4822d84fffc6b29c9910cb5a4d12c49c5336376cb4930b23bf89e875ae5"
+  },
+  {
+    "key": "official-states-2023",
+    "url": "https://www.elections.admin.ch/de/ch/standerat/",
+    "sha256": "47ea6c9d17dcc57f8b2a5400e3c8daf6b80cde12fd8aa27a4accbe96992fa826"
+  },
+  {
+    "key": "official-council-elections",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/Seiten/Bundesratswahlen.aspx",
+    "sha256": "529d7e4f3b24eee08e43117d17b734cd00d1d8317c34a6a1293fab45f902fef8"
+  },
+  {
+    "key": "official-president-2026",
+    "url": "https://www.parlament.ch/fr/services/news/Pages/2025/20251210125032947194158159026_bsf112.aspx",
+    "sha256": "a7a71c8b6202dc9a9f7b8af2cc01f6de159cc0b434054d07766fef72f423add9"
+  },
+  {
+    "key": "official-council-members",
+    "url": "https://www.admin.ch/de/alle-bundesraete",
+    "sha256": "f4558b2871e7e429b40be946d93231947067ff497307a704f153dca6ddae6ef6"
+  }
+]

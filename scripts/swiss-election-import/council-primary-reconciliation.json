@@ -1,0 +1,581 @@
+[
+  {
+    "year": 1999,
+    "sourceFiles": [
+      "council-1999-17.html",
+      "council-1999-6.html"
+    ],
+    "candidates": [
+      {
+        "name": "Ruth Metzler",
+        "votes": [
+          126
+        ]
+      },
+      {
+        "name": "Ruth Metzler",
+        "votes": [
+          95,
+          113,
+          122,
+          126
+        ]
+      },
+      {
+        "name": "Joseph Deiss",
+        "votes": [
+          120
+        ]
+      },
+      {
+        "name": "Peter Hess",
+        "votes": [
+          54,
+          66,
+          82,
+          98,
+          117,
+          119
+        ]
+      },
+      {
+        "name": "Joseph Deiss",
+        "votes": [
+          20,
+          34,
+          37,
+          51,
+          104,
+          120
+        ]
+      },
+      {
+        "name": "Moritz Leuenberger",
+        "votes": [
+          154
+        ]
+      },
+      {
+        "name": "Pascal Couchepin",
+        "votes": [
+          124
+        ]
+      },
+      {
+        "name": "Adolf Ogi",
+        "votes": [
+          191
+        ]
+      },
+      {
+        "name": "Kaspar Villiger",
+        "votes": [
+          187
+        ]
+      },
+      {
+        "name": "Ruth Dreifuss",
+        "votes": [
+          148
+        ]
+      },
+      {
+        "name": "Joseph Deiss",
+        "votes": [
+          173
+        ]
+      },
+      {
+        "name": "Ruth Metzler",
+        "votes": [
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "sourceFiles": [
+      "council-2003-5.html"
+    ],
+    "candidates": [
+      {
+        "name": "Moritz Leuenberger",
+        "votes": [
+          211
+        ]
+      },
+      {
+        "name": "Pascal Couchepin",
+        "votes": [
+          178
+        ]
+      },
+      {
+        "name": "Samuel Schmid",
+        "votes": [
+          167
+        ]
+      },
+      {
+        "name": "Micheline Calmy-Rey",
+        "votes": [
+          206
+        ]
+      },
+      {
+        "name": "Joseph Deiss",
+        "votes": [
+          138
+        ]
+      },
+      {
+        "name": "Christoph Blocher",
+        "votes": [
+          121
+        ]
+      },
+      {
+        "name": "Hans-Rudolf Merz",
+        "votes": [
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "sourceFiles": [
+      "council-2011-3.html"
+    ],
+    "candidates": [
+      {
+        "name": "Doris Leuthard",
+        "votes": [
+          216
+        ]
+      },
+      {
+        "name": "Eveline Widmer-Schlumpf",
+        "votes": [
+          131
+        ]
+      },
+      {
+        "name": "Hansjörg Walter",
+        "votes": [
+          63
+        ]
+      },
+      {
+        "name": "Jean-François Rime",
+        "votes": [
+          41
+        ]
+      },
+      {
+        "name": "Ueli Maurer",
+        "votes": [
+          159
+        ]
+      },
+      {
+        "name": "Hansjörg Walter",
+        "votes": [
+          41
+        ]
+      },
+      {
+        "name": "Luc Recordon",
+        "votes": [
+          13
+        ]
+      },
+      {
+        "name": "Didier Burkhalter",
+        "votes": [
+          194
+        ]
+      },
+      {
+        "name": "Jean-François Rime",
+        "votes": [
+          24
+        ]
+      },
+      {
+        "name": "Simonetta Sommaruga",
+        "votes": [
+          179
+        ]
+      },
+      {
+        "name": "Jean-François Rime",
+        "votes": [
+          61
+        ]
+      },
+      {
+        "name": "Johann Schneider-Ammann",
+        "votes": [
+          159
+        ]
+      },
+      {
+        "name": "Jean-François Rime",
+        "votes": [
+          64
+        ]
+      },
+      {
+        "name": "Alain Berset",
+        "votes": [
+          114,
+          126
+        ]
+      },
+      {
+        "name": "Pierre-Yves Maillard",
+        "votes": [
+          59,
+          63
+        ]
+      },
+      {
+        "name": "Jean-François Rime",
+        "votes": [
+          59,
+          54
+        ]
+      },
+      {
+        "name": "Marina Carobbio",
+        "votes": [
+          10
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "sourceFiles": [
+      "council-2015-2.html"
+    ],
+    "candidates": [
+      {
+        "name": "Doris Leuthard",
+        "votes": [
+          215
+        ]
+      },
+      {
+        "name": "Ueli Maurer",
+        "votes": [
+          173
+        ]
+      },
+      {
+        "name": "Thomas Hurter",
+        "votes": [
+          10
+        ]
+      },
+      {
+        "name": "Didier Burkhalter",
+        "votes": [
+          217
+        ]
+      },
+      {
+        "name": "Simonetta Sommaruga",
+        "votes": [
+          182
+        ]
+      },
+      {
+        "name": "Daniel Jositsch",
+        "votes": [
+          11
+        ]
+      },
+      {
+        "name": "Johann Schneider-Ammann",
+        "votes": [
+          191
+        ]
+      },
+      {
+        "name": "Alain Berset",
+        "votes": [
+          210
+        ]
+      },
+      {
+        "name": "Thomas Aeschi",
+        "votes": [
+          61,
+          78,
+          88
+        ]
+      },
+      {
+        "name": "Norman Gobbi",
+        "votes": [
+          50,
+          30,
+          11
+        ]
+      },
+      {
+        "name": "Guy Parmelin",
+        "votes": [
+          90,
+          117,
+          138
+        ]
+      },
+      {
+        "name": "Thomas Hurter",
+        "votes": [
+          22
+        ]
+      },
+      {
+        "name": "Viola Amherd",
+        "votes": [
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "sourceFiles": [
+      "council-2019-fr.html"
+    ],
+    "candidates": [
+      {
+        "name": "Ueli Maurer",
+        "votes": [
+          213
+        ]
+      },
+      {
+        "name": "Simonetta Sommaruga",
+        "votes": [
+          192
+        ]
+      },
+      {
+        "name": "Regula Rytz",
+        "votes": [
+          13
+        ]
+      },
+      {
+        "name": "Alain Berset",
+        "votes": [
+          214
+        ]
+      },
+      {
+        "name": "Guy Parmelin",
+        "votes": [
+          191
+        ]
+      },
+      {
+        "name": "Ignazio Cassis",
+        "votes": [
+          145
+        ]
+      },
+      {
+        "name": "Regula Rytz",
+        "votes": [
+          82
+        ]
+      },
+      {
+        "name": "Viola Amherd",
+        "votes": [
+          218
+        ]
+      },
+      {
+        "name": "Karin Keller-Sutter",
+        "votes": [
+          169
+        ]
+      },
+      {
+        "name": "Marcel Dobler",
+        "votes": [
+          21
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "sourceFiles": [
+      "council-2023-0.html"
+    ],
+    "candidates": [
+      {
+        "name": "Guy Parmelin",
+        "votes": [
+          215
+        ]
+      },
+      {
+        "name": "Ignazio Cassis",
+        "votes": [
+          167
+        ]
+      },
+      {
+        "name": "Gerhard Andrey",
+        "votes": [
+          59
+        ]
+      },
+      {
+        "name": "Viola Amherd",
+        "votes": [
+          201
+        ]
+      },
+      {
+        "name": "Karin Keller Sutter",
+        "votes": [
+          176
+        ]
+      },
+      {
+        "name": "Anna Giacometti",
+        "votes": [
+          15
+        ]
+      },
+      {
+        "name": "Gerhard Andrey",
+        "votes": [
+          15
+        ]
+      },
+      {
+        "name": "Albert Rösti",
+        "votes": [
+          189
+        ]
+      },
+      {
+        "name": "Elisabeth Baume-Schneider",
+        "votes": [
+          151
+        ]
+      },
+      {
+        "name": "Gerhard Andrey",
+        "votes": [
+          23
+        ]
+      },
+      {
+        "name": "Eva Herzog",
+        "votes": [
+          15
+        ]
+      },
+      {
+        "name": "Beat Jans",
+        "votes": [
+          89
+        ]
+      },
+      {
+        "name": "Daniel Jositsch",
+        "votes": [
+          63
+        ]
+      },
+      {
+        "name": "Jon Pult",
+        "votes": [
+          49
+        ]
+      },
+      {
+        "name": "Gerhard Andrey",
+        "votes": [
+          30
+        ]
+      },
+      {
+        "name": "Beat Jans",
+        "votes": [
+          112
+        ]
+      },
+      {
+        "name": "Daniel Jositsch",
+        "votes": [
+          70
+        ]
+      },
+      {
+        "name": "Jon Pult",
+        "votes": [
+          54
+        ]
+      },
+      {
+        "name": "Beat Jans",
+        "votes": [
+          134
+        ]
+      },
+      {
+        "name": "Daniel Jositsch",
+        "votes": [
+          68
+        ]
+      },
+      {
+        "name": "Jon Pult",
+        "votes": [
+          43
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "sourceFiles": [
+      "council-2025-7.html"
+    ],
+    "candidates": [
+      {
+        "name": "Martin Pfister",
+        "votes": [
+          134
+        ]
+      },
+      {
+        "name": "Martin Pfister",
+        "votes": [
+          122,
+          134
+        ]
+      },
+      {
+        "name": "Markus Ritter",
+        "votes": [
+          105,
+          110
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "key": "council-2023-0",
+    "label": "Gesamterneuerungswahlen vom 13. Dezember 2023",
+    "url": "https://www.parlament.ch/de/ratsbetrieb/wahlen/gesamterneuerungswahl-vom-13-dezember-2023",
+    "sha256": "3ffb62bb35467a4a6e0f68123ce19137bc3acb0f4f2f037c7c9fb0fcd81ec52f"
+  },
+  {
+    "key": "council-2019-1",
+    "label": "​ Gesamterneuerungswahlen vom 11. Dezember 2019",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/2019-12-11",
+    "sha256": "3198354820df4548b406cae870b77511c669b8a7e830a8cc545970beb463af0c"
+  },
+  {
+    "key": "council-2015-2",
+    "label": "Gesamterneuerungswahlen vom 9. Dezember 2015",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/2015-12-09",
+    "sha256": "856c7e7ddeaf7e06f9663b4ab6fba3a627fad0b7af4adb1b8613fcbebbabcedc"
+  },
+  {
+    "key": "council-2011-3",
+    "label": "Gesamterneuerungswahlen vom 14. Dezember 2011",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/2011-12-14",
+    "sha256": "ceda6c592ec668ae54672f0358e5f9f86ba633fc555b77947a409b9fb6f8bf83"
+  },
+  {
+    "key": "council-2007-4",
+    "label": "Gesamterneuerungswahlen vom 12. Dezember 2007",
+    "url": "https://www.parlament.ch/_layouts/15/FIXUPREDIRECT.ASPX?WebId=3c3c4c5b-cf6a-4482-99a9-06bdfa6604fe&TermSetId=4ce13c9a-1572-4204-bafd-d61b1edf663a&TermId=ab02b2ce-6c8f-4c08-9fa4-c542e82f8b9d",
+    "error": "curl: (22) The requested URL returned error: 404\n"
+  },
+  {
+    "key": "council-2003-5",
+    "label": "Gesamterneuerungswahlen vom 10. Dezember 2003",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/2003-12-10",
+    "sha256": "dbed2bf61d9f80218ac845fb5163f165c9aba6b5caaefd160d096f382f1f5418"
+  },
+  {
+    "key": "council-1999-6",
+    "label": "Gesamterneuerungswahlen vom 15. Dezember 1999",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/1999-12-15",
+    "sha256": "92e1121cbbb5fbe4442904b241d4329359e6f013b0ee7c6c449ce5afb26bf6a0"
+  },
+  {
+    "key": "council-2025-7",
+    "label": "Ersatzwahlen Bundesrätin Viola AMHERD vom 12. März 2025​ ​",
+    "url": "https://www.parlament.ch/de/ratsbetrieb/wahlen/ersatzwahl-br-amherd",
+    "sha256": "d40d3a3fcc164b4d4120e619773bca85bade036827eba85ea674adbbe8a691dc"
+  },
+  {
+    "key": "council-2022-8",
+    "label": "Ersatzwahl für Bundesrat Ueli Maurer und Bundesrätin Simonetta Sommaruga vom 07. Dezember 2022",
+    "url": "https://www.parlament.ch/de/ratsbetrieb/wahlen/ersatzwahl-br-maurer-sommaruga",
+    "sha256": "397d3e2b9d77910c3e11cc5b6fbd8f76099b60b8902e12b6d97bfea17ecd7177"
+  },
+  {
+    "key": "council-2018-9",
+    "label": "Ersatzwahl für Bundesrätin Doris Leuthard und Bundesrat Johann Schneider-Ammann vom 05. Dezember 2018",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-br-leuthard-br-schneider-ammann",
+    "sha256": "90f92e2825da53d20e6836de63437217048ea7173fe9502f5d4d82eea018d707"
+  },
+  {
+    "key": "council-2017-10",
+    "label": "Ersatzwahl für Bundesrat Didier Burkhalter vom 20. September 2017",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-burkhalter-didier",
+    "sha256": "ce47d7fd00f827db1b51d92ade548bc37717269fa8f7db5f36cded1076afb2f2"
+  },
+  {
+    "key": "council-2010-11",
+    "label": "Ersatzwahl für Bundesrat Moritz Leuenberger und Bundesrat Hans-Rudolf Merz vom 22. September 2010",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-leuenberger-merz",
+    "sha256": "596851c5007617ca3008261ff64b283dc75be358d10640187a431588d77a6f4f"
+  },
+  {
+    "key": "council-2009-12",
+    "label": "Ersatzwahl für Bundesrat Pascal Couchepin vom 16. September 2009",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-couchepin",
+    "sha256": "fe3ac9c87792a7cf2abc285760477942fbb12e3e054b2c7feaf4b79c7f64a22e"
+  },
+  {
+    "key": "council-2008-13",
+    "label": "Ersatzwahl für Bundesrat Samuel Schmid vom 10. Dezember 2008",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-schmid",
+    "sha256": "a1d2ddad308853e43da8ad6eea7ac7ee3efcbdb5c7f1f4436715bce823e8c4dc"
+  },
+  {
+    "key": "council-2006-14",
+    "label": "Ersatzwahl für Bundesrat Joseph Deiss vom 14. Juni 2006",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-deiss",
+    "sha256": "0953c3abc357968655a0c4777ea314b31dc84928e09fec3724c0148a22d5c57a"
+  },
+  {
+    "key": "council-2002-15",
+    "label": "Ersatzwahl für Bundesrätin Ruth Dreifuss vom 4. Dezember 2002",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-dreifuss",
+    "sha256": "a31998d11258be658c9d5a65547392ba524a48c142f227f94ec0da7edf2f9730"
+  },
+  {
+    "key": "council-2000-16",
+    "label": "Ersatzwahl für Bundesrat Adolf Ogi vom 6. Dezember 2000",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-ogi",
+    "sha256": "27794f7f77fb0306fc9a0fec46334b3b31c34ac83ea25ab4e51586d52b6b64bf"
+  },
+  {
+    "key": "council-1999-17",
+    "label": "Ersatzwahl für Bundesrat Flavio Cotti und Arnold Koller vom 11. März 1999",
+    "url": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/bundesratswahlen/ersatzwahl-cotti-koller",
+    "sha256": "5ae47cacfded7f4fc81914ba81f50d4920345a3f355d7ad9df03e45affc253ef"
+  }
+]

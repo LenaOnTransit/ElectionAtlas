@@ -1,0 +1,573 @@
+{
+  "1922": {
+    "rows": [
+      {
+        "label": "KVP",
+        "seats": 17
+      },
+      {
+        "label": "FDP",
+        "seats": 23
+      },
+      {
+        "label": "BGB",
+        "seats": 1
+      },
+      {
+        "label": "DP",
+        "seats": 1
+      },
+      {
+        "label": "LPS",
+        "seats": 1
+      },
+      {
+        "label": "SPS",
+        "seats": 1
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1922"
+  },
+  "1935": {
+    "rows": [
+      {
+        "label": "SPS",
+        "seats": 3
+      },
+      {
+        "label": "KVP",
+        "seats": 19
+      },
+      {
+        "label": "LPS",
+        "seats": 2
+      },
+      {
+        "label": "FDP",
+        "seats": 15
+      },
+      {
+        "label": "DP",
+        "seats": 2
+      },
+      {
+        "label": "BGB",
+        "seats": 3
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1935"
+  },
+  "1939": {
+    "rows": [
+      {
+        "label": "SPS",
+        "seats": 3
+      },
+      {
+        "label": "KVP",
+        "seats": 19
+      },
+      {
+        "label": "LPS",
+        "seats": 2
+      },
+      {
+        "label": "FDP",
+        "seats": 14
+      },
+      {
+        "label": "DP",
+        "seats": 2
+      },
+      {
+        "label": "BGB",
+        "seats": 3
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1939"
+  },
+  "1943": {
+    "rows": [
+      {
+        "label": "SPS",
+        "seats": 5
+      },
+      {
+        "label": "KVP",
+        "seats": 19
+      },
+      {
+        "label": "LPS",
+        "seats": 2
+      },
+      {
+        "label": "FDP",
+        "seats": 12
+      },
+      {
+        "label": "DP",
+        "seats": 2
+      },
+      {
+        "label": "BGB",
+        "seats": 4
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1943"
+  },
+  "1947": {
+    "rows": [
+      {
+        "label": "SPS",
+        "seats": 5
+      },
+      {
+        "label": "KVP",
+        "seats": 18
+      },
+      {
+        "label": "LPS",
+        "seats": 2
+      },
+      {
+        "label": "FDP",
+        "seats": 11
+      },
+      {
+        "label": "DP",
+        "seats": 2
+      },
+      {
+        "label": "BGB",
+        "seats": 4
+      },
+      {
+        "label": "parteilos",
+        "seats": 2
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1947"
+  },
+  "1951": {
+    "rows": [
+      {
+        "label": "SPS",
+        "seats": 4
+      },
+      {
+        "label": "KVP",
+        "seats": 18
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      },
+      {
+        "label": "FDP",
+        "seats": 12
+      },
+      {
+        "label": "DP",
+        "seats": 2
+      },
+      {
+        "label": "BGB",
+        "seats": 3
+      },
+      {
+        "label": "Sonst.",
+        "seats": 2
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1951"
+  },
+  "1955": {
+    "rows": [
+      {
+        "label": "SPS",
+        "seats": 5
+      },
+      {
+        "label": "KVP",
+        "seats": 17
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      },
+      {
+        "label": "FDP",
+        "seats": 12
+      },
+      {
+        "label": "DP",
+        "seats": 2
+      },
+      {
+        "label": "BGB",
+        "seats": 3
+      },
+      {
+        "label": "Sonst.",
+        "seats": 2
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1955"
+  },
+  "1959": {
+    "rows": [
+      {
+        "label": "SPS",
+        "seats": 4
+      },
+      {
+        "label": "KCV",
+        "seats": 17
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      },
+      {
+        "label": "FDP",
+        "seats": 13
+      },
+      {
+        "label": "DP",
+        "seats": 2
+      },
+      {
+        "label": "BGB",
+        "seats": 3
+      },
+      {
+        "label": "parteilos",
+        "seats": 2
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1959"
+  },
+  "1963": {
+    "rows": [
+      {
+        "label": "KCV",
+        "seats": 18
+      },
+      {
+        "label": "FDP",
+        "seats": 13
+      },
+      {
+        "label": "BGB",
+        "seats": 4
+      },
+      {
+        "label": "DP",
+        "seats": 3
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      },
+      {
+        "label": "SPS",
+        "seats": 3
+      },
+      {
+        "label": "Parteilose",
+        "seats": 0
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1963"
+  },
+  "1967": {
+    "rows": [
+      {
+        "label": "KCV",
+        "seats": 18
+      },
+      {
+        "label": "FDP",
+        "seats": 14
+      },
+      {
+        "label": "BGB",
+        "seats": 3
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      },
+      {
+        "label": "DP",
+        "seats": 3
+      },
+      {
+        "label": "SP",
+        "seats": 2
+      },
+      {
+        "label": "LdU",
+        "seats": 1
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1967"
+  },
+  "1971": {
+    "rows": [
+      {
+        "label": "CVP",
+        "seats": 17
+      },
+      {
+        "label": "FDP",
+        "seats": 15
+      },
+      {
+        "label": "SVP",
+        "seats": 5
+      },
+      {
+        "label": "SP",
+        "seats": 4
+      },
+      {
+        "label": "LPS",
+        "seats": 2
+      },
+      {
+        "label": "LdU",
+        "seats": 1
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1971"
+  },
+  "1975": {
+    "rows": [
+      {
+        "label": "CVP",
+        "seats": 17
+      },
+      {
+        "label": "FDP",
+        "seats": 15
+      },
+      {
+        "label": "SVP",
+        "seats": 5
+      },
+      {
+        "label": "SP",
+        "seats": 5
+      },
+      {
+        "label": "LPS",
+        "seats": 1
+      },
+      {
+        "label": "LdU",
+        "seats": 1
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1975"
+  },
+  "1979": {
+    "rows": [
+      {
+        "label": "CVP",
+        "seats": 18
+      },
+      {
+        "label": "FDP",
+        "seats": 11
+      },
+      {
+        "label": "SP",
+        "seats": 9
+      },
+      {
+        "label": "SVP",
+        "seats": 5
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      },
+      {
+        "label": "LdU",
+        "seats": 0
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1979"
+  },
+  "1983": {
+    "rows": [
+      {
+        "label": "CVP",
+        "seats": 18
+      },
+      {
+        "label": "FDP",
+        "seats": 14
+      },
+      {
+        "label": "SP",
+        "seats": 6
+      },
+      {
+        "label": "SVP",
+        "seats": 5
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1983"
+  },
+  "1987": {
+    "rows": [
+      {
+        "label": "CVP",
+        "seats": 19
+      },
+      {
+        "label": "FDP",
+        "seats": 14
+      },
+      {
+        "label": "SP",
+        "seats": 5
+      },
+      {
+        "label": "SVP",
+        "seats": 4
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      },
+      {
+        "label": "LdU",
+        "seats": 1
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1987"
+  },
+  "1991": {
+    "rows": [
+      {
+        "label": "FDP",
+        "seats": 18
+      },
+      {
+        "label": "CVP",
+        "seats": 16
+      },
+      {
+        "label": "SVP",
+        "seats": 4
+      },
+      {
+        "label": "SPS",
+        "seats": 3
+      },
+      {
+        "label": "LPS",
+        "seats": 3
+      },
+      {
+        "label": "LdU",
+        "seats": 1
+      },
+      {
+        "label": "Lega",
+        "seats": 1
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1991"
+  },
+  "1995": {
+    "rows": [
+      {
+        "label": "FDP",
+        "seats": 17
+      },
+      {
+        "label": "CVP",
+        "seats": 16
+      },
+      {
+        "label": "SVP",
+        "seats": 5
+      },
+      {
+        "label": "SP",
+        "seats": 5
+      },
+      {
+        "label": "LPS",
+        "seats": 2
+      },
+      {
+        "label": "LdU",
+        "seats": 1
+      },
+      {
+        "label": "Lega",
+        "seats": 0
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1995"
+  },
+  "1999": {
+    "rows": [
+      {
+        "label": "FDP",
+        "seats": 18
+      },
+      {
+        "label": "CVP",
+        "seats": 15
+      },
+      {
+        "label": "SVP",
+        "seats": 7
+      },
+      {
+        "label": "SP",
+        "seats": 6
+      },
+      {
+        "label": "LPS",
+        "seats": 0
+      },
+      {
+        "label": "LdU",
+        "seats": 0
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_1999"
+  },
+  "2003": {
+    "rows": [
+      {
+        "label": "CVP",
+        "seats": 15
+      },
+      {
+        "label": "FDP",
+        "seats": 14
+      },
+      {
+        "label": "SP",
+        "seats": 9
+      },
+      {
+        "label": "SVP",
+        "seats": 8
+      }
+    ],
+    "source": "https://de.wikipedia.org/wiki/Schweizer_Parlamentswahlen_2003"
+  }
+}

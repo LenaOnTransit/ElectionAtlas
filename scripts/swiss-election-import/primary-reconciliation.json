@@ -1,0 +1,3975 @@
+{
+  "nationalDates": {
+    "1922": "1922-10-29",
+    "1851": "1851-10-26",
+    "1925": "1925-10-25",
+    "1854": "1854-10-29",
+    "1928": "1928-10-28",
+    "1857": "1857-10-25",
+    "1931": "1931-10-25",
+    "1860": "1860-10-28",
+    "1935": "1935-10-27",
+    "1863": "1863-10-25",
+    "1939": "1939-10-29",
+    "1866": "1866-10-28",
+    "1943": "1943-10-31",
+    "1869": "1869-10-31",
+    "1947": "1947-10-26",
+    "1872": "1872-10-27",
+    "1951": "1951-10-28",
+    "1875": "1875-10-31",
+    "1955": "1955-10-30",
+    "1878": "1878-10-27",
+    "1959": "1959-10-25",
+    "1881": "1881-10-30",
+    "1963": "1963-10-27",
+    "1884": "1884-10-26",
+    "1967": "1967-10-29",
+    "1887": "1887-10-30",
+    "1971": "1971-10-31",
+    "1890": "1890-10-26",
+    "1975": "1975-10-26",
+    "1893": "1893-10-29",
+    "1979": "1979-10-21",
+    "1896": "1896-10-25",
+    "1983": "1983-10-23",
+    "1899": "1899-10-29",
+    "1987": "1987-10-18",
+    "1902": "1902-10-26",
+    "1991": "1991-10-20",
+    "1905": "1905-10-29",
+    "1995": "1995-10-22",
+    "1908": "1908-10-25",
+    "1999": "1999-10-24",
+    "1911": "1911-10-29",
+    "2003": "2003-10-19",
+    "1914": "1914-10-25",
+    "2007": "2007-10-21",
+    "1917": "1917-10-28",
+    "2011": "2011-10-23",
+    "1919": "1919-10-26",
+    "2015": "2015-10-18",
+    "2019": "2019-10-20",
+    "2023": "2023-10-22"
+  },
+  "presidents": [
+    {
+      "term": "1848/49",
+      "name": "Jonas Furrer",
+      "party": "Mitte (Lib.)",
+      "canton": "ZH",
+      "votes": 88,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1850",
+      "name": "Daniel-Henri Druey",
+      "party": "Rad.",
+      "canton": "VD",
+      "votes": 76,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1851",
+      "name": "Josef Munzinger",
+      "party": "Mitte (Lib.)",
+      "canton": "SO",
+      "votes": 76,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1852",
+      "name": "Jonas Furrer",
+      "party": "Mitte (Lib.)",
+      "canton": "ZH",
+      "votes": 101,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1853",
+      "name": "Wilhelm Matthias Naeff",
+      "party": "Mitte",
+      "canton": "SG",
+      "votes": 100,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1854",
+      "name": "Friedrich Frey-Herosé",
+      "party": "Mitte",
+      "canton": "AG",
+      "votes": 65,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1855",
+      "name": "Jonas Furrer",
+      "party": "Mitte (Lib.)",
+      "canton": "ZH",
+      "votes": 107,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1856",
+      "name": "Jakob Stämpfli",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 111,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1857",
+      "name": "Constant Fornerod",
+      "party": "Rad.",
+      "canton": "VD",
+      "votes": 89,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1858",
+      "name": "Jonas Furrer",
+      "party": "Mitte (Lib.)",
+      "canton": "ZH",
+      "votes": 112,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1859",
+      "name": "Jakob Stämpfli",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 68,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1860",
+      "name": "Friedrich Frey-Herosé",
+      "party": "Mitte",
+      "canton": "AG",
+      "votes": 66,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1861",
+      "name": "Josef Martin Knüsel",
+      "party": "Mitte (Lib.)",
+      "canton": "LU",
+      "votes": 80,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1862",
+      "name": "Jakob Stämpfli",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 94,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1863",
+      "name": "Constant Fornerod",
+      "party": "Rad.",
+      "canton": "VD",
+      "votes": 86,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1864",
+      "name": "Jakob Dubs",
+      "party": "Mitte (Lib.)",
+      "canton": "ZH",
+      "votes": 128,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1865",
+      "name": "Karl Schenk",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 105,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1866",
+      "name": "Josef Martin Knüsel",
+      "party": "Mitte (Lib.)",
+      "canton": "LU",
+      "votes": 95,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1867",
+      "name": "Constant Fornerod",
+      "party": "Rad.",
+      "canton": "VD",
+      "votes": 87,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1868",
+      "name": "Jakob Dubs",
+      "party": "Mitte (Lib.)",
+      "canton": "ZH",
+      "votes": 124,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1869",
+      "name": "Emil Welti",
+      "party": "Zentrum (Lib.)",
+      "canton": "AG",
+      "votes": 118,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1870",
+      "name": "Jakob Dubs",
+      "party": "Mitte (Lib.)",
+      "canton": "ZH",
+      "votes": 122,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1871",
+      "name": "Karl Schenk",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 103,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1872",
+      "name": "Emil Welti",
+      "party": "Zentrum (Lib.)",
+      "canton": "AG",
+      "votes": 105,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1873",
+      "name": "Paul Cérésole",
+      "party": "Zentrum (Lib.)",
+      "canton": "VD",
+      "votes": 120,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1874",
+      "name": "Karl Schenk",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 80,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1875",
+      "name": "Johann Jakob Scherer",
+      "party": "Zentrum (Dem.)",
+      "canton": "ZH",
+      "votes": 102,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1876",
+      "name": "Emil Welti",
+      "party": "Zentrum (Lib.)",
+      "canton": "AG",
+      "votes": 139,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1877",
+      "name": "Joachim Heer",
+      "party": "Zentrum (Lib.)",
+      "canton": "GL",
+      "votes": 136,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1878",
+      "name": "Karl Schenk",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 103,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1879",
+      "name": "Bernhard Hammer",
+      "party": "Zentrum (Lib.)",
+      "canton": "SO",
+      "votes": 143,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1880",
+      "name": "Emil Welti",
+      "party": "Zentrum (Lib.)",
+      "canton": "AG",
+      "votes": 133,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1881",
+      "name": "Numa Droz",
+      "party": "Rad.",
+      "canton": "NE",
+      "votes": 151,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1882",
+      "name": "Simeon Bavier",
+      "party": "Zentrum",
+      "canton": "GR",
+      "votes": 110,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1883",
+      "name": "Louis Ruchonnet",
+      "party": "Rad.",
+      "canton": "VD",
+      "votes": 121,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1884",
+      "name": "Emil Welti",
+      "party": "Zentrum (Lib.)",
+      "canton": "AG",
+      "votes": 133,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1885",
+      "name": "Karl Schenk",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 102,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1886",
+      "name": "Adolf Deucher",
+      "party": "Rad.",
+      "canton": "TG",
+      "votes": 149,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1887",
+      "name": "Numa Droz",
+      "party": "Rad.",
+      "canton": "NE",
+      "votes": 140,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1888",
+      "name": "Wilhelm Friedrich Hertenstein",
+      "party": "Zentrum (Dem.)",
+      "canton": "ZH",
+      "votes": 145,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1889",
+      "name": "Bernhard Hammer",
+      "party": "Zentrum (Lib.)",
+      "canton": "SO",
+      "votes": 154,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1890",
+      "name": "Louis Ruchonnet",
+      "party": "Rad.",
+      "canton": "VD",
+      "votes": 149,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1891",
+      "name": "Emil Welti",
+      "party": "Zentrum (Lib.)",
+      "canton": "AG",
+      "votes": 144,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1892",
+      "name": "Walter Hauser",
+      "party": "Rad. (Dem.)",
+      "canton": "ZH",
+      "votes": 165,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1893",
+      "name": "Karl Schenk",
+      "party": "Rad.",
+      "canton": "BE",
+      "votes": 152,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1894",
+      "name": "Emil Frey",
+      "party": "Rad.",
+      "canton": "AG",
+      "votes": 132,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1895",
+      "name": "Josef Zemp",
+      "party": "Kath.-Kons.",
+      "canton": "LU",
+      "votes": 128,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1896",
+      "name": "Adrien Lachenal",
+      "party": "Rad.",
+      "canton": "GE",
+      "votes": 147,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1897",
+      "name": "Adolf Deucher",
+      "party": "Rad.",
+      "canton": "TG",
+      "votes": 149,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1898",
+      "name": "Eugène Ruffy",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 133,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1899",
+      "name": "Eduard Müller",
+      "party": "FDP",
+      "canton": "BE",
+      "votes": 134,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1900",
+      "name": "Walter Hauser",
+      "party": "Rad. (Dem.)",
+      "canton": "ZH",
+      "votes": 160,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1901",
+      "name": "Ernst Brenner",
+      "party": "FDP",
+      "canton": "BS",
+      "votes": 157,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1902",
+      "name": "Josef Zemp",
+      "party": "Kath.-Kons.",
+      "canton": "LU",
+      "votes": 151,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1903",
+      "name": "Adolf Deucher",
+      "party": "Rad.",
+      "canton": "TG",
+      "votes": 173,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Initial Federal Council affiliation"
+    },
+    {
+      "term": "1904",
+      "name": "Robert Comtesse",
+      "party": "FDP",
+      "canton": "NE",
+      "votes": 165,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1905",
+      "name": "Marc-Emile Ruchet",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 175,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1906",
+      "name": "Ludwig Forrer",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 131,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1907",
+      "name": "Eduard Müller",
+      "party": "FDP",
+      "canton": "BE",
+      "votes": 163,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1908",
+      "name": "Ernst Brenner",
+      "party": "FDP",
+      "canton": "BS",
+      "votes": 186,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1909",
+      "name": "Adolf Deucher",
+      "party": "FDP",
+      "canton": "TG",
+      "votes": 147,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1910",
+      "name": "Robert Comtesse",
+      "party": "FDP",
+      "canton": "NE",
+      "votes": 148,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1911",
+      "name": "Marc-Emile Ruchet",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 160,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1912",
+      "name": "Ludwig Forrer",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 198,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1913",
+      "name": "Eduard Müller",
+      "party": "FDP",
+      "canton": "BE",
+      "votes": 99,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1914",
+      "name": "Arthur Hoffmann",
+      "party": "FDP",
+      "canton": "SG",
+      "votes": 180,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1915",
+      "name": "Giuseppe Motta",
+      "party": "KVP",
+      "canton": "TI",
+      "votes": 181,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1916",
+      "name": "Camille Decoppet",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 185,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1917",
+      "name": "Edmund Schulthess",
+      "party": "FDP",
+      "canton": "AG",
+      "votes": 176,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1918",
+      "name": "Felix-Louis Calonder",
+      "party": "FDP",
+      "canton": "GR",
+      "votes": 176,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1919",
+      "name": "Gustave Ador",
+      "party": "Lib.",
+      "canton": "GE",
+      "votes": 142,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1920",
+      "name": "Giuseppe Motta",
+      "party": "KVP",
+      "canton": "TI",
+      "votes": 169,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1921",
+      "name": "Edmund Schulthess",
+      "party": "FDP",
+      "canton": "AG",
+      "votes": 136,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1922",
+      "name": "Robert Haab",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 154,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1923",
+      "name": "Karl Scheurer",
+      "party": "FDP",
+      "canton": "BE",
+      "votes": 172,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1924",
+      "name": "Ernest Chuard",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 189,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1925",
+      "name": "Jean-Marie Musy",
+      "party": "KVP",
+      "canton": "FR",
+      "votes": 172,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1926",
+      "name": "Heinrich Häberlin",
+      "party": "FDP",
+      "canton": "TG",
+      "votes": 151,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1927",
+      "name": "Giuseppe Motta",
+      "party": "KVP",
+      "canton": "TI",
+      "votes": 155,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1928",
+      "name": "Edmund Schulthess",
+      "party": "FDP",
+      "canton": "AG",
+      "votes": 156,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1929",
+      "name": "Robert Haab",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 178,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1930",
+      "name": "Jean-Marie Musy",
+      "party": "KVP",
+      "canton": "FR",
+      "votes": 143,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1931",
+      "name": "Heinrich Häberlin",
+      "party": "FDP",
+      "canton": "TG",
+      "votes": 158,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1932",
+      "name": "Giuseppe Motta",
+      "party": "KVP",
+      "canton": "TI",
+      "votes": 160,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1933",
+      "name": "Edmund Schulthess",
+      "party": "FDP",
+      "canton": "AG",
+      "votes": 165,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1934",
+      "name": "Marcel Pilet-Golaz",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 137,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1935",
+      "name": "Rudolf Minger",
+      "party": "BGB",
+      "canton": "BE",
+      "votes": 139,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1936",
+      "name": "Albert Meyer",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 153,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1937",
+      "name": "Giuseppe Motta",
+      "party": "KVP",
+      "canton": "TI",
+      "votes": 157,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1938",
+      "name": "Johannes Baumann",
+      "party": "FDP",
+      "canton": "AR",
+      "votes": 153,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1939",
+      "name": "Philipp Etter",
+      "party": "KVP",
+      "canton": "ZG",
+      "votes": 150,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1940",
+      "name": "Marcel Pilet-Golaz",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 142,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1941",
+      "name": "Ernst Wetter",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 176,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1942",
+      "name": "Philipp Etter",
+      "party": "KVP",
+      "canton": "ZG",
+      "votes": 152,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1943",
+      "name": "Enrico Celio",
+      "party": "KVP",
+      "canton": "TI",
+      "votes": 153,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1944",
+      "name": "Walther Stampfli",
+      "party": "FDP",
+      "canton": "SO",
+      "votes": 197,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1945",
+      "name": "Eduard von Steiger",
+      "party": "BGB",
+      "canton": "BE",
+      "votes": 192,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1946",
+      "name": "Karl Kobelt",
+      "party": "FDP",
+      "canton": "SG",
+      "votes": 165,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1947",
+      "name": "Philipp Etter",
+      "party": "KVP",
+      "canton": "ZG",
+      "votes": 148,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1948",
+      "name": "Enrico Celio",
+      "party": "KVP",
+      "canton": "TI",
+      "votes": 172,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1949",
+      "name": "Ernst Nobs",
+      "party": "SP",
+      "canton": "ZH",
+      "votes": 192,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1950",
+      "name": "Max Petitpierre",
+      "party": "FDP",
+      "canton": "NE",
+      "votes": 195,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1951",
+      "name": "Eduard von Steiger",
+      "party": "BGB",
+      "canton": "BE",
+      "votes": 167,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1952",
+      "name": "Karl Kobelt",
+      "party": "FDP",
+      "canton": "SG",
+      "votes": 179,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1953",
+      "name": "Philipp Etter",
+      "party": "KVP",
+      "canton": "ZG",
+      "votes": 156,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1954",
+      "name": "Rodolphe Rubattel",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 185,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1955",
+      "name": "Max Petitpierre",
+      "party": "FDP",
+      "canton": "NE",
+      "votes": 197,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1956",
+      "name": "Markus Feldmann",
+      "party": "BGB",
+      "canton": "BE",
+      "votes": 161,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1957",
+      "name": "Hans Streuli",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 175,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1958",
+      "name": "Thomas Holenstein",
+      "party": "KCVP",
+      "canton": "SG",
+      "votes": 158,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1959",
+      "name": "Paul Chaudet",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 180,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1960",
+      "name": "Max Petitpierre",
+      "party": "FDP",
+      "canton": "NE",
+      "votes": 179,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1961",
+      "name": "Friedrich Traugott Wahlen",
+      "party": "BGB",
+      "canton": "BE",
+      "votes": 200,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1962",
+      "name": "Paul Chaudet",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 185,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1963",
+      "name": "Willy Spühler",
+      "party": "SP",
+      "canton": "ZH",
+      "votes": 179,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1964",
+      "name": "Ludwig von Moos",
+      "party": "KCVP",
+      "canton": "OW",
+      "votes": 178,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1965",
+      "name": "Hans-Peter Tschudi",
+      "party": "SP",
+      "canton": "BS",
+      "votes": 200,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1966",
+      "name": "Hans Schaffner",
+      "party": "FDP",
+      "canton": "AG",
+      "votes": 198,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1967",
+      "name": "Roger Bonvin",
+      "party": "KCVP",
+      "canton": "VS",
+      "votes": 181,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1968",
+      "name": "Willy Spühler",
+      "party": "SP",
+      "canton": "ZH",
+      "votes": 148,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1969",
+      "name": "Ludwig von Moos",
+      "party": "KCVP",
+      "canton": "OW",
+      "votes": 166,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1970",
+      "name": "Hans-Peter Tschudi",
+      "party": "SP",
+      "canton": "BS",
+      "votes": 213,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1971",
+      "name": "Rudolf Gnägi",
+      "party": "BGB",
+      "canton": "BE",
+      "votes": 180,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1972",
+      "name": "Nello Celio",
+      "party": "FDP",
+      "canton": "TI",
+      "votes": 179,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1973",
+      "name": "Roger Bonvin",
+      "party": "KCVP",
+      "canton": "VS",
+      "votes": 174,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1974",
+      "name": "Ernst Brugger",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 198,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1975",
+      "name": "Pierre Graber",
+      "party": "SP",
+      "canton": "NE",
+      "votes": 187,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1976",
+      "name": "Rudolf Gnägi",
+      "party": "SVP",
+      "canton": "BE",
+      "votes": 180,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1977",
+      "name": "Kurt Furgler",
+      "party": "CVP",
+      "canton": "SG",
+      "votes": 190,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1978",
+      "name": "Willi Ritschard",
+      "party": "SP",
+      "canton": "SO",
+      "votes": 213,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1979",
+      "name": "Hans Hürlimann",
+      "party": "CVP",
+      "canton": "ZG",
+      "votes": 212,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1980",
+      "name": "Georges-André Chevallaz",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 183,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1981",
+      "name": "Kurt Furgler",
+      "party": "CVP",
+      "canton": "SG",
+      "votes": 191,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1982",
+      "name": "Fritz Honegger",
+      "party": "FDP",
+      "canton": "ZH",
+      "votes": 210,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1983",
+      "name": "Pierre Aubert",
+      "party": "SP",
+      "canton": "NE",
+      "votes": 193,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1984",
+      "name": "Leon Schlumpf",
+      "party": "SVP",
+      "canton": "GR",
+      "votes": 187,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1985",
+      "name": "Kurt Furgler",
+      "party": "CVP",
+      "canton": "SG",
+      "votes": 177,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1986",
+      "name": "Alphons Egli",
+      "party": "CVP",
+      "canton": "LU",
+      "votes": 198,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1987",
+      "name": "Pierre Aubert",
+      "party": "SP",
+      "canton": "NE",
+      "votes": 186,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1988",
+      "name": "Otto Stich",
+      "party": "SP",
+      "canton": "SO",
+      "votes": 165,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1989",
+      "name": "Jean-Pascal Delamuraz",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 201,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1990",
+      "name": "Arnold Koller",
+      "party": "CVP",
+      "canton": "AI",
+      "votes": 194,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1991",
+      "name": "Flavio Cotti",
+      "party": "CVP",
+      "canton": "TI",
+      "votes": 161,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1992",
+      "name": "René Felber",
+      "party": "SP",
+      "canton": "NE",
+      "votes": 158,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1993",
+      "name": "Adolf Ogi",
+      "party": "SVP",
+      "canton": "BE",
+      "votes": 185,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1994",
+      "name": "Otto Stich",
+      "party": "SP",
+      "canton": "SO",
+      "votes": 167,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1995",
+      "name": "Kaspar Villiger",
+      "party": "FDP",
+      "canton": "LU",
+      "votes": 186,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1996",
+      "name": "Jean-Pascal Delamuraz",
+      "party": "FDP",
+      "canton": "VD",
+      "votes": 165,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1997",
+      "name": "Arnold Koller",
+      "party": "CVP",
+      "canton": "AI",
+      "votes": 171,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1998",
+      "name": "Flavio Cotti",
+      "party": "CVP",
+      "canton": "TI",
+      "votes": 173,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "1999",
+      "name": "Ruth Dreifuss",
+      "party": "SP",
+      "canton": "GE",
+      "votes": 158,
+      "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-10236",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2026",
+      "name": "Guy Parmelin",
+      "party": "SVP",
+      "canton": "VD",
+      "votes": 203,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2025",
+      "name": "Karin Keller-Sutter",
+      "party": "FDP",
+      "canton": "SG",
+      "votes": 168,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2024",
+      "name": "Viola Amherd",
+      "party": "M-E",
+      "canton": "VS",
+      "votes": 158,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2023",
+      "name": "Alain Berset",
+      "party": "SP",
+      "canton": "FR",
+      "votes": 140,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2022",
+      "name": "Ignazio Cassis",
+      "party": "FDP",
+      "canton": "TI",
+      "votes": 156,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2021",
+      "name": "Guy Parmelin",
+      "party": "SVP",
+      "canton": "VD",
+      "votes": 188,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2020",
+      "name": "Simonetta Sommaruga",
+      "party": "SP",
+      "canton": "BE",
+      "votes": 186,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2019",
+      "name": "Ueli Maurer",
+      "party": "SVP",
+      "canton": "ZH",
+      "votes": 201,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2018",
+      "name": "Alain Berset",
+      "party": "SP",
+      "canton": "FR",
+      "votes": 190,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2017",
+      "name": "Doris Leuthard",
+      "party": "CVP",
+      "canton": "AG",
+      "votes": 188,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2016",
+      "name": "Johann N. Schneider-Ammann",
+      "party": "FDP",
+      "canton": "BE",
+      "votes": 196,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2015",
+      "name": "Simonetta Sommaruga",
+      "party": "SP",
+      "canton": "BE",
+      "votes": 181,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2014",
+      "name": "Didier Burkhalter",
+      "party": "FDP",
+      "canton": "NE",
+      "votes": 183,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2013",
+      "name": "Ueli Maurer",
+      "party": "SVP",
+      "canton": "ZH",
+      "votes": 148,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2012",
+      "name": "Eveline Widmer-Schlumpf",
+      "party": "BDP",
+      "canton": "GR",
+      "votes": 174,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2011",
+      "name": "Micheline Calmy-Rey",
+      "party": "SP",
+      "canton": "GE",
+      "votes": 106,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2010",
+      "name": "Doris Leuthard",
+      "party": "CVP",
+      "canton": "AG",
+      "votes": 158,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2009",
+      "name": "Hans-Rudolf Merz",
+      "party": "FDP",
+      "canton": "AR",
+      "votes": 185,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2008",
+      "name": "Pascal Couchepin",
+      "party": "FDP",
+      "canton": "VS",
+      "votes": 197,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2007",
+      "name": "Micheline Calmy-Rey",
+      "party": "SP",
+      "canton": "GE",
+      "votes": 147,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2006",
+      "name": "Moritz Leuenberger",
+      "party": "SP",
+      "canton": "ZH",
+      "votes": 159,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2005",
+      "name": "Samuel Schmid",
+      "party": "SVP",
+      "canton": "BE",
+      "votes": 174,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2004",
+      "name": "Joseph Deiss",
+      "party": "CVP",
+      "canton": "FR",
+      "votes": 174,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2003",
+      "name": "Pascal Couchepin",
+      "party": "FDP",
+      "canton": "VS",
+      "votes": 166,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2002",
+      "name": "Kaspar Villiger",
+      "party": "FDP",
+      "canton": "LU",
+      "votes": 183,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2001",
+      "name": "Moritz Leuenberger",
+      "party": "SP",
+      "canton": "ZH",
+      "votes": 187,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    },
+    {
+      "term": "2000",
+      "name": "Adolf Ogi",
+      "party": "SVP",
+      "canton": "BE",
+      "votes": 176,
+      "source": "https://www.parlament.ch/de/%C3%BCber-das-parlament/archiv/wahlen-im-rueckblick/praesidentenwahlen",
+      "affiliationScope": "Presidential election-era affiliation"
+    }
+  ],
+  "nationalCouncil": [
+    {
+      "year": 2023,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 14.25,
+          "roundedVoterEquivalents": 364053,
+          "seats": 28
+        },
+        {
+          "code": "34",
+          "label": "Mitte",
+          "share": 14.06,
+          "roundedVoterEquivalents": 359075,
+          "seats": 29
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 18.27,
+          "roundedVoterEquivalents": 466714,
+          "seats": 41
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 27.93,
+          "roundedVoterEquivalents": 713471,
+          "seats": 62
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 1.95,
+          "roundedVoterEquivalents": 49828,
+          "seats": 2
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.09,
+          "roundedVoterEquivalents": 2397,
+          "seats": 0
+        },
+        {
+          "code": "31",
+          "label": "GLP",
+          "share": 7.55,
+          "roundedVoterEquivalents": 192944,
+          "seats": 10
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.38,
+          "roundedVoterEquivalents": 9818,
+          "seats": 0
+        },
+        {
+          "code": "27",
+          "label": "Sol.",
+          "share": 0.34,
+          "roundedVoterEquivalents": 8617,
+          "seats": 0
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 0.17,
+          "roundedVoterEquivalents": 4343,
+          "seats": 0
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 9.78,
+          "roundedVoterEquivalents": 249892,
+          "seats": 23
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 0.08,
+          "roundedVoterEquivalents": 2030,
+          "seats": 0
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1.23,
+          "roundedVoterEquivalents": 31513,
+          "seats": 2
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 0.55,
+          "roundedVoterEquivalents": 14160,
+          "seats": 1
+        },
+        {
+          "code": "33",
+          "label": "MCR",
+          "share": 0.51,
+          "roundedVoterEquivalents": 13019,
+          "seats": 2
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 2.84,
+          "roundedVoterEquivalents": 72609,
+          "seats": 0
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 2019,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 15.11,
+          "roundedVoterEquivalents": 366313,
+          "seats": 29
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 16.84,
+          "roundedVoterEquivalents": 408134,
+          "seats": 39
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 25.59,
+          "roundedVoterEquivalents": 620350,
+          "seats": 53
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 2.08,
+          "roundedVoterEquivalents": 50317,
+          "seats": 3
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.26,
+          "roundedVoterEquivalents": 6238,
+          "seats": 0
+        },
+        {
+          "code": "31",
+          "label": "GLP",
+          "share": 7.8,
+          "roundedVoterEquivalents": 189162,
+          "seats": 16
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.59,
+          "roundedVoterEquivalents": 14231,
+          "seats": 1
+        },
+        {
+          "code": "27",
+          "label": "Sol.",
+          "share": 0.46,
+          "roundedVoterEquivalents": 11197,
+          "seats": 1
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 0.32,
+          "roundedVoterEquivalents": 7709,
+          "seats": 0
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 13.2,
+          "roundedVoterEquivalents": 319997,
+          "seats": 28
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 0.13,
+          "roundedVoterEquivalents": 3202,
+          "seats": 0
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1,
+          "roundedVoterEquivalents": 24147,
+          "seats": 1
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 0.75,
+          "roundedVoterEquivalents": 18197,
+          "seats": 1
+        },
+        {
+          "code": "33",
+          "label": "MCR",
+          "share": 0.22,
+          "roundedVoterEquivalents": 5338,
+          "seats": 0
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 11.38,
+          "roundedVoterEquivalents": 275855,
+          "seats": 25
+        },
+        {
+          "code": "32",
+          "label": "BDP",
+          "share": 2.44,
+          "roundedVoterEquivalents": 59206,
+          "seats": 3
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 1.84,
+          "roundedVoterEquivalents": 44667,
+          "seats": 0
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 2015,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 16.4,
+          "roundedVoterEquivalents": 413445,
+          "seats": 33
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 18.84,
+          "roundedVoterEquivalents": 475074,
+          "seats": 43
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 29.39,
+          "roundedVoterEquivalents": 740967,
+          "seats": 65
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 1.89,
+          "roundedVoterEquivalents": 47770,
+          "seats": 2
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.21,
+          "roundedVoterEquivalents": 5272,
+          "seats": 0
+        },
+        {
+          "code": "31",
+          "label": "GLP",
+          "share": 4.63,
+          "roundedVoterEquivalents": 116640,
+          "seats": 7
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.4,
+          "roundedVoterEquivalents": 10099,
+          "seats": 1
+        },
+        {
+          "code": "27",
+          "label": "Sol.",
+          "share": 0.46,
+          "roundedVoterEquivalents": 11475,
+          "seats": 0
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 0.36,
+          "roundedVoterEquivalents": 8951,
+          "seats": 0
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 7.06,
+          "roundedVoterEquivalents": 177944,
+          "seats": 11
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 0.12,
+          "roundedVoterEquivalents": 3079,
+          "seats": 0
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1.19,
+          "roundedVoterEquivalents": 29939,
+          "seats": 0
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 1,
+          "roundedVoterEquivalents": 25221,
+          "seats": 2
+        },
+        {
+          "code": "33",
+          "label": "MCR",
+          "share": 0.32,
+          "roundedVoterEquivalents": 8184,
+          "seats": 1
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 11.65,
+          "roundedVoterEquivalents": 293652,
+          "seats": 27
+        },
+        {
+          "code": "32",
+          "label": "BDP",
+          "share": 4.1,
+          "roundedVoterEquivalents": 103476,
+          "seats": 7
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 2,
+          "roundedVoterEquivalents": 50311,
+          "seats": 1
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 2011,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 15.1,
+          "roundedVoterEquivalents": 368951,
+          "seats": 30
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 18.72,
+          "roundedVoterEquivalents": 457317,
+          "seats": 46
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 26.56,
+          "roundedVoterEquivalents": 648676,
+          "seats": 54
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 2,
+          "roundedVoterEquivalents": 48789,
+          "seats": 2
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.26,
+          "roundedVoterEquivalents": 6248,
+          "seats": 0
+        },
+        {
+          "code": "31",
+          "label": "GLP",
+          "share": 5.38,
+          "roundedVoterEquivalents": 131436,
+          "seats": 12
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.54,
+          "roundedVoterEquivalents": 13215,
+          "seats": 0
+        },
+        {
+          "code": "27",
+          "label": "Sol.",
+          "share": 0.34,
+          "roundedVoterEquivalents": 8268,
+          "seats": 0
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 0.32,
+          "roundedVoterEquivalents": 7900,
+          "seats": 0
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 8.43,
+          "roundedVoterEquivalents": 205984,
+          "seats": 15
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 0.2,
+          "roundedVoterEquivalents": 4893,
+          "seats": 0
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1.27,
+          "roundedVoterEquivalents": 31056,
+          "seats": 0
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 0.8,
+          "roundedVoterEquivalents": 19657,
+          "seats": 2
+        },
+        {
+          "code": "33",
+          "label": "MCR",
+          "share": 0.44,
+          "roundedVoterEquivalents": 10714,
+          "seats": 1
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 12.3,
+          "roundedVoterEquivalents": 300544,
+          "seats": 28
+        },
+        {
+          "code": "32",
+          "label": "BDP",
+          "share": 5.42,
+          "roundedVoterEquivalents": 132279,
+          "seats": 9
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 1.91,
+          "roundedVoterEquivalents": 46723,
+          "seats": 1
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 2007,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 15.76,
+          "roundedVoterEquivalents": 367302,
+          "seats": 31
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 19.55,
+          "roundedVoterEquivalents": 455501,
+          "seats": 43
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 28.9,
+          "roundedVoterEquivalents": 673407,
+          "seats": 62
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 1.85,
+          "roundedVoterEquivalents": 43168,
+          "seats": 4
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 2.44,
+          "roundedVoterEquivalents": 56908,
+          "seats": 2
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.43,
+          "roundedVoterEquivalents": 10107,
+          "seats": 1
+        },
+        {
+          "code": "31",
+          "label": "GLP",
+          "share": 1.43,
+          "roundedVoterEquivalents": 33258,
+          "seats": 3
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.73,
+          "roundedVoterEquivalents": 17063,
+          "seats": 1
+        },
+        {
+          "code": "27",
+          "label": "Sol.",
+          "share": 0.38,
+          "roundedVoterEquivalents": 8849,
+          "seats": 0
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 0.2,
+          "roundedVoterEquivalents": 4602,
+          "seats": 0
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 9.59,
+          "roundedVoterEquivalents": 223393,
+          "seats": 20
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 0.53,
+          "roundedVoterEquivalents": 12459,
+          "seats": 0
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1.28,
+          "roundedVoterEquivalents": 29851,
+          "seats": 1
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 0.58,
+          "roundedVoterEquivalents": 13465,
+          "seats": 1
+        },
+        {
+          "code": "33",
+          "label": "MCR",
+          "share": 0.12,
+          "roundedVoterEquivalents": 2692,
+          "seats": 0
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 14.48,
+          "roundedVoterEquivalents": 337413,
+          "seats": 31
+        },
+        {
+          "code": "17",
+          "label": "FPS",
+          "share": 0.1,
+          "roundedVoterEquivalents": 2317,
+          "seats": 0
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 1.66,
+          "roundedVoterEquivalents": 38627,
+          "seats": 0
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 2003,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 17.34,
+          "roundedVoterEquivalents": 368308,
+          "seats": 36
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 23.33,
+          "roundedVoterEquivalents": 495537,
+          "seats": 52
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 26.65,
+          "roundedVoterEquivalents": 566069,
+          "seats": 55
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 2.19,
+          "roundedVoterEquivalents": 46574,
+          "seats": 4
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 2.27,
+          "roundedVoterEquivalents": 48283,
+          "seats": 3
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.36,
+          "roundedVoterEquivalents": 7643,
+          "seats": 1
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.7,
+          "roundedVoterEquivalents": 14840,
+          "seats": 2
+        },
+        {
+          "code": "27",
+          "label": "Sol.",
+          "share": 0.51,
+          "roundedVoterEquivalents": 10734,
+          "seats": 1
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 0.53,
+          "roundedVoterEquivalents": 11202,
+          "seats": 1
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 7.43,
+          "roundedVoterEquivalents": 157917,
+          "seats": 13
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 0.96,
+          "roundedVoterEquivalents": 20358,
+          "seats": 1
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1.26,
+          "roundedVoterEquivalents": 26854,
+          "seats": 2
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 0.35,
+          "roundedVoterEquivalents": 7463,
+          "seats": 1
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 14.36,
+          "roundedVoterEquivalents": 304995,
+          "seats": 28
+        },
+        {
+          "code": "17",
+          "label": "FPS",
+          "share": 0.19,
+          "roundedVoterEquivalents": 4044,
+          "seats": 0
+        },
+        {
+          "code": "26",
+          "label": "Sep.",
+          "share": 0.26,
+          "roundedVoterEquivalents": 5590,
+          "seats": 0
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 1.3,
+          "roundedVoterEquivalents": 27630,
+          "seats": 0
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 1999,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 19.92,
+          "roundedVoterEquivalents": 392423,
+          "seats": 43
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 22.47,
+          "roundedVoterEquivalents": 442798,
+          "seats": 51
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 22.54,
+          "roundedVoterEquivalents": 444181,
+          "seats": 44
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 2.26,
+          "roundedVoterEquivalents": 44533,
+          "seats": 6
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 1.83,
+          "roundedVoterEquivalents": 36017,
+          "seats": 3
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.42,
+          "roundedVoterEquivalents": 8326,
+          "seats": 1
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.96,
+          "roundedVoterEquivalents": 18878,
+          "seats": 2
+        },
+        {
+          "code": "27",
+          "label": "Sol.",
+          "share": 0.47,
+          "roundedVoterEquivalents": 9311,
+          "seats": 1
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 0.32,
+          "roundedVoterEquivalents": 6294,
+          "seats": 1
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 4.97,
+          "roundedVoterEquivalents": 97855,
+          "seats": 8
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 1.84,
+          "roundedVoterEquivalents": 36222,
+          "seats": 1
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1.25,
+          "roundedVoterEquivalents": 24629,
+          "seats": 1
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 0.88,
+          "roundedVoterEquivalents": 17291,
+          "seats": 2
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 15.85,
+          "roundedVoterEquivalents": 312363,
+          "seats": 35
+        },
+        {
+          "code": "6",
+          "label": "LdU",
+          "share": 0.74,
+          "roundedVoterEquivalents": 14567,
+          "seats": 1
+        },
+        {
+          "code": "17",
+          "label": "FPS",
+          "share": 0.87,
+          "roundedVoterEquivalents": 17062,
+          "seats": 0
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 2.41,
+          "roundedVoterEquivalents": 47558,
+          "seats": 0
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 1995,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 20.18,
+          "roundedVoterEquivalents": 384515,
+          "seats": 45
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 21.79,
+          "roundedVoterEquivalents": 415226,
+          "seats": 54
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 14.9,
+          "roundedVoterEquivalents": 283902,
+          "seats": 29
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 2.69,
+          "roundedVoterEquivalents": 51182,
+          "seats": 7
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 1.79,
+          "roundedVoterEquivalents": 34071,
+          "seats": 2
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.3,
+          "roundedVoterEquivalents": 5625,
+          "seats": 1
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 1.2,
+          "roundedVoterEquivalents": 22850,
+          "seats": 3
+        },
+        {
+          "code": "27",
+          "label": "Sol.",
+          "share": 0.32,
+          "roundedVoterEquivalents": 6168,
+          "seats": 0
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 1.47,
+          "roundedVoterEquivalents": 28076,
+          "seats": 2
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 5.04,
+          "roundedVoterEquivalents": 96069,
+          "seats": 8
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 3.13,
+          "roundedVoterEquivalents": 59613,
+          "seats": 3
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1.3,
+          "roundedVoterEquivalents": 24795,
+          "seats": 1
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 0.94,
+          "roundedVoterEquivalents": 17940,
+          "seats": 1
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 16.79,
+          "roundedVoterEquivalents": 319972,
+          "seats": 34
+        },
+        {
+          "code": "6",
+          "label": "LdU",
+          "share": 1.83,
+          "roundedVoterEquivalents": 34801,
+          "seats": 3
+        },
+        {
+          "code": "17",
+          "label": "FPS",
+          "share": 3.97,
+          "roundedVoterEquivalents": 75641,
+          "seats": 7
+        },
+        {
+          "code": "26",
+          "label": "Sep.",
+          "share": 0.21,
+          "roundedVoterEquivalents": 3948,
+          "seats": 0
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 2.15,
+          "roundedVoterEquivalents": 40929,
+          "seats": 0
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 1991,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 20.99,
+          "roundedVoterEquivalents": 429072,
+          "seats": 44
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 18.49,
+          "roundedVoterEquivalents": 377968,
+          "seats": 41
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 11.9,
+          "roundedVoterEquivalents": 243268,
+          "seats": 25
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 3.04,
+          "roundedVoterEquivalents": 62073,
+          "seats": 10
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 1.89,
+          "roundedVoterEquivalents": 38681,
+          "seats": 3
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.39,
+          "roundedVoterEquivalents": 8039,
+          "seats": 1
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.78,
+          "roundedVoterEquivalents": 15871,
+          "seats": 2
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 1.25,
+          "roundedVoterEquivalents": 25605,
+          "seats": 1
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 6.07,
+          "roundedVoterEquivalents": 124149,
+          "seats": 14
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 3.39,
+          "roundedVoterEquivalents": 69297,
+          "seats": 5
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 1,
+          "roundedVoterEquivalents": 20395,
+          "seats": 1
+        },
+        {
+          "code": "18",
+          "label": "Lega",
+          "share": 1.38,
+          "roundedVoterEquivalents": 28290,
+          "seats": 2
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 18,
+          "roundedVoterEquivalents": 367928,
+          "seats": 35
+        },
+        {
+          "code": "6",
+          "label": "LdU",
+          "share": 2.83,
+          "roundedVoterEquivalents": 57819,
+          "seats": 5
+        },
+        {
+          "code": "11",
+          "label": "POCH",
+          "share": 0.22,
+          "roundedVoterEquivalents": 4552,
+          "seats": 0
+        },
+        {
+          "code": "10",
+          "label": "PSA",
+          "share": 0.59,
+          "roundedVoterEquivalents": 12006,
+          "seats": 1
+        },
+        {
+          "code": "17",
+          "label": "FPS",
+          "share": 5.07,
+          "roundedVoterEquivalents": 103585,
+          "seats": 8
+        },
+        {
+          "code": "26",
+          "label": "Sep.",
+          "share": 0.26,
+          "roundedVoterEquivalents": 5258,
+          "seats": 1
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 2.46,
+          "roundedVoterEquivalents": 50245,
+          "seats": 1
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 1987,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 22.93,
+          "roundedVoterEquivalents": 443617,
+          "seats": 51
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 18.42,
+          "roundedVoterEquivalents": 356266,
+          "seats": 41
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 11.02,
+          "roundedVoterEquivalents": 213253,
+          "seats": 25
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 2.72,
+          "roundedVoterEquivalents": 52532,
+          "seats": 9
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 1.93,
+          "roundedVoterEquivalents": 37265,
+          "seats": 3
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.3,
+          "roundedVoterEquivalents": 5889,
+          "seats": 0
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.8,
+          "roundedVoterEquivalents": 15528,
+          "seats": 1
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 2.4,
+          "roundedVoterEquivalents": 46405,
+          "seats": 1
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 4.88,
+          "roundedVoterEquivalents": 94378,
+          "seats": 9
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 2.54,
+          "roundedVoterEquivalents": 49104,
+          "seats": 3
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 0.92,
+          "roundedVoterEquivalents": 17830,
+          "seats": 0
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 19.58,
+          "roundedVoterEquivalents": 378822,
+          "seats": 42
+        },
+        {
+          "code": "6",
+          "label": "LdU",
+          "share": 4.17,
+          "roundedVoterEquivalents": 80691,
+          "seats": 8
+        },
+        {
+          "code": "11",
+          "label": "POCH",
+          "share": 1.26,
+          "roundedVoterEquivalents": 24343,
+          "seats": 3
+        },
+        {
+          "code": "14",
+          "label": "Rep.",
+          "share": 0.35,
+          "roundedVoterEquivalents": 6769,
+          "seats": 0
+        },
+        {
+          "code": "10",
+          "label": "PSA",
+          "share": 0.56,
+          "roundedVoterEquivalents": 10879,
+          "seats": 1
+        },
+        {
+          "code": "17",
+          "label": "FPS",
+          "share": 2.6,
+          "roundedVoterEquivalents": 50372,
+          "seats": 2
+        },
+        {
+          "code": "26",
+          "label": "Sep.",
+          "share": 0.15,
+          "roundedVoterEquivalents": 2845,
+          "seats": 0
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 2.46,
+          "roundedVoterEquivalents": 47661,
+          "seats": 1
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 1983,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 23.33,
+          "roundedVoterEquivalents": 457283,
+          "seats": 54
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 22.84,
+          "roundedVoterEquivalents": 447634,
+          "seats": 47
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 11.08,
+          "roundedVoterEquivalents": 217166,
+          "seats": 23
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 2.82,
+          "roundedVoterEquivalents": 55326,
+          "seats": 8
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 2.08,
+          "roundedVoterEquivalents": 40837,
+          "seats": 3
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.4,
+          "roundedVoterEquivalents": 7808,
+          "seats": 0
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 0.89,
+          "roundedVoterEquivalents": 17488,
+          "seats": 1
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 1.02,
+          "roundedVoterEquivalents": 20063,
+          "seats": 0
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 1.89,
+          "roundedVoterEquivalents": 37079,
+          "seats": 3
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 2.94,
+          "roundedVoterEquivalents": 57592,
+          "seats": 4
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 0.39,
+          "roundedVoterEquivalents": 7590,
+          "seats": 0
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 20.22,
+          "roundedVoterEquivalents": 396281,
+          "seats": 42
+        },
+        {
+          "code": "6",
+          "label": "LdU",
+          "share": 3.99,
+          "roundedVoterEquivalents": 78292,
+          "seats": 8
+        },
+        {
+          "code": "11",
+          "label": "POCH",
+          "share": 2.23,
+          "roundedVoterEquivalents": 43694,
+          "seats": 3
+        },
+        {
+          "code": "14",
+          "label": "Rep.",
+          "share": 0.52,
+          "roundedVoterEquivalents": 10148,
+          "seats": 1
+        },
+        {
+          "code": "10",
+          "label": "PSA",
+          "share": 0.51,
+          "roundedVoterEquivalents": 9962,
+          "seats": 1
+        },
+        {
+          "code": "26",
+          "label": "Sep.",
+          "share": 0.34,
+          "roundedVoterEquivalents": 6703,
+          "seats": 0
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 2.49,
+          "roundedVoterEquivalents": 48895,
+          "seats": 2
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 1979,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 24.01,
+          "roundedVoterEquivalents": 440099,
+          "seats": 51
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 24.44,
+          "roundedVoterEquivalents": 447990,
+          "seats": 51
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 11.6,
+          "roundedVoterEquivalents": 212705,
+          "seats": 23
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 2.8,
+          "roundedVoterEquivalents": 51258,
+          "seats": 8
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 2.22,
+          "roundedVoterEquivalents": 40744,
+          "seats": 3
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 2.08,
+          "roundedVoterEquivalents": 38187,
+          "seats": 3
+        },
+        {
+          "code": "12",
+          "label": "FGA",
+          "share": 0.18,
+          "roundedVoterEquivalents": 3236,
+          "seats": 0
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 0.63,
+          "roundedVoterEquivalents": 11583,
+          "seats": 1
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 1.32,
+          "roundedVoterEquivalents": 24257,
+          "seats": 2
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 0.25,
+          "roundedVoterEquivalents": 4626,
+          "seats": 0
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 21.29,
+          "roundedVoterEquivalents": 390281,
+          "seats": 44
+        },
+        {
+          "code": "6",
+          "label": "LdU",
+          "share": 4.07,
+          "roundedVoterEquivalents": 74623,
+          "seats": 8
+        },
+        {
+          "code": "11",
+          "label": "POCH",
+          "share": 1.7,
+          "roundedVoterEquivalents": 31128,
+          "seats": 2
+        },
+        {
+          "code": "14",
+          "label": "Rep.",
+          "share": 0.63,
+          "roundedVoterEquivalents": 11587,
+          "seats": 1
+        },
+        {
+          "code": "10",
+          "label": "PSA",
+          "share": 0.44,
+          "roundedVoterEquivalents": 8147,
+          "seats": 1
+        },
+        {
+          "code": "26",
+          "label": "Sep.",
+          "share": 0.46,
+          "roundedVoterEquivalents": 8344,
+          "seats": 1
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 1.88,
+          "roundedVoterEquivalents": 34396,
+          "seats": 1
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 1975,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 22.21,
+          "roundedVoterEquivalents": 428919,
+          "seats": 47
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 24.87,
+          "roundedVoterEquivalents": 480396,
+          "seats": 55
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 9.94,
+          "roundedVoterEquivalents": 192053,
+          "seats": 21
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 2.45,
+          "roundedVoterEquivalents": 47256,
+          "seats": 6
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 1.97,
+          "roundedVoterEquivalents": 37959,
+          "seats": 3
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.15,
+          "roundedVoterEquivalents": 2883,
+          "seats": 0
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 2.37,
+          "roundedVoterEquivalents": 45799,
+          "seats": 4
+        },
+        {
+          "code": "13",
+          "label": "Grüne",
+          "share": 0.06,
+          "roundedVoterEquivalents": 1246,
+          "seats": 0
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 2.47,
+          "roundedVoterEquivalents": 47796,
+          "seats": 2
+        },
+        {
+          "code": "16",
+          "label": "EDU",
+          "share": 0.35,
+          "roundedVoterEquivalents": 6717,
+          "seats": 0
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 21.09,
+          "roundedVoterEquivalents": 407286,
+          "seats": 46
+        },
+        {
+          "code": "6",
+          "label": "LdU",
+          "share": 6.07,
+          "roundedVoterEquivalents": 117217,
+          "seats": 11
+        },
+        {
+          "code": "11",
+          "label": "POCH",
+          "share": 0.99,
+          "roundedVoterEquivalents": 19173,
+          "seats": 0
+        },
+        {
+          "code": "14",
+          "label": "Rep.",
+          "share": 2.96,
+          "roundedVoterEquivalents": 57192,
+          "seats": 4
+        },
+        {
+          "code": "10",
+          "label": "PSA",
+          "share": 0.35,
+          "roundedVoterEquivalents": 6706,
+          "seats": 1
+        },
+        {
+          "code": "26",
+          "label": "Sep.",
+          "share": 0.32,
+          "roundedVoterEquivalents": 6167,
+          "seats": 0
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 1.38,
+          "roundedVoterEquivalents": 26621,
+          "seats": 0
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    },
+    {
+      "year": 1971,
+      "totalSeats": 200,
+      "rows": [
+        {
+          "code": "1",
+          "label": "FDP",
+          "share": 21.81,
+          "roundedVoterEquivalents": 434547,
+          "seats": 49
+        },
+        {
+          "code": "3",
+          "label": "SP",
+          "share": 22.9,
+          "roundedVoterEquivalents": 456284,
+          "seats": 46
+        },
+        {
+          "code": "4",
+          "label": "SVP",
+          "share": 11.07,
+          "roundedVoterEquivalents": 220487,
+          "seats": 23
+        },
+        {
+          "code": "5",
+          "label": "LPS",
+          "share": 2.19,
+          "roundedVoterEquivalents": 43710,
+          "seats": 6
+        },
+        {
+          "code": "7",
+          "label": "EVP",
+          "share": 2.15,
+          "roundedVoterEquivalents": 42798,
+          "seats": 3
+        },
+        {
+          "code": "8",
+          "label": "CSP",
+          "share": 0.3,
+          "roundedVoterEquivalents": 5940,
+          "seats": 0
+        },
+        {
+          "code": "9",
+          "label": "PdA",
+          "share": 2.58,
+          "roundedVoterEquivalents": 51324,
+          "seats": 5
+        },
+        {
+          "code": "15",
+          "label": "SD",
+          "share": 3.2,
+          "roundedVoterEquivalents": 63781,
+          "seats": 4
+        },
+        {
+          "code": "2",
+          "label": "CVP",
+          "share": 20.33,
+          "roundedVoterEquivalents": 404988,
+          "seats": 44
+        },
+        {
+          "code": "6",
+          "label": "LdU",
+          "share": 7.63,
+          "roundedVoterEquivalents": 152088,
+          "seats": 13
+        },
+        {
+          "code": "11",
+          "label": "POCH",
+          "share": 0.09,
+          "roundedVoterEquivalents": 1820,
+          "seats": 0
+        },
+        {
+          "code": "14",
+          "label": "Rep.",
+          "share": 4.25,
+          "roundedVoterEquivalents": 84702,
+          "seats": 7
+        },
+        {
+          "code": "10",
+          "label": "PSA",
+          "share": 0.26,
+          "roundedVoterEquivalents": 5271,
+          "seats": 0
+        },
+        {
+          "code": "35",
+          "label": "Übrige",
+          "share": 1.23,
+          "roundedVoterEquivalents": 24576,
+          "seats": 0
+        }
+      ],
+      "shareSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_104/px-x-1702020000_104/px-x-1702020000_104.px",
+      "seatSource": "https://www.pxweb.bfs.admin.ch/pxweb/de/px-x-1702020000_103/px-x-1702020000_103/px-x-1702020000_103.px"
+    }
+  ],
+  "presidentialXlsVerification": {
+    "source": "https://www.parlament.ch/centers/documents/_layouts/15/DocIdRedir.aspx?ID=DOCID-1-6765",
+    "rows": [
+      {
+        "term": 1920,
+        "sourceName": "MOTTA G.",
+        "votes": 169
+      },
+      {
+        "term": 1921,
+        "sourceName": "SCHULTHESS E.",
+        "votes": 136
+      },
+      {
+        "term": 1922,
+        "sourceName": "HAAB R.",
+        "votes": 154
+      },
+      {
+        "term": 1923,
+        "sourceName": "SCHEURER K.",
+        "votes": 172
+      },
+      {
+        "term": 1924,
+        "sourceName": "CHUARD E.",
+        "votes": 189
+      },
+      {
+        "term": 1925,
+        "sourceName": "MUSY J.-M.",
+        "votes": 172
+      },
+      {
+        "term": 1926,
+        "sourceName": "HÄBERLIN H.",
+        "votes": 151
+      },
+      {
+        "term": 1927,
+        "sourceName": "MOTTA G.",
+        "votes": 155
+      },
+      {
+        "term": 1928,
+        "sourceName": "SCHULTHESS E.",
+        "votes": 156
+      },
+      {
+        "term": 1929,
+        "sourceName": "HAAB R.",
+        "votes": 178
+      },
+      {
+        "term": 1930,
+        "sourceName": "MUSY J.-M.",
+        "votes": 143
+      },
+      {
+        "term": 1931,
+        "sourceName": "HÄBERLIN H.",
+        "votes": 158
+      },
+      {
+        "term": 1932,
+        "sourceName": "MOTTA G.",
+        "votes": 160
+      },
+      {
+        "term": 1933,
+        "sourceName": "SCHULTHESS E.",
+        "votes": 165
+      },
+      {
+        "term": 1934,
+        "sourceName": "PILET-GOLAZ M.",
+        "votes": 137
+      },
+      {
+        "term": 1935,
+        "sourceName": "MINGER R.",
+        "votes": 139
+      },
+      {
+        "term": 1936,
+        "sourceName": "MEYER A.",
+        "votes": 153
+      },
+      {
+        "term": 1937,
+        "sourceName": "MOTTA G.",
+        "votes": 157
+      },
+      {
+        "term": 1938,
+        "sourceName": "BAUMANN J.",
+        "votes": 153
+      },
+      {
+        "term": 1939,
+        "sourceName": "ETTER P.",
+        "votes": 150
+      },
+      {
+        "term": 1940,
+        "sourceName": "PILET-GOLAZ M.",
+        "votes": 142
+      },
+      {
+        "term": 1941,
+        "sourceName": "WETTER E.",
+        "votes": 176
+      },
+      {
+        "term": 1942,
+        "sourceName": "ETTER P.",
+        "votes": 152
+      },
+      {
+        "term": 1943,
+        "sourceName": "CELIO N.",
+        "votes": 153
+      },
+      {
+        "term": 1944,
+        "sourceName": "STAMPFLI W.",
+        "votes": 197
+      },
+      {
+        "term": 1945,
+        "sourceName": "VON STEIGER E.",
+        "votes": 192
+      },
+      {
+        "term": 1946,
+        "sourceName": "KOBELT K.",
+        "votes": 165
+      },
+      {
+        "term": 1947,
+        "sourceName": "ETTER P.",
+        "votes": 148
+      },
+      {
+        "term": 1948,
+        "sourceName": "CELIO N.",
+        "votes": 172
+      },
+      {
+        "term": 1949,
+        "sourceName": "NOBS E.",
+        "votes": 192
+      },
+      {
+        "term": 1950,
+        "sourceName": "PETITPIERRE M.",
+        "votes": 195
+      },
+      {
+        "term": 1951,
+        "sourceName": "VON STEIGER E.",
+        "votes": 167
+      },
+      {
+        "term": 1952,
+        "sourceName": "KOBELT K.",
+        "votes": 179
+      },
+      {
+        "term": 1953,
+        "sourceName": "ETTER P.",
+        "votes": 156
+      },
+      {
+        "term": 1954,
+        "sourceName": "RUBATTEL R.",
+        "votes": 185
+      },
+      {
+        "term": 1955,
+        "sourceName": "PETITPIERRE M.",
+        "votes": 197
+      },
+      {
+        "term": 1956,
+        "sourceName": "FELDMANN M.",
+        "votes": 161
+      },
+      {
+        "term": 1957,
+        "sourceName": "STREULI H.",
+        "votes": 175
+      },
+      {
+        "term": 1958,
+        "sourceName": "HOLENSTEIN T.",
+        "votes": 158
+      },
+      {
+        "term": 1959,
+        "sourceName": "CHAUDET P.",
+        "votes": 180
+      },
+      {
+        "term": 1960,
+        "sourceName": "PETITPIERRE M.",
+        "votes": 179
+      },
+      {
+        "term": 1961,
+        "sourceName": "WAHLEN F.T.",
+        "votes": 200
+      },
+      {
+        "term": 1962,
+        "sourceName": "CHAUDET P.",
+        "votes": 185
+      },
+      {
+        "term": 1963,
+        "sourceName": "SPUEHLER W.",
+        "votes": 179
+      },
+      {
+        "term": 1964,
+        "sourceName": "VON MOOS L.",
+        "votes": 178
+      },
+      {
+        "term": 1965,
+        "sourceName": "TSCHUDI H.P.",
+        "votes": 200
+      },
+      {
+        "term": 1966,
+        "sourceName": "SCHAFFNER H.",
+        "votes": 198
+      },
+      {
+        "term": 1967,
+        "sourceName": "BONVIN R.",
+        "votes": 181
+      },
+      {
+        "term": 1968,
+        "sourceName": "SPUEHLER W.",
+        "votes": 148
+      },
+      {
+        "term": 1969,
+        "sourceName": "VON MOOS L.",
+        "votes": 166
+      },
+      {
+        "term": 1970,
+        "sourceName": "TSCHUDI H.P.",
+        "votes": 213
+      },
+      {
+        "term": 1971,
+        "sourceName": "GNAEGI R.",
+        "votes": 180
+      },
+      {
+        "term": 1972,
+        "sourceName": "CELIO N.",
+        "votes": 179
+      },
+      {
+        "term": 1973,
+        "sourceName": "BONVIN R.",
+        "votes": 174
+      },
+      {
+        "term": 1974,
+        "sourceName": "BRUGGER E.",
+        "votes": 198
+      },
+      {
+        "term": 1975,
+        "sourceName": "GRABER P.",
+        "votes": 187
+      },
+      {
+        "term": 1976,
+        "sourceName": "GNAEGI R.",
+        "votes": 180
+      },
+      {
+        "term": 1977,
+        "sourceName": "FURGLER K.",
+        "votes": 190
+      },
+      {
+        "term": 1978,
+        "sourceName": "RITSCHARD W.",
+        "votes": 213
+      },
+      {
+        "term": 1979,
+        "sourceName": "HUERLIMANN H.",
+        "votes": 212
+      },
+      {
+        "term": 1980,
+        "sourceName": "CHEVALLAZ G.A.",
+        "votes": 183
+      },
+      {
+        "term": 1981,
+        "sourceName": "FURGLER K.",
+        "votes": 191
+      },
+      {
+        "term": 1982,
+        "sourceName": "HONEGGER F.",
+        "votes": 210
+      },
+      {
+        "term": 1983,
+        "sourceName": "AUBERT P.",
+        "votes": 193
+      },
+      {
+        "term": 1984,
+        "sourceName": "SCHLUMPF L.",
+        "votes": 187
+      },
+      {
+        "term": 1985,
+        "sourceName": "FURGLER K.",
+        "votes": 177
+      },
+      {
+        "term": 1986,
+        "sourceName": "EGLI A.",
+        "votes": 198
+      },
+      {
+        "term": 1987,
+        "sourceName": "AUBERT P.",
+        "votes": 186
+      },
+      {
+        "term": 1988,
+        "sourceName": "STICH O.",
+        "votes": 165
+      },
+      {
+        "term": 1989,
+        "sourceName": "DELAMURAZ J.",
+        "votes": 201
+      },
+      {
+        "term": 1990,
+        "sourceName": "KOLLER A.",
+        "votes": 194
+      },
+      {
+        "term": 1991,
+        "sourceName": "COTTI F.",
+        "votes": 161
+      },
+      {
+        "term": 1992,
+        "sourceName": "FELBER R.",
+        "votes": 158
+      },
+      {
+        "term": 1993,
+        "sourceName": "OGI A.",
+        "votes": 185
+      },
+      {
+        "term": 1994,
+        "sourceName": "STICH O.",
+        "votes": 167
+      },
+      {
+        "term": 1995,
+        "sourceName": "VILLIGER K.",
+        "votes": 186
+      },
+      {
+        "term": 1996,
+        "sourceName": "DELAMURAZ J.",
+        "votes": 165
+      },
+      {
+        "term": 1997,
+        "sourceName": "KOLLER A.",
+        "votes": 171
+      },
+      {
+        "term": 1998,
+        "sourceName": "COTTI F.",
+        "votes": 173
+      },
+      {
+        "term": 1999,
+        "sourceName": "DREIFUSS R.",
+        "votes": 158
+      },
+      {
+        "term": 2000,
+        "sourceName": "OGI A.",
+        "votes": 176
+      },
+      {
+        "term": 2001,
+        "sourceName": "LEUENBERGER M.",
+        "votes": 187
+      },
+      {
+        "term": 2002,
+        "sourceName": "VILLIGER K.",
+        "votes": 183
+      },
+      {
+        "term": 2003,
+        "sourceName": "COUCHEPIN P.",
+        "votes": 166
+      },
+      {
+        "term": 2004,
+        "sourceName": "DEISS J.",
+        "votes": 174
+      },
+      {
+        "term": 2005,
+        "sourceName": "SCHMID S.",
+        "votes": 174
+      },
+      {
+        "term": 2006,
+        "sourceName": "LEUENBERGER M.",
+        "votes": 159
+      },
+      {
+        "term": 2007,
+        "sourceName": "CALMY-REY M.",
+        "votes": 147
+      },
+      {
+        "term": 2008,
+        "sourceName": "COUCHEPIN P.",
+        "votes": 197
+      },
+      {
+        "term": 2009,
+        "sourceName": "MERZ H-R",
+        "votes": 185
+      },
+      {
+        "term": 2010,
+        "sourceName": "LEUTHARD D.",
+        "votes": 158
+      },
+      {
+        "term": 2011,
+        "sourceName": "CALMY-REY M.",
+        "votes": 106
+      },
+      {
+        "term": 2012,
+        "sourceName": "WIDMER-SCHLUMPF E.",
+        "votes": 174
+      },
+      {
+        "term": 2013,
+        "sourceName": "MAURER UELI",
+        "votes": 148
+      },
+      {
+        "term": 2014,
+        "sourceName": "BURKHALTER D.",
+        "votes": 183
+      },
+      {
+        "term": 2015,
+        "sourceName": "SOMMARUGA S.",
+        "votes": 181
+      },
+      {
+        "term": 2016,
+        "sourceName": "SCHNEIDER-AMMANN J.",
+        "votes": 196
+      },
+      {
+        "term": 2017,
+        "sourceName": "LEUTHARD D.",
+        "votes": 188
+      },
+      {
+        "term": 2018,
+        "sourceName": "BERSET A.",
+        "votes": 190
+      },
+      {
+        "term": 2019,
+        "sourceName": "MAURER U.",
+        "votes": 201
+      },
+      {
+        "term": 2020,
+        "sourceName": "SOMMARUGA S.",
+        "votes": 186
+      },
+      {
+        "term": 2021,
+        "sourceName": "PARMELIN G.",
+        "votes": 188
+      }
+    ]
+  }
+}

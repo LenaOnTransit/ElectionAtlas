@@ -1,0 +1,1555 @@
+[
+  {
+    "year": 1999,
+    "date": "1999-12-15",
+    "source": "https://en.wikipedia.org/wiki/1999_Swiss_Federal_Council_election",
+    "contests": [
+      {
+        "label": "Seat held by Adolf Ogi",
+        "validVotes": [
+          229
+        ],
+        "candidates": [
+          {
+            "name": "Adolf Ogi",
+            "party": "SVP",
+            "votes": [
+              191
+            ]
+          },
+          {
+            "name": "Franz Steinegger",
+            "party": "FDP",
+            "votes": [
+              11
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              27
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Kaspar Villiger",
+        "validVotes": [
+          233
+        ],
+        "candidates": [
+          {
+            "name": "Kaspar Villiger",
+            "party": "FDP",
+            "votes": [
+              187
+            ]
+          },
+          {
+            "name": "Franz Steinegger",
+            "party": "FDP",
+            "votes": [
+              15
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              31
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Ruth Dreifuss",
+        "validVotes": [
+          235
+        ],
+        "candidates": [
+          {
+            "name": "Ruth Dreifuss",
+            "party": "SP",
+            "votes": [
+              148
+            ]
+          },
+          {
+            "name": "Franz Steinegger",
+            "party": "FDP",
+            "votes": [
+              58
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              29
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Moritz Leuenberger",
+        "validVotes": [
+          235
+        ],
+        "candidates": [
+          {
+            "name": "Moritz Leuenberger",
+            "party": "SP",
+            "votes": [
+              154
+            ]
+          },
+          {
+            "name": "Christoph Blocher",
+            "party": "SVP",
+            "votes": [
+              58
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              23
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Pascal Couchepin",
+        "validVotes": [
+          224
+        ],
+        "candidates": [
+          {
+            "name": "Pascal Couchepin",
+            "party": "FDP",
+            "votes": [
+              124
+            ]
+          },
+          {
+            "name": "Franz Steinegger",
+            "party": "FDP",
+            "votes": [
+              20
+            ]
+          },
+          {
+            "name": "Frank A. Meyer",
+            "party": "None",
+            "votes": [
+              19
+            ]
+          },
+          {
+            "name": "Yves Christen",
+            "party": "FDP",
+            "votes": [
+              15
+            ]
+          },
+          {
+            "name": "Christine Beerli",
+            "party": "FDP",
+            "votes": [
+              13
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              33
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Ruth Metzler",
+        "validVotes": [
+          231
+        ],
+        "candidates": [
+          {
+            "name": "Ruth Metzler",
+            "party": "CVP",
+            "votes": [
+              144
+            ]
+          },
+          {
+            "name": "Chiara Simoneschi",
+            "party": "CVP",
+            "votes": [
+              13
+            ]
+          },
+          {
+            "name": "Rosmarie Zapfl",
+            "party": "CVP",
+            "votes": [
+              11
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              63
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Joseph Deiss",
+        "validVotes": [
+          229
+        ],
+        "candidates": [
+          {
+            "name": "Joseph Deiss",
+            "party": "CVP",
+            "votes": [
+              173
+            ]
+          },
+          {
+            "name": "Peter Hess",
+            "party": "CVP",
+            "votes": [
+              10
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              46
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2003,
+    "date": "2003-12-10",
+    "source": "https://en.wikipedia.org/wiki/2003_Swiss_Federal_Council_election",
+    "contests": [
+      {
+        "label": "Seat held by Moritz Leuenberger",
+        "validVotes": [
+          234
+        ],
+        "candidates": [
+          {
+            "name": "Moritz Leuenberger",
+            "party": "SP",
+            "votes": [
+              211
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              23
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Pascal Couchepin",
+        "validVotes": [
+          230
+        ],
+        "candidates": [
+          {
+            "name": "Pascal Couchepin",
+            "party": "FDP",
+            "votes": [
+              178
+            ]
+          },
+          {
+            "name": "Fulvio Pelli",
+            "party": "FDP",
+            "votes": [
+              17
+            ]
+          },
+          {
+            "name": "Fernand Cuche",
+            "party": "Greens",
+            "votes": [
+              10
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              25
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Ruth Metzler",
+        "validVotes": [
+          240,
+          241,
+          237
+        ],
+        "candidates": [
+          {
+            "name": "Christoph Blocher",
+            "party": "SVP",
+            "votes": [
+              116,
+              119,
+              121
+            ]
+          },
+          {
+            "name": "Ruth Metzler",
+            "party": "CVP",
+            "votes": [
+              116,
+              117,
+              116
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              8,
+              5,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Joseph Deiss",
+        "validVotes": [
+          241
+        ],
+        "candidates": [
+          {
+            "name": "Joseph Deiss",
+            "party": "CVP",
+            "votes": [
+              138
+            ]
+          },
+          {
+            "name": "Ruth Metzler",
+            "party": "CVP",
+            "votes": [
+              96
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              7
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Samuel Schmid",
+        "validVotes": [
+          204
+        ],
+        "candidates": [
+          {
+            "name": "Samuel Schmid",
+            "party": "SVP",
+            "votes": [
+              167
+            ]
+          },
+          {
+            "name": "Ruth Genner",
+            "party": "Greens",
+            "votes": [
+              13
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              24
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Micheline Calmy-Rey",
+        "validVotes": [
+          226
+        ],
+        "candidates": [
+          {
+            "name": "Micheline Calmy-Rey",
+            "party": "SP",
+            "votes": [
+              206
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              20
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Vacant seat",
+        "validVotes": [
+          241,
+          239
+        ],
+        "candidates": [
+          {
+            "name": "Hans-Rudolf Merz",
+            "party": "FDP",
+            "votes": [
+              115,
+              127
+            ]
+          },
+          {
+            "name": "Christine Beerli",
+            "party": "FDP",
+            "votes": [
+              83,
+              96
+            ]
+          },
+          {
+            "name": "Franz Steinegger",
+            "party": "FDP",
+            "votes": [
+              16,
+              null
+            ]
+          },
+          {
+            "name": "Fulvio Pelli",
+            "party": "FDP",
+            "votes": [
+              11,
+              null
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              16,
+              16
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2007,
+    "date": "2007-12-12",
+    "source": "https://en.wikipedia.org/wiki/2007_Swiss_Federal_Council_election",
+    "contests": [
+      {
+        "label": "Seat held by Moritz Leuenberger",
+        "validVotes": [
+          178
+        ],
+        "candidates": [
+          {
+            "name": "Moritz Leuenberger",
+            "party": null,
+            "votes": [
+              157
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              21
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Pascal Couchepin",
+        "validVotes": [
+          231
+        ],
+        "candidates": [
+          {
+            "name": "Pascal Couchepin",
+            "party": null,
+            "votes": [
+              205
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              26
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Samuel Schmid",
+        "validVotes": [
+          219
+        ],
+        "candidates": [
+          {
+            "name": "Samuel Schmid",
+            "party": null,
+            "votes": [
+              201
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Micheline Calmy-Rey",
+        "validVotes": [
+          180
+        ],
+        "candidates": [
+          {
+            "name": "Micheline Calmy-Rey",
+            "party": null,
+            "votes": [
+              153
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              27
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Christoph Blocher",
+        "validVotes": [
+          238,
+          242
+        ],
+        "candidates": [
+          {
+            "name": "Christoph Blocher",
+            "party": null,
+            "votes": [
+              111,
+              115
+            ]
+          },
+          {
+            "name": "Eveline Widmer-Schlumpf",
+            "party": null,
+            "votes": [
+              116,
+              125
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              11,
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Hans-Rudolf Merz",
+        "validVotes": [
+          233
+        ],
+        "candidates": [
+          {
+            "name": "Hans-Rudolf Merz",
+            "party": null,
+            "votes": [
+              213
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              20
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Doris Leuthard",
+        "validVotes": [
+          191
+        ],
+        "candidates": [
+          {
+            "name": "Doris Leuthard",
+            "party": null,
+            "votes": [
+              160
+            ]
+          },
+          {
+            "name": "Christoph Blocher",
+            "party": null,
+            "votes": [
+              12
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              19
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2011,
+    "date": "2011-12-14",
+    "source": "https://en.wikipedia.org/wiki/2011_Swiss_Federal_Council_election",
+    "contests": [
+      {
+        "label": "Seat held by Doris Leuthard",
+        "validVotes": [
+          227
+        ],
+        "candidates": [
+          {
+            "name": "Doris Leuthard",
+            "party": null,
+            "votes": [
+              216
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              11
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Eveline Widmer-Schlumpf",
+        "validVotes": [
+          239
+        ],
+        "candidates": [
+          {
+            "name": "Eveline Widmer-Schlumpf",
+            "party": null,
+            "votes": [
+              131
+            ]
+          },
+          {
+            "name": "Hansjörg Walter",
+            "party": null,
+            "votes": [
+              63
+            ]
+          },
+          {
+            "name": "Jean-François Rime",
+            "party": null,
+            "votes": [
+              41
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              4
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Ueli Maurer",
+        "validVotes": [
+          226
+        ],
+        "candidates": [
+          {
+            "name": "Ueli Maurer",
+            "party": null,
+            "votes": [
+              159
+            ]
+          },
+          {
+            "name": "Hansjörg Walter",
+            "party": null,
+            "votes": [
+              41
+            ]
+          },
+          {
+            "name": "Luc Recordon",
+            "party": null,
+            "votes": [
+              13
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Didier Burkhalter",
+        "validVotes": [
+          232
+        ],
+        "candidates": [
+          {
+            "name": "Didier Burkhalter",
+            "party": null,
+            "votes": [
+              194
+            ]
+          },
+          {
+            "name": "Jean-François Rime",
+            "party": null,
+            "votes": [
+              24
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Simonetta Sommaruga",
+        "validVotes": [
+          242
+        ],
+        "candidates": [
+          {
+            "name": "Simonetta Sommaruga",
+            "party": null,
+            "votes": [
+              179
+            ]
+          },
+          {
+            "name": "Jean-François Rime",
+            "party": null,
+            "votes": [
+              61
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              2
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Johann Schneider-Ammann",
+        "validVotes": [
+          234
+        ],
+        "candidates": [
+          {
+            "name": "Johann Schneider-Ammann",
+            "party": null,
+            "votes": [
+              159
+            ]
+          },
+          {
+            "name": "Jean-François Rime",
+            "party": null,
+            "votes": [
+              64
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              11
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Vacant seat",
+        "validVotes": [
+          243,
+          245
+        ],
+        "candidates": [
+          {
+            "name": "Alain Berset",
+            "party": null,
+            "votes": [
+              114,
+              126
+            ]
+          },
+          {
+            "name": "Pierre-Yves Maillard",
+            "party": null,
+            "votes": [
+              59,
+              63
+            ]
+          },
+          {
+            "name": "Jean-François Rime",
+            "party": null,
+            "votes": [
+              59,
+              54
+            ]
+          },
+          {
+            "name": "Marina Carobbio",
+            "party": null,
+            "votes": [
+              10,
+              null
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2015,
+    "date": "2015-12-09",
+    "source": "https://en.wikipedia.org/wiki/2015_Swiss_Federal_Council_election",
+    "contests": [
+      {
+        "label": "Seat held by Doris Leuthard",
+        "validVotes": [
+          234
+        ],
+        "candidates": [
+          {
+            "name": "Doris Leuthard",
+            "party": null,
+            "votes": [
+              215
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              19
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Ueli Maurer",
+        "validVotes": [
+          210
+        ],
+        "candidates": [
+          {
+            "name": "Ueli Maurer",
+            "party": null,
+            "votes": [
+              173
+            ]
+          },
+          {
+            "name": "Thomas Hurter",
+            "party": null,
+            "votes": [
+              10
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              27
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Didier Burkhalter",
+        "validVotes": [
+          231
+        ],
+        "candidates": [
+          {
+            "name": "Didier Burkhalter",
+            "party": null,
+            "votes": [
+              217
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Simonetta Sommaruga",
+        "validVotes": [
+          221
+        ],
+        "candidates": [
+          {
+            "name": "Simonetta Sommaruga",
+            "party": null,
+            "votes": [
+              182
+            ]
+          },
+          {
+            "name": "Daniel Jositsch",
+            "party": null,
+            "votes": [
+              11
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              28
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Johann Schneider-Ammann",
+        "validVotes": [
+          219
+        ],
+        "candidates": [
+          {
+            "name": "Johann Schneider-Ammann",
+            "party": null,
+            "votes": [
+              191
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              28
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Alain Berset",
+        "validVotes": [
+          233
+        ],
+        "candidates": [
+          {
+            "name": "Alain Berset",
+            "party": null,
+            "votes": [
+              210
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              23
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Vacant seat",
+        "validVotes": [
+          243,
+          239,
+          237
+        ],
+        "candidates": [
+          {
+            "name": "Guy Parmelin",
+            "party": null,
+            "votes": [
+              90,
+              117,
+              138
+            ]
+          },
+          {
+            "name": "Thomas Aeschi",
+            "party": null,
+            "votes": [
+              61,
+              78,
+              88
+            ]
+          },
+          {
+            "name": "Norman Gobbi",
+            "party": null,
+            "votes": [
+              50,
+              30,
+              11
+            ]
+          },
+          {
+            "name": "Thomas Hurter",
+            "party": null,
+            "votes": [
+              22,
+              null,
+              null
+            ]
+          },
+          {
+            "name": "Viola Amherd",
+            "party": null,
+            "votes": [
+              16,
+              null,
+              null
+            ]
+          },
+          {
+            "name": "Votes received by other persons",
+            "party": "Unattributed ballots",
+            "votes": [
+              4,
+              14,
+              null
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2019,
+    "date": "2019-12-11",
+    "source": "https://en.wikipedia.org/wiki/2019_Swiss_Federal_Council_election",
+    "contests": [
+      {
+        "label": "Seat held by Ueli Maurer",
+        "validVotes": [
+          221
+        ],
+        "candidates": [
+          {
+            "name": "Ueli Maurer",
+            "party": "SVP",
+            "votes": [
+              213
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              8
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Simonetta Sommaruga",
+        "validVotes": [
+          218
+        ],
+        "candidates": [
+          {
+            "name": "Simonetta Sommaruga",
+            "party": "SP",
+            "votes": [
+              192
+            ]
+          },
+          {
+            "name": "Regula Rytz",
+            "party": "GPS",
+            "votes": [
+              13
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Alain Berset",
+        "validVotes": [
+          230
+        ],
+        "candidates": [
+          {
+            "name": "Alain Berset",
+            "party": "SP",
+            "votes": [
+              214
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              16
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Guy Parmelin",
+        "validVotes": [
+          204
+        ],
+        "candidates": [
+          {
+            "name": "Guy Parmelin",
+            "party": "SVP",
+            "votes": [
+              191
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Ignazio Cassis",
+        "validVotes": [
+          238
+        ],
+        "candidates": [
+          {
+            "name": "Ignazio Cassis",
+            "party": "FDP",
+            "votes": [
+              145
+            ]
+          },
+          {
+            "name": "Regula Rytz",
+            "party": "GPS",
+            "votes": [
+              82
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              11
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Viola Amherd",
+        "validVotes": [
+          232
+        ],
+        "candidates": [
+          {
+            "name": "Viola Amherd",
+            "party": "CVP",
+            "votes": [
+              218
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              14
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Karin Keller-Sutter",
+        "validVotes": [
+          206
+        ],
+        "candidates": [
+          {
+            "name": "Karin Keller-Sutter",
+            "party": "FDP",
+            "votes": [
+              169
+            ]
+          },
+          {
+            "name": "Marcel Dobler",
+            "party": "FDP",
+            "votes": [
+              21
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              16
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "date": "2023-12-13",
+    "source": "https://en.wikipedia.org/wiki/2023_Swiss_Federal_Council_election",
+    "contests": [
+      {
+        "label": "Open seat vacated by Alain Berset",
+        "validVotes": [
+          243,
+          246,
+          245
+        ],
+        "candidates": [
+          {
+            "name": "Beat Jans",
+            "party": "SP",
+            "votes": [
+              89,
+              112,
+              134
+            ]
+          },
+          {
+            "name": "Daniel Jositsch",
+            "party": "SP",
+            "votes": [
+              63,
+              70,
+              68
+            ]
+          },
+          {
+            "name": "Jon Pult",
+            "party": "SP",
+            "votes": [
+              49,
+              54,
+              43
+            ]
+          },
+          {
+            "name": "Gerhard Andrey",
+            "party": "GPS",
+            "votes": [
+              30,
+              null,
+              null
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              12,
+              10,
+              0
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Guy Parmelin",
+        "validVotes": [
+          233
+        ],
+        "candidates": [
+          {
+            "name": "Guy Parmelin",
+            "party": "SVP",
+            "votes": [
+              215
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Ignazio Cassis",
+        "validVotes": [
+          239
+        ],
+        "candidates": [
+          {
+            "name": "Ignazio Cassis",
+            "party": "FDP",
+            "votes": [
+              167
+            ]
+          },
+          {
+            "name": "Gerhard Andrey",
+            "party": "GPS",
+            "votes": [
+              59
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              13
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Viola Amherd",
+        "validVotes": [
+          228
+        ],
+        "candidates": [
+          {
+            "name": "Viola Amherd",
+            "party": "DM",
+            "votes": [
+              201
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              27
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Karin Keller-Sutter",
+        "validVotes": [
+          224
+        ],
+        "candidates": [
+          {
+            "name": "Karin Keller-Sutter",
+            "party": "FDP",
+            "votes": [
+              176
+            ]
+          },
+          {
+            "name": "Anna Giacometti",
+            "party": "FDP",
+            "votes": [
+              15
+            ]
+          },
+          {
+            "name": "Gerhard Andrey",
+            "party": "GPS",
+            "votes": [
+              15
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              18
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Albert Rösti",
+        "validVotes": [
+          217
+        ],
+        "candidates": [
+          {
+            "name": "Albert Rösti",
+            "party": "SVP",
+            "votes": [
+              189
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              28
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Seat held by Élisabeth Baume-Schneider",
+        "validVotes": [
+          216
+        ],
+        "candidates": [
+          {
+            "name": "Élisabeth Baume-Schneider",
+            "party": "SP",
+            "votes": [
+              151
+            ]
+          },
+          {
+            "name": "Gerhard Andrey",
+            "party": "GPS",
+            "votes": [
+              23
+            ]
+          },
+          {
+            "name": "Eva Herzog",
+            "party": "SP",
+            "votes": [
+              15
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              27
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "date": "2025-03-12",
+    "source": "https://en.wikipedia.org/wiki/2025_Swiss_Federal_Council_election",
+    "contests": [
+      {
+        "label": "Results",
+        "validVotes": [
+          245,
+          245
+        ],
+        "candidates": [
+          {
+            "name": "Martin Pfister",
+            "party": "The Centre",
+            "votes": [
+              122,
+              134
+            ]
+          },
+          {
+            "name": "Markus Ritter",
+            "party": "The Centre",
+            "votes": [
+              105,
+              110
+            ]
+          },
+          {
+            "name": "Others",
+            "party": "Unattributed ballots",
+            "votes": [
+              18,
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
