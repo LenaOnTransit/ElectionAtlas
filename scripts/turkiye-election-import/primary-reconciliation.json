@@ -1,0 +1,58 @@
+[
+  {
+    "id": "world-turkiye-assembly-2011-06-12",
+    "file": "parliament2011.pdf",
+    "matched": true,
+    "missingVotes": [],
+    "rows": 16
+  },
+  {
+    "id": "world-turkiye-assembly-2015-06-07",
+    "file": "june2015.pdf",
+    "matched": true,
+    "missingVotes": [],
+    "rows": 21
+  },
+  {
+    "id": "world-turkiye-assembly-2015-11-01",
+    "file": "nov2015.pdf",
+    "matched": true,
+    "missingVotes": [],
+    "rows": 17
+  },
+  {
+    "id": "world-turkiye-assembly-2018-06-24",
+    "file": "parliament2018.pdf",
+    "matched": true,
+    "missingVotes": [],
+    "rows": 9
+  },
+  {
+    "id": "world-turkiye-assembly-2023-05-14",
+    "file": "stats2023.pdf",
+    "matched": true,
+    "missingVotes": [],
+    "rows": 25
+  },
+  {
+    "id": "world-turkiye-president-2018-06-24",
+    "file": "pres2018.pdf",
+    "matched": true,
+    "missingVotes": [],
+    "rows": 6
+  },
+  {
+    "id": "world-turkiye-president-2023-05-14",
+    "file": "pres2023.pdf",
+    "matched": true,
+    "missingVotes": [],
+    "rows": 4
+  },
+  {
+    "id": "world-turkiye-president-2023-05-28",
+    "file": "runoff2023.pdf",
+    "matched": true,
+    "missingVotes": [],
+    "rows": 2
+  }
+]
