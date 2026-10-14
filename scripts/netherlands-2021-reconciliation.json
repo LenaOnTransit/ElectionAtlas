@@ -1,0 +1,49 @@
+{
+  "certifiedNationalValidVotes": 10422852,
+  "municipalValidVotes": 10422851,
+  "municipalMinusNationalBySourceParty": {
+    "VVD": -4,
+    "D66": 1,
+    "PVV (Partij voor de Vrijheid)": 0,
+    "CDA": 0,
+    "SP (Socialistische Partij)": 0,
+    "Partij van de Arbeid (P.v.d.A.)": 0,
+    "GROENLINKS": 0,
+    "Forum voor Democratie": 0,
+    "Partij voor de Dieren": 1,
+    "ChristenUnie": 0,
+    "Volt": 0,
+    "JA21": 0,
+    "Staatkundig Gereformeerde Partij (SGP)": 0,
+    "DENK": 1,
+    "50PLUS": 0,
+    "BBB": 0,
+    "BIJ1": 0,
+    "CODE ORANJE": 0,
+    "NIDA": 0,
+    "Splinter": 0,
+    "Piratenpartij": 0,
+    "JONG": 0,
+    "Trots op Nederland (TROTS)": 0,
+    "Lijst Henk Krol": 0,
+    "NLBeter": 0,
+    "Blanco (Zeven, A.J.L.B.)": 0,
+    "LP (Libertaire Partij)": 0,
+    "OPRECHT": 0,
+    "JEZUS LEEFT": 0,
+    "DE FEESTPARTIJ (DFP)": 0,
+    "U-Buntu Connected Front": 0,
+    "Vrij en Sociaal Nederland": 0,
+    "Partij van de Eenheid": 0,
+    "Wij zijn Nederland": 0,
+    "Partij voor de Republiek": 0,
+    "Modern Nederland": 0,
+    "De Groenen": 0
+  },
+  "sources": [
+    {
+      "label": "Kiesraad — 2021 national summary and municipal returns",
+      "url": "https://www.verkiezingsuitslagen.nl/verkiezingen/detail/TK20210317"
+    }
+  ]
+}

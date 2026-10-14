@@ -2,24 +2,27 @@ import {useId,useMemo,useState} from 'react';
 import {AppLink} from '../../src/navigation';
 import {WorldNav} from '../world/shared';
 import {MapPaletteControl,useMapPalette,accessibleColour,MapPatternDefs,MapSwatch} from '../appearance';
-import {geographyView,rankedResults,winningMargin,populationRadius,mixWhite,type GeographyDataset,type ViewUnit} from '../../lib/election-geography.mjs';
+import {geographyView,comparisonElections,rankedResults,winningMargin,populationRadius,mixWhite,type GeographyDataset,type ViewUnit} from '../../lib/election-geography.mjs';
 const signed=(n:number)=>`${n>0?'+':''}${n.toFixed(2)}`;
 const number=(n:number)=>n.toLocaleString('en-GB');
 const share=(votes:number,valid:number)=>valid?100*votes/valid:0;
 
-export default function ElectionGeography({data,initialElectionId,initialView={}}:{data:GeographyDataset;initialElectionId?:string;initialView?:{comparison?:boolean;layer?:'winner'|'margin'|'shift';layout?:'geographic'|'population';unitId?:string}}){
+export default function ElectionGeography({data,initialElectionId,initialView={}}:{data:GeographyDataset;initialElectionId?:string;initialView?:{comparison?:boolean;layer?:'winner'|'margin'|'shift';layout?:'geographic'|'population';unitId?:string;previousElectionId?:string}}){
  const [electionId,setElectionId]=useState(initialElectionId||data.defaultElectionId);
  const [palette,setPalette]=useMapPalette();
  const [layer,setLayer]=useState(initialView.layer||'winner');
  const [layout,setLayout]=useState(initialView.layout||'geographic');
  const [query,setQuery]=useState('');
- const [selected,setSelected]=useState(initialView.unitId||data.defaultUnitId||'');
+ const [selected,setSelected]=useState(initialView.unitId||data.elections.find(e=>e.id===(initialElectionId||data.defaultElectionId))?.defaultUnitId||data.defaultUnitId||'');
  const [zoom,setZoom]=useState(1),[pan,setPan]=useState([0,0]);
  const [arrowScale,setArrowScale]=useState(1),[threshold,setThreshold]=useState(0),[bubbleSize,setBubbleSize]=useState(24);
  const [comparisonRequested,setComparison]=useState(initialView.comparison||false);
+ const [comparisonId,setComparisonId]=useState(initialView.previousElectionId);
  const markerId=useId().replace(/[^a-zA-Z0-9_-]/g,'');
- const view=useMemo(()=>geographyView(data,electionId),[data,electionId]);
+ const view=useMemo(()=>geographyView(data,electionId,comparisonId),[data,electionId,comparisonId]);
  const {election,previous,boundaries,units,maxPopulation,maxShift}=view;
+ const comparisonChoices=comparisonElections(data,election);
+ const populationLabel=election.populationLabel||data.populationLabel;
  const comparison=comparisonRequested&&!!previous;
  const shiftLayer=layer==='shift'&&comparison&&view.hasClassifications;
  const effectiveLayer=layer==='shift'&&!shiftLayer?'winner':layer;
@@ -44,20 +47,22 @@ export default function ElectionGeography({data,initialElectionId,initialView={}
  const rows=rankedResults(active?.result),shift=active?.shift;
  const resultsAvailable=!!rows.length,comparisonAvailable=!!active?.result?.valid&&!!active?.previousResult?.valid;
  const shownElections=comparison&&previous?[previous,election]:[election];
- const outside=data.units.filter(u=>!boundaries.features[u.id]&&shownElections.some(e=>e.results[u.id]));
+ const outside=data.units.filter(u=>shownElections.some(e=>e.results[u.id]&&!data.boundaries.find(b=>b.id===e.boundarySetId)?.features[u.id]));
  const winners=[...new Set(units.flatMap(u=>{const r=rankedResults(u.result);return !r.length||r[0].votes===r[1]?.votes?[]:[r[0].party];}))];
  if(!active)return <main className="world-main"><h1>{data.title}</h1><p>No mapped areas are available for this election.</p></main>;
  return <main className="world-main municipal-comparison"><WorldNav/>
-  <div className="kicker">{data.unitLabel} map · {election.country}</div><h1>{election.name} · {comparison&&previous?`${previous.label} → ${election.label}`:election.label}</h1><p className="standfirst">{data.description}</p>
+  <div className="kicker">{data.unitLabel} map · {election.country}</div><h1>{election.name} · {comparison&&previous?`${previous.label} → ${election.label}`:election.label}</h1><p className="standfirst">{data.description}</p>{election.coverageNote&&<p className="meta">{election.coverageNote}</p>}
   <div className="municipal-controls">
-   <label>Election<select value={election.id} onChange={e=>{setElectionId(e.target.value);setComparison(false);setLayer('winner');resetView();}}>{data.elections.map(e=><option key={e.id} value={e.id}>{e.dateLabel||e.label} · {e.name}</option>)}</select></label>
-   {previous&&<label>View<select value={comparison?'comparison':'results'} onChange={e=>{setComparison(e.target.value==='comparison');if(e.target.value!=='comparison')setLayer('winner');}}><option value="results">Election results</option><option value="comparison">Compare with {previous.label}</option></select></label>}
+   <label>Election<select value={election.id} onChange={e=>{setElectionId(e.target.value);setComparisonId(undefined);const next=geographyView(data,e.target.value);setSelected(next.units.find(u=>u.name===active?.name)?.id||next.election.defaultUnitId||next.units[0]?.id||'');setComparison(false);setLayer('winner');resetView();}}>{data.elections.map(e=><option key={e.id} value={e.id}>{e.dateLabel||e.label} · {e.name}</option>)}</select></label>
+   {comparisonChoices.length>0&&<label>View<select value={comparison?'comparison':'results'} onChange={e=>{setComparison(e.target.value==='comparison');if(!previous)setComparisonId(undefined);if(e.target.value!=='comparison')setLayer('winner');}}><option value="results">Election results</option><option value="comparison">Compare with {previous?.label||comparisonChoices[0].label}</option></select></label>}
+   {comparison&&comparisonChoices.length>1&&<label>Compare with<select value={previous?.id} onChange={e=>setComparisonId(e.target.value)}>{comparisonChoices.map(p=><option key={p.id} value={p.id}>{p.dateLabel||p.label} · {p.name}</option>)}</select></label>}
    <label>Map layer<select value={effectiveLayer} onChange={e=>setLayer(e.target.value as typeof layer)}><option value="winner">Winning party</option><option value="margin">Winning margin</option>{comparison&&view.hasClassifications&&<option value="shift">Left–right shift since {previous?.label}</option>}</select></label>
    <label>Area sizing<select value={effectiveLayout} onChange={e=>setLayout(e.target.value as typeof layout)}><option value="geographic">Geographic boundaries</option>{maxPopulation>0&&<option value="population">Population-sized circles</option>}</select></label>
    <label>Find a {data.unitLabel}<input type="search" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Search by area name…"/></label>
    <label>Select {data.unitLabel}<select value={active.id} onChange={e=>selectUnit(e.target.value)}>{matches.map(u=><option key={u.id} value={u.id}>{u.name}</option>)}{!matchingIds.has(active.id)&&<option value={active.id}>{active.name} (selected)</option>}</select></label>
   </div>
-  <p className="meta" role="status">{query?`${matches.length} matching ${data.unitPlural}. `:''}{palette==='accessible'&&effectiveLayer==='winner'?'Colours and patterns match the party key. ':''}{effectiveLayer==='margin'?'Colour identifies the largest party; deeper colour means a wider lead. The lead is the difference in vote share between the first and second parties.':shiftLayer?`Arrows show the change in vote-share balance. ${view.leftShifted} areas shifted left; ${view.rightShifted} shifted right. ${view.comparedUnits} of ${units.length} areas have comparable results.`:'Colour identifies the party with the most votes, which need not have a majority.'} Grey means a tie or results not available. {effectiveLayout==='population'?`Circle area is proportional to population${data.populationLabel?' on '+data.populationLabel:''}; centres remain at their geographic locations and circles may overlap. Areas without population figures retain their boundaries.`:''}</p>
+  <p className="meta" role="status">{query?`${matches.length} matching ${data.unitPlural}. `:''}{palette==='accessible'&&effectiveLayer==='winner'?'Colours and patterns match the party key. ':''}{effectiveLayer==='margin'?'Colour identifies the largest party; deeper colour means a wider lead. The lead is the difference in vote share between the first and second parties.':shiftLayer?`Arrows show the change in vote-share balance. ${view.leftShifted} areas shifted left; ${view.rightShifted} shifted right. ${view.comparedUnits} of ${units.length} areas have comparable results.`:'Colour identifies the party with the most votes, which need not have a majority.'} Grey means a tie or results not available. {effectiveLayout==='population'?`Circle area is proportional to population${populationLabel?' on '+populationLabel:''}; centres remain at their geographic locations and circles may overlap. Areas without population figures retain their boundaries.`:''}</p>
+  {comparison&&view.comparisonNote&&<p className="meta">{view.comparisonNote} {view.comparedUnits} of {units.length} {data.unitPlural} have comparable results. {view.comparisonSources.map(s=><span key={s.url}><a href={s.url} target="_blank" rel="noreferrer">{s.label}</a>{' '}</span>)}</p>}
   {effectiveLayer==='margin'&&<div className="municipal-margin-key"><span>Smaller lead</span><i/><span>30+ percentage points</span></div>}
   <MapPaletteControl value={palette} onChange={setPalette}/>
   <div className="municipal-map-layout"><section className="municipal-map-panel" aria-label="Election geography map">
@@ -71,7 +76,7 @@ export default function ElectionGeography({data,initialElectionId,initialView={}
    </svg><p className="meta">Boundaries: {boundaries.label}. Each area retains its geographic location. Use zoom, search or the selector for small areas.</p>
    <div className="municipal-party-key">{winners.map(id=><span key={id}>{partySwatch(id)}{partyName(id)}</span>)}<span><i style={{background:'#888888'}}/>Tie / results not available</span></div>
   </section>
-  <aside className="municipal-detail" aria-live="polite"><div className="kicker">Selected {data.unitLabel} · {active.id}</div><h2>{active.name}</h2>{active.population!=null&&<p>{number(active.population)} residents{data.populationLabel?' · '+data.populationLabel:''}</p>}
+  <aside className="municipal-detail" aria-live="polite"><div className="kicker">Selected {data.unitLabel} · {active.id}</div><h2>{active.name}</h2>{active.population!=null&&<p>{number(active.population)} residents{populationLabel?' · '+populationLabel:''}</p>}
    {resultsAvailable?<div className="municipal-winner" style={{borderColor:color(active)}}><b>{rows[0].votes===rows[1]?.votes?'Joint first place':partyName(rows[0].party)}</b><span>{rows[0].share.toFixed(2)}% · lead {winningMargin(active.result).toFixed(2)} pp</span><small>{election.label} turnout: {active.result?.turnout==null?'Not recorded':active.result.turnout.toFixed(2)+'%'}</small></div>:<p>Results are not available for this area.</p>}
    {active.result?.turnout!=null&&active.result.turnout>100&&data.turnoutNote&&<p className="meta">{data.turnoutNote}</p>}
    {comparison&&view.hasClassifications&&(shift?<><h3>{previous?.label} → {election.label} vote balance</h3><p className="municipal-shift-value" style={{color:shift.change>0?'#922c38':shift.change<0?'#174c87':undefined}}>{Math.abs(shift.change)<.005?'No net shift':`${Math.abs(shift.change).toFixed(2)} pp ${shift.change>0?'← left':'right →'}`}</p><div className="world-table-scroll"><table className="world-result-table"><thead><tr><th>Bloc</th><th>{previous?.label}</th><th>{election.label}</th><th>Change</th></tr></thead><tbody>{(['left','right','centre','unclassified'] as const).map(b=><tr key={b}><th>{b[0].toUpperCase()+b.slice(1)}</th><td>{shift.before[b].toFixed(2)}%</td><td>{shift.after[b].toFixed(2)}%</td><td>{signed(shift.after[b]-shift.before[b])} pp</td></tr>)}</tbody></table></div><p className="meta">Shift = (left share − right share) in {election.label} minus the same balance in {previous?.label}. Centre and unclassified votes remain in the denominator and contribute to neither bloc. Aggregate changes do not identify individual voter movements.</p></>:<p>Vote-balance comparison is not available for this area.</p>)}

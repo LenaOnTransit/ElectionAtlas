@@ -47,3 +47,26 @@ Left–right shift compares `(left − right)` vote shares across the explicit p
 The v1 engine renders party/list vote totals on preprojected boundaries. Candidate/ranked-choice ballots, dynamic GeoJSON reprojection, crosswalk generation, demographic vintages and automatic source ingestion are importer/schema work if needed later; this refactor adds no elections or database polling.
 
 Validation: `node --test scripts/check-election-geography.mjs scripts/check-municipal-comparison.mjs`, followed by the normal `pnpm test` and `pnpm build`. Tests reconcile all Dutch results and exercise an unrelated synthetic region dataset, mismatched boundaries/bases, missing results, election-specific metadata, standalone elections, comparisons, population circles and accessible rendering.
+
+## Multiple comparisons and documented crosswalks
+
+An election may now provide `comparisons: [{electionId, unitMap?, note?, sources?}]`
+in addition to the legacy `previousElectionId`. `comparisonElections` exposes
+only explicitly linked records from the same country, office and vote basis.
+`geographyView(dataset, currentId, comparisonId)` selects a specific pair.
+
+Without a map, the boundary-set IDs must still match. A `unitMap` explicitly
+maps each current unit ID to one or more prior unit IDs. Such maps require a
+reader-facing explanation and HTTPS provenance. Validation rejects invalid
+boundary joins and reuse of one prior unit in two current units. The importer
+must establish territorial equivalence; runtime never invents a crosswalk.
+
+Merged counts and valid-vote denominators are summed exactly. Missing origin
+records make the entire comparison unavailable. Merged turnout is left blank,
+not averaged. Outside-map tables use each election's own boundary set, so older
+mapped municipalities are not mislabelled as outside-map voting areas.
+
+Election-specific `populationLabel`, `coverageNote`, and `defaultUnitId` support
+historical geography and source exceptions. The Dutch history dataset uses
+native year-scoped unit IDs, contemporary boundaries and six audited comparison
+pairs; see [coverage and rebuilding](netherlands-municipal-history.md).

@@ -3,7 +3,8 @@ export type GeographicResult={valid:number;turnout:number|null;votes:Record<stri
 export type GeographicParty={id:string;name:string;color:string;classification?:Classification};
 export type GeographicUnit={id:string;name:string;population?:number|null};
 export type BoundarySet={id:string;width:number;height:number;label:string;features:Record<string,{path:string;center:[number,number]}>};
-export type GeographyElection={id:string;label:string;dateLabel:string;name:string;country:string;boundarySetId:string;voteBasis:string;parties:GeographicParty[];results:Record<string,GeographicResult>;previousElectionId?:string;nationalRoute?:string};
+export type GeographyComparison={electionId:string;unitMap?:Record<string,string[]>;note?:string;sources?:{label:string;url:string}[]};
+export type GeographyElection={id:string;label:string;dateLabel:string;name:string;country:string;boundarySetId:string;voteBasis:string;parties:GeographicParty[];results:Record<string,GeographicResult>;previousElectionId?:string;comparisons?:GeographyComparison[];populationLabel?:string;coverageNote?:string;defaultUnitId?:string;nationalRoute?:string};
 export type GeographyDataset={version:1;id:string;title:string;unitLabel:string;unitPlural:string;defaultElectionId:string;defaultUnitId?:string;populationLabel?:string;description:string;coverageNote:string;outsideMapNote?:string;classificationNote?:string;turnoutNote?:string;boundaries:BoundarySet[];units:GeographicUnit[];elections:GeographyElection[];notes:string[];comparisonNotes?:string[];sources:{label:string;url:string}[];checked:string};
 export type BlocShares={left:number;right:number;centre:number;unclassified:number;balance:number};
 export type VoteShift={before:BlocShares;after:BlocShares;leftChange:number;rightChange:number;change:number};
@@ -15,6 +16,8 @@ export function voteShift(before:GeographicResult|undefined,after:GeographicResu
 export function populationRadius(population:number,maximum:number,size?:number):number;
 export function mixWhite(hex:string,strength:number):string;
 export function classifications(election:GeographyElection):Record<string,Classification>;
-export function comparableElection(dataset:GeographyDataset,election:GeographyElection):GeographyElection|null;
-export function geographyView(dataset:GeographyDataset,electionId:string):{election:GeographyElection;previous:GeographyElection|null;boundaries:BoundarySet;units:ViewUnit[];hasClassifications:boolean;maxPopulation:number;maxShift:number;leftShifted:number;rightShifted:number;comparedUnits:number};
+export function comparisonElections(dataset:GeographyDataset,election:GeographyElection):GeographyElection[];
+export function comparableElection(dataset:GeographyDataset,election:GeographyElection,comparisonId?:string):GeographyElection|null;
+export function combinedResult(election:GeographyElection,unitIds?:string[]):GeographicResult|undefined;
+export function geographyView(dataset:GeographyDataset,electionId:string,comparisonId?:string):{election:GeographyElection;previous:GeographyElection|null;boundaries:BoundarySet;units:ViewUnit[];comparisonNote:string;comparisonSources:{label:string;url:string}[];hasClassifications:boolean;maxPopulation:number;maxShift:number;leftShifted:number;rightShifted:number;comparedUnits:number};
 export function validateGeographyDataset(dataset:unknown):GeographyDataset;

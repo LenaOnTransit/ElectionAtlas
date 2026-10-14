@@ -21,3 +21,9 @@ The broad left/right classification is fixed and editorial, independent of hidde
 The map is loaded only when the municipal route opens. Results are a static public asset and do not add Supabase polling or municipal database queries. Existing national election records are untouched. Controls and map features support keyboard selection, with a search/select alternative to navigating all polygons.
 
 The municipal route now uses our [shared election geography engine](election-geography-engine.md). The Dutch asset is adapted to the versioned engine schema at load time; country/year-specific defaults and copy remain in the adapter. Future geographic datasets can reuse the same renderer and loader.
+
+The original two-year asset and adapter remain as the certified compatibility
+fixture. The public route now loads the expanded
+[Dutch municipal history](netherlands-municipal-history.md), with eight elections
+and explicit multi-year comparison choices. Its historical crosswalks exclude
+splits and border corrections rather than treating every municipality as stable.
