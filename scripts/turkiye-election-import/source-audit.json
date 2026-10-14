@@ -1,0 +1,656 @@
+[
+  {
+    "file": "democracybook.pdf",
+    "source": "https://cdn.tbmm.gov.tr/TbmmWeb/Yayinlar/Dosya/338840aa-508c-482f-a7dd-fd19f0254f3c.pdf",
+    "sha256": "faa210da017fd0f55c603739a705b0ce06792833e794e7959705c6967d4799a6",
+    "bytes": 18106760
+  },
+  {
+    "file": "historical.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/Milletvekili/1950-1977/Turkiye.pdf",
+    "sha256": "16fbd941e11221c2ccb40b3c86f4d34f6b8dfe4fc7d6063b6ac53ec12f947a11",
+    "bytes": 27412
+  },
+  {
+    "file": "june2015.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/Milletvekili/7Haziran2015/KesinSecimSonuclari/ResmiGazete/D.pdf",
+    "sha256": "3ff0ae4b7dbb8c4541576adb2e58bfd1b769b041f6258ed50a417a26f1af0a68",
+    "bytes": 44407
+  },
+  {
+    "file": "nov2015.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/Milletvekili/1Kasim2015/KesinSecimSonuclari/96-D.pdf",
+    "sha256": "3c9d05c15918a46c98e410f440c2e623a100205e3d0367c115f528f47abb11d6",
+    "bytes": 43541
+  },
+  {
+    "file": "parliament-1950.html",
+    "source": "https://en.wikipedia.org/wiki/1950_Turkish_general_election",
+    "sha256": "18b286a950eb96d268c930cfbdbb77e4089743becb503037b636e5972e7f0275",
+    "bytes": 127358
+  },
+  {
+    "file": "parliament-1954.html",
+    "source": "https://en.wikipedia.org/wiki/1954_Turkish_general_election",
+    "sha256": "beb0d7448afb3f65fd6c0158cdb144b736749b8d1acef313322f9c3d91b486c4",
+    "bytes": 113965
+  },
+  {
+    "file": "parliament-1957.html",
+    "source": "https://en.wikipedia.org/wiki/1957_Turkish_general_election",
+    "sha256": "7526b885d4a2c665e6819e133e4a3960e3e680b15be4a7e5d71ac41063a4ec70",
+    "bytes": 119368
+  },
+  {
+    "file": "parliament-1961.html",
+    "source": "https://en.wikipedia.org/wiki/1961_Turkish_general_election",
+    "sha256": "74ccdd3e9a7c8c2e5e9a5265529b51d9314df337cb2f7a154834edd702cb2613",
+    "bytes": 115946
+  },
+  {
+    "file": "parliament-1965.html",
+    "source": "https://en.wikipedia.org/wiki/1965_Turkish_general_election",
+    "sha256": "a1a9ae260cb6de0415d329a4a120a1b3749764faccede0e1fb1768e5ddadd4f9",
+    "bytes": 113651
+  },
+  {
+    "file": "parliament-1969.html",
+    "source": "https://en.wikipedia.org/wiki/1969_Turkish_general_election",
+    "sha256": "2023c8311f56e64b097c732dc78ca822483eb102a00c266266f8cfa64a203515",
+    "bytes": 112008
+  },
+  {
+    "file": "parliament-1973.html",
+    "source": "https://en.wikipedia.org/wiki/1973_Turkish_general_election",
+    "sha256": "2ba56701107851c9ad37ccb7b94b4eeb343161122ce338a3251e0c557daf1feb",
+    "bytes": 149145
+  },
+  {
+    "file": "parliament-1977.html",
+    "source": "https://en.wikipedia.org/wiki/1977_Turkish_general_election",
+    "sha256": "ed9a20a224a7cc31374e6b1aed4ce483ea232abd5c72326ade53009239406ec2",
+    "bytes": 122597
+  },
+  {
+    "file": "parliament-1983.html",
+    "source": "https://en.wikipedia.org/wiki/1983_Turkish_general_election",
+    "sha256": "c7fadf0c250bb9c34c46dd690601d34879aee823ebc82703e469df4cc03c97b4",
+    "bytes": 117339
+  },
+  {
+    "file": "parliament-1987.html",
+    "source": "https://en.wikipedia.org/wiki/1987_Turkish_general_election",
+    "sha256": "29a80e6c3d4cb836cc1ab012b23494619e104a870cc935c8e3f9a47fd5dd6936",
+    "bytes": 129416
+  },
+  {
+    "file": "parliament-1991.html",
+    "source": "https://en.wikipedia.org/wiki/1991_Turkish_general_election",
+    "sha256": "d210ab0007fcac40df24310a45e8429934b8f9062ad7387db4a9d1284a6c69ed",
+    "bytes": 132320
+  },
+  {
+    "file": "parliament-1995.html",
+    "source": "https://en.wikipedia.org/wiki/1995_Turkish_general_election",
+    "sha256": "c33fc6348032cbc01747f8f7b54d6073a35a24b65fbf57cd46cb4ef553916456",
+    "bytes": 166741
+  },
+  {
+    "file": "parliament-1999.html",
+    "source": "https://en.wikipedia.org/wiki/1999_Turkish_general_election",
+    "sha256": "7e35faeaa41ab9d4f8f834f8a513966f7b58b753199beda9fa5702aec60221f3",
+    "bytes": 167744
+  },
+  {
+    "file": "parliament-2002.html",
+    "source": "https://en.wikipedia.org/wiki/2002_Turkish_general_election",
+    "sha256": "2b99b979157bf73ed8d313d6ace1dfffa81f6a143c1c43ae8417d9a0ed903f65",
+    "bytes": 198704
+  },
+  {
+    "file": "parliament-2007.html",
+    "source": "https://en.wikipedia.org/wiki/2007_Turkish_general_election",
+    "sha256": "356d0d2f6a19582d48f0bdfdce5bc018f787788bd8e7999439480dae2f2b5a7d",
+    "bytes": 291327
+  },
+  {
+    "file": "parliament-2011.html",
+    "source": "https://en.wikipedia.org/wiki/2011_Turkish_general_election",
+    "sha256": "537ce0b9cf99826c2dc221f493209953571737cc9c8d3fd87cd72af855ec42fd",
+    "bytes": 499540
+  },
+  {
+    "file": "parliament-2015-June.html",
+    "source": "https://en.wikipedia.org/wiki/June_2015_Turkish_general_election",
+    "sha256": "5b4fff11da389f740dbe38d298c46e80373b717b8a1bfbce068edc82f8184de8",
+    "bytes": 1428215
+  },
+  {
+    "file": "parliament-2015-November.html",
+    "source": "https://en.wikipedia.org/wiki/November_2015_Turkish_general_election",
+    "sha256": "6ce6b6d2a74f284d800dc8a1aa350e5a6df36871bb340f9df04fcf70f14760e0",
+    "bytes": 1054367
+  },
+  {
+    "file": "parliament-2018.html",
+    "source": "https://en.wikipedia.org/wiki/2018_Turkish_general_election",
+    "sha256": "13896a2fc02aeab58da6104f6250c501e11ce6c2444ebeb97cf5ba8e35f59fed",
+    "bytes": 259700
+  },
+  {
+    "file": "parliament-2023.html",
+    "source": "https://en.wikipedia.org/wiki/2023_Turkish_general_election",
+    "sha256": "86c68e1621ac28c54e66d78e1fe2deeb374bb4c0f19762a9355eb8097b9ef319",
+    "bytes": 245633
+  },
+  {
+    "file": "parliament2011.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/2011MilletvekiliSecimi/gumrukdahil/gumrukdahil.pdf",
+    "sha256": "1c23a947c0661a9b10ce519b2ac64d7bc26f16c94cfe104e5adc3b6aec102877",
+    "bytes": 10118
+  },
+  {
+    "file": "parliament2018.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/24Haziran2018/KesinSecimSonuclari/2018MV-96C.pdf",
+    "sha256": "d720e962dcb308017d50acbad96ddd970b4f6adf4b6662cd5c8367fa79837684",
+    "bytes": 43577
+  },
+  {
+    "file": "parliament2023.html",
+    "source": "https://en.wikipedia.org/wiki/2023_Turkish_parliamentary_election",
+    "sha256": "35e92f4a67f2804f7380486453a181b8eb2238e3d58160464528c45567dc5f14",
+    "bytes": 419747
+  },
+  {
+    "file": "party-0.html",
+    "source": "https://en.wikipedia.org/wiki/Democrat_Party_(Turkey,_1946\u20131960)",
+    "sha256": "5ade7a3428e687aaa5f5f989846a2fc55d1805fe3c023a2ff366a19e50bec48d",
+    "bytes": 245852
+  },
+  {
+    "file": "party-1.html",
+    "source": "https://en.wikipedia.org/wiki/Republican_People%27s_Party",
+    "sha256": "34359a067deeae855fbc5a40b170632716aedd08ada0b6dff01bc87154fa42c9",
+    "bytes": 924620
+  },
+  {
+    "file": "party-10.html",
+    "source": "https://en.wikipedia.org/wiki/Nationalist_Movement_Party",
+    "sha256": "ea30b4e2271a01f05d52da4f71de69287cd8d09fac7fe42495d0b6f7b39d531e",
+    "bytes": 685836
+  },
+  {
+    "file": "party-11.html",
+    "source": "https://en.wikipedia.org/wiki/Unity_Party_(Turkey)",
+    "sha256": "012aebc171270c450107e9a58330af9892e7fa0508e71868fc3562cf0e8d0d5e",
+    "bytes": 111596
+  },
+  {
+    "file": "party-12.html",
+    "source": "https://en.wikipedia.org/wiki/Democratic_Party_(Turkey,_1970)",
+    "sha256": "ac43cbb704e105baa9c6ce33766f476816b17bbd228b650896d3cccbd4799975",
+    "bytes": 98009
+  },
+  {
+    "file": "party-13.html",
+    "source": "https://en.wikipedia.org/wiki/National_Salvation_Party",
+    "sha256": "dc330e531e791f58e0b18c7e25983ffab37c264175572e7ec5c51366e66c8e83",
+    "bytes": 123018
+  },
+  {
+    "file": "party-14.html",
+    "source": "https://en.wikipedia.org/wiki/Republican_Reliance_Party",
+    "sha256": "a5bb9e863bb2c94904b64033e658d495dcb8a4a3d0abfb8191432ee1d034addd",
+    "bytes": 96384
+  },
+  {
+    "file": "party-15.html",
+    "source": "https://en.wikipedia.org/wiki/Motherland_Party_(Turkey)",
+    "sha256": "36e66fd8adcbd0c24f639d4591ac2afa05405470f123411f8be68b278283c53b",
+    "bytes": 211776
+  },
+  {
+    "file": "party-16.html",
+    "source": "https://en.wikipedia.org/wiki/Populist_Party_(Turkey)",
+    "sha256": "bd1a1b32a00961db288476bd92f32222a689f89cc1ed6ed843eaf403a40cebde",
+    "bytes": 109874
+  },
+  {
+    "file": "party-17.html",
+    "source": "https://en.wikipedia.org/wiki/Nationalist_Democracy_Party",
+    "sha256": "d43b7b8725254e735e658cbef932f83f932200d83b3cfb086ef39142c7af449c",
+    "bytes": 119696
+  },
+  {
+    "file": "party-18.html",
+    "source": "https://en.wikipedia.org/wiki/Social_Democratic_Populist_Party_(Turkey)",
+    "sha256": "204f924f8a91de80c81088b12e1b90fe8a20cc66fa633d943bcfcb6a28000bd6",
+    "bytes": 158378
+  },
+  {
+    "file": "party-19.html",
+    "source": "https://en.wikipedia.org/wiki/True_Path_Party",
+    "sha256": "28d76b587fe5b62bfac1df9da4f18e57f8b8e25f022f829a4bb798e5528d4a22",
+    "bytes": 152169
+  },
+  {
+    "file": "party-2.html",
+    "source": "https://en.wikipedia.org/wiki/Nation_Party_(Turkey,_1948)",
+    "sha256": "21184676fad43a95d0b0ec0fbfed8c86a6bc541231c834d049e06463011116b7",
+    "bytes": 136427
+  },
+  {
+    "file": "party-20.html",
+    "source": "https://en.wikipedia.org/wiki/Democratic_Left_Party_(Turkey)",
+    "sha256": "b99df91ffc71e665985472b8f3524506a4a16e8fcb6c1ebac12ed613c48b5251",
+    "bytes": 236462
+  },
+  {
+    "file": "party-21.html",
+    "source": "https://en.wikipedia.org/wiki/Welfare_Party",
+    "sha256": "0c80f22338cb901b28b8f4a603f8e184ba0c1763e9e3c93f6397ed90c8e179ec",
+    "bytes": 193767
+  },
+  {
+    "file": "party-22.html",
+    "source": "https://en.wikipedia.org/wiki/Nationalist_Task_Party",
+    "sha256": "aee4b824e7ccde14ca4c25ca59011338a28a9cf304873d32024a822c58539d5e",
+    "bytes": 93160
+  },
+  {
+    "file": "party-23.html",
+    "source": "https://en.wikipedia.org/wiki/People%27s_Democracy_Party",
+    "sha256": "b66e8980f217ef5f1c1c01deb92517be51f23f4f4f77fbfcaf605f274543917f",
+    "bytes": 262206
+  },
+  {
+    "file": "party-24.html",
+    "source": "https://en.wikipedia.org/wiki/Nation_Party_(Turkey,_1992)",
+    "sha256": "f3282ea34521e0d845f19293dfbf005aef33430f056976e378a697955224c5f6",
+    "bytes": 151320
+  },
+  {
+    "file": "party-25.html",
+    "source": "https://en.wikipedia.org/wiki/Patriotic_Party_(Turkey)",
+    "sha256": "9e6bf1139be54e1dc77eabfb44803852f23d9e92127d6ed28685bdad838a56fa",
+    "bytes": 258934
+  },
+  {
+    "file": "party-26.html",
+    "source": "https://en.wikipedia.org/wiki/Virtue_Party",
+    "sha256": "55c6e254b2497e5d1582b4f884d19be116d44bb243202af9f9346339ee9bc729",
+    "bytes": 127584
+  },
+  {
+    "file": "party-27.html",
+    "source": "https://en.wikipedia.org/wiki/Great_Unity_Party",
+    "sha256": "b7b3632f5d68a207e4ee5b22dc5ce6378a181f2cddd7c29a07b516a13d44dcd7",
+    "bytes": 205507
+  },
+  {
+    "file": "party-28.html",
+    "source": "https://en.wikipedia.org/wiki/Freedom_and_Solidarity_Party",
+    "sha256": "e715091a1875e80d59cc9c000ae2bb91efb2fdbae2f0dbdda3e8b94b5309b6c1",
+    "bytes": 228185
+  },
+  {
+    "file": "party-29.html",
+    "source": "https://en.wikipedia.org/wiki/Liberal_Democratic_Party_(Turkey)",
+    "sha256": "61ade238172d4d505230f98f0ab669c625a7aae50acda4543620788708a3115a",
+    "bytes": 205731
+  },
+  {
+    "file": "party-3.html",
+    "source": "https://en.wikipedia.org/wiki/Republican_Nation_Party",
+    "sha256": "2106b605218bef86c891b9d5637a19cd564d0d2b25992d0709dd1223a9fc0116",
+    "bytes": 103424
+  },
+  {
+    "file": "party-30.html",
+    "source": "https://en.wikipedia.org/wiki/Democrat_Party_(Turkey,_2007)",
+    "sha256": "ce61f7edbe49ab367de144ebaeb7cae97d17497e8b5c2ff1ca50387a9bd8ac79",
+    "bytes": 208603
+  },
+  {
+    "file": "party-31.html",
+    "source": "https://en.wikipedia.org/wiki/Labour_Party_(Turkey)",
+    "sha256": "563990846b354b244450d6eff0edf7804da283d434802c23537a5e5095b5d263",
+    "bytes": 161679
+  },
+  {
+    "file": "party-32.html",
+    "source": "https://en.wikipedia.org/wiki/Justice_and_Development_Party_(Turkey)",
+    "sha256": "b0faf95d9a2debc3c6894d64790e12684e3e86c6b29ddf124ee63ce6e08feb87",
+    "bytes": 873327
+  },
+  {
+    "file": "party-33.html",
+    "source": "https://en.wikipedia.org/wiki/Democratic_People%27s_Party_(Turkey)",
+    "sha256": "8885eae65431b35a21fbcc4fbcf40bb94604da1e08198534e03e35d666dfd1bb",
+    "bytes": 206361
+  },
+  {
+    "file": "party-34.html",
+    "source": "https://en.wikipedia.org/wiki/Felicity_Party",
+    "sha256": "a278c3f57cada6479d32c1ad0da94a33a1dd591b171deaf7de9f6e113e895c57",
+    "bytes": 346422
+  },
+  {
+    "file": "party-35.html",
+    "source": "https://en.wikipedia.org/wiki/New_Turkey_Party_(2002)",
+    "sha256": "422912848ca76d76eddf1c2e2ce5f8476a17ba3d9a4c2287f567f5d3cde99f2c",
+    "bytes": 127328
+  },
+  {
+    "file": "party-36.html",
+    "source": "https://en.wikipedia.org/wiki/Communist_Party_of_Turkey_(2001)",
+    "sha256": "1616f62d6862f1bdc4a11c233b0fa4a939beaca832b0f661d1e67108305c0e8d",
+    "bytes": 241906
+  },
+  {
+    "file": "party-37.html",
+    "source": "https://en.wikipedia.org/wiki/Peoples%27_Democratic_Party",
+    "sha256": "9615e791002af8264ef9ef8694d3c0dc32adab9e425cfadce2998d26a6d61cd2",
+    "bytes": 70940
+  },
+  {
+    "file": "party-38.html",
+    "source": "https://en.wikipedia.org/wiki/Communist_Party_(Turkey,_2014)",
+    "sha256": "b3bbeaffd8e126996bddf76aa2e144bcbabd5dc58c3399dd2e2380eda7e425d6",
+    "bytes": 131533
+  },
+  {
+    "file": "party-39.html",
+    "source": "https://en.wikipedia.org/wiki/Good_Party",
+    "sha256": "dbcf7b89b5438d452552c46275b153a624dc85f577f216bd90ce7bf0b573f9b7",
+    "bytes": 474366
+  },
+  {
+    "file": "party-4.html",
+    "source": "https://en.wikipedia.org/wiki/Justice_Party_(Turkey)",
+    "sha256": "30ffecdd9e0ff9adeca5a4d7f780c260bb3f9afca8591d649fa647c510cc5b94",
+    "bytes": 194504
+  },
+  {
+    "file": "party-40.html",
+    "source": "https://en.wikipedia.org/wiki/Free_Cause_Party",
+    "sha256": "0e62bdfc9138d389aae0fc0ee330e35608c0c3419edabe8d042d814cb5323d28",
+    "bytes": 364614
+  },
+  {
+    "file": "party-41.html",
+    "source": "https://en.wikipedia.org/wiki/Party_of_Greens_and_the_Left_Future",
+    "sha256": "7b7b46390be74e7ef69f34efef706d2d6d88306b252f92854b58fd6d1e09edd0",
+    "bytes": 178129
+  },
+  {
+    "file": "party-42.html",
+    "source": "https://en.wikipedia.org/wiki/New_Welfare_Party",
+    "sha256": "116f9a68b7bfdab18bd624aadfbf4c1909e78be2df88a2eff4dcac433e55e38f",
+    "bytes": 291917
+  },
+  {
+    "file": "party-43.html",
+    "source": "https://en.wikipedia.org/wiki/Victory_Party_(Turkey)",
+    "sha256": "f06b16bf9c8b021251c2ddec30f38536dc11aaf6a7d5bab9565cf180a330db14",
+    "bytes": 296978
+  },
+  {
+    "file": "party-44.html",
+    "source": "https://en.wikipedia.org/wiki/Workers%27_Party_of_Turkey_(2017)",
+    "sha256": "7c16ef42e9b0bf7e464189eff39d3d39cc01a79697976640666979946e353db8",
+    "bytes": 312448
+  },
+  {
+    "file": "party-45.html",
+    "source": "https://en.wikipedia.org/wiki/Homeland_Party_(Turkey,_2021)",
+    "sha256": "27f9145859ea467e68d61c2bf72519cfe2a1e9473da8ebc7cb2d86623d963692",
+    "bytes": 175391
+  },
+  {
+    "file": "party-46.html",
+    "source": "https://en.wikipedia.org/wiki/Justice_Party_(Turkey,_2015)",
+    "sha256": "e704d3371a636a651540d465539dfd8d98fe25e9ac179c7ae0ce9e2b536fe0e4",
+    "bytes": 161065
+  },
+  {
+    "file": "party-47.html",
+    "source": "https://en.wikipedia.org/wiki/Left_Party_(Turkey)",
+    "sha256": "4c9e8dce2295d36c4406b4fe77fc0f3c0acd94ef662da6e2b8757223f7ef30a6",
+    "bytes": 227826
+  },
+  {
+    "file": "party-48.html",
+    "source": "https://en.wikipedia.org/wiki/Communist_Movement_of_Turkey",
+    "sha256": "721929b752d8bdc902da6b155e5c17ed391775bf938063de967a35cb2042d839",
+    "bytes": 161727
+  },
+  {
+    "file": "party-5.html",
+    "source": "https://en.wikipedia.org/wiki/Republican_Villagers_Nation_Party",
+    "sha256": "2098aad651f5b4a3c75f451af42ea9e366e8e65be6745d0c34fb1b2555cd6d6b",
+    "bytes": 156639
+  },
+  {
+    "file": "party-6.html",
+    "source": "https://en.wikipedia.org/wiki/New_Turkey_Party_(1961)",
+    "sha256": "4f87bc357c037006a351c20b18425f8b63fa034165a070e63a152ed65852ed23",
+    "bytes": 123981
+  },
+  {
+    "file": "party-7.html",
+    "source": "https://en.wikipedia.org/wiki/Nation_Party_(Turkey,_1962)",
+    "sha256": "b7501ce6f4eab64fadce2e09701c9d436b3dae423b000ca428a6fba89dd9210f",
+    "bytes": 122352
+  },
+  {
+    "file": "party-8.html",
+    "source": "https://en.wikipedia.org/wiki/Workers%27_Party_of_Turkey_(1961)",
+    "sha256": "d893f06688e18e7fbf05461f1c41f1031b6ee66d00dcfacd34e1590511a0fb90",
+    "bytes": 147754
+  },
+  {
+    "file": "party-9.html",
+    "source": "https://en.wikipedia.org/wiki/Reliance_Party",
+    "sha256": "6ad65e23fb4046c91ad6437742a22d5a7311667a0e8dad9c3c63ba02f1c079bf",
+    "bytes": 96695
+  },
+  {
+    "file": "post1983.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/Milletvekili/1983-2007/Turkiye.pdf",
+    "sha256": "b3b92052ce948540fc40c399e33a57336d06b5be92cb9fd8722edcd45fee7e12",
+    "bytes": 49903
+  },
+  {
+    "file": "pres1961.pdf",
+    "source": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t01/c001/tbmm01001002.pdf",
+    "sha256": "fd218233178bcf60ce01033d7ffdbd4c2d9ea5fd41e389b9c45282e1ae03200a",
+    "bytes": 212680
+  },
+  {
+    "file": "pres1966.pdf",
+    "source": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/t05/c005/tbmm05005005.pdf",
+    "sha256": "d87605748da0a4b46eacfbcacb4cbafdbfd4ae1d0888222a86e9316bf78a75a5",
+    "bytes": 512709
+  },
+  {
+    "file": "pres1993.pdf",
+    "source": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d19/c035/tbmm19035103.pdf",
+    "sha256": "7b511ff9f64e9b5fdc0c7e9dbf93549d630a8f71c7a4ff42081a329a39260b40",
+    "bytes": 4428227
+  },
+  {
+    "file": "pres2000.pdf",
+    "source": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d21/c032/tbmm21032090.pdf",
+    "sha256": "3fd2dc9ac9a9265619a57e39c497d48920c562cc49f8168bcfba48556c0ab6eb",
+    "bytes": 2874087
+  },
+  {
+    "file": "pres2007.pdf",
+    "source": "https://www5.tbmm.gov.tr/tutanaklar/TUTANAK/TBMM/d23/c001/tbmm23001006.pdf",
+    "sha256": "361a1c387d948c04535d1f1efd6407fc80bbfbee9dd2e954ddfe992811c15318",
+    "bytes": 811071
+  },
+  {
+    "file": "pres2014.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/2014CB/2014CB-Kesin-416_d_Genel.pdf",
+    "sha256": "5114e871d4229a93768a42f5e2f18605b8516146237aa3bf576420a91c6e1eac",
+    "bytes": 505627
+  },
+  {
+    "file": "pres2018.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/24Haziran2018/KesinSecimSonuclari/2018CB-416D.pdf",
+    "sha256": "f8eb405b8bd699d2682ab475fc99235eeee6f6e5361992fac2cfba663c5a0189",
+    "bytes": 42475
+  },
+  {
+    "file": "pres2023.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/14Mayis2023/KesinSecimSonuclari/2023CB-TumSecimSonucu.pdf",
+    "sha256": "fa891bd99b47bd643f27a898e26f53425431edc059e7791773c4c3134b17e630",
+    "bytes": 7271
+  },
+  {
+    "file": "president-1950.html",
+    "source": "https://en.wikipedia.org/wiki/1950_Turkish_presidential_election",
+    "sha256": "225defbab221788c02f72735948f0d667dd31a434ccc028c92b9d772deec850e",
+    "bytes": 99849
+  },
+  {
+    "file": "president-1954.html",
+    "source": "https://en.wikipedia.org/wiki/1954_Turkish_presidential_election",
+    "sha256": "e163ba541bf7cdfb1e137062f0e9a1d0b88d5b517a330ae867a1b58ca9e03d5e",
+    "bytes": 103114
+  },
+  {
+    "file": "president-1957.html",
+    "source": "https://en.wikipedia.org/wiki/1957_Turkish_presidential_election",
+    "sha256": "a65ffe2d1d83ce3b6af1c782c98eb61b4e9a950c82e6819ac6e71938c370436d",
+    "bytes": 94741
+  },
+  {
+    "file": "president-1961.html",
+    "source": "https://en.wikipedia.org/wiki/1961_Turkish_presidential_election",
+    "sha256": "dd1d83e92f27fc0095a1be77d67a6dab3d0700eb9bf6b3615892286771ae9229",
+    "bytes": 93398
+  },
+  {
+    "file": "president-1966.html",
+    "source": "https://en.wikipedia.org/wiki/1966_Turkish_presidential_election",
+    "sha256": "20d01ccb091d73c5e72ffb886c5dc4e0812badd6861bc0a59febb76a3c4e088c",
+    "bytes": 91640
+  },
+  {
+    "file": "president-1973.html",
+    "source": "https://en.wikipedia.org/wiki/1973_Turkish_presidential_election",
+    "sha256": "ad2dda1eb901fb98e377da9940628e808c37ae449996cf36e1922d5daa5ad1a2",
+    "bytes": 100288
+  },
+  {
+    "file": "president-1989.html",
+    "source": "https://en.wikipedia.org/wiki/1989_Turkish_presidential_election",
+    "sha256": "a3af2133746a5bb1b274a363ab1c900ef93b2fcc7c292e0f9cca6df27947f30f",
+    "bytes": 96451
+  },
+  {
+    "file": "president-1993.html",
+    "source": "https://en.wikipedia.org/wiki/1993_Turkish_presidential_election",
+    "sha256": "ff89609d4d2d15a483b469ec2d82f8dee81f5a659a3df1b4343677c1eaa84ddd",
+    "bytes": 100687
+  },
+  {
+    "file": "president-2000.html",
+    "source": "https://en.wikipedia.org/wiki/2000_Turkish_presidential_election",
+    "sha256": "c4eeef5710f4cdef9094e7535fbc5f3acb4823eda00ad96e71f08399472862a7",
+    "bytes": 141146
+  },
+  {
+    "file": "president-2007.html",
+    "source": "https://en.wikipedia.org/wiki/2007_Turkish_presidential_election",
+    "sha256": "d2a8dda36cfdca1745bdc833cd9a7fcdfc41cf1d50b7b48d8ef05dcfa884c549",
+    "bytes": 264443
+  },
+  {
+    "file": "president-2014.html",
+    "source": "https://en.wikipedia.org/wiki/2014_Turkish_presidential_election",
+    "sha256": "228e629eaac22f30cd6f8afa47534a85186cadf86986c3869e5dd612253396a1",
+    "bytes": 1211208
+  },
+  {
+    "file": "president-2018.html",
+    "source": "https://en.wikipedia.org/wiki/2018_Turkish_presidential_election",
+    "sha256": "0075241243be974c88a59a6a6a0786e62338c962965cf8839fdc09f4b3938aa7",
+    "bytes": 538315
+  },
+  {
+    "file": "president-2023.html",
+    "source": "https://en.wikipedia.org/wiki/2023_Turkish_presidential_election",
+    "sha256": "2b7463293cf2ff87a7e5dba633e32df5ce96b703b6626d311966adb7b5576d2d",
+    "bytes": 914337
+  },
+  {
+    "file": "runoff2023.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/14Mayis2023/KesinSecimSonuclari/2023CB-TumSecimSonucuIkinciTur.pdf",
+    "sha256": "319da41ee4733ade73d342d25e1eb218e6924587727894f7bef377263dc271d0",
+    "bytes": 366714
+  },
+  {
+    "file": "senate-1961.html",
+    "source": "https://en.wikipedia.org/wiki/1961_Turkish_Senate_election",
+    "sha256": "984bf48e44391eba0da557f5485ad2c03f2a45d1ddb5f7361e959036ae9aa54e",
+    "bytes": 116791
+  },
+  {
+    "file": "senate-1964.html",
+    "source": "https://en.wikipedia.org/wiki/1964_Turkish_Senate_election",
+    "sha256": "ad0c16aa7ded6adcbd8fedf5cd29ed16417cbdb723527f8781fd680e941ef1a9",
+    "bytes": 117341
+  },
+  {
+    "file": "senate-1966.html",
+    "source": "https://en.wikipedia.org/wiki/1966_Turkish_Senate_election",
+    "sha256": "00a6e5bac2539c94ced01e5b93402a3f1dbab94e4c3efec7128da56365bce407",
+    "bytes": 118457
+  },
+  {
+    "file": "senate-1968.html",
+    "source": "https://en.wikipedia.org/wiki/1968_Turkish_Senate_election",
+    "sha256": "b1f43c3d3580f6922f51965a3b143a8b9216d51b256fd1f1993139eec8ac21d3",
+    "bytes": 118224
+  },
+  {
+    "file": "senate-1973.html",
+    "source": "https://en.wikipedia.org/wiki/1973_Turkish_Senate_election",
+    "sha256": "03f1da829d4d406a5ef6e1693a52c55e0a6adbe9499d7ebff39f1aadf0822cd5",
+    "bytes": 119292
+  },
+  {
+    "file": "senate-1975.html",
+    "source": "https://en.wikipedia.org/wiki/1975_Turkish_Senate_election",
+    "sha256": "493cd5ec97f2db696e28a26fc8175dc0fa3f05dc0b6bc9882b8647d89ca625a4",
+    "bytes": 119050
+  },
+  {
+    "file": "senate-1977.html",
+    "source": "https://en.wikipedia.org/wiki/1977_Turkish_Senate_election",
+    "sha256": "bbb8216b81013414aaa51ccdda40f064715e05b1cda94f3d7f188a720602a648",
+    "bytes": 118767
+  },
+  {
+    "file": "senate-1979.html",
+    "source": "https://en.wikipedia.org/wiki/1979_Turkish_Senate_election",
+    "sha256": "c3b9dfe685821ddd2e57591a619e36aa98cc2ee38f07dd1b4fdbf9926137ce13",
+    "bytes": 119831
+  },
+  {
+    "file": "stats2023.pdf",
+    "source": "https://www.ysk.gov.tr/doc/dosyalar/docs/14Mayis2023CBSecimIstatistik.pdf",
+    "sha256": "8898ebcb6a2c9176d6931221c92c9a79d43fcb2731e51ac795873850f3808537",
+    "bytes": 2958493
+  },
+  {
+    "file": "tbmm.html",
+    "source": "",
+    "sha256": "2af730f8fe96087ba47cb293258e96d19ef000ddba5cf4bfabdf7f4f2b370152",
+    "bytes": 6242
+  }
+]

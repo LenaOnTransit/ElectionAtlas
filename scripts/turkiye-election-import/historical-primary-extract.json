@@ -1,0 +1,1030 @@
+{
+  "1977": {
+    "rows": [
+      {
+        "name": "Adalet Partisi (AP)",
+        "votes": 5468202,
+        "share": 36.9,
+        "seats": 189
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 6136171,
+        "share": 41.4,
+        "seats": 213
+      },
+      {
+        "name": "Cumhuriyetçi Güven Partisi (CGP)",
+        "votes": 277713,
+        "share": 1.9,
+        "seats": 3
+      },
+      {
+        "name": "Demokratik Parti (DEMOKRATİK PARTİ)",
+        "votes": 274484,
+        "share": 1.8,
+        "seats": 1
+      },
+      {
+        "name": "Milliyetçi Hareket Partisi (MHP)",
+        "votes": 951544,
+        "share": 6.4,
+        "seats": 16
+      },
+      {
+        "name": "Milli Selamet Partisi (MSP)",
+        "votes": 1269918,
+        "share": 8.6,
+        "seats": 24
+      },
+      {
+        "name": "Türkiye Birlik Partisi (TBP)",
+        "votes": 58540,
+        "share": 0.4,
+        "seats": 0
+      },
+      {
+        "name": "Türkiye İşçi Partisi (TİP)",
+        "votes": 20565,
+        "share": 0.1,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 370035,
+        "share": 2.5,
+        "seats": 4
+      }
+    ],
+    "sourceFile": "historical.pdf",
+    "1950": "1977",
+    "": "1977",
+    "Kayıtlı seçmen sayısı": "21.207.303",
+    "Oy kullanan seçmen sayısı": "15.358.210",
+    "Katılım oranı (%)": "72,4",
+    "Geçerli oy sayısı": "14.827.172",
+    "Milletvekili sayısı": "450"
+  },
+  "1973": {
+    "rows": [
+      {
+        "name": "Adalet Partisi (AP)",
+        "votes": 3197897,
+        "share": 29.8,
+        "seats": 149
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 3570583,
+        "share": 33.3,
+        "seats": 185
+      },
+      {
+        "name": "Cumhuriyetçi Güven Partisi (CGP)",
+        "votes": 564343,
+        "share": 5.3,
+        "seats": 13
+      },
+      {
+        "name": "Demokratik Parti (DEMOKRATİK PARTİ)",
+        "votes": 1275502,
+        "share": 11.9,
+        "seats": 45
+      },
+      {
+        "name": "Millet Partisi (MİLLET PARTİSİ)",
+        "votes": 62377,
+        "share": 0.6,
+        "seats": 0
+      },
+      {
+        "name": "Milliyetçi Hareket Partisi (MHP)",
+        "votes": 362208,
+        "share": 3.4,
+        "seats": 3
+      },
+      {
+        "name": "Milli Selamet Partisi (MSP)",
+        "votes": 1265771,
+        "share": 11.8,
+        "seats": 48
+      },
+      {
+        "name": "Türkiye Birlik Partisi (TBP)",
+        "votes": 121759,
+        "share": 1.1,
+        "seats": 1
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 303218,
+        "share": 2.8,
+        "seats": 6
+      }
+    ],
+    "sourceFile": "historical.pdf",
+    "": "1973",
+    "Kayıtlı seçmen sayısı": "16.798.164",
+    "Oy kullanan seçmen sayısı": "11.223.843",
+    "Katılım oranı (%)": "66,8",
+    "Geçerli oy sayısı": "10.723.658",
+    "Milletvekili sayısı": "450"
+  },
+  "1969": {
+    "rows": [
+      {
+        "name": "Adalet Partisi (AP)",
+        "votes": 4229712,
+        "share": 46.6,
+        "seats": 256
+      },
+      {
+        "name": "Birlik Partisi (BİRLİK PARTİSİ)",
+        "votes": 254695,
+        "share": 2.8,
+        "seats": 8
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 2487006,
+        "share": 27.4,
+        "seats": 143
+      },
+      {
+        "name": "Güven Partisi (GP)",
+        "votes": 597818,
+        "share": 6.6,
+        "seats": 15
+      },
+      {
+        "name": "Millet Partisi (MİLLET PARTİSİ)",
+        "votes": 292961,
+        "share": 3.2,
+        "seats": 6
+      },
+      {
+        "name": "Milliyetçi Hareket Partisi (MHP)",
+        "votes": 275091,
+        "share": 3.0,
+        "seats": 1
+      },
+      {
+        "name": "Türkiye İşçi Partisi (TİP)",
+        "votes": 243631,
+        "share": 2.7,
+        "seats": 2
+      },
+      {
+        "name": "Yeni Türkiye Partisi (YTP)",
+        "votes": 197929,
+        "share": 2.2,
+        "seats": 6
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 511023,
+        "share": 5.6,
+        "seats": 13
+      }
+    ],
+    "sourceFile": "historical.pdf",
+    "": "1969",
+    "Kayıtlı seçmen sayısı": "14.788.552",
+    "Oy kullanan seçmen sayısı": "9.516.035",
+    "Katılım oranı (%)": "64,3",
+    "Geçerli oy sayısı": "9.086.296",
+    "Milletvekili sayısı": "450"
+  },
+  "1965": {
+    "rows": [
+      {
+        "name": "Adalet Partisi (AP)",
+        "votes": 4921235,
+        "share": 52.9,
+        "seats": 240
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 2675785,
+        "share": 28.7,
+        "seats": 134
+      },
+      {
+        "name": "Cumhuriyetçi Köylü Millet Partisi (CKMP)",
+        "votes": 208696,
+        "share": 2.2,
+        "seats": 11
+      },
+      {
+        "name": "Millet Partisi (MİLLET PARTİSİ)",
+        "votes": 582704,
+        "share": 6.3,
+        "seats": 31
+      },
+      {
+        "name": "Türkiye İşçi Partisi (TİP)",
+        "votes": 276101,
+        "share": 3.0,
+        "seats": 14
+      },
+      {
+        "name": "Yeni Türkiye Partisi (YTP)",
+        "votes": 346514,
+        "share": 3.7,
+        "seats": 19
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 296528,
+        "share": 3.2,
+        "seats": 1
+      }
+    ],
+    "sourceFile": "historical.pdf",
+    "": "1965",
+    "Kayıtlı seçmen sayısı": "13.679.753",
+    "Oy kullanan seçmen sayısı": "9.748.678",
+    "Katılım oranı (%)": "71,3",
+    "Geçerli oy sayısı": "9.307.563",
+    "Milletvekili sayısı": "450"
+  },
+  "1961": {
+    "rows": [
+      {
+        "name": "Adalet Partisi (AP)",
+        "votes": 3527435,
+        "share": 34.8,
+        "seats": 158
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 3724752,
+        "share": 36.7,
+        "seats": 173
+      },
+      {
+        "name": "Cumhuriyetçi Köylü Millet Partisi (CKMP)",
+        "votes": 1415390,
+        "share": 14.0,
+        "seats": 54
+      },
+      {
+        "name": "Yeni Türkiye Partisi (YTP)",
+        "votes": 1391934,
+        "share": 13.7,
+        "seats": 65
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 81732,
+        "share": 0.8,
+        "seats": 0
+      }
+    ],
+    "sourceFile": "historical.pdf",
+    "": "1961",
+    "Kayıtlı seçmen sayısı": "12.925.395",
+    "Oy kullanan seçmen sayısı": "10.522.716",
+    "Katılım oranı (%)": "81,4",
+    "Geçerli oy sayısı": "10.138.035",
+    "Milletvekili sayısı": "450"
+  },
+  "1957": {
+    "rows": [
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 3825267,
+        "share": 41.4,
+        "seats": 178
+      },
+      {
+        "name": "Cumhuriyetçi Millet Partisi (CMP)",
+        "votes": 604087,
+        "share": 6.5,
+        "seats": 4
+      },
+      {
+        "name": "Demokrat Parti (DP)",
+        "votes": 4497811,
+        "share": 48.6,
+        "seats": 424
+      },
+      {
+        "name": "Hürriyet Partisi (HÜRRİYET PARTİSİ)",
+        "votes": 321471,
+        "share": 3.5,
+        "seats": 4
+      },
+      {
+        "name": "Vatan Partisi (VP)",
+        "votes": 463,
+        "share": 0.0,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 1850,
+        "share": 0.0,
+        "seats": 0
+      }
+    ],
+    "sourceFile": "historical.pdf",
+    "": "1957",
+    "Kayıtlı seçmen sayısı": "12.078.623",
+    "Oy kullanan seçmen sayısı": "9.250.949",
+    "Katılım oranı (%)": "76,6",
+    "Milletvekili sayısı": "610"
+  },
+  "1954": {
+    "rows": [
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 3193471,
+        "share": 35.1,
+        "seats": 31
+      },
+      {
+        "name": "Cumhuriyetçi Millet Partisi (CMP)",
+        "votes": 480249,
+        "share": 5.3,
+        "seats": 5
+      },
+      {
+        "name": "Demokrat Parti (DP)",
+        "votes": 5313659,
+        "share": 58.4,
+        "seats": 503
+      },
+      {
+        "name": "İşçi Partisi (İP)",
+        "votes": 910,
+        "share": 0.0,
+        "seats": 0
+      },
+      {
+        "name": "Köylü Partisi (KP)",
+        "votes": 50935,
+        "share": 0.6,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 56393,
+        "share": 0.6,
+        "seats": 2
+      }
+    ],
+    "sourceFile": "historical.pdf",
+    "": "1954",
+    "Kayıtlı seçmen sayısı": "10.262.063",
+    "Oy kullanan seçmen sayısı": "9.095.617",
+    "Katılım oranı (%)": "88,6",
+    "Milletvekili sayısı": "541"
+  },
+  "1950": {
+    "rows": [
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 3148626,
+        "share": 39.6,
+        "seats": 69
+      },
+      {
+        "name": "Demokrat Parti (DP)",
+        "votes": 4391694,
+        "share": 55.2,
+        "seats": 416
+      },
+      {
+        "name": "Millet Partisi (MİLLET PARTİSİ)",
+        "votes": 368537,
+        "share": 4.6,
+        "seats": 1
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 44537,
+        "share": 0.6,
+        "seats": 1
+      }
+    ],
+    "sourceFile": "historical.pdf",
+    "": "1950",
+    "Kayıtlı seçmen sayısı": "8.905.743",
+    "Oy kullanan seçmen sayısı": "7.953.085",
+    "Katılım oranı (%)": "89,3",
+    "Milletvekili sayısı": "487"
+  },
+  "2007": {
+    "rows": [
+      {
+        "name": "Adalet ve Kalkınma Partisi (AK PARTİ)",
+        "votes": 16327291,
+        "share": 46.6,
+        "seats": 341
+      },
+      {
+        "name": "Aydınlık Türkiye Partisi (ATP)",
+        "votes": 100982,
+        "share": 0.3,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsız Türkiye Partisi (BTP)",
+        "votes": 182095,
+        "share": 0.5,
+        "seats": 0
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 7317808,
+        "share": 20.9,
+        "seats": 112
+      },
+      {
+        "name": "Demokrat Parti (DP)",
+        "votes": 1898873,
+        "share": 5.4,
+        "seats": 0
+      },
+      {
+        "name": "Emek Partisi (EMEP)",
+        "votes": 26292,
+        "share": 0.1,
+        "seats": 0
+      },
+      {
+        "name": "Genç Parti (GENÇ PARTİ)",
+        "votes": 1064871,
+        "share": 3.0,
+        "seats": 0
+      },
+      {
+        "name": "Halkın Yükselişi Partisi (HYP)",
+        "votes": 179010,
+        "share": 0.5,
+        "seats": 0
+      },
+      {
+        "name": "İşçi Partisi (İP)",
+        "votes": 128148,
+        "share": 0.4,
+        "seats": 0
+      },
+      {
+        "name": "Liberal Demokrat Parti (LDP)",
+        "votes": 35364,
+        "share": 0.1,
+        "seats": 0
+      },
+      {
+        "name": "Milliyetçi Hareket Partisi (MHP)",
+        "votes": 5001869,
+        "share": 14.3,
+        "seats": 71
+      },
+      {
+        "name": "Özgürlük ve Dayanışma Partisi (ÖDP)",
+        "votes": 52055,
+        "share": 0.2,
+        "seats": 0
+      },
+      {
+        "name": "Saadet Partisi (SAADET PARTİSİ)",
+        "votes": 820289,
+        "share": 2.3,
+        "seats": 0
+      },
+      {
+        "name": "Türkiye Komünist Partisi (TKP)",
+        "votes": 79258,
+        "share": 0.2,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 1835486,
+        "share": 5.2,
+        "seats": 26
+      }
+    ],
+    "sourceFile": "post1983.pdf",
+    "": "2007",
+    "Kayıtlı seçmen sayısı": "42.799.303",
+    "Oy kullanan seçmen sayısı": "36.056.293",
+    "Katılım oranı (%)": "84,2",
+    "Geçerli oy sayısı": "34.822.907",
+    "Gümrük kapıları geçerli oy sayısı": "226.784",
+    "Toplam geçerli oy sayısı": "35.049.691",
+    "Milletvekili sayısı": "550"
+  },
+  "2002": {
+    "rows": [
+      {
+        "name": "Adalet ve Kalkınma Partisi (AK PARTİ)",
+        "votes": 10808229,
+        "share": 34.3,
+        "seats": 363
+      },
+      {
+        "name": "Anavatan Partisi (ANAP)",
+        "votes": 1618465,
+        "share": 5.1,
+        "seats": 0
+      },
+      {
+        "name": "Büyük Birlik Partisi (BBP)",
+        "votes": 322093,
+        "share": 1.0,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsız Türkiye Partisi (BTP)",
+        "votes": 150482,
+        "share": 0.5,
+        "seats": 0
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 6113352,
+        "share": 19.4,
+        "seats": 178
+      },
+      {
+        "name": "Demokratik Halk Partisi (DEHAP)",
+        "votes": 1960660,
+        "share": 6.2,
+        "seats": 0
+      },
+      {
+        "name": "Demokratik Sol Parti (DSP)",
+        "votes": 384009,
+        "share": 1.2,
+        "seats": 0
+      },
+      {
+        "name": "Doğru Yol Partisi (DYP)",
+        "votes": 3008942,
+        "share": 9.5,
+        "seats": 0
+      },
+      {
+        "name": "Genç Parti (GENÇ PARTİ)",
+        "votes": 2285598,
+        "share": 7.2,
+        "seats": 0
+      },
+      {
+        "name": "İşçi Partisi (İP)",
+        "votes": 159843,
+        "share": 0.5,
+        "seats": 0
+      },
+      {
+        "name": "Liberal Demokrat Parti (LDP)",
+        "votes": 89331,
+        "share": 0.3,
+        "seats": 0
+      },
+      {
+        "name": "Milliyetçi Hareket Partisi (MHP)",
+        "votes": 2635787,
+        "share": 8.4,
+        "seats": 0
+      },
+      {
+        "name": "Millet Partisi (MİLLET PARTİSİ)",
+        "votes": 68271,
+        "share": 0.2,
+        "seats": 0
+      },
+      {
+        "name": "Özgürlük ve Dayanışma Partisi (ÖDP)",
+        "votes": 106023,
+        "share": 0.3,
+        "seats": 0
+      },
+      {
+        "name": "Saadet Partisi (SAADET PARTİSİ)",
+        "votes": 785489,
+        "share": 2.5,
+        "seats": 0
+      },
+      {
+        "name": "Türkiye Komünist Partisi (TKP)",
+        "votes": 59180,
+        "share": 0.2,
+        "seats": 0
+      },
+      {
+        "name": "Yurt Partisi (YP)",
+        "votes": 294909,
+        "share": 0.9,
+        "seats": 0
+      },
+      {
+        "name": "Yeni Türkiye Partisi (YTP)",
+        "votes": 363869,
+        "share": 1.2,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 314251,
+        "share": 1.0,
+        "seats": 9
+      }
+    ],
+    "sourceFile": "post1983.pdf",
+    "": "2002",
+    "Kayıtlı seçmen sayısı": "41.407.027",
+    "Oy kullanan seçmen sayısı": "32.768.161",
+    "Katılım oranı (%)": "79,1",
+    "Geçerli oy sayısı": "31.414.748",
+    "Gümrük kapıları geçerli oy sayısı": "114.035",
+    "Toplam geçerli oy sayısı": "31.528.783",
+    "Milletvekili sayısı": "550"
+  },
+  "1999": {
+    "rows": [
+      {
+        "name": "Anavatan Partisi (ANAP)",
+        "votes": 4122929,
+        "share": 13.2,
+        "seats": 86
+      },
+      {
+        "name": "Büyük Birlik Partisi (BBP)",
+        "votes": 456353,
+        "share": 1.5,
+        "seats": 0
+      },
+      {
+        "name": "Barış Partisi (BP)",
+        "votes": 78922,
+        "share": 0.2,
+        "seats": 0
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 2716094,
+        "share": 8.7,
+        "seats": 0
+      },
+      {
+        "name": "Demokrasi ve Barış Partisi (DBP)",
+        "votes": 24620,
+        "share": 0.1,
+        "seats": 0
+      },
+      {
+        "name": "Değişen Türkiye Partisi (DEPAR)",
+        "votes": 37175,
+        "share": 0.0,
+        "seats": 0
+      },
+      {
+        "name": "Demokrat Parti (DP)",
+        "votes": 92093,
+        "share": 0.3,
+        "seats": 0
+      },
+      {
+        "name": "Demokratik Sol Parti (DSP)",
+        "votes": 6919670,
+        "share": 22.2,
+        "seats": 136
+      },
+      {
+        "name": "Demokrat Türkiye Partisi (DTP)",
+        "votes": 179871,
+        "share": 0.6,
+        "seats": 0
+      },
+      {
+        "name": "Doğru Yol Partisi (DYP)",
+        "votes": 3745417,
+        "share": 12.0,
+        "seats": 85
+      },
+      {
+        "name": "Emek Partisi (EMEP)",
+        "votes": 51756,
+        "share": 0.2,
+        "seats": 0
+      },
+      {
+        "name": "Fazilet Partisi (FP)",
+        "votes": 4805381,
+        "share": 15.4,
+        "seats": 111
+      },
+      {
+        "name": "Halkın Demokrasi Partisi (HADEP)",
+        "votes": 1482196,
+        "share": 4.7,
+        "seats": 0
+      },
+      {
+        "name": "İşçi Partisi (İP)",
+        "votes": 57607,
+        "share": 0.2,
+        "seats": 0
+      },
+      {
+        "name": "Liberal Demokrat Parti (LDP)",
+        "votes": 127174,
+        "share": 0.4,
+        "seats": 0
+      },
+      {
+        "name": "Milliyetçi Hareket Partisi (MHP)",
+        "votes": 5606583,
+        "share": 18.0,
+        "seats": 129
+      },
+      {
+        "name": "Millet Partisi (MİLLET PARTİSİ)",
+        "votes": 79370,
+        "share": 0.3,
+        "seats": 0
+      },
+      {
+        "name": "Özgürlük ve Dayanışma Partisi (ÖDP)",
+        "votes": 248553,
+        "share": 0.8,
+        "seats": 0
+      },
+      {
+        "name": "Sosyalist İktidar Partisi (SİP)",
+        "votes": 37680,
+        "share": 0.1,
+        "seats": 0
+      },
+      {
+        "name": "Yeniden Doğuş Partisi (YDP)",
+        "votes": 44787,
+        "share": 0.1,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 270265,
+        "share": 0.9,
+        "seats": 3
+      }
+    ],
+    "sourceFile": "post1983.pdf",
+    "": "1999",
+    "Kayıtlı seçmen sayısı": "37.495.217",
+    "Oy kullanan seçmen sayısı": "32.656.070",
+    "Katılım oranı (%)": "87,1",
+    "Geçerli oy sayısı": "31.119.242",
+    "Gümrük kapıları geçerli oy sayısı": "65.254",
+    "Toplam geçerli oy sayısı": "31.184.496",
+    "Milletvekili sayısı": "550"
+  },
+  "1995": {
+    "rows": [
+      {
+        "name": "Anavatan Partisi (ANAP)",
+        "votes": 5527288,
+        "share": 19.6,
+        "seats": 132
+      },
+      {
+        "name": "Cumhuriyet Halk Partisi (CHP)",
+        "votes": 3011076,
+        "share": 10.7,
+        "seats": 49
+      },
+      {
+        "name": "Demokratik Sol Parti (DSP)",
+        "votes": 4118025,
+        "share": 14.6,
+        "seats": 76
+      },
+      {
+        "name": "Doğru Yol Partisi (DYP)",
+        "votes": 5396009,
+        "share": 19.2,
+        "seats": 135
+      },
+      {
+        "name": "Halkın Demokrasi Partisi (HADEP)",
+        "votes": 1171623,
+        "share": 4.2,
+        "seats": 0
+      },
+      {
+        "name": "İşçi Partisi (İP)",
+        "votes": 61428,
+        "share": 0.2,
+        "seats": 0
+      },
+      {
+        "name": "Milliyetçi Hareket Partisi (MHP)",
+        "votes": 2301343,
+        "share": 8.2,
+        "seats": 0
+      },
+      {
+        "name": "Millet Partisi (MİLLET PARTİSİ)",
+        "votes": 127630,
+        "share": 0.5,
+        "seats": 0
+      },
+      {
+        "name": "Refah Partisi (RP)",
+        "votes": 6012450,
+        "share": 21.4,
+        "seats": 158
+      },
+      {
+        "name": "Yeni Demokrasi Hareketi (YDH)",
+        "votes": 133889,
+        "share": 0.5,
+        "seats": 0
+      },
+      {
+        "name": "Yeniden Doğuş Partisi (YDP)",
+        "votes": 95484,
+        "share": 0.3,
+        "seats": 0
+      },
+      {
+        "name": "Yeni Parti (YENİ PARTİ)",
+        "votes": 36853,
+        "share": 0.1,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 133895,
+        "share": 0.5,
+        "seats": 0
+      }
+    ],
+    "sourceFile": "post1983.pdf",
+    "": "1995",
+    "Kayıtlı seçmen sayısı": "34.155.981",
+    "Oy kullanan seçmen sayısı": "29.101.469",
+    "Katılım oranı (%)": "85,2",
+    "Geçerli oy sayısı": "28.040.392",
+    "Gümrük kapıları geçerli oy sayısı": "86.601",
+    "Toplam geçerli oy sayısı": "28.126.993",
+    "Milletvekili sayısı": "550"
+  },
+  "1991": {
+    "rows": [
+      {
+        "name": "Anavatan Partisi (ANAP)",
+        "votes": 5862623,
+        "share": 24.0,
+        "seats": 115
+      },
+      {
+        "name": "Demokratik Sol Parti (DSP)",
+        "votes": 2624301,
+        "share": 10.8,
+        "seats": 7
+      },
+      {
+        "name": "Doğru Yol Partisi (DYP)",
+        "votes": 6600726,
+        "share": 27.0,
+        "seats": 178
+      },
+      {
+        "name": "Refah Partisi (RP)",
+        "votes": 4121355,
+        "share": 16.9,
+        "seats": 62
+      },
+      {
+        "name": "Sosyaldemokrat Halkçı Parti (SHP)",
+        "votes": 5066571,
+        "share": 20.8,
+        "seats": 88
+      },
+      {
+        "name": "Sosyalist Parti (SP)",
+        "votes": 108369,
+        "share": 0.4,
+        "seats": 0
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 32721,
+        "share": 0.1,
+        "seats": 0
+      }
+    ],
+    "sourceFile": "post1983.pdf",
+    "": "1991",
+    "Kayıtlı seçmen sayısı": "29.979.123",
+    "Oy kullanan seçmen sayısı": "25.157.089",
+    "Katılım oranı (%)": "83,9",
+    "Geçerli oy sayısı": "24.371.474",
+    "Gümrük kapıları geçerli oy sayısı": "45.192",
+    "Toplam geçerli oy sayısı": "24.416.666",
+    "Milletvekili sayısı": "450"
+  },
+  "1987": {
+    "rows": [
+      {
+        "name": "Anavatan Partisi (ANAP)",
+        "votes": 8704335,
+        "share": 36.3,
+        "seats": 292
+      },
+      {
+        "name": "Demokratik Sol Parti (DSP)",
+        "votes": 2044576,
+        "share": 8.5,
+        "seats": 0
+      },
+      {
+        "name": "Doğru Yol Partisi (DYP)",
+        "votes": 4587062,
+        "share": 19.1,
+        "seats": 59
+      },
+      {
+        "name": "Islahatçı Demokrasi Partisi (IDP)",
+        "votes": 196272,
+        "share": 0.8,
+        "seats": 0
+      },
+      {
+        "name": "Milliyetçi Çalışma Partisi (MÇP)",
+        "votes": 701538,
+        "share": 2.9,
+        "seats": 0
+      },
+      {
+        "name": "Refah Partisi (RP)",
+        "votes": 1717425,
+        "share": 7.2,
+        "seats": 0
+      },
+      {
+        "name": "Sosyaldemokrat Halkçı Parti (SHP)",
+        "votes": 5931000,
+        "share": 24.8,
+        "seats": 99
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 89421,
+        "share": 0.4,
+        "seats": 0
+      }
+    ],
+    "sourceFile": "post1983.pdf",
+    "": "1987",
+    "Kayıtlı seçmen sayısı": "26.376.926",
+    "Oy kullanan seçmen sayısı": "24.603.541",
+    "Katılım oranı (%)": "93,3",
+    "Geçerli oy sayısı": "23.923.687",
+    "Gümrük kapıları geçerli oy sayısı": "47.942",
+    "Toplam geçerli oy sayısı": "23.971.629",
+    "Milletvekili sayısı": "450"
+  },
+  "1983": {
+    "rows": [
+      {
+        "name": "Anavatan Partisi (ANAP)",
+        "votes": 7833148,
+        "share": 45.1,
+        "seats": 211
+      },
+      {
+        "name": "Halkçı Parti (HP)",
+        "votes": 5285804,
+        "share": 30.5,
+        "seats": 117
+      },
+      {
+        "name": "Milliyetçi Demokrasi Partisi (MDP)",
+        "votes": 4036970,
+        "share": 23.3,
+        "seats": 71
+      },
+      {
+        "name": "Bağımsızlar (BĞMZ)",
+        "votes": 195588,
+        "share": 1.1,
+        "seats": 0
+      }
+    ],
+    "sourceFile": "post1983.pdf",
+    "": "1983",
+    "Kayıtlı seçmen sayısı": "19.767.366",
+    "Oy kullanan seçmen sayısı": "18.238.362",
+    "Katılım oranı (%)": "92,3",
+    "Geçerli oy sayısı": "17.351.510",
+    "Toplam geçerli oy sayısı": "17.351.510",
+    "Milletvekili sayısı": "399"
+  }
+}
