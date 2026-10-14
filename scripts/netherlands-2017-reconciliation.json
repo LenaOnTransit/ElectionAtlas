@@ -1,0 +1,44 @@
+{
+  "certifiedNationalValidVotes": 10516041,
+  "municipalValidVotes": 10524838,
+  "municipalMinusNationalBySourceParty": {
+    "VVD": 0,
+    "PVV (Partij voor de Vrijheid)": 0,
+    "CDA": 3421,
+    "Democraten 66 (D66)": 2975,
+    "GROENLINKS": 1085,
+    "SP (Socialistische Partij)": 0,
+    "Partij van de Arbeid (P.v.d.A.)": -7,
+    "ChristenUnie": 105,
+    "Partij voor de Dieren": 297,
+    "50PLUS": 363,
+    "Staatkundig Gereformeerde Partij (SGP)": 28,
+    "DENK": 94,
+    "Forum voor Democratie": 226,
+    "VNL (VoorNederland)": 62,
+    "Piratenpartij": 52,
+    "Artikel 1": 9,
+    "NIEUWE WEGEN": 17,
+    "OndernemersPartij": 31,
+    "Lokaal in de Kamer": 9,
+    "Niet Stemmers": 9,
+    "De Burger Beweging": 9,
+    "GeenPeil": 7,
+    "JEZUS LEEFT": 0,
+    "Vrijzinnige Partij": 1,
+    "Libertarische Partij (LP)": 3,
+    "MenS en Spirit / Basisinkomen Partij / V-R": 0,
+    "StemNL": 1,
+    "Vrije Democratische Partij (VDP)": 0
+  },
+  "sources": [
+    {
+      "label": "Kiesraad annual report 2017 — municipal versus district aggregation errors",
+      "url": "https://www.kiesraad.nl/binaries/kiesraad/documenten/jaarverslagen/2017/03/jaarverslag-2017/jaarverslag-kiesraad-2017/Jaarverslag%2BKiesraad%2B2017.pdf"
+    },
+    {
+      "label": "Official investigation — Boxmeer and Bergeijk aggregation errors",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-811008.pdf"
+    }
+  ]
+}

@@ -1,0 +1,665 @@
+{
+  "2018": {
+    "source": "https://www.cbs.nl/-/media/_excel/2018/23/grenswijzigingen-samenvoeging-en-nieuwvorming-van-gemeenten.xlsx",
+    "rows": [
+      {
+        "fromExisting": null,
+        "fromAbolished": "0007 Bellingwedde",
+        "toExisting": null,
+        "toNew": "1950 Westerwolde"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0048 Vlagtwedde",
+        "toExisting": null,
+        "toNew": "1950 Westerwolde"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0018 Hoogezand-Sappemeer",
+        "toExisting": null,
+        "toNew": "1952 Midden-Groningen"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0040 Slochteren",
+        "toExisting": null,
+        "toNew": "1952 Midden-Groningen"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1987 Menterwolde",
+        "toExisting": null,
+        "toNew": "1952 Midden-Groningen"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0063 het Bildt",
+        "toExisting": null,
+        "toNew": "1949 Waadhoeke"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0070 Franekeradeel",
+        "toExisting": null,
+        "toNew": "1949 Waadhoeke"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1908 Menameradiel",
+        "toExisting": null,
+        "toNew": "1949 Waadhoeke"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0140 Littenseradiel 3",
+        "toExisting": null,
+        "toNew": "1949 Waadhoeke"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0080 Leeuwarden",
+        "toExisting": null,
+        "toNew": "0080 Leeuwarden"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0081 Leeuwarderadeel",
+        "toExisting": null,
+        "toNew": "0080 Leeuwarden"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0140 Littenseradiel 3",
+        "toExisting": null,
+        "toNew": "0080 Leeuwarden"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1900 Súdwest-Fryslân",
+        "toExisting": null,
+        "toNew": "1900 Súdwest-Fryslân"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0140 Littenseradiel 3",
+        "toExisting": null,
+        "toNew": "1900 Súdwest-Fryslân"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0196 Rijnwaarden",
+        "toExisting": null,
+        "toNew": "0299 Zevenaar"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0299 Zevenaar",
+        "toExisting": null,
+        "toNew": "0299 Zevenaar"
+      },
+      {
+        "fromExisting": "1859 Berkelland",
+        "fromAbolished": null,
+        "toExisting": "1586 Oost-Gelre",
+        "toNew": null
+      },
+      {
+        "fromExisting": "1930 Nissewaard",
+        "fromAbolished": null,
+        "toExisting": "0530 Hellevoetsluis",
+        "toNew": null
+      },
+      {
+        "fromExisting": "0855 Tilburg",
+        "fromAbolished": null,
+        "toExisting": "0785 Goirle",
+        "toNew": null
+      },
+      {
+        "fromExisting": "0935 Maastricht",
+        "fromAbolished": null,
+        "toExisting": "België",
+        "toNew": null
+      },
+      {
+        "fromExisting": "België 2",
+        "fromAbolished": null,
+        "toExisting": "0935 Maastricht",
+        "toNew": null
+      },
+      {
+        "fromExisting": "1903 Eijsden-Margraten",
+        "fromAbolished": null,
+        "toExisting": "België",
+        "toNew": null
+      },
+      {
+        "fromExisting": "België 2",
+        "fromAbolished": null,
+        "toExisting": "1903 Eijsden-Margraten",
+        "toNew": null
+      }
+    ]
+  },
+  "2019": {
+    "source": "https://www.cbs.nl/-/media/_excel/2019/40/grenswijzigingen-tussen-resp-opheffing-samenvoeging-en-nieuwvorming-van-gemeenten-1-januari-2019.xlsx",
+    "rows": [
+      {
+        "fromExisting": null,
+        "fromAbolished": "0005 Bedum",
+        "toExisting": null,
+        "toNew": "1966 Het Hogeland"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1651 Eemsmond",
+        "toExisting": null,
+        "toNew": "1966 Het Hogeland"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1663 De Marne",
+        "toExisting": null,
+        "toNew": "1966 Het Hogeland"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0053 Winsum",
+        "toExisting": null,
+        "toNew": "1966 Het Hogeland"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0009 Ten Boer",
+        "toExisting": null,
+        "toNew": "0014 Groningen"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0014 Groningen",
+        "toExisting": null,
+        "toNew": "0014 Groningen"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0017 Haren",
+        "toExisting": null,
+        "toNew": "0014 Groningen"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0015 Grootegast",
+        "toExisting": null,
+        "toNew": "1969 Westerkwartier"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0022 Leek",
+        "toExisting": null,
+        "toNew": "1969 Westerkwartier"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0025 Marum",
+        "toExisting": null,
+        "toNew": "1969 Westerkwartier"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0053 Winsum",
+        "toExisting": null,
+        "toNew": "1969 Westerkwartier"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0056 Zuidhorn",
+        "toExisting": null,
+        "toNew": "1969 Westerkwartier"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0058 Dongeradeel",
+        "toExisting": null,
+        "toNew": "1970 Noardeast-Fryslân"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0079 Kolummerland en Nieuwkruisland",
+        "toExisting": null,
+        "toNew": "1970 Noardeast-Fryslân"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1722 Ferwerderadiel",
+        "toExisting": null,
+        "toNew": "1970 Noardeast-Fryslân"
+      },
+      {
+        "fromExisting": "1949 Waadhoeke",
+        "fromAbolished": null,
+        "toExisting": "1900 Súdwest-Fryslân",
+        "toNew": null
+      },
+      {
+        "fromExisting": "0171 Noordoostpolder",
+        "fromAbolished": null,
+        "toExisting": "0184 Urk",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0236 Geldermalsen",
+        "toExisting": null,
+        "toNew": "1960 West Betuwe"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0304 Neerijnen",
+        "toExisting": null,
+        "toNew": "1960 West Betuwe"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0733 Lingewaal",
+        "toExisting": null,
+        "toNew": "1960 West Betuwe"
+      },
+      {
+        "fromExisting": "0268 Nijmegen",
+        "fromAbolished": null,
+        "toExisting": "1945 Berg en Dal",
+        "toNew": null
+      },
+      {
+        "fromExisting": "1945 Berg en Dal",
+        "fromAbolished": null,
+        "toExisting": "0268 Nijmegen",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0393 Haarlemmerliede en Spaarnwoude",
+        "toExisting": null,
+        "toNew": "0394 Haarlemmermeer"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0394 Haarlemmermeer",
+        "toExisting": null,
+        "toNew": "0394 Haarlemmermeer"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0545 Leerdam",
+        "toExisting": null,
+        "toNew": "1961 Vijfheerenlanden 1"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0620 Vianen",
+        "toExisting": null,
+        "toNew": "1961 Vijfheerenlanden 1"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0707 Zederik",
+        "toExisting": null,
+        "toNew": "1961 Vijfheerenlanden 1"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0575 Noordwijk",
+        "toExisting": null,
+        "toNew": "0575 Noordwijk"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0576 Noordwijkerhout",
+        "toExisting": null,
+        "toNew": "0575 Noordwijk"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0584 Oud-Beijerland",
+        "toExisting": null,
+        "toNew": "1963 Hoekse Waard"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0585 Binnenmaas",
+        "toExisting": null,
+        "toNew": "1963 Hoekse Waard"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0588 Korendijk",
+        "toExisting": null,
+        "toNew": "1963 Hoekse Waard"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0611 Comstrijen",
+        "toExisting": null,
+        "toNew": "1963 Hoekse Waard"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0617 Strijen",
+        "toExisting": null,
+        "toNew": "1963 Hoekse Waard"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0689 Giessenlanden",
+        "toExisting": null,
+        "toNew": "1978 Molenlanden"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1927 Molenwaard",
+        "toExisting": null,
+        "toNew": "1978 Molenlanden"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0738 Aalburg",
+        "toExisting": null,
+        "toNew": "1959 Altena"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0870 Werkendam",
+        "toExisting": null,
+        "toNew": "1959 Altena"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0874 Woudrichem",
+        "toExisting": null,
+        "toNew": "1959 Altena"
+      },
+      {
+        "fromExisting": "0796 's-Hertogenbosch",
+        "fromAbolished": null,
+        "toExisting": "0865 Vught",
+        "toNew": null
+      },
+      {
+        "fromExisting": "0865 Vught",
+        "fromAbolished": null,
+        "toExisting": "0796 's-Hertogenbosch",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0881 Onderbanken",
+        "toExisting": null,
+        "toNew": "1954 Beekdaelen"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0951 Nuth",
+        "toExisting": null,
+        "toNew": "1954 Beekdaelen"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0962 Schinnen",
+        "toExisting": null,
+        "toNew": "1954 Beekdaelen"
+      }
+    ]
+  },
+  "2020": {
+    "source": "https://www.cbs.nl/-/media/_excel/2020/13/grenswijzigingen-tussen-resp-opheffing-samenvoeging-en-nieuwvorming-van-gemeenten-1-januari-2020.xlsx",
+    "rows": [
+      {
+        "fromExisting": "0599 Rotterdam",
+        "fromAbolished": null,
+        "toExisting": "1621 Lansingerland",
+        "toNew": null
+      }
+    ]
+  },
+  "2021": {
+    "source": "https://www.cbs.nl/-/media/_excel/2021/22/grenswijzigingen-tussen-resp-opheffing-samenvoeging-en-nieuwvorming-van-gemeenten-1-januari-2021.xlsx",
+    "rows": [
+      {
+        "fromExisting": null,
+        "fromAbolished": "0003 Appingedam",
+        "toExisting": null,
+        "toNew": "1979 Eemsdelta"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0010 Delfzijl",
+        "toExisting": null,
+        "toNew": "1979 Eemsdelta"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0024 Loppersum",
+        "toExisting": null,
+        "toNew": "1979 Eemsdelta"
+      },
+      {
+        "fromExisting": "1966 Het Hogeland",
+        "fromAbolished": null,
+        "toExisting": "0088 Schiermonnikoog",
+        "toNew": null
+      },
+      {
+        "fromExisting": "0080 Leeuwarden",
+        "fromAbolished": null,
+        "toExisting": "1949 Waadhoeke",
+        "toNew": null
+      },
+      {
+        "fromExisting": "1949 Waadhoeke",
+        "fromAbolished": null,
+        "toExisting": "0080 Leeuwarden",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0788 Haaren",
+        "toExisting": "0757 Boxtel",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0788 Haaren",
+        "toExisting": "0824 Oisterwijk",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0788 Haaren",
+        "toExisting": "0855 Tilburg",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0788 Haaren",
+        "toExisting": "0865 Vught",
+        "toNew": null
+      }
+    ]
+  },
+  "2022": {
+    "source": "https://www.cbs.nl/-/media/_excel/2022/23/grenswijzigingen-tussen-resp-opheffing-samenvoeging-en-nieuwvorming-van-gemeenten-1-januari-2022-def.xlsx",
+    "rows": [
+      {
+        "fromExisting": null,
+        "fromAbolished": "0370 Beemster",
+        "toExisting": null,
+        "toNew": "0439 Purmerend"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0439 Purmerend",
+        "toExisting": null,
+        "toNew": "0439 Purmerend"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0398 Heerhugowaard",
+        "toExisting": null,
+        "toNew": "1980 Dijk en Waard"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0416 Langedijk",
+        "toExisting": null,
+        "toNew": "1980 Dijk en Waard"
+      },
+      {
+        "fromExisting": "0753 Best",
+        "fromAbolished": null,
+        "toExisting": "0772 Eindhoven",
+        "toNew": null
+      },
+      {
+        "fromExisting": "0772 Eindhoven",
+        "fromAbolished": null,
+        "toExisting": "0753 Best",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0756 Boxmeer",
+        "toExisting": null,
+        "toNew": "1982 Land van Cuijk"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0786 Grave",
+        "toExisting": null,
+        "toNew": "1982 Land van Cuijk"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0815 Mill en Sint Hubert",
+        "toExisting": null,
+        "toNew": "1982 Land van Cuijk"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1684 Cuijk",
+        "toExisting": null,
+        "toNew": "1982 Land van Cuijk"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1702 Sint Anthonis",
+        "toExisting": null,
+        "toNew": "1982 Land van Cuijk"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0856 Uden",
+        "toExisting": null,
+        "toNew": "1991 Maashorst"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "1685 Landerd",
+        "toExisting": null,
+        "toNew": "1991 Maashorst"
+      },
+      {
+        "fromExisting": "0888 Beek",
+        "fromAbolished": null,
+        "toExisting": "0938 Meerssen",
+        "toNew": null
+      },
+      {
+        "fromExisting": "0938 Meerssen",
+        "fromAbolished": null,
+        "toExisting": "0888 Beek",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0457 Weesp",
+        "toExisting": null,
+        "toNew": "0363 Amsterdam"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0363 Amsterdam",
+        "toExisting": null,
+        "toNew": "0363 Amsterdam"
+      }
+    ]
+  },
+  "2023": {
+    "source": "https://www.cbs.nl/-/media/_excel/2023/16/grenswijzigingentussenrespopheffingsamenvoegingennieuwvormingvangemeenten1januari2023definitief.xlsx",
+    "rows": [
+      {
+        "fromExisting": "0402 Hilversum",
+        "fromAbolished": null,
+        "toExisting": "1942 Gooise Meren",
+        "toNew": null
+      },
+      {
+        "fromExisting": "1942 Gooise Meren",
+        "fromAbolished": null,
+        "toExisting": "0402 Hilversum",
+        "toNew": null
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0501 Brielle",
+        "toExisting": null,
+        "toNew": "1992 Voorne aan Zee"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0530 Hellevoetsluis",
+        "toExisting": null,
+        "toNew": "1992 Voorne aan Zee"
+      },
+      {
+        "fromExisting": null,
+        "fromAbolished": "0614 Westvoorne",
+        "toExisting": null,
+        "toNew": "1992 Voorne aan Zee"
+      },
+      {
+        "fromExisting": "0518 's-Gravenhage",
+        "fromAbolished": null,
+        "toExisting": "0603 Rijswijk",
+        "toNew": null
+      }
+    ]
+  },
+  "2025": {
+    "source": "https://www.cbs.nl/-/media/_excel/2025/31/grenswijzigingen-tussen-resp-opheffing-samenvoeging-en-nieuwvorming-van-gemeenten-1-januari-2025-def.xlsx",
+    "rows": [
+      {
+        "fromExisting": "0080 Leeuwarden",
+        "fromAbolished": null,
+        "toExisting": "1949 Waadhoeke",
+        "toNew": null
+      },
+      {
+        "fromExisting": "0828 Oss",
+        "fromAbolished": null,
+        "toExisting": "1721 Bernheze",
+        "toNew": null
+      },
+      {
+        "fromExisting": "1721 Bernheze",
+        "fromAbolished": null,
+        "toExisting": "0828 Oss",
+        "toNew": null
+      }
+    ]
+  },
+  "2024": {
+    "source": "https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/regionale-statistieken/gebiedswijzigingen-gemeenten",
+    "rows": []
+  }
+}

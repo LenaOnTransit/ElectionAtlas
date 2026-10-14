@@ -1,7 +1,7 @@
 import GeographyLoader from '../geography/loader';
-import {netherlandsGeography} from '../../lib/netherlands-geography.mjs';
 
-// Preserve the existing route and ?year= links; all map behaviour is shared.
+// Existing ?year= links remain usable; comparison links may name an earlier year.
 export default function MunicipalComparison(){
- return <GeographyLoader asset="nl-municipal-2023-2025.json" title="Subnational election maps" adapt={netherlandsGeography} initialElectionId={new URLSearchParams(window.location.search).get('year')||undefined}/>;
+ const params=new URLSearchParams(window.location.search);
+ return <GeographyLoader asset="nl-municipal-history.json" title="Netherlands Tweede Kamer municipal results 2003–2025" initialElectionId={params.get('year')||undefined} initialComparisonId={params.get('compare')||undefined}/>;
 }
