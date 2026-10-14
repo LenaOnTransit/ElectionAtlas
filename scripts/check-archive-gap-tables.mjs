@@ -1,0 +1,17 @@
+import fs from 'node:fs';import ts from 'typescript';import assert from 'node:assert/strict';
+import {archiveCoverage} from '../lib/archive-coverage.mjs';import {electionMetadata} from '../lib/seo.mjs';
+function moduleUrl(file,imports={}){let s=fs.readFileSync(file,'utf8');for(const[a,b]of Object.entries(imports))s=s.replaceAll("'"+a+"'","'"+b+"'");return 'data:text/javascript;base64,'+Buffer.from(ts.transpileModule(s,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText).toString('base64');}
+const {validateWorldElection}=await import(moduleUrl('lib/world.ts',{'./house':moduleUrl('lib/house.ts'),'./legitimacy':moduleUrl('lib/legitimacy.ts')}));
+const read=n=>JSON.parse(fs.readFileSync('scripts/archive-gap-import/'+n+'.json'));const base=read('pre-import-backup'),records=read('records'),audit=read('reconciliation'),ballots=read('swiss-winner-lines');
+assert.equal(records.length,100);assert.equal(new Set(records.map(e=>e.id)).size,100);
+for(const e of records){validateWorldElection(e);const old=base.find(x=>x.id===e.id).data;assert.equal(old.results.length,0);assert.equal(e.version,old.version+1);assert.equal(e.countryId,old.countryId);assert.equal(e.publication,'published');assert.equal(e.status,'held');assert.equal(e.resultCoverage,'partial');assert.ok(e.results.length);assert.ok(e.results.some(r=>r.winner||r.seats>0||r.votes>0));assert.ok(!/moderator|admin-only|editor-only|TODO|publish after|review before|internal sorting/i.test([e.summary,e.notes,e.government].join(' ')));assert.ok(e.sources.length>=old.sources.length);assert.match(electionMetadata(e,e.countryId).title,/\d{4}/);assert.ok(e.results.every(r=>r.share===null&&r.previousSeats===null));assert.ok(audit.find(x=>x.id===e.id));}
+const get=id=>records.find(e=>e.id===id);
+assert.equal(records.filter(e=>e.countryId==='ch').length,45);assert.equal(records.filter(e=>e.countryId==='gb').length,40);
+for(const e of records.filter(e=>e.countryId==='ch'&&e.results.some(r=>r.votes!==null))){const b=ballots.filter(x=>x.date===e.startDate);assert.equal(b.length,7);assert.equal(e.results.length,7);assert.deepEqual(e.results.map(r=>r.votes),b.map(x=>x.votes));assert.equal(e.turnout,null);assert.equal(e.electionMethod,'indirect');}
+const tied=get('world-uk-scottish-peers-1868-12-03');assert.equal(tied.results.length,15);assert.equal(tied.totalSeats,16);assert.match(tied.notes,/equal votes/);
+const peers1880=get('world-uk-scottish-peers-1880-04-16');assert.equal(peers1880.results.length,16);assert.ok(!peers1880.results.some(r=>r.name==='James St Clair, 14th Lord Sinclair'));
+const tn2008=get('world-tunisia-2008-08-10-chamber-of-councillors');assert.equal(tn2008.totalSeats,35);assert.equal(tn2008.results.reduce((s,r)=>s+r.seats,0),35);assert.ok(!tn2008.results.some(r=>/Appointed/.test(r.name)));
+const tn2022=get('world-tunisia-2022-12-17-assembly-of-people-s-representatives');assert.equal(tn2022.results[0].seats,154);assert.equal(tn2022.endDate,'2023-01-29');assert.equal(tn2022.totalSeats,161);
+assert.equal(get('world-romania-senate-1892-02-01').results[0].seats,57);assert.equal(get('world-romania-chamber-1892-02-01').results[1].seats,null);
+const next=base.map(x=>records.find(e=>e.id===x.id)||x.data);assert.equal(archiveCoverage(next).withTables-archiveCoverage(base.map(x=>x.data)).withTables,100);
+console.log('100 archive-gap tables validated: source-scoped winners/seats, distinct ballots, partial coverage, honest missing figures and public copy.');

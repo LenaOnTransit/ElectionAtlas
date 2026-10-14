@@ -1,0 +1,1007 @@
+[
+  {
+    "date": "1919-12-11",
+    "name": "MOTTA",
+    "votes": 172
+  },
+  {
+    "date": "1919-12-11",
+    "name": "SCHULTHESS",
+    "votes": 161
+  },
+  {
+    "date": "1919-12-11",
+    "name": "CALONDER",
+    "votes": 146
+  },
+  {
+    "date": "1919-12-11",
+    "name": "HAAB",
+    "votes": 179
+  },
+  {
+    "date": "1919-12-11",
+    "name": "SCHEURER",
+    "votes": 155
+  },
+  {
+    "date": "1919-12-11",
+    "name": "CHUARD",
+    "votes": 159
+  },
+  {
+    "date": "1919-12-11",
+    "name": "MUSY",
+    "votes": 144
+  },
+  {
+    "date": "1920-02-12",
+    "name": "HÄBERLIN",
+    "votes": 124
+  },
+  {
+    "date": "1922-12-14",
+    "name": "MOTTA",
+    "votes": 148
+  },
+  {
+    "date": "1922-12-14",
+    "name": "SCHULTHESS",
+    "votes": 136
+  },
+  {
+    "date": "1922-12-14",
+    "name": "HAAB",
+    "votes": 170
+  },
+  {
+    "date": "1922-12-14",
+    "name": "SCHEURER",
+    "votes": 156
+  },
+  {
+    "date": "1922-12-14",
+    "name": "CHUARD",
+    "votes": 151
+  },
+  {
+    "date": "1922-12-14",
+    "name": "MUSY",
+    "votes": 143
+  },
+  {
+    "date": "1922-12-14",
+    "name": "HÄBERLIN",
+    "votes": 149
+  },
+  {
+    "date": "1925-12-17",
+    "name": "MOTTA",
+    "votes": 164
+  },
+  {
+    "date": "1925-12-17",
+    "name": "SCHULTHESS",
+    "votes": 155
+  },
+  {
+    "date": "1925-12-17",
+    "name": "HAAB",
+    "votes": 175
+  },
+  {
+    "date": "1925-12-17",
+    "name": "SCHEURER",
+    "votes": 152
+  },
+  {
+    "date": "1925-12-17",
+    "name": "CHUARD",
+    "votes": 142
+  },
+  {
+    "date": "1925-12-17",
+    "name": "MUSY",
+    "votes": 121
+  },
+  {
+    "date": "1925-12-17",
+    "name": "HÄBERLIN",
+    "votes": 123
+  },
+  {
+    "date": "1928-12-13",
+    "name": "MOTTA",
+    "votes": 177
+  },
+  {
+    "date": "1928-12-13",
+    "name": "SCHULTHESS",
+    "votes": 184
+  },
+  {
+    "date": "1928-12-13",
+    "name": "HAAB",
+    "votes": 183
+  },
+  {
+    "date": "1928-12-13",
+    "name": "SCHEURER",
+    "votes": 151
+  },
+  {
+    "date": "1928-12-13",
+    "name": "MUSY",
+    "votes": 152
+  },
+  {
+    "date": "1928-12-13",
+    "name": "HÄBERLIN",
+    "votes": 160
+  },
+  {
+    "date": "1928-12-13",
+    "name": "PILET-GOLAZ",
+    "votes": 151
+  },
+  {
+    "date": "1929-12-13",
+    "name": "MINGER",
+    "votes": 148
+  },
+  {
+    "date": "1929-12-13",
+    "name": "MEYER",
+    "votes": 112
+  },
+  {
+    "date": "1931-12-17",
+    "name": "MOTTA",
+    "votes": 161
+  },
+  {
+    "date": "1931-12-17",
+    "name": "SCHULTHESS",
+    "votes": 172
+  },
+  {
+    "date": "1931-12-17",
+    "name": "MUSY",
+    "votes": 128
+  },
+  {
+    "date": "1931-12-17",
+    "name": "HÄBERLIN",
+    "votes": 154
+  },
+  {
+    "date": "1931-12-17",
+    "name": "PILEZ-GOLAZ",
+    "votes": 144
+  },
+  {
+    "date": "1931-12-17",
+    "name": "MINGER",
+    "votes": 146
+  },
+  {
+    "date": "1931-12-17",
+    "name": "MEYER",
+    "votes": 145
+  },
+  {
+    "date": "1934-03-22",
+    "name": "BAUMANN",
+    "votes": 141
+  },
+  {
+    "date": "1934-03-22",
+    "name": "ETTER",
+    "votes": 115
+  },
+  {
+    "date": "1935-04-04",
+    "name": "OBRECHT",
+    "votes": 125
+  },
+  {
+    "date": "1935-12-11",
+    "name": "MOTTA",
+    "votes": 147
+  },
+  {
+    "date": "1935-12-11",
+    "name": "PILET-GOLAZ",
+    "votes": 119
+  },
+  {
+    "date": "1935-12-11",
+    "name": "MINGER",
+    "votes": 134
+  },
+  {
+    "date": "1935-12-11",
+    "name": "MEYER",
+    "votes": 148
+  },
+  {
+    "date": "1935-12-11",
+    "name": "BAUMANN",
+    "votes": 139
+  },
+  {
+    "date": "1935-12-11",
+    "name": "ETTER",
+    "votes": 124
+  },
+  {
+    "date": "1935-12-11",
+    "name": "OBRECHT",
+    "votes": 131
+  },
+  {
+    "date": "1938-12-15",
+    "name": "WETTER",
+    "votes": 117
+  },
+  {
+    "date": "1939-12-13",
+    "name": "MOTTA",
+    "votes": 140
+  },
+  {
+    "date": "1939-12-13",
+    "name": "PILET-GOLAZ",
+    "votes": 145
+  },
+  {
+    "date": "1939-12-13",
+    "name": "MINGER",
+    "votes": 130
+  },
+  {
+    "date": "1939-12-13",
+    "name": "BAUMANN",
+    "votes": 132
+  },
+  {
+    "date": "1939-12-13",
+    "name": "ETTER",
+    "votes": 144
+  },
+  {
+    "date": "1939-12-13",
+    "name": "OBRECHT",
+    "votes": 166
+  },
+  {
+    "date": "1939-12-13",
+    "name": "WETTER",
+    "votes": 152
+  },
+  {
+    "date": "1940-02-22",
+    "name": "CELIO",
+    "votes": 118
+  },
+  {
+    "date": "1940-07-18",
+    "name": "STAMPFLI",
+    "votes": 142
+  },
+  {
+    "date": "1940-12-10",
+    "name": "VON-STEIGER",
+    "votes": 130
+  },
+  {
+    "date": "1940-12-10",
+    "name": "KOBELT",
+    "votes": 117
+  },
+  {
+    "date": "1943-12-15",
+    "name": "PILET-GOLAZ",
+    "votes": 154
+  },
+  {
+    "date": "1943-12-15",
+    "name": "ETTER",
+    "votes": 163
+  },
+  {
+    "date": "1943-12-15",
+    "name": "CELIO",
+    "votes": 164
+  },
+  {
+    "date": "1943-12-15",
+    "name": "STAMPFLI",
+    "votes": 194
+  },
+  {
+    "date": "1943-12-15",
+    "name": "VON-STEIGER",
+    "votes": 183
+  },
+  {
+    "date": "1943-12-15",
+    "name": "KOBELT",
+    "votes": 163
+  },
+  {
+    "date": "1943-12-15",
+    "name": "NOBS",
+    "votes": 122
+  },
+  {
+    "date": "1944-12-14",
+    "name": "PETITPIERRE",
+    "votes": 122
+  },
+  {
+    "date": "1947-12-11",
+    "name": "ETTER",
+    "votes": 167
+  },
+  {
+    "date": "1947-12-11",
+    "name": "CELIO",
+    "votes": 177
+  },
+  {
+    "date": "1947-12-11",
+    "name": "VON-STEIGER",
+    "votes": 186
+  },
+  {
+    "date": "1947-12-11",
+    "name": "KOBELT",
+    "votes": 155
+  },
+  {
+    "date": "1947-12-11",
+    "name": "NOBS",
+    "votes": 137
+  },
+  {
+    "date": "1947-12-11",
+    "name": "PETITPIERRE",
+    "votes": 201
+  },
+  {
+    "date": "1947-12-11",
+    "name": "RUBATTEL",
+    "votes": 138
+  },
+  {
+    "date": "1950-09-14",
+    "name": "ESCHER",
+    "votes": 165
+  },
+  {
+    "date": "1951-12-13",
+    "name": "ETTER",
+    "votes": 167
+  },
+  {
+    "date": "1951-12-13",
+    "name": "KOBELT",
+    "votes": 176
+  },
+  {
+    "date": "1951-12-13",
+    "name": "PETITPIERRE",
+    "votes": 192
+  },
+  {
+    "date": "1951-12-13",
+    "name": "RUBATTEL",
+    "votes": 191
+  },
+  {
+    "date": "1951-12-13",
+    "name": "ESCHER",
+    "votes": 194
+  },
+  {
+    "date": "1951-12-13",
+    "name": "FELDMANN",
+    "votes": 184
+  },
+  {
+    "date": "1951-12-13",
+    "name": "WEBER",
+    "votes": 133
+  },
+  {
+    "date": "1953-12-22",
+    "name": "STREULI",
+    "votes": 113
+  },
+  {
+    "date": "1954-12-16",
+    "name": "HOLENSTEIN",
+    "votes": 182
+  },
+  {
+    "date": "1954-12-16",
+    "name": "CHAUDET",
+    "votes": 135
+  },
+  {
+    "date": "1954-12-16",
+    "name": "LEPORI",
+    "votes": 128
+  },
+  {
+    "date": "1955-12-15",
+    "name": "ETTER",
+    "votes": 154
+  },
+  {
+    "date": "1955-12-15",
+    "name": "PETITPIERRE",
+    "votes": 157
+  },
+  {
+    "date": "1955-12-15",
+    "name": "FELDMANN",
+    "votes": 161
+  },
+  {
+    "date": "1955-12-15",
+    "name": "STREULI",
+    "votes": 150
+  },
+  {
+    "date": "1955-12-15",
+    "name": "HOLENSTEIN",
+    "votes": 153
+  },
+  {
+    "date": "1955-12-15",
+    "name": "CHAUDET",
+    "votes": 144
+  },
+  {
+    "date": "1955-12-15",
+    "name": "LEPORI",
+    "votes": 145
+  },
+  {
+    "date": "1958-12-11",
+    "name": "WAHLEN",
+    "votes": 125
+  },
+  {
+    "date": "1959-12-17",
+    "name": "PETITPIERRE",
+    "votes": 213
+  },
+  {
+    "date": "1959-12-17",
+    "name": "CHAUDET",
+    "votes": 198
+  },
+  {
+    "date": "1959-12-17",
+    "name": "WAHLEN",
+    "votes": 215
+  },
+  {
+    "date": "1959-12-17",
+    "name": "BOURGKNECHT",
+    "votes": 134
+  },
+  {
+    "date": "1959-12-17",
+    "name": "SPÜHLER",
+    "votes": 149
+  },
+  {
+    "date": "1959-12-17",
+    "name": "VON-MOOS",
+    "votes": 148
+  },
+  {
+    "date": "1959-12-17",
+    "name": "TSCHUDI",
+    "votes": 129
+  },
+  {
+    "date": "1961-06-15",
+    "name": "SCHAFFNER",
+    "votes": 175
+  },
+  {
+    "date": "1962-09-27",
+    "name": "BONVIN",
+    "votes": 142
+  },
+  {
+    "date": "1963-12-12",
+    "name": "CHAUDET",
+    "votes": 185
+  },
+  {
+    "date": "1963-12-12",
+    "name": "WAHLEN",
+    "votes": 197
+  },
+  {
+    "date": "1963-12-12",
+    "name": "SPÜHLER",
+    "votes": 164
+  },
+  {
+    "date": "1963-12-12",
+    "name": "VON-MOOS",
+    "votes": 160
+  },
+  {
+    "date": "1963-12-12",
+    "name": "TSCHUDI",
+    "votes": 190
+  },
+  {
+    "date": "1963-12-12",
+    "name": "SCHAFFNER",
+    "votes": 171
+  },
+  {
+    "date": "1963-12-12",
+    "name": "BONVIN",
+    "votes": 169
+  },
+  {
+    "date": "1965-12-08",
+    "name": "GNÄGI",
+    "votes": 176
+  },
+  {
+    "date": "1966-12-14",
+    "name": "CELIO",
+    "votes": 136
+  },
+  {
+    "date": "1967-12-14",
+    "name": "SPÜHLER",
+    "votes": 170
+  },
+  {
+    "date": "1967-12-14",
+    "name": "VON-MOOS",
+    "votes": 162
+  },
+  {
+    "date": "1967-12-14",
+    "name": "TSCHUDI",
+    "votes": 171
+  },
+  {
+    "date": "1967-12-14",
+    "name": "SCHAFFNER",
+    "votes": 162
+  },
+  {
+    "date": "1967-12-14",
+    "name": "BONVIN",
+    "votes": 151
+  },
+  {
+    "date": "1967-12-14",
+    "name": "GNÄGI",
+    "votes": 152
+  },
+  {
+    "date": "1967-12-14",
+    "name": "CELIO",
+    "votes": 180
+  },
+  {
+    "date": "1969-12-10",
+    "name": "BRUGGER",
+    "votes": 160
+  },
+  {
+    "date": "1969-12-10",
+    "name": "GRABER",
+    "votes": 188
+  },
+  {
+    "date": "1971-12-08",
+    "name": "TSCHUDI",
+    "votes": 220
+  },
+  {
+    "date": "1971-12-08",
+    "name": "BONVIN",
+    "votes": 164
+  },
+  {
+    "date": "1971-12-08",
+    "name": "GNÄGI",
+    "votes": 178
+  },
+  {
+    "date": "1971-12-08",
+    "name": "CELIO",
+    "votes": 194
+  },
+  {
+    "date": "1971-12-08",
+    "name": "BRUGGER",
+    "votes": 214
+  },
+  {
+    "date": "1971-12-08",
+    "name": "GRABER",
+    "votes": 114
+  },
+  {
+    "date": "1971-12-08",
+    "name": "FURGLER",
+    "votes": 125
+  },
+  {
+    "date": "1973-12-05",
+    "name": "RITSCHARD",
+    "votes": 123
+  },
+  {
+    "date": "1973-12-05",
+    "name": "HÜRLIMANN",
+    "votes": 132
+  },
+  {
+    "date": "1973-12-05",
+    "name": "CHEVALLAZ",
+    "votes": 137
+  },
+  {
+    "date": "1975-12-10",
+    "name": "GNÄGI",
+    "votes": 189
+  },
+  {
+    "date": "1975-12-10",
+    "name": "BRUGGER",
+    "votes": 211
+  },
+  {
+    "date": "1975-12-10",
+    "name": "GRABER",
+    "votes": 177
+  },
+  {
+    "date": "1975-12-10",
+    "name": "FURGLER",
+    "votes": 187
+  },
+  {
+    "date": "1975-12-10",
+    "name": "RITSCHARD",
+    "votes": 213
+  },
+  {
+    "date": "1975-12-10",
+    "name": "HÜRLIMANN",
+    "votes": 206
+  },
+  {
+    "date": "1975-12-10",
+    "name": "CHEVALLAZ",
+    "votes": 178
+  },
+  {
+    "date": "1977-12-07",
+    "name": "HONEGGER",
+    "votes": 173
+  },
+  {
+    "date": "1977-12-07",
+    "name": "AUBERT",
+    "votes": 190
+  },
+  {
+    "date": "1979-12-05",
+    "name": "FURGLER",
+    "votes": 206
+  },
+  {
+    "date": "1979-12-05",
+    "name": "RITSCHARD",
+    "votes": 212
+  },
+  {
+    "date": "1979-12-05",
+    "name": "HÜRLIMANN",
+    "votes": 214
+  },
+  {
+    "date": "1979-12-05",
+    "name": "CHEVALLAZ",
+    "votes": 170
+  },
+  {
+    "date": "1979-12-05",
+    "name": "HONEGGER",
+    "votes": 198
+  },
+  {
+    "date": "1979-12-05",
+    "name": "AUBERT",
+    "votes": 124
+  },
+  {
+    "date": "1979-12-05",
+    "name": "SCHLUMPF",
+    "votes": 159
+  },
+  {
+    "date": "1982-12-08",
+    "name": "EGLI",
+    "votes": 125
+  },
+  {
+    "date": "1982-12-08",
+    "name": "FRIEDRICH",
+    "votes": 130
+  },
+  {
+    "date": "1983-12-07",
+    "name": "FURGLER",
+    "votes": 198
+  },
+  {
+    "date": "1983-12-07",
+    "name": "AUBERT",
+    "votes": 151
+  },
+  {
+    "date": "1983-12-07",
+    "name": "SCHLUMPF",
+    "votes": 189
+  },
+  {
+    "date": "1983-12-07",
+    "name": "EGLI",
+    "votes": 185
+  },
+  {
+    "date": "1983-12-07",
+    "name": "FRIEDRICH",
+    "votes": 175
+  },
+  {
+    "date": "1983-12-07",
+    "name": "STICH",
+    "votes": 124
+  },
+  {
+    "date": "1983-12-07",
+    "name": "DELAMURAZ",
+    "votes": 130
+  },
+  {
+    "date": "1984-10-02",
+    "name": "KOPP",
+    "votes": 124
+  },
+  {
+    "date": "1986-12-10",
+    "name": "KOLLER",
+    "votes": 180
+  },
+  {
+    "date": "1986-12-10",
+    "name": "COTTI",
+    "votes": 163
+  },
+  {
+    "date": "1987-12-09",
+    "name": "STICH",
+    "votes": 185
+  },
+  {
+    "date": "1987-12-09",
+    "name": "DELAMURAZ",
+    "votes": 194
+  },
+  {
+    "date": "1987-12-09",
+    "name": "KOPP",
+    "votes": 166
+  },
+  {
+    "date": "1987-12-09",
+    "name": "KOLLER",
+    "votes": 178
+  },
+  {
+    "date": "1987-12-09",
+    "name": "COTTI",
+    "votes": 205
+  },
+  {
+    "date": "1987-12-09",
+    "name": "FELBER",
+    "votes": 152
+  },
+  {
+    "date": "1987-12-09",
+    "name": "OGI",
+    "votes": 132
+  },
+  {
+    "date": "1989-12-01",
+    "name": "VILLIGER",
+    "votes": 124
+  },
+  {
+    "date": "1991-12-04",
+    "name": "STICH",
+    "votes": 145
+  },
+  {
+    "date": "1991-12-04",
+    "name": "DELAMURAZ",
+    "votes": 172
+  },
+  {
+    "date": "1991-12-04",
+    "name": "KOLLER",
+    "votes": 132
+  },
+  {
+    "date": "1991-12-04",
+    "name": "COTTI",
+    "votes": 135
+  },
+  {
+    "date": "1991-12-04",
+    "name": "FELBER",
+    "votes": 144
+  },
+  {
+    "date": "1991-12-04",
+    "name": "OGI",
+    "votes": 151
+  },
+  {
+    "date": "1991-12-04",
+    "name": "VILLIGER",
+    "votes": 127
+  },
+  {
+    "date": "1993-03-03",
+    "name": "MATTHEY",
+    "votes": 130
+  },
+  {
+    "date": "1993-03-10",
+    "name": "DREIFUSS",
+    "votes": 144
+  },
+  {
+    "date": "1995-12-13",
+    "name": "DELAMURAZ",
+    "votes": 193
+  },
+  {
+    "date": "1995-12-13",
+    "name": "KOLLER",
+    "votes": 176
+  },
+  {
+    "date": "1995-12-13",
+    "name": "COTTI",
+    "votes": 171
+  },
+  {
+    "date": "1995-12-13",
+    "name": "OGI",
+    "votes": 164
+  },
+  {
+    "date": "1995-12-13",
+    "name": "VILLIGER",
+    "votes": 175
+  },
+  {
+    "date": "1995-12-13",
+    "name": "DREIFUSS",
+    "votes": 124
+  },
+  {
+    "date": "1995-12-13",
+    "name": "LEUENBERGER",
+    "votes": 144
+  },
+  {
+    "date": "1999-03-11",
+    "name": "METZLER",
+    "votes": 126
+  },
+  {
+    "date": "1999-12-15",
+    "name": "OGI",
+    "votes": 191
+  },
+  {
+    "date": "1999-12-15",
+    "name": "VILLIGER",
+    "votes": 187
+  },
+  {
+    "date": "1999-12-15",
+    "name": "DREIFUSS",
+    "votes": 148
+  },
+  {
+    "date": "1999-12-15",
+    "name": "LEUENBERGER",
+    "votes": 154
+  },
+  {
+    "date": "1999-12-15",
+    "name": "COUCHEPIN",
+    "votes": 124
+  },
+  {
+    "date": "1999-12-13",
+    "name": "METZLER",
+    "votes": 144
+  },
+  {
+    "date": "1999-12-13",
+    "name": "DEISS",
+    "votes": 173
+  },
+  {
+    "date": "2000-12-06",
+    "name": "SCHMID",
+    "votes": 121
+  },
+  {
+    "date": "2002-12-04",
+    "name": "CALMY-REY",
+    "votes": 131
+  },
+  {
+    "date": "2003-12-10",
+    "name": "LEUENBERGER",
+    "votes": 211
+  },
+  {
+    "date": "2003-12-10",
+    "name": "COUCHEPIN",
+    "votes": 178
+  },
+  {
+    "date": "2003-12-10",
+    "name": "BLOCHER",
+    "votes": 121
+  },
+  {
+    "date": "2003-12-10",
+    "name": "DEISS",
+    "votes": 138
+  },
+  {
+    "date": "2003-12-10",
+    "name": "SCHMID",
+    "votes": 167
+  },
+  {
+    "date": "2003-12-10",
+    "name": "CALMY-REY",
+    "votes": 206
+  },
+  {
+    "date": "2003-12-10",
+    "name": "MERZ",
+    "votes": 127
+  }
+]

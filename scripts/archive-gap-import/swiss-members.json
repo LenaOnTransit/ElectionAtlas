@@ -1,0 +1,758 @@
+[
+  {
+    "originalName": "Furrer Jonas",
+    "name": "Jonas Furrer",
+    "party": "Freis.",
+    "elected": "1848-11-16",
+    "end": "1861-07-25"
+  },
+  {
+    "originalName": "Ochsenbein Ulrich",
+    "name": "Ulrich Ochsenbein",
+    "party": "Freis.",
+    "elected": "1848-11-16",
+    "end": "1854-12-31"
+  },
+  {
+    "originalName": "Druey Henri",
+    "name": "Henri Druey",
+    "party": "Freis.",
+    "elected": "1848-11-16",
+    "end": "1855-03-29"
+  },
+  {
+    "originalName": "Munzinger Josef",
+    "name": "Josef Munzinger",
+    "party": "Freis.",
+    "elected": "1848-11-16",
+    "end": "1855-02-06"
+  },
+  {
+    "originalName": "Franscini Stefano",
+    "name": "Stefano Franscini",
+    "party": "Freis.",
+    "elected": "1848-11-16",
+    "end": "1857-07-19"
+  },
+  {
+    "originalName": "Frey-Herose Friedrich",
+    "name": "Friedrich Frey-Herose",
+    "party": "Freis.",
+    "elected": "1848-11-16",
+    "end": "1866-12-31"
+  },
+  {
+    "originalName": "Naeff Wilhelm Math.",
+    "name": "Wilhelm Math. Naeff",
+    "party": "Freis.",
+    "elected": "1848-11-16",
+    "end": "1875-12-31"
+  },
+  {
+    "originalName": "Stämpfli Jakob",
+    "name": "Jakob Stämpfli",
+    "party": "Freis.",
+    "elected": "1854-12-06",
+    "end": "1863-12-31"
+  },
+  {
+    "originalName": "Fornerod Constant",
+    "name": "Constant Fornerod",
+    "party": "Freis.",
+    "elected": "1855-07-11",
+    "end": "1867-10-31"
+  },
+  {
+    "originalName": "Knüsel Josef Martin",
+    "name": "Josef Martin Knüsel",
+    "party": "Freis.",
+    "elected": "1855-07-14",
+    "end": "1875-12-31"
+  },
+  {
+    "originalName": "Pioda Giovanni Battista",
+    "name": "Giovanni Battista Pioda",
+    "party": "Freis.",
+    "elected": "1857-07-30",
+    "end": "1864-01-26"
+  },
+  {
+    "originalName": "Dubs Jakob",
+    "name": "Jakob Dubs",
+    "party": "Freis.",
+    "elected": "1861-07-30",
+    "end": "1872-05-28"
+  },
+  {
+    "originalName": "Schenk Karl",
+    "name": "Karl Schenk",
+    "party": "Freis.",
+    "elected": "1863-12-12",
+    "end": "1895-07-18"
+  },
+  {
+    "originalName": "Challet-Venel Jean-Jacques",
+    "name": "Jean-Jacques Challet-Venel",
+    "party": "Freis.",
+    "elected": "1864-07-12",
+    "end": "1872-12-31"
+  },
+  {
+    "originalName": "Welti Emil",
+    "name": "Emil Welti",
+    "party": "Freis.",
+    "elected": "1866-12-08",
+    "end": "1891-12-31"
+  },
+  {
+    "originalName": "Ruffy Victor",
+    "name": "Victor Ruffy",
+    "party": "Freis.",
+    "elected": "1867-12-06",
+    "end": "1869-12-29"
+  },
+  {
+    "originalName": "Ceresole Paul",
+    "name": "Paul Ceresole",
+    "party": "Freis.",
+    "elected": "1870-02-01",
+    "end": "1875-12-31"
+  },
+  {
+    "originalName": "Scherer Johann Jakob",
+    "name": "Johann Jakob Scherer",
+    "party": "Freis.",
+    "elected": "1872-07-12",
+    "end": "1878-12-23"
+  },
+  {
+    "originalName": "Borel Eugene",
+    "name": "Eugene Borel",
+    "party": "Freis.",
+    "elected": "1872-12-07",
+    "end": "1875-12-31"
+  },
+  {
+    "originalName": "Heer Joachim",
+    "name": "Joachim Heer",
+    "party": "Freis.",
+    "elected": "1875-12-10",
+    "end": "1878-12-31"
+  },
+  {
+    "originalName": "Anderwert Fridolin",
+    "name": "Fridolin Anderwert",
+    "party": "Freis.",
+    "elected": "1875-12-10",
+    "end": "1880-12-25"
+  },
+  {
+    "originalName": "Hammer Bernhard",
+    "name": "Bernhard Hammer",
+    "party": "Freis.",
+    "elected": "1875-12-10",
+    "end": "1890-12-31"
+  },
+  {
+    "originalName": "Droz Numa",
+    "name": "Numa Droz",
+    "party": "Freis.",
+    "elected": "1875-12-18",
+    "end": "1892-12-31"
+  },
+  {
+    "originalName": "Bavier Simeon",
+    "name": "Simeon Bavier",
+    "party": "Freis.",
+    "elected": "1878-12-10",
+    "end": "1883-01-05"
+  },
+  {
+    "originalName": "Hertenstein Wilhelm Friedrich",
+    "name": "Wilhelm Friedrich Hertenstein",
+    "party": "Freis.",
+    "elected": "1879-03-21",
+    "end": "1888-11-27"
+  },
+  {
+    "originalName": "Ruchonnet Louis",
+    "name": "Louis Ruchonnet",
+    "party": "Freis.",
+    "elected": "1881-03-03",
+    "end": "1893-09-14"
+  },
+  {
+    "originalName": "Deucher Adolf",
+    "name": "Adolf Deucher",
+    "party": "Freis.",
+    "elected": "1883-04-10",
+    "end": "1912-07-10"
+  },
+  {
+    "originalName": "Hauser Walter",
+    "name": "Walter Hauser",
+    "party": "Freis.",
+    "elected": "1888-12-13",
+    "end": "1902-10-22"
+  },
+  {
+    "originalName": "Frey Emil",
+    "name": "Emil Frey",
+    "party": "Freis.",
+    "elected": "1890-12-11",
+    "end": "1897-03-31"
+  },
+  {
+    "originalName": "Zemp Joseph",
+    "name": "Joseph Zemp",
+    "party": "Kath.",
+    "elected": "1891-12-17",
+    "end": "1908-06-17"
+  },
+  {
+    "originalName": "Lachenal Adrien",
+    "name": "Adrien Lachenal",
+    "party": "Freis.",
+    "elected": "1892-12-15",
+    "end": "1899-12-31"
+  },
+  {
+    "originalName": "Ruffy Eugène",
+    "name": "Eugène Ruffy",
+    "party": "Freis.",
+    "elected": "1893-12-14",
+    "end": "1899-10-31"
+  },
+  {
+    "originalName": "Müller Eduard",
+    "name": "Eduard Müller",
+    "party": "Freis.",
+    "elected": "1895-08-16",
+    "end": "1919-11-09"
+  },
+  {
+    "originalName": "Brenner Ernst",
+    "name": "Ernst Brenner",
+    "party": "Freis.",
+    "elected": "1897-03-25",
+    "end": "1911-03-11"
+  },
+  {
+    "originalName": "Comtesse Robert",
+    "name": "Robert Comtesse",
+    "party": "Freis.",
+    "elected": "1899-12-14",
+    "end": "1912-03-04"
+  },
+  {
+    "originalName": "Ruchet Marc-Emile",
+    "name": "Marc-Emile Ruchet",
+    "party": "Freis.",
+    "elected": "1899-12-14",
+    "end": "1912-07-13"
+  },
+  {
+    "originalName": "Forrer Ludwig",
+    "name": "Ludwig Forrer",
+    "party": "Freis.",
+    "elected": "1902-12-11",
+    "end": "1917-12-31"
+  },
+  {
+    "originalName": "Schobinger Josef Anton",
+    "name": "Josef Anton Schobinger",
+    "party": "Kath.",
+    "elected": "1908-06-17",
+    "end": "1911-11-27"
+  },
+  {
+    "originalName": "Hoffmann Arthur",
+    "name": "Arthur Hoffmann",
+    "party": "Freis.",
+    "elected": "1911-04-04",
+    "end": "1917-06-19"
+  },
+  {
+    "originalName": "Motta Giuseppe",
+    "name": "Giuseppe Motta",
+    "party": "Kath.",
+    "elected": "1911-12-14",
+    "end": "1940-01-23"
+  },
+  {
+    "originalName": "Perrier Louis",
+    "name": "Louis Perrier",
+    "party": "Freis.",
+    "elected": "1912-03-12",
+    "end": "1913-05-16"
+  },
+  {
+    "originalName": "Decoppet Camille",
+    "name": "Camille Decoppet",
+    "party": "Freis.",
+    "elected": "1912-07-17",
+    "end": "1919-12-31"
+  },
+  {
+    "originalName": "Schulthess Edmund",
+    "name": "Edmund Schulthess",
+    "party": "Freis.",
+    "elected": "1912-07-17",
+    "end": "1935-04-15"
+  },
+  {
+    "originalName": "Calonder Felix-Louis",
+    "name": "Felix-Louis Calonder",
+    "party": "Freis.",
+    "elected": "1913-06-12",
+    "end": "1919-12-31"
+  },
+  {
+    "originalName": "Ador Gustave",
+    "name": "Gustave Ador",
+    "party": "Lib.",
+    "elected": "1917-06-26",
+    "end": "1919-12-31"
+  },
+  {
+    "originalName": "Haab Robert",
+    "name": "Robert Haab",
+    "party": "Freis.",
+    "elected": "1917-12-13",
+    "end": "1929-12-31"
+  },
+  {
+    "originalName": "Scheurer Karl",
+    "name": "Karl Scheurer",
+    "party": "Freis.",
+    "elected": "1919-12-11",
+    "end": "1929-11-14"
+  },
+  {
+    "originalName": "Chuard Ernest",
+    "name": "Ernest Chuard",
+    "party": "Freis.",
+    "elected": "1919-12-11",
+    "end": "1928-12-31"
+  },
+  {
+    "originalName": "Musy Jean-Marie",
+    "name": "Jean-Marie Musy",
+    "party": "Kath.",
+    "elected": "1919-12-11",
+    "end": "1934-04-30"
+  },
+  {
+    "originalName": "Häberlin Heinrich",
+    "name": "Heinrich Häberlin",
+    "party": "Freis.",
+    "elected": "1920-02-12",
+    "end": "1934-04-30"
+  },
+  {
+    "originalName": "Pilet-Golaz MarceI",
+    "name": "MarceI Pilet-Golaz",
+    "party": "Freis.",
+    "elected": "1928-12-13",
+    "end": "1944-12-31"
+  },
+  {
+    "originalName": "Minger Rudolf",
+    "name": "Rudolf Minger",
+    "party": "BGB",
+    "elected": "1929-12-12",
+    "end": "1940-12-31"
+  },
+  {
+    "originalName": "Meyer Albert",
+    "name": "Albert Meyer",
+    "party": "Freis.",
+    "elected": "1929-12-12",
+    "end": "1938-12-31"
+  },
+  {
+    "originalName": "Baumann Johannes",
+    "name": "Johannes Baumann",
+    "party": "Freis.",
+    "elected": "1934-03-22",
+    "end": "1940-12-31"
+  },
+  {
+    "originalName": "Etter Philipp",
+    "name": "Philipp Etter",
+    "party": "Kath.",
+    "elected": "1934-03-28",
+    "end": "1959-12-31"
+  },
+  {
+    "originalName": "Obrecht Hermann",
+    "name": "Hermann Obrecht",
+    "party": "Freis.",
+    "elected": "1935-04-04",
+    "end": "1940-07-31"
+  },
+  {
+    "originalName": "Wetter Ernst",
+    "name": "Ernst Wetter",
+    "party": "Freis.",
+    "elected": "1938-12-15",
+    "end": "1943-12-31"
+  },
+  {
+    "originalName": "Celio Enrico",
+    "name": "Enrico Celio",
+    "party": "Kath.",
+    "elected": "1940-02-22",
+    "end": "1950-10-15"
+  },
+  {
+    "originalName": "Stampfli Walther",
+    "name": "Walther Stampfli",
+    "party": "Freis.",
+    "elected": "1940-07-18",
+    "end": "1947-12-31"
+  },
+  {
+    "originalName": "von Steiger Eduard",
+    "name": "Steiger Eduard von",
+    "party": "BGB",
+    "elected": "1940-12-10",
+    "end": "1951-12-31"
+  },
+  {
+    "originalName": "Kobelt Karl",
+    "name": "Karl Kobelt",
+    "party": "Freis.",
+    "elected": "1940-12-10",
+    "end": "1954-12-31"
+  },
+  {
+    "originalName": "Nobs Ernst",
+    "name": "Ernst Nobs",
+    "party": "Soz.",
+    "elected": "1943-12-15",
+    "end": "1951-12-31"
+  },
+  {
+    "originalName": "Petitpierre Max",
+    "name": "Max Petitpierre",
+    "party": "Freis.",
+    "elected": "1944-12-14",
+    "end": "1961-06-30"
+  },
+  {
+    "originalName": "Rubattel Rodolphe",
+    "name": "Rodolphe Rubattel",
+    "party": "Freis.",
+    "elected": "1947-12-11",
+    "end": "1954-12-31"
+  },
+  {
+    "originalName": "Escher Joseph",
+    "name": "Joseph Escher",
+    "party": "Kath.",
+    "elected": "1950-09-14",
+    "end": "1954-12-09"
+  },
+  {
+    "originalName": "Feldmann Markus",
+    "name": "Markus Feldmann",
+    "party": "BGB",
+    "elected": "1951-12-13",
+    "end": "1958-11-03"
+  },
+  {
+    "originalName": "Weber Max",
+    "name": "Max Weber",
+    "party": "Soz.",
+    "elected": "1951-12-13",
+    "end": "1954-01-31"
+  },
+  {
+    "originalName": "Streuli Hans",
+    "name": "Hans Streuli",
+    "party": "Freis.",
+    "elected": "1953-12-22",
+    "end": "1959-12-31"
+  },
+  {
+    "originalName": "Holenstein Thomas",
+    "name": "Thomas Holenstein",
+    "party": "Kath.",
+    "elected": "1954-12-16",
+    "end": "1959-12-31"
+  },
+  {
+    "originalName": "Chaudet Paul",
+    "name": "Paul Chaudet",
+    "party": "Freis.",
+    "elected": "1954-12-16",
+    "end": "1966-12-31"
+  },
+  {
+    "originalName": "Lepori Giuseppe",
+    "name": "Giuseppe Lepori",
+    "party": "Kath.",
+    "elected": "1954-12-16",
+    "end": "1959-12-31"
+  },
+  {
+    "originalName": "Wahlen Friedrich Traugott",
+    "name": "Friedrich Traugott Wahlen",
+    "party": "BGB",
+    "elected": "1958-12-11",
+    "end": "1965-12-31"
+  },
+  {
+    "originalName": "Bourgknecht Jean",
+    "name": "Jean Bourgknecht",
+    "party": "Kath.",
+    "elected": "1959-12-17",
+    "end": "1962-09-30"
+  },
+  {
+    "originalName": "Spühler Willy",
+    "name": "Willy Spühler",
+    "party": "Soz",
+    "elected": "1959-12-17",
+    "end": "1970-01-31"
+  },
+  {
+    "originalName": "Von Moos Ludwig",
+    "name": "Moos Ludwig Von",
+    "party": "Kons.chr.",
+    "elected": "1959-12-17",
+    "end": "1971-12-31"
+  },
+  {
+    "originalName": "Tschudi Hans Peter",
+    "name": "Hans Peter Tschudi",
+    "party": "Soz.",
+    "elected": "1959-12-17",
+    "end": "1973-12-31"
+  },
+  {
+    "originalName": "Schaffner Hans",
+    "name": "Hans Schaffner",
+    "party": "Freis.",
+    "elected": "1961-06-15",
+    "end": "1969-12-31"
+  },
+  {
+    "originalName": "Bonvin Roger",
+    "name": "Roger Bonvin",
+    "party": "Kons.chr.",
+    "elected": "1962-09-27",
+    "end": "1973-12-31"
+  },
+  {
+    "originalName": "Gnägi Rudolf",
+    "name": "Rudolf Gnägi",
+    "party": "SVP",
+    "elected": "1965-12-08",
+    "end": "1979-12-31"
+  },
+  {
+    "originalName": "Celio Nello",
+    "name": "Nello Celio",
+    "party": "FDP",
+    "elected": "1966-12-14",
+    "end": "1973-12-31"
+  },
+  {
+    "originalName": "Brugger Ernst",
+    "name": "Ernst Brugger",
+    "party": "FDP",
+    "elected": "1969-12-10",
+    "end": "1978-01-31"
+  },
+  {
+    "originalName": "Graber Pierre",
+    "name": "Pierre Graber",
+    "party": "SP",
+    "elected": "1969-12-10",
+    "end": "1978-01-31"
+  },
+  {
+    "originalName": "Furgler Kurt",
+    "name": "Kurt Furgler",
+    "party": "CVP",
+    "elected": "1971-12-08",
+    "end": "1986-12-31"
+  },
+  {
+    "originalName": "Ritschard Willi",
+    "name": "Willi Ritschard",
+    "party": "SP",
+    "elected": "1973-12-05",
+    "end": "1983-10-16"
+  },
+  {
+    "originalName": "Hürlimann Hans",
+    "name": "Hans Hürlimann",
+    "party": "CVP",
+    "elected": "1973-12-05",
+    "end": "1982-12-31"
+  },
+  {
+    "originalName": "Chevallaz Georges-André",
+    "name": "Georges-André Chevallaz",
+    "party": "FDP",
+    "elected": "1973-12-05",
+    "end": "1983-12-31"
+  },
+  {
+    "originalName": "Honegger Fritz",
+    "name": "Fritz Honegger",
+    "party": "FDP",
+    "elected": "1977-12-07",
+    "end": "1982-12-31"
+  },
+  {
+    "originalName": "Aubert Pierre",
+    "name": "Pierre Aubert",
+    "party": "SP",
+    "elected": "1977-12-07",
+    "end": "1987-12-31"
+  },
+  {
+    "originalName": "Schlumpf Leon",
+    "name": "Leon Schlumpf",
+    "party": "SVP",
+    "elected": "1979-12-05",
+    "end": "1987-12-31"
+  },
+  {
+    "originalName": "Egli Alphons",
+    "name": "Alphons Egli",
+    "party": "CVP",
+    "elected": "1982-12-08",
+    "end": "1986-12-31"
+  },
+  {
+    "originalName": "Friedrich Rudolf",
+    "name": "Rudolf Friedrich",
+    "party": "FDP",
+    "elected": "1982-12-08",
+    "end": "1984-10-20"
+  },
+  {
+    "originalName": "Stich Otto",
+    "name": "Otto Stich",
+    "party": "SP",
+    "elected": "1983-12-07",
+    "end": "1995-10-31"
+  },
+  {
+    "originalName": "Delamuraz Jean-Pascal",
+    "name": "Jean-Pascal Delamuraz",
+    "party": "FDP",
+    "elected": "1983-12-07",
+    "end": "1998-03-31"
+  },
+  {
+    "originalName": "Kopp Elisabeth",
+    "name": "Elisabeth Kopp",
+    "party": "FDP",
+    "elected": "1984-10-02",
+    "end": "1989-01-12"
+  },
+  {
+    "originalName": "Koller Arnold",
+    "name": "Arnold Koller",
+    "party": "CVP",
+    "elected": "1986-12-10",
+    "end": "1999-04-30"
+  },
+  {
+    "originalName": "Cotti Flavio",
+    "name": "Flavio Cotti",
+    "party": "CVP",
+    "elected": "1986-12-10",
+    "end": "1999-04-30"
+  },
+  {
+    "originalName": "Felber René",
+    "name": "René Felber",
+    "party": "SP",
+    "elected": "1987-12-09",
+    "end": "1993-03-31"
+  },
+  {
+    "originalName": "Ogi Adolf",
+    "name": "Adolf Ogi",
+    "party": "SVP",
+    "elected": "1987-12-09",
+    "end": "2000-12-31"
+  },
+  {
+    "originalName": "Villiger Kaspar",
+    "name": "Kaspar Villiger",
+    "party": "FPD",
+    "elected": "1989-02-01",
+    "end": "2003-12-31"
+  },
+  {
+    "originalName": "Dreifuss Ruth",
+    "name": "Ruth Dreifuss",
+    "party": "SP",
+    "elected": "1993-03-10",
+    "end": "2002-12-31"
+  },
+  {
+    "originalName": "Leuenberger Moritz",
+    "name": "Moritz Leuenberger",
+    "party": "SP",
+    "elected": "1995-09-27",
+    "end": "9999-12-31"
+  },
+  {
+    "originalName": "Couchepin Pascal",
+    "name": "Pascal Couchepin",
+    "party": "FDP",
+    "elected": "1998-03-11",
+    "end": "9999-12-31"
+  },
+  {
+    "originalName": "Metzler Ruth",
+    "name": "Ruth Metzler",
+    "party": "CVP",
+    "elected": "1999-03-11",
+    "end": "2003-12-31"
+  },
+  {
+    "originalName": "Deiss Joseph",
+    "name": "Joseph Deiss",
+    "party": "CVP",
+    "elected": "1999-03-11",
+    "end": "9999-12-31"
+  },
+  {
+    "originalName": "Schmid Samuel",
+    "name": "Samuel Schmid",
+    "party": "SVP",
+    "elected": "2000-12-06",
+    "end": "9999-12-31"
+  },
+  {
+    "originalName": "Calmy-Rey Micheline",
+    "name": "Micheline Calmy-Rey",
+    "party": "SP",
+    "elected": "2002-12-04",
+    "end": "9999-12-31"
+  },
+  {
+    "originalName": "Blocher Christoph",
+    "name": "Christoph Blocher",
+    "party": "SVP",
+    "elected": "2003-12-10",
+    "end": "9999-12-31"
+  },
+  {
+    "originalName": "Merz Hans-Rudolf",
+    "name": "Hans-Rudolf Merz",
+    "party": "FDP",
+    "elected": "2003-12-10",
+    "end": "9999-12-31"
+  }
+]
