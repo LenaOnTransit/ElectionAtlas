@@ -28,3 +28,5 @@ corepack pnpm build
 ```
 
 `import.sql` is an additive, guarded transaction. It rejects a differing existing target record or party profile and changes only the country coverage text, preserving its electoral assessment. No schema, credentials, permissions or RLS changes are involved. Publication requires an explicit separate execution of that reviewed transaction; the generator never connects to the database.
+
+The final label audit preserves the pre-2015 Workers’ Party name (İşçi Partisi), with its explicit continuity to the later Patriotic Party profile. İnce’s 2023 affiliation is the Memleket Party founded in 2021. `label-corrections.json` / `.sql` record the guarded correction to five version-2 records; the unused misleading profile is archived. Counts remain unchanged.

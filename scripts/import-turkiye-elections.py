@@ -67,6 +67,7 @@ records=[];profiles={};audit=[]
 def canon(name):return ALIASES.get(name,name)
 def profile(name,year):
  name=canon(name)
+ if name=="Workers' Party (İşçi Partisi)":name='Patriotic Party'
  if name in ['', 'Independent','Independents']:return None
  key=name
  if name=='Democrat Party':key+= ' (1946–1960)' if year<=1960 else ' (2007)'
@@ -135,7 +136,7 @@ for key,date in DATES.items():
   p=PRIMARY[key];rows=[]
   for x in p['rows']:
    original=re.sub(r'\s*\([^)]*\)$','',x['name']);name=NAMES[original]
-   if original=='İşçi Partisi':name='Democratic Labour Party' if y==1954 else 'Patriotic Party'
+   if original=='İşçi Partisi':name='Democratic Labour Party' if y==1954 else "Workers' Party (İşçi Partisi)"
    if original=='Vatan Partisi':name='Homeland Party' if y<1960 else 'Patriotic Party'
    rows.append(dict(name=name,votes=x['votes'],seats=x['seats']))
   total=trint(p['Milletvekili sayısı']);valid=trint(p.get('Toplam geçerli oy sayısı',p.get('Geçerli oy sayısı',str(sum(r['votes'] for r in rows)))));cast=trint(p['Oy kullanan seçmen sayısı']);registered=trint(p['Kayıtlı seçmen sayısı']);turnout=round(cast/registered*100,6)
@@ -191,7 +192,8 @@ for y,day in [(2014,'08-10'),(2018,'06-24'),(2023,'05-14')]:
  e['notes']='Shares are recalculated from valid candidate votes, excluding blank and invalid ballots. Party labels identify the candidate’s affiliation at the election; supporting multi-party alliances are not counted as additional votes. Ideology refers to the affiliated party’s broad tradition, not a separately inferred personal classification.'
  if y==2023:e['notes']+=' Muharrem İnce withdrew before election day but remained on the ballot; his certified votes are retained. No candidate won an outright majority in this round.'
  for x in rows:
-  r=result(e,x['name'],x['votes'],round(x['votes']/valid*100,6),party=x['party'],winner=x['name']=='Recep Tayyip Erdoğan' and y!=2023)
+  affiliation='Homeland Party (Memleket Partisi)' if y==2023 and x['name']=='Muharrem İnce' else x['party']
+  r=result(e,x['name'],x['votes'],round(x['votes']/valid*100,6),party=affiliation,winner=x['name']=='Recep Tayyip Erdoğan' and y!=2023)
   if y==2023:r['advanced']=x['name'] in ['Recep Tayyip Erdoğan','Kemal Kılıçdaroğlu']
  if y==2023:
   e2=base('2023-05-28','president');e2.update(title='Türkiye presidential runoff election 2023',round='Runoff',turnout=84.15,voteBasis='Valid presidential runoff candidate votes; 53,339,313 votes; overseas/customs ballots included',notes=e['notes'].split(' Muharrem')[0],sources=[source('YSK: certified national presidential runoff result','https://www.ysk.gov.tr/doc/dosyalar/docs/14Mayis2023/KesinSecimSonuclari/2023CB-TumSecimSonucuIkinciTur.pdf')])
@@ -222,7 +224,9 @@ for y,day,cast,noncandidate,rows,round,url,note in INDIRECT:
  assert sum(r['votes'] for r in e['results'])+noncandidate==cast
  audit.append(dict(id=e['id'],expectedVotes=cast-noncandidate,recordedVotes=sum(r['votes'] for r in e['results']),ballotsCast=cast,nonCandidateBallots=noncandidate,expectedSeats=None,recordedSeats=None,source=url))
 
-for e in records:e['linkedElectionIds']=[x['id'] for x in records if x['id']!=e['id'] and x['startDate'][:4]==e['startDate'][:4]]
+for e in records:
+ if e['id'] in ['world-turkiye-assembly-1995-12-24','world-turkiye-assembly-1999-04-18','world-turkiye-assembly-2002-11-03','world-turkiye-assembly-2007-07-22','world-turkiye-president-2023-05-14']:e['version']=2
+ e['linkedElectionIds']=[x['id'] for x in records if x['id']!=e['id'] and x['startDate'][:4]==e['startDate'][:4]]
 records.sort(key=lambda e:(e['startDate'],e['id']))
 for name,value in [('records',records),('parties',list(profiles.values())),('reconciliation',audit)]:
  (OUT/(name+'.json')).write_text(json.dumps(value,ensure_ascii=False,separators=(',',':'))+'\n')

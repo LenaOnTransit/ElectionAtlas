@@ -35,5 +35,7 @@ assert.equal(row('president','2007-08-28','Abdullah Gül').votes,339);assert.equ
 assert.equal(get('president','2023-05-14').results.filter(r=>r.winner).length,0);assert.equal(get('president','2023-05-14').results.filter(r=>r.advanced).length,2);
 assert.notEqual(row('assembly','1957-10-27','Democrat Party').partyId,row('assembly','2007-07-22','Democrat Party').partyId);
 assert.ok(row('assembly','1950-05-14',"Republican People's Party").ideologyIds.includes('ideology-republicanism'));assert.ok(!row('assembly','1950-05-14',"Republican People's Party").ideologyIds.includes('ideology-social-democracy'));
+assert.equal(row('president','2023-05-14','Muharrem İnce').party,'Homeland Party (Memleket Partisi)');
+assert.equal(row('assembly','2002-11-03',"Workers' Party (İşçi Partisi)").votes,159843);
 assert.equal(primary.every(x=>x.matched),true);assert.equal(primary.length,8);
 console.log('Türkiye: 42 elections, historical and modern vote controls, list seats, indirect ballots, public copy and SEO validated.');
