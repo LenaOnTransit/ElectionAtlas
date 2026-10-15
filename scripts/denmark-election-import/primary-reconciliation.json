@@ -1,0 +1,1703 @@
+{
+  "sources": [
+    "https://www.dst.dk/pubfile/34694/ftvalg2019",
+    "https://www.dst.dk/valg/Valg1968094/valgopg/valgopgHL.htm"
+  ],
+  "checks": [
+    {
+      "year": 1971,
+      "party": "Social Democrats",
+      "seats": 70
+    },
+    {
+      "year": 1973,
+      "party": "Social Democrats",
+      "seats": 46
+    },
+    {
+      "year": 1975,
+      "party": "Social Democrats",
+      "seats": 53
+    },
+    {
+      "year": 1977,
+      "party": "Social Democrats",
+      "seats": 65
+    },
+    {
+      "year": 1979,
+      "party": "Social Democrats",
+      "seats": 68
+    },
+    {
+      "year": 1981,
+      "party": "Social Democrats",
+      "seats": 59
+    },
+    {
+      "year": 1984,
+      "party": "Social Democrats",
+      "seats": 56
+    },
+    {
+      "year": 1987,
+      "party": "Social Democrats",
+      "seats": 54
+    },
+    {
+      "year": 1988,
+      "party": "Social Democrats",
+      "seats": 55
+    },
+    {
+      "year": 1990,
+      "party": "Social Democrats",
+      "seats": 69
+    },
+    {
+      "year": 1994,
+      "party": "Social Democrats",
+      "seats": 62
+    },
+    {
+      "year": 1998,
+      "party": "Social Democrats",
+      "seats": 63
+    },
+    {
+      "year": 2001,
+      "party": "Social Democrats",
+      "seats": 52
+    },
+    {
+      "year": 2005,
+      "party": "Social Democrats",
+      "seats": 47
+    },
+    {
+      "year": 2007,
+      "party": "Social Democrats",
+      "seats": 45
+    },
+    {
+      "year": 2011,
+      "party": "Social Democrats",
+      "seats": 44
+    },
+    {
+      "year": 2015,
+      "party": "Social Democrats",
+      "seats": 47
+    },
+    {
+      "year": 2019,
+      "party": "Social Democrats",
+      "seats": 48
+    },
+    {
+      "year": 1971,
+      "party": "Social Liberals",
+      "seats": 27
+    },
+    {
+      "year": 1973,
+      "party": "Social Liberals",
+      "seats": 20
+    },
+    {
+      "year": 1975,
+      "party": "Social Liberals",
+      "seats": 13
+    },
+    {
+      "year": 1977,
+      "party": "Social Liberals",
+      "seats": 6
+    },
+    {
+      "year": 1979,
+      "party": "Social Liberals",
+      "seats": 10
+    },
+    {
+      "year": 1981,
+      "party": "Social Liberals",
+      "seats": 9
+    },
+    {
+      "year": 1984,
+      "party": "Social Liberals",
+      "seats": 10
+    },
+    {
+      "year": 1987,
+      "party": "Social Liberals",
+      "seats": 11
+    },
+    {
+      "year": 1988,
+      "party": "Social Liberals",
+      "seats": 10
+    },
+    {
+      "year": 1990,
+      "party": "Social Liberals",
+      "seats": 7
+    },
+    {
+      "year": 1994,
+      "party": "Social Liberals",
+      "seats": 8
+    },
+    {
+      "year": 1998,
+      "party": "Social Liberals",
+      "seats": 7
+    },
+    {
+      "year": 2001,
+      "party": "Social Liberals",
+      "seats": 9
+    },
+    {
+      "year": 2005,
+      "party": "Social Liberals",
+      "seats": 17
+    },
+    {
+      "year": 2007,
+      "party": "Social Liberals",
+      "seats": 9
+    },
+    {
+      "year": 2011,
+      "party": "Social Liberals",
+      "seats": 17
+    },
+    {
+      "year": 2015,
+      "party": "Social Liberals",
+      "seats": 8
+    },
+    {
+      "year": 2019,
+      "party": "Social Liberals",
+      "seats": 16
+    },
+    {
+      "year": 1971,
+      "party": "Conservative People's Party",
+      "seats": 31
+    },
+    {
+      "year": 1973,
+      "party": "Conservative People's Party",
+      "seats": 16
+    },
+    {
+      "year": 1975,
+      "party": "Conservative People's Party",
+      "seats": 10
+    },
+    {
+      "year": 1977,
+      "party": "Conservative People's Party",
+      "seats": 15
+    },
+    {
+      "year": 1979,
+      "party": "Conservative People's Party",
+      "seats": 22
+    },
+    {
+      "year": 1981,
+      "party": "Conservative People's Party",
+      "seats": 26
+    },
+    {
+      "year": 1984,
+      "party": "Conservative People's Party",
+      "seats": 42
+    },
+    {
+      "year": 1987,
+      "party": "Conservative People's Party",
+      "seats": 38
+    },
+    {
+      "year": 1988,
+      "party": "Conservative People's Party",
+      "seats": 35
+    },
+    {
+      "year": 1990,
+      "party": "Conservative People's Party",
+      "seats": 30
+    },
+    {
+      "year": 1994,
+      "party": "Conservative People's Party",
+      "seats": 27
+    },
+    {
+      "year": 1998,
+      "party": "Conservative People's Party",
+      "seats": 16
+    },
+    {
+      "year": 2001,
+      "party": "Conservative People's Party",
+      "seats": 16
+    },
+    {
+      "year": 2005,
+      "party": "Conservative People's Party",
+      "seats": 18
+    },
+    {
+      "year": 2007,
+      "party": "Conservative People's Party",
+      "seats": 18
+    },
+    {
+      "year": 2011,
+      "party": "Conservative People's Party",
+      "seats": 8
+    },
+    {
+      "year": 2015,
+      "party": "Conservative People's Party",
+      "seats": 6
+    },
+    {
+      "year": 2019,
+      "party": "Conservative People's Party",
+      "seats": 12
+    },
+    {
+      "year": 1971,
+      "party": "Centre Democrats",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Centre Democrats",
+      "seats": 14
+    },
+    {
+      "year": 1975,
+      "party": "Centre Democrats",
+      "seats": 4
+    },
+    {
+      "year": 1977,
+      "party": "Centre Democrats",
+      "seats": 11
+    },
+    {
+      "year": 1979,
+      "party": "Centre Democrats",
+      "seats": 6
+    },
+    {
+      "year": 1981,
+      "party": "Centre Democrats",
+      "seats": 15
+    },
+    {
+      "year": 1984,
+      "party": "Centre Democrats",
+      "seats": 8
+    },
+    {
+      "year": 1987,
+      "party": "Centre Democrats",
+      "seats": 9
+    },
+    {
+      "year": 1988,
+      "party": "Centre Democrats",
+      "seats": 9
+    },
+    {
+      "year": 1990,
+      "party": "Centre Democrats",
+      "seats": 9
+    },
+    {
+      "year": 1994,
+      "party": "Centre Democrats",
+      "seats": 5
+    },
+    {
+      "year": 1998,
+      "party": "Centre Democrats",
+      "seats": 8
+    },
+    {
+      "year": 2001,
+      "party": "Centre Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "Centre Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Centre Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "Centre Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "Centre Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "Centre Democrats",
+      "seats": 0
+    },
+    {
+      "year": 1971,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1975,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1977,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1979,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1981,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 2001,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "New Right",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "New Right",
+      "seats": 4
+    },
+    {
+      "year": 1971,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Justice Party",
+      "seats": 5
+    },
+    {
+      "year": 1975,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1977,
+      "party": "Justice Party",
+      "seats": 6
+    },
+    {
+      "year": 1979,
+      "party": "Justice Party",
+      "seats": 5
+    },
+    {
+      "year": 1981,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 2001,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "Justice Party",
+      "seats": 0
+    },
+    {
+      "year": 1971,
+      "party": "Socialist People's Party",
+      "seats": 17
+    },
+    {
+      "year": 1973,
+      "party": "Socialist People's Party",
+      "seats": 11
+    },
+    {
+      "year": 1975,
+      "party": "Socialist People's Party",
+      "seats": 9
+    },
+    {
+      "year": 1977,
+      "party": "Socialist People's Party",
+      "seats": 7
+    },
+    {
+      "year": 1979,
+      "party": "Socialist People's Party",
+      "seats": 11
+    },
+    {
+      "year": 1981,
+      "party": "Socialist People's Party",
+      "seats": 21
+    },
+    {
+      "year": 1984,
+      "party": "Socialist People's Party",
+      "seats": 21
+    },
+    {
+      "year": 1987,
+      "party": "Socialist People's Party",
+      "seats": 27
+    },
+    {
+      "year": 1988,
+      "party": "Socialist People's Party",
+      "seats": 24
+    },
+    {
+      "year": 1990,
+      "party": "Socialist People's Party",
+      "seats": 15
+    },
+    {
+      "year": 1994,
+      "party": "Socialist People's Party",
+      "seats": 13
+    },
+    {
+      "year": 1998,
+      "party": "Socialist People's Party",
+      "seats": 13
+    },
+    {
+      "year": 2001,
+      "party": "Socialist People's Party",
+      "seats": 12
+    },
+    {
+      "year": 2005,
+      "party": "Socialist People's Party",
+      "seats": 11
+    },
+    {
+      "year": 2007,
+      "party": "Socialist People's Party",
+      "seats": 23
+    },
+    {
+      "year": 2011,
+      "party": "Socialist People's Party",
+      "seats": 16
+    },
+    {
+      "year": 2015,
+      "party": "Socialist People's Party",
+      "seats": 7
+    },
+    {
+      "year": 2019,
+      "party": "Socialist People's Party",
+      "seats": 14
+    },
+    {
+      "year": 1971,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1975,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1977,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1979,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1981,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 2001,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "Liberal Alliance",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Liberal Alliance",
+      "seats": 5
+    },
+    {
+      "year": 2011,
+      "party": "Liberal Alliance",
+      "seats": 9
+    },
+    {
+      "year": 2015,
+      "party": "Liberal Alliance",
+      "seats": 13
+    },
+    {
+      "year": 2019,
+      "party": "Liberal Alliance",
+      "seats": 4
+    },
+    {
+      "year": 1971,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Communist Party of Denmark",
+      "seats": 6
+    },
+    {
+      "year": 1975,
+      "party": "Communist Party of Denmark",
+      "seats": 7
+    },
+    {
+      "year": 1977,
+      "party": "Communist Party of Denmark",
+      "seats": 7
+    },
+    {
+      "year": 1979,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1981,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 2001,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "Communist Party of Denmark",
+      "seats": 0
+    },
+    {
+      "year": 1971,
+      "party": "Christian Democrats",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Christian Democrats",
+      "seats": 7
+    },
+    {
+      "year": 1975,
+      "party": "Christian Democrats",
+      "seats": 9
+    },
+    {
+      "year": 1977,
+      "party": "Christian Democrats",
+      "seats": 6
+    },
+    {
+      "year": 1979,
+      "party": "Christian Democrats",
+      "seats": 5
+    },
+    {
+      "year": 1981,
+      "party": "Christian Democrats",
+      "seats": 4
+    },
+    {
+      "year": 1984,
+      "party": "Christian Democrats",
+      "seats": 5
+    },
+    {
+      "year": 1987,
+      "party": "Christian Democrats",
+      "seats": 4
+    },
+    {
+      "year": 1988,
+      "party": "Christian Democrats",
+      "seats": 4
+    },
+    {
+      "year": 1990,
+      "party": "Christian Democrats",
+      "seats": 4
+    },
+    {
+      "year": 1994,
+      "party": "Christian Democrats",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "Christian Democrats",
+      "seats": 4
+    },
+    {
+      "year": 2001,
+      "party": "Christian Democrats",
+      "seats": 4
+    },
+    {
+      "year": 2005,
+      "party": "Christian Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Christian Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "Christian Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "Christian Democrats",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "Christian Democrats",
+      "seats": 0
+    },
+    {
+      "year": 1971,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1975,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1977,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1979,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1981,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "Danish People's Party",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "Danish People's Party",
+      "seats": 13
+    },
+    {
+      "year": 2001,
+      "party": "Danish People's Party",
+      "seats": 22
+    },
+    {
+      "year": 2005,
+      "party": "Danish People's Party",
+      "seats": 24
+    },
+    {
+      "year": 2007,
+      "party": "Danish People's Party",
+      "seats": 25
+    },
+    {
+      "year": 2011,
+      "party": "Danish People's Party",
+      "seats": 22
+    },
+    {
+      "year": 2015,
+      "party": "Danish People's Party",
+      "seats": 37
+    },
+    {
+      "year": 2019,
+      "party": "Danish People's Party",
+      "seats": 16
+    },
+    {
+      "year": 1971,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1975,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1977,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1979,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1981,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "Common Course",
+      "seats": 4
+    },
+    {
+      "year": 1988,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 2001,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "Common Course",
+      "seats": 0
+    },
+    {
+      "year": 1971,
+      "party": "Venstre",
+      "seats": 30
+    },
+    {
+      "year": 1973,
+      "party": "Venstre",
+      "seats": 22
+    },
+    {
+      "year": 1975,
+      "party": "Venstre",
+      "seats": 42
+    },
+    {
+      "year": 1977,
+      "party": "Venstre",
+      "seats": 21
+    },
+    {
+      "year": 1979,
+      "party": "Venstre",
+      "seats": 22
+    },
+    {
+      "year": 1981,
+      "party": "Venstre",
+      "seats": 20
+    },
+    {
+      "year": 1984,
+      "party": "Venstre",
+      "seats": 22
+    },
+    {
+      "year": 1987,
+      "party": "Venstre",
+      "seats": 19
+    },
+    {
+      "year": 1988,
+      "party": "Venstre",
+      "seats": 22
+    },
+    {
+      "year": 1990,
+      "party": "Venstre",
+      "seats": 29
+    },
+    {
+      "year": 1994,
+      "party": "Venstre",
+      "seats": 42
+    },
+    {
+      "year": 1998,
+      "party": "Venstre",
+      "seats": 42
+    },
+    {
+      "year": 2001,
+      "party": "Venstre",
+      "seats": 56
+    },
+    {
+      "year": 2005,
+      "party": "Venstre",
+      "seats": 52
+    },
+    {
+      "year": 2007,
+      "party": "Venstre",
+      "seats": 46
+    },
+    {
+      "year": 2011,
+      "party": "Venstre",
+      "seats": 47
+    },
+    {
+      "year": 2015,
+      "party": "Venstre",
+      "seats": 34
+    },
+    {
+      "year": 2019,
+      "party": "Venstre",
+      "seats": 43
+    },
+    {
+      "year": 1971,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 1975,
+      "party": "Left Socialists",
+      "seats": 4
+    },
+    {
+      "year": 1977,
+      "party": "Left Socialists",
+      "seats": 5
+    },
+    {
+      "year": 1979,
+      "party": "Left Socialists",
+      "seats": 6
+    },
+    {
+      "year": 1981,
+      "party": "Left Socialists",
+      "seats": 5
+    },
+    {
+      "year": 1984,
+      "party": "Left Socialists",
+      "seats": 5
+    },
+    {
+      "year": 1987,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 2001,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "Left Socialists",
+      "seats": 0
+    },
+    {
+      "year": 1971,
+      "party": "Progress Party",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Progress Party",
+      "seats": 28
+    },
+    {
+      "year": 1975,
+      "party": "Progress Party",
+      "seats": 24
+    },
+    {
+      "year": 1977,
+      "party": "Progress Party",
+      "seats": 26
+    },
+    {
+      "year": 1979,
+      "party": "Progress Party",
+      "seats": 20
+    },
+    {
+      "year": 1981,
+      "party": "Progress Party",
+      "seats": 16
+    },
+    {
+      "year": 1984,
+      "party": "Progress Party",
+      "seats": 6
+    },
+    {
+      "year": 1987,
+      "party": "Progress Party",
+      "seats": 9
+    },
+    {
+      "year": 1988,
+      "party": "Progress Party",
+      "seats": 16
+    },
+    {
+      "year": 1990,
+      "party": "Progress Party",
+      "seats": 12
+    },
+    {
+      "year": 1994,
+      "party": "Progress Party",
+      "seats": 11
+    },
+    {
+      "year": 1998,
+      "party": "Progress Party",
+      "seats": 4
+    },
+    {
+      "year": 2001,
+      "party": "Progress Party",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "Progress Party",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Progress Party",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "Progress Party",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "Progress Party",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "Progress Party",
+      "seats": 0
+    },
+    {
+      "year": 1971,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1975,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1977,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1979,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1981,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "Red–Green Alliance",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "Red–Green Alliance",
+      "seats": 6
+    },
+    {
+      "year": 1998,
+      "party": "Red–Green Alliance",
+      "seats": 5
+    },
+    {
+      "year": 2001,
+      "party": "Red–Green Alliance",
+      "seats": 4
+    },
+    {
+      "year": 2005,
+      "party": "Red–Green Alliance",
+      "seats": 6
+    },
+    {
+      "year": 2007,
+      "party": "Red–Green Alliance",
+      "seats": 4
+    },
+    {
+      "year": 2011,
+      "party": "Red–Green Alliance",
+      "seats": 12
+    },
+    {
+      "year": 2015,
+      "party": "Red–Green Alliance",
+      "seats": 14
+    },
+    {
+      "year": 2019,
+      "party": "Red–Green Alliance",
+      "seats": 13
+    },
+    {
+      "year": 1971,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1975,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1977,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1979,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1981,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 1998,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 2001,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "The Alternative",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "The Alternative",
+      "seats": 9
+    },
+    {
+      "year": 2019,
+      "party": "The Alternative",
+      "seats": 5
+    },
+    {
+      "year": 1971,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1973,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1975,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1977,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1979,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1981,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1984,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1987,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1988,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1990,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 1994,
+      "party": "Independents",
+      "seats": 1
+    },
+    {
+      "year": 1998,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 2001,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 2005,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 2007,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 2011,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 2015,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 2019,
+      "party": "Independents",
+      "seats": 0
+    },
+    {
+      "year": 2022,
+      "party": "Social Democrats",
+      "votes": 971995
+    },
+    {
+      "year": 2022,
+      "party": "Social Liberals",
+      "votes": 133931
+    },
+    {
+      "year": 2022,
+      "party": "Conservative People's Party",
+      "votes": 194820
+    },
+    {
+      "year": 2022,
+      "party": "New Right",
+      "votes": 129524
+    },
+    {
+      "year": 2022,
+      "party": "Socialist People's Party",
+      "votes": 293186
+    },
+    {
+      "year": 2022,
+      "party": "Liberal Alliance",
+      "votes": 278656
+    },
+    {
+      "year": 2022,
+      "party": "Christian Democrats",
+      "votes": 18276
+    },
+    {
+      "year": 2022,
+      "party": "Moderates",
+      "votes": 327699
+    },
+    {
+      "year": 2022,
+      "party": "Danish People's Party",
+      "votes": 93428
+    },
+    {
+      "year": 2022,
+      "party": "Independent Greens",
+      "votes": 31787
+    },
+    {
+      "year": 2022,
+      "party": "Venstre",
+      "votes": 470546
+    },
+    {
+      "year": 2022,
+      "party": "Denmark Democrats",
+      "votes": 286796
+    },
+    {
+      "year": 2022,
+      "party": "Red–Green Alliance",
+      "votes": 181452
+    },
+    {
+      "year": 2022,
+      "party": "The Alternative",
+      "votes": 117567
+    },
+    {
+      "year": 2022,
+      "party": "Independents",
+      "votes": 4288
+    }
+  ]
+}
