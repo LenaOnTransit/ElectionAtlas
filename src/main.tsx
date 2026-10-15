@@ -15,6 +15,7 @@ const pages:Record<string,()=>Promise<ReactNode>>={
  '/':async()=>(await import('../app/page')).default(),
  '/senate':async()=>(await import('../app/senate/page')).default(),
  '/house':async()=>(await import('../app/house/page')).default(),
+ '/editor/election-night':async()=>(await import('../app/editor/election-night/page')).default(),
  '/editor/house':async()=>(await import('../app/editor/house/page')).default(),
  '/calendar':async()=>(await import('../app/calendar/page')).default(),
  '/education':async()=>(await import('../app/education/page')).default(),
