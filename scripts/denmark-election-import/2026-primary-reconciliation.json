@@ -1,0 +1,58 @@
+{
+  "source": "https://www.dst.dk/valg/Valg2546527/valgopg/valgopgHL.htm",
+  "sha256": "ff173f8bce89522a29ffa53784d6337bbc184725a52b286492b07344c04e52bb",
+  "checks": [
+    {
+      "name": "A. Socialdemokratiet",
+      "votes": 779252
+    },
+    {
+      "name": "B. Radikale Venstre",
+      "votes": 207442
+    },
+    {
+      "name": "C. Det Konservative Folkeparti",
+      "votes": 270749
+    },
+    {
+      "name": "F. SF - Socialistisk Folkeparti",
+      "votes": 413306
+    },
+    {
+      "name": "H. Borgernes Parti - Lars Boje Mathiesen",
+      "votes": 75928
+    },
+    {
+      "name": "I. Liberal Alliance",
+      "votes": 334421
+    },
+    {
+      "name": "M. Moderaterne",
+      "votes": 274775
+    },
+    {
+      "name": "O. Dansk Folkeparti",
+      "votes": 324518
+    },
+    {
+      "name": "V. Venstre, Danmarks Liberale Parti",
+      "votes": 361689
+    },
+    {
+      "name": "Æ. Danmarksdemokraterne - Inger Støjberg",
+      "votes": 205302
+    },
+    {
+      "name": "Ø. Enhedslisten - De Rød-Grønne",
+      "votes": 226037
+    },
+    {
+      "name": "Å. Alternativet",
+      "votes": 91770
+    },
+    {
+      "name": "Uden for partierne",
+      "votes": 2436
+    }
+  ]
+}
