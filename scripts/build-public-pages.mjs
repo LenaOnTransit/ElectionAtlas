@@ -49,7 +49,7 @@ async function page(route,title,description,body,index=true,updated='',details={
   const {seo,...metadataDetails}=details;
   const meta=pageMetadata({route,title,description,index,updated,base,...metadataDetails,...seo});
   const html=cleanTemplate.replace('</head>',meta.head+'</head>')
-    .replace('<div id="root"></div>',`<div id="root">${nav}<main class="articlepage"><h1>${escape(title)}</h1>${body}</main></div>`);
+    .replace('<div id="root"></div>',route==='/us-election-night'?`<div id="root"><main style="max-width:none;min-height:100svh;margin:0;display:grid;place-content:center;text-align:center;background:#30343b;color:white"><h1>Election Night Desk</h1><p>Opening the live desk…</p><noscript><p>Enable JavaScript for the interactive map, live calls and countdown.</p>${link('/senate','Senate results')} · ${link('/house','House results')} · ${link('/','Home')}</noscript></main></div>`:`<div id="root">${nav}<main class="articlepage"><h1>${escape(title)}</h1>${body}</main></div>`);
   const dir=route==='/'?'dist':path.join('dist',route.slice(1));
   await fs.mkdir(dir,{recursive:true});await fs.writeFile(path.join(dir,'index.html'),html);
   if(index)entries.push({url:meta.url,updated});

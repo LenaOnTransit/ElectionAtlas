@@ -14,9 +14,16 @@ export function houseNightBalance(h:HouseOverview):NightBalance{
  // National totals already cover district calls. Never add selected races twice.
  return {D,R,other,baselineD:0,baselineR:0,uncalled:HOUSE_SEATS-D-R-other,total:HOUSE_SEATS,thresholdD:HOUSE_MAJORITY,thresholdR:HOUSE_MAJORITY,control:D>=HOUSE_MAJORITY?'D':R>=HOUSE_MAJORITY?'R':'unresolved'};
 }
-export function congressNightTone(senate:NightControl,house:NightControl){
- if(senate==='unresolved'||house==='unresolved')return 'neutral';
- return senate===house?(senate==='D'?'blue':'red'):'purple';
+export function chamberNightTone(control:NightControl){return control==='D'?'blue':control==='R'?'red':'neutral';}
+// 18:00 America/New_York after the November daylight-saving transition.
+export const FIRST_POLLS_CLOSE='2026-11-03T23:00:00Z';
+export const POLL_CLOSING_SOURCES=[
+ {label:'Indiana election calendar',url:'https://www.in.gov/counties/clarkcountyclerkofcourts/voting-and-elections/files/2026-Indiana-Election-Calendar.pdf'},
+ {label:'Kentucky State Board of Elections',url:'https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx'}
+];
+export function pollCountdown(now:number){
+ const remaining=Math.max(0,Math.ceil((Date.parse(FIRST_POLLS_CLOSE)-now)/1000));
+ return {days:Math.floor(remaining/86400),hours:Math.floor(remaining%86400/3600),minutes:Math.floor(remaining%3600/60),seconds:remaining%60,closed:remaining===0};
 }
 export function setSimulatedSenateCall(s:Senate,raceId:string,candidateId:string):Senate{
  return {...s,races:s.races.map(r=>r.id===raceId?{...r,results:{...r.results,called:r.candidates.some(c=>c.id===candidateId)?candidateId:''}}:r)};
