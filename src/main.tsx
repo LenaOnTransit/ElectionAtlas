@@ -58,6 +58,7 @@ function Application(){const [revision,setRevision]=useState(0);const [content,s
   catch(error){if(!active)return;if(error instanceof RouteRedirect){navigate(error.path);return;}if(error instanceof RouteNotFound)markUnavailable();setContent(<><Header/><main><h1>{error instanceof RouteNotFound?'Page not found':'Could not load this page'}</h1><p>{error instanceof RouteNotFound?'This record is unavailable or private.':'This page is temporarily unavailable. Please try again in a moment.'}</p><AppLink href="/">Back to the publication</AppLink><button onClick={()=>setRevision(n=>n+1)}>Retry</button></main><Footer/></>);setPending(false);}
  })();return()=>{active=false;};},[revision]);
  useEffect(()=>{const main=document.querySelector('main');if(main){main.id='main-content';main.tabIndex=-1}},[pending,content]);
- return pending?<><Header/><main><p role="status">Loading World of Elections…</p></main></>:<div key={revision}>{content}</div>;
+ const nightLoading=currentRoute(window.location.hash,window.location.search,window.location.pathname,import.meta.env.BASE_URL).pathname==='/us-election-night';
+ return pending&&nightLoading?<main style={{maxWidth:'none',minHeight:'100svh',margin:0,display:'grid',placeItems:'center',background:'#3d3d3d',color:'#fff'}}><p role="status">Opening Election Night Desk…</p></main>:pending?<><Header/><main><p role="status">Loading World of Elections…</p></main></>:<div key={revision}>{content}</div>;
 }
 createRoot(document.getElementById('root')!).render(<ModeratorProvider><Application/></ModeratorProvider>);

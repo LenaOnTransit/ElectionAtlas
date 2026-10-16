@@ -1,0 +1,7 @@
+import {useEffect,useState} from 'react';
+import {FIRST_POLLS_CLOSE,POLL_CLOSING_SOURCES,pollCountdown} from '../../lib/election-night';
+export default function PollCountdown(){
+ const [now,setNow]=useState(()=>Date.now());useEffect(()=>{const update=()=>setNow(Date.now()),timer=setInterval(update,1000);document.addEventListener('visibilitychange',update);return()=>{clearInterval(timer);document.removeEventListener('visibilitychange',update)}},[]);
+ const c=pollCountdown(now),pad=(n:number)=>String(n).padStart(2,'0');
+ return <div className="desk-countdown"><div><span>{c.closed?'First scheduled poll close reached':'FIRST POLLS CLOSE IN'}</span><div role="timer" aria-live="off" aria-label={c.closed?'First scheduled poll-closing time has passed':`${c.days} days, ${c.hours} hours, ${c.minutes} minutes, ${c.seconds} seconds until first polls close`}>{[c.days,c.hours,c.minutes,c.seconds].map((v,i)=><span key={i}><b>{pad(v)}</b><small>{['DAYS','HRS','MIN','SEC'][i]}</small></span>)}</div></div><details><summary>3 Nov · 6 p.m. ET</summary><div><p><time dateTime={FIRST_POLLS_CLOSE}>3 November 2026, 6 p.m. Eastern Standard Time</time> · 23:00 UTC.</p><p>First scheduled closings in the Eastern Time portions of Indiana and Kentucky. Other areas close later; voters already in line may still vote.</p>{POLL_CLOSING_SOURCES.map(s=><a key={s.url} href={s.url} target="_blank" rel="noreferrer">{s.label} ↗</a>)}</div></details></div>;
+}
