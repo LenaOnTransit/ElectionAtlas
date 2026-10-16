@@ -1,0 +1,607 @@
+{
+  "checks": [
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Fine Gael",
+      "votes": 544230,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Fianna Fáil",
+      "votes": 519353,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Sinn Féin",
+      "votes": 295313,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Labour",
+      "votes": 140893,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "AAA–PBP",
+      "votes": 84168,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Social Democrats",
+      "votes": 64094,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Green",
+      "votes": 57997,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Renua",
+      "votes": 46552,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Inds. 4 Change",
+      "votes": 31365,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Direct Democracy",
+      "votes": 6481,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Workers' Party",
+      "votes": 3242,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Catholic Democrats",
+      "votes": 2013,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Fís Nua",
+      "votes": 1224,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Irish Democratic",
+      "votes": 971,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Communist",
+      "votes": 185,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2016-02-26",
+      "name": "Independent",
+      "votes": 334814,
+      "source": "Oireachtas result handbook 2016",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Fianna Fáil",
+      "votes": 484315,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Sinn Féin",
+      "votes": 535573,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Fine Gael",
+      "votes": 455568,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Green",
+      "votes": 155695,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Labour",
+      "votes": 95582,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Social Democrats",
+      "votes": 63397,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Solidarity–PBP",
+      "votes": 57420,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Aontú",
+      "votes": 41575,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Inds. 4 Change",
+      "votes": 8421,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Irish Freedom",
+      "votes": 5495,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Renua",
+      "votes": 5473,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "National Party",
+      "votes": 4773,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Irish Democratic",
+      "votes": 2611,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Workers' Party",
+      "votes": 1195,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "United People",
+      "votes": 43,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2020-02-08",
+      "name": "Independent",
+      "votes": 266353,
+      "source": "Oireachtas result handbook 2020",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Fianna Fáil",
+      "votes": 481414,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Sinn Féin",
+      "votes": 418627,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Fine Gael",
+      "votes": 458134,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Social Democrats",
+      "votes": 106028,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Labour",
+      "votes": 102457,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Independent Ireland",
+      "votes": 78276,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "PBP–Solidarity",
+      "votes": 62481,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Aontú",
+      "votes": 86134,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Green",
+      "votes": 66911,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "100% Redress",
+      "votes": 6862,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Irish Freedom",
+      "votes": 14838,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "The Irish People",
+      "votes": 7626,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "National Party",
+      "votes": 6511,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Inds. 4 Change",
+      "votes": 5166,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Ireland First",
+      "votes": 3339,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Right to Change",
+      "votes": 2907,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Liberty Republic",
+      "votes": 1936,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Party for Animal Welfare",
+      "votes": 884,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Rabharta",
+      "votes": 626,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Centre Party",
+      "votes": 548,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-dail-2024-11-29",
+      "name": "Independent",
+      "votes": 290748,
+      "source": "Oireachtas result handbook 2024",
+      "scope": "national total rows"
+    },
+    {
+      "election": "world-ireland-president-1945-06-14",
+      "name": "Seán T. O'Kelly",
+      "votes": 537965,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1945-06-14",
+      "name": "Seán Mac Eoin",
+      "votes": 335539,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1945-06-14",
+      "name": "Patrick McCartan",
+      "votes": 212834,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1959-06-17",
+      "name": "Éamon de Valera",
+      "votes": 538003,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1959-06-17",
+      "name": "Seán Mac Eoin",
+      "votes": 417536,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1966-06-01",
+      "name": "Éamon de Valera",
+      "votes": 558861,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1966-06-01",
+      "name": "Tom O'Higgins",
+      "votes": 548144,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1973-05-30",
+      "name": "Erskine H. Childers",
+      "votes": 635867,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1973-05-30",
+      "name": "Tom O'Higgins",
+      "votes": 587771,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1990-11-07",
+      "name": "Mary Robinson",
+      "votes": 612265,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1990-11-07",
+      "name": "Brian Lenihan",
+      "votes": 694484,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1990-11-07",
+      "name": "Austin Currie",
+      "votes": 267902,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1997-10-30",
+      "name": "Mary McAleese",
+      "votes": 574424,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1997-10-30",
+      "name": "Mary Banotti",
+      "votes": 372002,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1997-10-30",
+      "name": "Dana Rosemary Scallon",
+      "votes": 175458,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1997-10-30",
+      "name": "Adi Roche",
+      "votes": 88423,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-1997-10-30",
+      "name": "Derek Nally",
+      "votes": 59529,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2011-10-27",
+      "name": "Michael D. Higgins",
+      "votes": 701101,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2011-10-27",
+      "name": "Seán Gallagher",
+      "votes": 504964,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2011-10-27",
+      "name": "Martin McGuinness",
+      "votes": 243030,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2011-10-27",
+      "name": "Gay Mitchell",
+      "votes": 113321,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2011-10-27",
+      "name": "David Norris",
+      "votes": 109469,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2011-10-27",
+      "name": "Dana Rosemary Scallon",
+      "votes": 51220,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2011-10-27",
+      "name": "Mary Davis",
+      "votes": 48657,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2018-10-26",
+      "name": "Michael D. Higgins",
+      "votes": 822566,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2018-10-26",
+      "name": "Peter Casey",
+      "votes": 342727,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2018-10-26",
+      "name": "Seán Gallagher",
+      "votes": 94514,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2018-10-26",
+      "name": "Liadh Ní Riada",
+      "votes": 93987,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2018-10-26",
+      "name": "Joan Freeman",
+      "votes": 87908,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2018-10-26",
+      "name": "Gavin Duffy",
+      "votes": 32198,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2025-10-24",
+      "name": "Catherine Connolly",
+      "votes": 914143,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2025-10-24",
+      "name": "Heather Humphreys",
+      "votes": 424987,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    },
+    {
+      "election": "world-ireland-president-2025-10-24",
+      "name": "Jim Gavin",
+      "votes": 103568,
+      "source": "Presidential Returning Officer: 1938–2025 result handbook",
+      "scope": "published presidential count"
+    }
+  ],
+  "notes": "National first-preference vote values found in official Oireachtas national-total rows for 2016, 2020 and 2024, and every contested presidential candidate tally. Historical discrepancies and unopposed returns are retained explicitly in records."
+}

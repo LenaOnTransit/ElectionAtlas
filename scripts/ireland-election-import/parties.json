@@ -1,0 +1,873 @@
+[
+  {
+    "id": "4f8ff758-52c4-5b2f-8d9b-8c95c9fcd997",
+    "country_id": "ie",
+    "name": "Fine Gael",
+    "short_name": "FG",
+    "color": "#1687be",
+    "ideology_ids": [
+      "ideology-liberal-conservatism",
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Fine_Gael",
+    "archived": false
+  },
+  {
+    "id": "5065d468-470e-5905-8a62-03d32cbd1119",
+    "country_id": "ie",
+    "name": "Fianna Fáil",
+    "short_name": "FF",
+    "color": "#168b55",
+    "ideology_ids": [
+      "ideology-conservatism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Fianna_F%C3%A1il",
+    "archived": false
+  },
+  {
+    "id": "8fee10e7-aa7e-5f80-8b4a-646e881fbb98",
+    "country_id": "ie",
+    "name": "Sinn Féin",
+    "short_name": "SF",
+    "color": "#326d48",
+    "ideology_ids": [
+      "ideology-democratic-socialism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in",
+    "archived": false
+  },
+  {
+    "id": "5b485807-119d-571e-9ce9-576f288e51a8",
+    "country_id": "ie",
+    "name": "Labour",
+    "short_name": "Lab",
+    "color": "#c82339",
+    "ideology_ids": [
+      "ideology-social-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Labour_Party_(Ireland)",
+    "archived": false
+  },
+  {
+    "id": "c5dcbbc4-f981-514d-85e3-a9c1693dc200",
+    "country_id": "ie",
+    "name": "Solidarity–PBP",
+    "short_name": "S–PBP",
+    "color": "#ce3b55",
+    "ideology_ids": [
+      "ideology-democratic-socialism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/People_Before_Profit%E2%80%93Solidarity",
+    "archived": false
+  },
+  {
+    "id": "22892fa7-4375-598f-b4c4-116ed1ff31be",
+    "country_id": "ie",
+    "name": "Social Democrats",
+    "short_name": "SD",
+    "color": "#8b3a91",
+    "ideology_ids": [
+      "ideology-social-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Social_Democrats_(Ireland)",
+    "archived": false
+  },
+  {
+    "id": "d7add82e-e75f-5407-bd9c-5ff9db28fa36",
+    "country_id": "ie",
+    "name": "Green",
+    "short_name": "GP",
+    "color": "#72a83b",
+    "ideology_ids": [
+      "ideology-green-politics"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Green_Party_(Ireland)",
+    "archived": false
+  },
+  {
+    "id": "595fcbd1-907a-5123-bb3f-0e7f8432100b",
+    "country_id": "ie",
+    "name": "Renua",
+    "short_name": "",
+    "color": "#337399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "8ee08285-1b3d-5fc2-902d-64b3eb6f1468",
+    "country_id": "ie",
+    "name": "Inds. 4 Change",
+    "short_name": "",
+    "color": "#996133",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "c4729ed9-43a5-521c-9613-f49dcf20dbc6",
+    "country_id": "ie",
+    "name": "Direct Democracy",
+    "short_name": "",
+    "color": "#995633",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "867aeb45-ff13-5a46-850b-a86df4fcad94",
+    "country_id": "ie",
+    "name": "Workers' Party",
+    "short_name": "",
+    "color": "#779933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "c2e4caa6-25df-53fb-b4d0-4302d46dd759",
+    "country_id": "ie",
+    "name": "Catholic Democrats",
+    "short_name": "",
+    "color": "#769933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "8c4be64d-d35a-5093-afb2-660bc305feac",
+    "country_id": "ie",
+    "name": "Fís Nua",
+    "short_name": "",
+    "color": "#999033",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "89a563bc-82c1-5d40-9421-16e28b63b7ff",
+    "country_id": "ie",
+    "name": "Irish Democratic",
+    "short_name": "",
+    "color": "#993338",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "202f4d3a-71c6-5f7b-a7e7-a749208c6cf0",
+    "country_id": "ie",
+    "name": "Communist",
+    "short_name": "",
+    "color": "#843399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "3bfcb1d3-b45a-592c-9c21-0f90d1afd129",
+    "country_id": "ie",
+    "name": "Aontú",
+    "short_name": "A",
+    "color": "#426949",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Aont%C3%BA",
+    "archived": false
+  },
+  {
+    "id": "2e35a1f6-0de1-5289-a39d-5762462d9acd",
+    "country_id": "ie",
+    "name": "Irish Freedom",
+    "short_name": "",
+    "color": "#337199",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "b3be3d1f-c4df-53d7-bf9b-6caa31eb0848",
+    "country_id": "ie",
+    "name": "National Party (2016–)",
+    "short_name": "",
+    "color": "#6b3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "17d052c6-85bb-5fae-b009-2a7fa5472cf7",
+    "country_id": "ie",
+    "name": "United People",
+    "short_name": "",
+    "color": "#993343",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "95145476-a6cb-5552-a754-3412fc0aa666",
+    "country_id": "ie",
+    "name": "Independent Ireland",
+    "short_name": "II",
+    "color": "#287668",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Independent_Ireland",
+    "archived": false
+  },
+  {
+    "id": "5df0fe93-47f2-5536-af95-c573dcf776a3",
+    "country_id": "ie",
+    "name": "100% Redress",
+    "short_name": "",
+    "color": "#959933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "157fa5ca-7b4e-58b9-bc5a-c5629f4ee12a",
+    "country_id": "ie",
+    "name": "The Irish People",
+    "short_name": "",
+    "color": "#998433",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "f9ee9a47-aa96-56c9-8251-c87e1fbfa8e6",
+    "country_id": "ie",
+    "name": "Ireland First",
+    "short_name": "",
+    "color": "#603399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "44251b41-e1fb-518a-8671-770f14b6a171",
+    "country_id": "ie",
+    "name": "Right to Change",
+    "short_name": "",
+    "color": "#338299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "e3e5a001-81b3-5fd5-b49c-cc631d46c75e",
+    "country_id": "ie",
+    "name": "Liberty Republic",
+    "short_name": "",
+    "color": "#339956",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "b2451e27-2794-5fe2-98f5-fe82b2244f38",
+    "country_id": "ie",
+    "name": "Party for Animal Welfare",
+    "short_name": "",
+    "color": "#339969",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "80cb18f0-043e-5150-922d-282338bddef4",
+    "country_id": "ie",
+    "name": "Rabharta",
+    "short_name": "",
+    "color": "#334599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "1ae8d1a5-e649-5bb1-887f-cb3ca21463d5",
+    "country_id": "ie",
+    "name": "Centre Party",
+    "short_name": "",
+    "color": "#839933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "686004f0-e277-583b-af95-fb5f604b6bd3",
+    "country_id": "ie",
+    "name": "Sinn Féin (1917–1923)",
+    "short_name": "SF",
+    "color": "#326d48",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in",
+    "archived": false
+  },
+  {
+    "id": "55e6fb18-8bbd-527c-8ce0-d622304d21c5",
+    "country_id": "ie",
+    "name": "Irish Unionist",
+    "short_name": "",
+    "color": "#339962",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "60a2c7ce-53fa-59be-9218-d49a6d009022",
+    "country_id": "ie",
+    "name": "Irish Parliamentary",
+    "short_name": "",
+    "color": "#6b3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "08fcb2fb-f58a-5aa7-a12c-3461ef23803d",
+    "country_id": "ie",
+    "name": "Labour Unionist",
+    "short_name": "",
+    "color": "#996f33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "071157a2-73a7-5f06-9dcf-5edccd29861d",
+    "country_id": "ie",
+    "name": "Belfast Labour",
+    "short_name": "",
+    "color": "#419933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "22503c63-58d1-5d77-b351-901721530c5f",
+    "country_id": "ie",
+    "name": "Sinn Féin (Pro-Treaty)",
+    "short_name": "",
+    "color": "#813399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "d4bb8fca-5585-5c08-957d-d58d06d21c07",
+    "country_id": "ie",
+    "name": "Sinn Féin (Anti-Treaty)",
+    "short_name": "",
+    "color": "#843399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "f1a78de3-83f7-596c-9617-99c001aa0d85",
+    "country_id": "ie",
+    "name": "Farmers' Party",
+    "short_name": "FP",
+    "color": "#ba8c35",
+    "ideology_ids": [
+      "ideology-agrarianism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Farmers%27_Party_(Ireland)",
+    "archived": false
+  },
+  {
+    "id": "519615a3-afbb-5223-8254-2394a0b80055",
+    "country_id": "ie",
+    "name": "Businessmen's Party",
+    "short_name": "",
+    "color": "#998d33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "b6fff7e3-ccf0-52cb-8e7e-49f260e850be",
+    "country_id": "ie",
+    "name": "Ratepayers' Association",
+    "short_name": "",
+    "color": "#993382",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "6eb04b0b-c268-5fda-941d-9a46577f88af",
+    "country_id": "ie",
+    "name": "Cumann na nGaedheal",
+    "short_name": "CnaG",
+    "color": "#6388a0",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Cumann_na_nGaedheal",
+    "archived": false
+  },
+  {
+    "id": "c2786874-498a-5e27-8dd5-413e0896aee8",
+    "country_id": "ie",
+    "name": "Cork Progressive Association",
+    "short_name": "",
+    "color": "#33994a",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "0e656b1d-b318-5db6-ad15-99212a632e51",
+    "country_id": "ie",
+    "name": "National Democratic",
+    "short_name": "",
+    "color": "#8f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "d18888d6-fed6-52d5-bc64-4453a312c215",
+    "country_id": "ie",
+    "name": "Dublin Trades Council",
+    "short_name": "",
+    "color": "#994733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "b0c436bf-8c82-57f9-af90-9945e84095df",
+    "country_id": "ie",
+    "name": "Town Tenants' Association",
+    "short_name": "",
+    "color": "#3c3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "01b664fd-9910-534c-b198-b514ff80f2e7",
+    "country_id": "ie",
+    "name": "National League",
+    "short_name": "",
+    "color": "#603399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "e240397e-b9d4-5c04-b69b-91a5d3d70a77",
+    "country_id": "ie",
+    "name": "Sinn Féin (pre-1970)",
+    "short_name": "SF",
+    "color": "#326d48",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Sinn_F%C3%A9in",
+    "archived": false
+  },
+  {
+    "id": "7f9d1983-d1eb-574e-9d77-57a0123bbc78",
+    "country_id": "ie",
+    "name": "Clann Éireann",
+    "short_name": "",
+    "color": "#959933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "e892a870-2281-5655-9116-cfeb2c7ed05e",
+    "country_id": "ie",
+    "name": "Blind Men's Party",
+    "short_name": "",
+    "color": "#993351",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "c053573a-8f54-587b-b88c-28a2987cb74d",
+    "country_id": "ie",
+    "name": "Irish Worker League",
+    "short_name": "",
+    "color": "#993346",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "88665806-e8aa-538f-9f3b-25c93d2fc5c0",
+    "country_id": "ie",
+    "name": "Revolutionary Workers' Groups",
+    "short_name": "",
+    "color": "#33993c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "39fdd6ce-7d8a-5a37-b70f-401152c8a5a3",
+    "country_id": "ie",
+    "name": "National Centre Party",
+    "short_name": "",
+    "color": "#333b99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "7687366f-5ad6-5916-8efd-4b55bf36e7f7",
+    "country_id": "ie",
+    "name": "Clann na Talmhan",
+    "short_name": "CnaT",
+    "color": "#ba8c35",
+    "ideology_ids": [
+      "ideology-agrarianism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Clann_na_Talmhan",
+    "archived": false
+  },
+  {
+    "id": "57a8d081-649e-5ab9-b0e5-48d1ea7b4cb0",
+    "country_id": "ie",
+    "name": "Monetary Reform",
+    "short_name": "",
+    "color": "#6a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "9ed5fb63-740e-5295-8cb2-4990d30e1c48",
+    "country_id": "ie",
+    "name": "Córas na Poblachta",
+    "short_name": "",
+    "color": "#6d3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "eaf42980-2226-5350-8c00-928abe385b8d",
+    "country_id": "ie",
+    "name": "Ailtirí na hAiséirghe",
+    "short_name": "",
+    "color": "#335599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "8a81bc5f-7420-50d4-bd49-6e22cc670925",
+    "country_id": "ie",
+    "name": "National Labour Party",
+    "short_name": "",
+    "color": "#997b33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "0b4beda5-b32e-5631-ac4c-c876fd92addc",
+    "country_id": "ie",
+    "name": "Clann na Poblachta",
+    "short_name": "CnaP",
+    "color": "#bb3f39",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Clann_na_Poblachta",
+    "archived": false
+  },
+  {
+    "id": "f9338611-330a-5abe-8db3-2124e5941715",
+    "country_id": "ie",
+    "name": "Irish Workers' League",
+    "short_name": "",
+    "color": "#996f33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "30cd4974-4917-5da3-9cbf-cfc8306f91b6",
+    "country_id": "ie",
+    "name": "National Action",
+    "short_name": "",
+    "color": "#969933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "2d53b23f-0c6d-552f-a318-5ecf8a3f8b10",
+    "country_id": "ie",
+    "name": "Young Ireland",
+    "short_name": "",
+    "color": "#336d99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "39f012b5-d72f-543b-9623-ee35851c2665",
+    "country_id": "ie",
+    "name": "Irish Housewives' Association",
+    "short_name": "",
+    "color": "#839933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "ca4fb308-a18f-556d-a860-fbceaa439def",
+    "country_id": "ie",
+    "name": "National Progressive Democrats",
+    "short_name": "",
+    "color": "#339956",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "cb258b39-6487-524c-a471-1073830a942b",
+    "country_id": "ie",
+    "name": "Christian Democratic Party",
+    "short_name": "",
+    "color": "#993346",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "772035f0-0104-5980-a040-3317757f782b",
+    "country_id": "ie",
+    "name": "Irish Workers' Party",
+    "short_name": "",
+    "color": "#3d3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "eb6d0f53-50bf-5cf5-8fad-2c121fcd257f",
+    "country_id": "ie",
+    "name": "Official Sinn Féin",
+    "short_name": "",
+    "color": "#4b9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "4b3ca47d-e42b-5347-a94f-4f934a133076",
+    "country_id": "ie",
+    "name": "Aontacht Éireann",
+    "short_name": "",
+    "color": "#998333",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "f9e4e544-1d37-5e8e-92d1-86dc2ef6382c",
+    "country_id": "ie",
+    "name": "Sinn Féin The Workers' Party",
+    "short_name": "",
+    "color": "#99334d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "0fcb0203-c1cb-5dfa-8e0b-6864557e6a34",
+    "country_id": "ie",
+    "name": "Irish Republican Socialist",
+    "short_name": "",
+    "color": "#334299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "65252961-19d9-500f-9ea7-2170237ae06f",
+    "country_id": "ie",
+    "name": "Socialist Labour",
+    "short_name": "",
+    "color": "#339965",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "fe115f59-1806-5533-a510-25b895eb1d69",
+    "country_id": "ie",
+    "name": "Socialist Party",
+    "short_name": "",
+    "color": "#993f33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "a91ff418-4cea-57e0-865c-9def7f390b3b",
+    "country_id": "ie",
+    "name": "Democratic Socialist",
+    "short_name": "",
+    "color": "#997633",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "52e9f1ba-3489-5026-b1cb-7e9b95e0e1c2",
+    "country_id": "ie",
+    "name": "Progressive Democrats",
+    "short_name": "PD",
+    "color": "#244b8e",
+    "ideology_ids": [
+      "ideology-classical-liberalism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Progressive_Democrats",
+    "archived": false
+  },
+  {
+    "id": "a621f6c7-2f1f-5465-bf2b-2d229d255a9d",
+    "country_id": "ie",
+    "name": "Democratic Left",
+    "short_name": "",
+    "color": "#703399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "083645ff-4861-5ac9-bc79-6d5c7f8f34ee",
+    "country_id": "ie",
+    "name": "Christian Centrist",
+    "short_name": "",
+    "color": "#339946",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "301b916e-a5bf-596d-b01c-2614a83695cb",
+    "country_id": "ie",
+    "name": "National Party (1995–2012)",
+    "short_name": "",
+    "color": "#336999",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "025ef51e-2053-5e2c-9368-c0a9f6916ad0",
+    "country_id": "ie",
+    "name": "Christian Solidarity",
+    "short_name": "",
+    "color": "#553399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "6786a823-abdc-59e0-8bf6-954744621b5c",
+    "country_id": "ie",
+    "name": "Socialist Workers",
+    "short_name": "",
+    "color": "#33996f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "e42d36cb-c225-5515-858e-175f7bf7fa0c",
+    "country_id": "ie",
+    "name": "Natural Law Party",
+    "short_name": "",
+    "color": "#33994e",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "3d3ba403-58c6-502f-b06c-c64cab1aa42f",
+    "country_id": "ie",
+    "name": "SKIA",
+    "short_name": "",
+    "color": "#6c3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "987b96fa-184f-5499-9da3-136d3fe79ade",
+    "country_id": "ie",
+    "name": "People Before Profit",
+    "short_name": "",
+    "color": "#579933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "cb0735f3-2f05-5b51-99bd-c46ec2f3714c",
+    "country_id": "ie",
+    "name": "Fathers Rights",
+    "short_name": "",
+    "color": "#339991",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "3aeb2a43-f7df-58cf-b432-12f76824ba68",
+    "country_id": "ie",
+    "name": "Immigration Control",
+    "short_name": "",
+    "color": "#493399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "431f68ad-f775-583e-be35-3527fc4e4436",
+    "country_id": "ie",
+    "name": "Irish Socialist Network",
+    "short_name": "",
+    "color": "#99333c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "5c23d227-0b43-5c62-af4c-f795d63e0814",
+    "country_id": "ie",
+    "name": "Workers and Unemployed",
+    "short_name": "",
+    "color": "#459933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "0c45f88e-5af7-569b-8c6b-0d5ed32aa1e8",
+    "country_id": "ie",
+    "name": "Pro-Treaty / Cumann na nGaedheal supporters",
+    "short_name": "",
+    "color": "#6a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  },
+  {
+    "id": "d98eb53b-619a-542f-ab3c-b2ec500bc211",
+    "country_id": "ie",
+    "name": "Cumann na nGaedheal supporters",
+    "short_name": "",
+    "color": "#639933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. No continuity with a similarly named organisation is assumed.",
+    "archived": false
+  }
+]

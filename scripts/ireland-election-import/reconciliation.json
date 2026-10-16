@@ -1,0 +1,2666 @@
+[
+  {
+    "id": "world-ireland-dail-2016-02-26",
+    "source": "https://en.wikipedia.org/wiki/2016_Irish_general_election",
+    "sha256": "3f6c8e5baa3e2fbbf9909d349136b4d456826096436fd4672b10e6ff41f1828d",
+    "expectedVotes": 2132895,
+    "recordedVotes": 2132895,
+    "expectedSeats": 158,
+    "recordedSeats": 158,
+    "meta": {
+      "Total": {
+        "votes": 2151293,
+        "share": 100.0,
+        "seats": 158
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-2020-02-08",
+    "source": "https://en.wikipedia.org/wiki/2020_Irish_general_election",
+    "sha256": "a932dd6e97004844ccade07bbdda654ca489eeded0bcfc8fab00ff120db7988f",
+    "expectedVotes": 2183489,
+    "recordedVotes": 2183489,
+    "expectedSeats": 160,
+    "recordedSeats": 160,
+    "meta": {
+      "Total Valid": {
+        "votes": 2183489,
+        "share": 99.2,
+        "seats": null
+      },
+      "Spoilt votes": {
+        "votes": 17703,
+        "share": 0.8,
+        "seats": null
+      },
+      "Total": {
+        "votes": 2201192,
+        "share": 100.0,
+        "seats": 160
+      },
+      "Registered voters/Turnout": {
+        "votes": 3509969,
+        "share": 62.71,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-2024-11-29",
+    "source": "https://en.wikipedia.org/wiki/2024_Irish_general_election",
+    "sha256": "e0c191d7e688c4674b18ee8823a2936125b8986712630ee97d3700873b4eb768",
+    "expectedVotes": 2202453,
+    "recordedVotes": 2202453,
+    "expectedSeats": 174,
+    "recordedSeats": 174,
+    "meta": {
+      "Total valid": {
+        "votes": 2202453,
+        "share": 99.3,
+        "seats": null
+      },
+      "Spoilt votes": {
+        "votes": 15849,
+        "share": 0.7,
+        "seats": null
+      },
+      "Total": {
+        "votes": 2218302,
+        "share": 100.0,
+        "seats": 174
+      },
+      "Registered voters/Turnout": {
+        "votes": 3715285,
+        "share": 59.71,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1918-12-14",
+    "source": "https://en.wikipedia.org/wiki/1918_United_Kingdom_general_election_in_Ireland",
+    "sha256": "847d6bd76fedfb40780376c48d0c644f4c478e214b3e5448e6a0ea680f54611b",
+    "expectedVotes": 1015515,
+    "recordedVotes": 1015515,
+    "expectedSeats": 105,
+    "recordedSeats": 105,
+    "meta": {
+      "Total": {
+        "votes": 1015515,
+        "share": 100.0,
+        "seats": 105
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1922-06-16",
+    "source": "https://en.wikipedia.org/wiki/1922_Irish_general_election",
+    "sha256": "d76e2c2732bdf413b641b4709df1423c55d23d47cc33dec0d87840eb708b109e",
+    "expectedVotes": null,
+    "recordedVotes": 621585,
+    "expectedSeats": 128,
+    "recordedSeats": 128,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 19684,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 641271,
+        "share": 100.0,
+        "seats": 128
+      },
+      "Electorate/Turnout": {
+        "votes": 1430104,
+        "share": 62.5,
+        "seats": null
+      }
+    },
+    "unreconciledPublishedValidVotes": 621587
+  },
+  {
+    "id": "world-ireland-dail-1923-08-27",
+    "source": "https://en.wikipedia.org/wiki/1923_Irish_general_election",
+    "sha256": "366461c0a40f571f3a1ee7ce184dc5734e9003af886f6e46a66c14fff7b57e3e",
+    "expectedVotes": 1053955,
+    "recordedVotes": 1053955,
+    "expectedSeats": 153,
+    "recordedSeats": 153,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 40047,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1094002,
+        "share": 100.0,
+        "seats": 153
+      },
+      "Electorate/Turnout": {
+        "votes": 1786318,
+        "share": 61.3,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1927-06-09",
+    "source": "https://en.wikipedia.org/wiki/June_1927_Irish_general_election",
+    "sha256": "fcd3153313dbc80546e75bceaa2fee4b7b704b64581a1350cafac87bd861c9e3",
+    "expectedVotes": 1146460,
+    "recordedVotes": 1146460,
+    "expectedSeats": 153,
+    "recordedSeats": 153,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 31337,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1177797,
+        "share": 100.0,
+        "seats": 153
+      },
+      "Electorate/Turnout": {
+        "votes": 1730177,
+        "share": 68.1,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1927-09-15",
+    "source": "https://en.wikipedia.org/wiki/September_1927_Irish_general_election",
+    "sha256": "58ed11baa17de193522fa9e791b7e614dc74e71d9359238376e6fa2c6469e419",
+    "expectedVotes": 1170869,
+    "recordedVotes": 1170869,
+    "expectedSeats": 153,
+    "recordedSeats": 153,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 21886,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1192755,
+        "share": 100.0,
+        "seats": 153
+      },
+      "Electorate/Turnout": {
+        "votes": 1730177,
+        "share": 69.0,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1932-02-16",
+    "source": "https://en.wikipedia.org/wiki/1932_Irish_general_election",
+    "sha256": "d661429006c0b0d7884288b00e8e99b7df0a80c0bbe5a30c51a82a7bf2e1b9f6",
+    "expectedVotes": 1274026,
+    "recordedVotes": 1274026,
+    "expectedSeats": 153,
+    "recordedSeats": 153,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 20804,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1294830,
+        "share": 100.0,
+        "seats": 153
+      },
+      "Electorate/Turnout": {
+        "votes": 1695175,
+        "share": 76.5,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1933-01-24",
+    "source": "https://en.wikipedia.org/wiki/1933_Irish_general_election",
+    "sha256": "133572d93566db021086b2f20311b892f1cd25ea9aa9e78f624e4a621b38a080",
+    "expectedVotes": null,
+    "recordedVotes": 1386561,
+    "expectedSeats": 153,
+    "recordedSeats": 153,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 14707,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1401265,
+        "share": 100.0,
+        "seats": 153
+      },
+      "Electorate/Turnout": {
+        "votes": 1727680,
+        "share": 81.3,
+        "seats": null
+      }
+    },
+    "unreconciledPublishedValidVotes": 1386558
+  },
+  {
+    "id": "world-ireland-dail-1937-07-01",
+    "source": "https://en.wikipedia.org/wiki/1937_Irish_general_election",
+    "sha256": "856b630bd48eae90339b54e7cd83490d1499118ea3a0c93c529252217cb14c90",
+    "expectedVotes": 1324449,
+    "recordedVotes": 1324449,
+    "expectedSeats": 138,
+    "recordedSeats": 138,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 27824,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1352273,
+        "share": 100.0,
+        "seats": 138
+      },
+      "Electorate/Turnout": {
+        "votes": 1775055,
+        "share": 76.2,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1938-06-17",
+    "source": "https://en.wikipedia.org/wiki/1938_Irish_general_election",
+    "sha256": "806f9629fc366c2735ff6a0c75c447a90e97e2c8f26173084ac6b8447902e45e",
+    "expectedVotes": 1286259,
+    "recordedVotes": 1286259,
+    "expectedSeats": 138,
+    "recordedSeats": 138,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 15811,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1302070,
+        "share": 100.0,
+        "seats": 138
+      },
+      "Electorate/Turnout": {
+        "votes": 1770422,
+        "share": 76.7,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1943-06-23",
+    "source": "https://en.wikipedia.org/wiki/1943_Irish_general_election",
+    "sha256": "db3556dc1866e276b082f2159b827da859f9b1b740e11f3e938cd4e586213746",
+    "expectedVotes": 1331709,
+    "recordedVotes": 1331709,
+    "expectedSeats": 138,
+    "recordedSeats": 138,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 16198,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1347907,
+        "share": 100.0,
+        "seats": 138
+      },
+      "Electorate/Turnout": {
+        "votes": 1816142,
+        "share": 74.2,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1944-05-30",
+    "source": "https://en.wikipedia.org/wiki/1944_Irish_general_election",
+    "sha256": "464e8a2e25a9eaa5e37cd1bcd34deba42eec178f8ad554326c9d29032a0ec3d1",
+    "expectedVotes": 1217349,
+    "recordedVotes": 1217349,
+    "expectedSeats": 138,
+    "recordedSeats": 138,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 12790,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1230139,
+        "share": 100.0,
+        "seats": 138
+      },
+      "Electorate/Turnout": {
+        "votes": 1816142,
+        "share": 69.2,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1948-02-04",
+    "source": "https://en.wikipedia.org/wiki/1948_Irish_general_election",
+    "sha256": "fce8de3b1eeb2dc9708e4e838ae57a63e80a7a439aaf84f28a6170679d809392",
+    "expectedVotes": null,
+    "recordedVotes": 1322993,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 13185,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1336628,
+        "share": 100.0,
+        "seats": 147
+      },
+      "Electorate/Turnout": {
+        "votes": 1800210,
+        "share": 74.2,
+        "seats": null
+      }
+    },
+    "unreconciledPublishedValidVotes": 1323443
+  },
+  {
+    "id": "world-ireland-dail-1951-05-30",
+    "source": "https://en.wikipedia.org/wiki/1951_Irish_general_election",
+    "sha256": "5a594b6f1c6c148af5467044c41bafd982637cc8e1a14188f6f8f730598aa969",
+    "expectedVotes": 1338573,
+    "recordedVotes": 1338573,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 12043,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1350616,
+        "share": 100.0,
+        "seats": 147
+      },
+      "Electorate/Turnout": {
+        "votes": 1785144,
+        "share": 75.7,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1954-05-18",
+    "source": "https://en.wikipedia.org/wiki/1954_Irish_general_election",
+    "sha256": "303ada9a710e06b265dac875a882f642f49e8e31b41424631127ade25b0af8cd",
+    "expectedVotes": 1335112,
+    "recordedVotes": 1335112,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 12730,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1347842,
+        "share": 100.0,
+        "seats": 147
+      },
+      "Electorate/Turnout": {
+        "votes": 1763209,
+        "share": 76.5,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1957-03-05",
+    "source": "https://en.wikipedia.org/wiki/1957_Irish_general_election",
+    "sha256": "45b4b87c507fddcf5637addcd8f6ac602658fd589f92f27994f8887d117fe12e",
+    "expectedVotes": 1227019,
+    "recordedVotes": 1227019,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 11540,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1238559,
+        "share": 100.0,
+        "seats": 147
+      },
+      "Electorate/Turnout": {
+        "votes": 1738278,
+        "share": 71.3,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1961-10-04",
+    "source": "https://en.wikipedia.org/wiki/1961_Irish_general_election",
+    "sha256": "fdfa52931fde5e40e3705060730061578583de972659802f52367c189e987a40",
+    "expectedVotes": 1168404,
+    "recordedVotes": 1168404,
+    "expectedSeats": 144,
+    "recordedSeats": 144,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 11334,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1179738,
+        "share": 100.0,
+        "seats": 144
+      },
+      "Electorate/Turnout": {
+        "votes": 1670860,
+        "share": 70.6,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1965-04-07",
+    "source": "https://en.wikipedia.org/wiki/1965_Irish_general_election",
+    "sha256": "c7a0647d2d7edf11da79ff37663dea662b49258b7a27ddc716f71da09a976cb0",
+    "expectedVotes": 1253122,
+    "recordedVotes": 1253122,
+    "expectedSeats": 144,
+    "recordedSeats": 144,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 11544,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1264666,
+        "share": 100.0,
+        "seats": 144
+      },
+      "Electorate/Turnout": {
+        "votes": 1683019,
+        "share": 75.1,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1969-06-18",
+    "source": "https://en.wikipedia.org/wiki/1969_Irish_general_election",
+    "sha256": "de4052e187fd60848ae4d95587895d832e8ae5cf6f311c9c336dfdc6f8230848",
+    "expectedVotes": 1318953,
+    "recordedVotes": 1318953,
+    "expectedSeats": 144,
+    "recordedSeats": 144,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 16010,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1334963,
+        "share": 100.0,
+        "seats": 144
+      },
+      "Electorate/Turnout": {
+        "votes": 1735388,
+        "share": 76.9,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1973-02-28",
+    "source": "https://en.wikipedia.org/wiki/1973_Irish_general_election",
+    "sha256": "c79d38b3b02ed10806d4cc95047b37f47ca571dbe7cc8875e32e673d4b52b69e",
+    "expectedVotes": 1350537,
+    "recordedVotes": 1350537,
+    "expectedSeats": 144,
+    "recordedSeats": 144,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 15937,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1366474,
+        "share": 100.0,
+        "seats": 144
+      },
+      "Electorate/Turnout": {
+        "votes": 1783604,
+        "share": 76.6,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1977-06-16",
+    "source": "https://en.wikipedia.org/wiki/1977_Irish_general_election",
+    "sha256": "5e4c14d78d15e42271ede1c46850422287423ac03fb650153b3ff786742e3f40",
+    "expectedVotes": 1603027,
+    "recordedVotes": 1603027,
+    "expectedSeats": 148,
+    "recordedSeats": 148,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 13743,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1616770,
+        "share": 100.0,
+        "seats": 148
+      },
+      "Electorate/Turnout": {
+        "votes": 2118606,
+        "share": 76.3,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1981-06-11",
+    "source": "https://en.wikipedia.org/wiki/1981_Irish_general_election",
+    "sha256": "cc03db2755dab907037aaa2c6d6c5cf2627989c98d4d9186c84903d13fa83df0",
+    "expectedVotes": 1718211,
+    "recordedVotes": 1718211,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 16168,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1734379,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 2275450,
+        "share": 76.2,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1982-02-18",
+    "source": "https://en.wikipedia.org/wiki/February_1982_Irish_general_election",
+    "sha256": "112e7f7979e45db33712d0e1352f37a85249bc85f4675f7599e4387a3f3ab602",
+    "expectedVotes": 1664133,
+    "recordedVotes": 1664133,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 14367,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1678500,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 2275450,
+        "share": 73.8,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1982-11-24",
+    "source": "https://en.wikipedia.org/wiki/November_1982_Irish_general_election",
+    "sha256": "2595a372fb81ce37b997d1363e81a0a4e83ced96dc2bdd58d992dfc5d3eb31cf",
+    "expectedVotes": 1688720,
+    "recordedVotes": 1688720,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 12665,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1701385,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 2335153,
+        "share": 72.9,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1987-02-17",
+    "source": "https://en.wikipedia.org/wiki/1987_Irish_general_election",
+    "sha256": "497e904ab092e5c938515cf56086e7096b71b9a21272a7b36b0f6ae3de4db9b9",
+    "expectedVotes": 1777165,
+    "recordedVotes": 1777165,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 16241,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1793406,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 2445515,
+        "share": 73.3,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1989-06-15",
+    "source": "https://en.wikipedia.org/wiki/1989_Irish_general_election",
+    "sha256": "7ab18f2137f462dc84da6ff8e897a1f9a1a34383d84e2c95204600b84f254d85",
+    "expectedVotes": 1656813,
+    "recordedVotes": 1656813,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 20779,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1677592,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 2448810,
+        "share": 68.5,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1992-11-25",
+    "source": "https://en.wikipedia.org/wiki/1992_Irish_general_election",
+    "sha256": "85c481484eb001332470592c9b5c5a8d5055c4326bea775e79eacaa5aa6cd35a",
+    "expectedVotes": 1724853,
+    "recordedVotes": 1724853,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 26498,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1751351,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 2557036,
+        "share": 68.5,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1997-06-06",
+    "source": "https://en.wikipedia.org/wiki/1997_Irish_general_election",
+    "sha256": "d46fda4fd43c9514a3431555576a7c1960062139db55fa6c383eafbbed3471d6",
+    "expectedVotes": 1788985,
+    "recordedVotes": 1788985,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 17947,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1806932,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 2741262,
+        "share": 65.9,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-2002-05-17",
+    "source": "https://en.wikipedia.org/wiki/2002_Irish_general_election",
+    "sha256": "807cb48d217e23190ed547f37c82a73996863cc06402d6ddd7ac1ba127262355",
+    "expectedVotes": 1857902,
+    "recordedVotes": 1857902,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 20707,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 1878609,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 3002173,
+        "share": 62.6,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-2007-05-24",
+    "source": "https://en.wikipedia.org/wiki/2007_Irish_general_election",
+    "sha256": "97baddb9e7674678d0d403952880f3ba670cc0b19cad33cb11dccc6ab004ac18",
+    "expectedVotes": 2065810,
+    "recordedVotes": 2065810,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Spoilt votes": {
+        "votes": 19435,
+        "share": null,
+        "seats": null
+      },
+      "Total": {
+        "votes": 2085245,
+        "share": 100.0,
+        "seats": 166
+      },
+      "Electorate/Turnout": {
+        "votes": 3110914,
+        "share": 67.0,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-2011-02-25",
+    "source": "https://en.wikipedia.org/wiki/2011_Irish_general_election",
+    "sha256": "f187a2621b87a0208814a61549598da530affe1c64500a857d811b1751233e93",
+    "expectedVotes": 2220359,
+    "recordedVotes": 2220359,
+    "expectedSeats": 166,
+    "recordedSeats": 166,
+    "meta": {
+      "Total": {
+        "votes": 2220359,
+        "share": 100.0,
+        "seats": 166
+      }
+    }
+  },
+  {
+    "id": "world-ireland-dail-1921-05-13",
+    "source": "https://en.wikipedia.org/wiki/1921_Northern_Ireland_and_Southern_Ireland_general_elections",
+    "sha256": "1108d1aa15a3a8be141e5415b23b0f4959c1a0c03e99f0f167fd0177fb1882c5",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 128,
+    "recordedSeats": 128
+  },
+  {
+    "id": "world-ireland-president-2011-10-27",
+    "source": "https://en.wikipedia.org/wiki/2011_Irish_presidential_election",
+    "sha256": "f348979f1d6bc16f497ad2c0c87d1a300e1d66cf3d84a09e8b3e5f6740aa8f41",
+    "expectedVotes": 1771762,
+    "recordedVotes": 1771762,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Michael D. Higgins",
+        [
+          [
+            "Count 1",
+            701101
+          ],
+          [
+            "Count 2",
+            730480
+          ],
+          [
+            "Count 3",
+            793128
+          ],
+          [
+            "Count 4",
+            1007104
+          ]
+        ]
+      ],
+      [
+        "Seán Gallagher",
+        [
+          [
+            "Count 1",
+            504964
+          ],
+          [
+            "Count 2",
+            529401
+          ],
+          [
+            "Count 3",
+            548373
+          ],
+          [
+            "Count 4",
+            628114
+          ]
+        ]
+      ],
+      [
+        "Martin McGuinness",
+        [
+          [
+            "Count 1",
+            243030
+          ],
+          [
+            "Count 2",
+            252611
+          ],
+          [
+            "Count 3",
+            265196
+          ],
+          [
+            "Count 4",
+            null
+          ]
+        ]
+      ],
+      [
+        "Gay Mitchell",
+        [
+          [
+            "Count 1",
+            113321
+          ],
+          [
+            "Count 2",
+            127357
+          ],
+          [
+            "Count 3",
+            136309
+          ],
+          [
+            "Count 4",
+            null
+          ]
+        ]
+      ],
+      [
+        "David Norris",
+        [
+          [
+            "Count 1",
+            109469
+          ],
+          [
+            "Count 2",
+            116526
+          ],
+          [
+            "Count 3",
+            null
+          ],
+          [
+            "Count 4",
+            null
+          ]
+        ]
+      ],
+      [
+        "Dana Rosemary Scallon",
+        [
+          [
+            "Count 1",
+            51220
+          ],
+          [
+            "Count 2",
+            null
+          ],
+          [
+            "Count 3",
+            null
+          ],
+          [
+            "Count 4",
+            null
+          ]
+        ]
+      ],
+      [
+        "Mary Davis",
+        [
+          [
+            "Count 1",
+            48657
+          ],
+          [
+            "Count 2",
+            null
+          ],
+          [
+            "Count 3",
+            null
+          ],
+          [
+            "Count 4",
+            null
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-2018-10-26",
+    "source": "https://en.wikipedia.org/wiki/2018_Irish_presidential_election",
+    "sha256": "bd77de37f9497b75ad74d8a9bab5d864e9fac1db5fec20b5d60993b9275c3526",
+    "expectedVotes": 1473900,
+    "recordedVotes": 1473900,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Michael D. Higgins",
+        [
+          [
+            "Count 1",
+            822566
+          ]
+        ]
+      ],
+      [
+        "Peter Casey",
+        [
+          [
+            "Count 1",
+            342727
+          ]
+        ]
+      ],
+      [
+        "Seán Gallagher",
+        [
+          [
+            "Count 1",
+            94514
+          ]
+        ]
+      ],
+      [
+        "Liadh Ní Riada",
+        [
+          [
+            "Count 1",
+            93987
+          ]
+        ]
+      ],
+      [
+        "Joan Freeman",
+        [
+          [
+            "Count 1",
+            87908
+          ]
+        ]
+      ],
+      [
+        "Gavin Duffy",
+        [
+          [
+            "Count 1",
+            32198
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-2025-10-24",
+    "source": "https://en.wikipedia.org/wiki/2025_Irish_presidential_election",
+    "sha256": "42835b75428bbb44e6bb549e70455338cd262c6c0ba150498ebcdd3819a0fecf",
+    "expectedVotes": 1442698,
+    "recordedVotes": 1442698,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Catherine Connolly",
+        [
+          [
+            "Count 1",
+            914143
+          ]
+        ]
+      ],
+      [
+        "Heather Humphreys",
+        [
+          [
+            "Count 1",
+            424987
+          ]
+        ]
+      ],
+      [
+        "Jim Gavin",
+        [
+          [
+            "Count 1",
+            103568
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-1938-01-01",
+    "source": "https://en.wikipedia.org/wiki/1938_Irish_presidential_election",
+    "sha256": "81c8ac7bfd4210d24812e08667f373f8eea3ed41cc26505b424e5dcc3f8f1492",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": []
+  },
+  {
+    "id": "world-ireland-president-1945-06-14",
+    "source": "https://en.wikipedia.org/wiki/1945_Irish_presidential_election",
+    "sha256": "53b05fa467659fd5182dabe1f804679eb0d874ff2fffe51e11525a68c738363d",
+    "expectedVotes": 1086338,
+    "recordedVotes": 1086338,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Seán T. O'Kelly",
+        [
+          [
+            "Count 1",
+            537965
+          ],
+          [
+            "Count 2",
+            565165
+          ]
+        ]
+      ],
+      [
+        "Seán Mac Eoin",
+        [
+          [
+            "Count 1",
+            335539
+          ],
+          [
+            "Count 2",
+            453425
+          ]
+        ]
+      ],
+      [
+        "Patrick McCartan",
+        [
+          [
+            "Count 1",
+            212834
+          ],
+          [
+            "Count 2",
+            null
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-1952-01-01",
+    "source": "https://en.wikipedia.org/wiki/1952_Irish_presidential_election",
+    "sha256": "4e238e528b1b353d3f3ba5fc58fc691573f8bf75e01dae589c82b97b5e9bea7f",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": []
+  },
+  {
+    "id": "world-ireland-president-1959-06-17",
+    "source": "https://en.wikipedia.org/wiki/1959_Irish_presidential_election",
+    "sha256": "3cdd94ef67cddc31968c70061a25c35fc2d8eb89b3716e8aad16d96ca45137ee",
+    "expectedVotes": 955539,
+    "recordedVotes": 955539,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Éamon de Valera",
+        []
+      ],
+      [
+        "Seán Mac Eoin",
+        []
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-1966-06-01",
+    "source": "https://en.wikipedia.org/wiki/1966_Irish_presidential_election",
+    "sha256": "7f327ef904d99e3a473b2c7c4d768289dc7731a157e97b3a87f9d7265f5dc885",
+    "expectedVotes": 1107005,
+    "recordedVotes": 1107005,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Éamon de Valera",
+        []
+      ],
+      [
+        "Tom O'Higgins",
+        []
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-1973-05-30",
+    "source": "https://en.wikipedia.org/wiki/1973_Irish_presidential_election",
+    "sha256": "97cdcddc6c183b0e0bbd8277e137cce518761d95a9a14a4ce03cfaf242be38a6",
+    "expectedVotes": 1223638,
+    "recordedVotes": 1223638,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Erskine H. Childers",
+        []
+      ],
+      [
+        "Tom O'Higgins",
+        []
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-1974-01-01",
+    "source": "https://en.wikipedia.org/wiki/1974_Irish_presidential_election",
+    "sha256": "f952ae2eec02d5a5f8f671a043fe7112191d620c60e1d34ee92f178f5a4400d9",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": []
+  },
+  {
+    "id": "world-ireland-president-1976-01-01",
+    "source": "https://en.wikipedia.org/wiki/1976_Irish_presidential_election",
+    "sha256": "edb7d67be058f02858383b064fb214ae723ecfa9b9f73054600bc36172d19977",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": []
+  },
+  {
+    "id": "world-ireland-president-1983-01-01",
+    "source": "https://en.wikipedia.org/wiki/1983_Irish_presidential_election",
+    "sha256": "12511f96e710032f776f03db3f928b554b9318890d94df534db95c033a539a76",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": []
+  },
+  {
+    "id": "world-ireland-president-1990-11-07",
+    "source": "https://en.wikipedia.org/wiki/1990_Irish_presidential_election",
+    "sha256": "2f837686521586824b0e850b452bfbcd58004ca6f79d912189123739d7002cc8",
+    "expectedVotes": 1574651,
+    "recordedVotes": 1574651,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Mary Robinson",
+        [
+          [
+            "Count 1",
+            612265
+          ],
+          [
+            "Count 2",
+            817830
+          ]
+        ]
+      ],
+      [
+        "Brian Lenihan",
+        [
+          [
+            "Count 1",
+            694484
+          ],
+          [
+            "Count 2",
+            731273
+          ]
+        ]
+      ],
+      [
+        "Austin Currie",
+        [
+          [
+            "Count 1",
+            267902
+          ],
+          [
+            "Count 2",
+            null
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-1997-10-30",
+    "source": "https://en.wikipedia.org/wiki/1997_Irish_presidential_election",
+    "sha256": "b261f7d22cd6ef3bb7158d501a9cd54657565ad7e347e216564b51deb44d0770",
+    "expectedVotes": 1269836,
+    "recordedVotes": 1269836,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": [
+      [
+        "Mary McAleese",
+        [
+          [
+            "Count 1",
+            574424
+          ],
+          [
+            "Count 2",
+            706259
+          ]
+        ]
+      ],
+      [
+        "Mary Banotti",
+        [
+          [
+            "Count 1",
+            372002
+          ],
+          [
+            "Count 2",
+            497516
+          ]
+        ]
+      ],
+      [
+        "Dana Rosemary Scallon",
+        [
+          [
+            "Count 1",
+            175458
+          ],
+          [
+            "Count 2",
+            null
+          ]
+        ]
+      ],
+      [
+        "Adi Roche",
+        [
+          [
+            "Count 1",
+            88423
+          ],
+          [
+            "Count 2",
+            null
+          ]
+        ]
+      ],
+      [
+        "Derek Nally",
+        [
+          [
+            "Count 1",
+            59529
+          ],
+          [
+            "Count 2",
+            null
+          ]
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-president-2004-01-01",
+    "source": "https://en.wikipedia.org/wiki/2004_Irish_presidential_election",
+    "sha256": "455c79e02c7fcb1c1f45a18e39d0a8a0c51a7cde0c31f0efaa99c32d549200f1",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "stvCounts": []
+  },
+  {
+    "id": "world-ireland-seanad-2020-03-30-26",
+    "source": "https://en.wikipedia.org/wiki/26th_Seanad",
+    "sha256": "7b8a2bab4349415d2fff5f99e9b1a78a6f91e1ec2767168d3b471c47b35e637c",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 26,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 16,
+        "nominated": 4
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 12,
+        "nominated": 4
+      },
+      {
+        "name": "Sinn Féin",
+        "elected": 5,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 5,
+        "nominated": 0
+      },
+      {
+        "name": "Green Party",
+        "elected": 2,
+        "nominated": 2
+      },
+      {
+        "name": "Independent",
+        "elected": 9,
+        "nominated": 1
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-2025-01-29-27",
+    "source": "https://en.wikipedia.org/wiki/27th_Seanad",
+    "sha256": "482f1d21b0287840f56fab58a1c98518dbb8e1a362bd20f36e697bd7a3695a42",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 27,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 13,
+        "nominated": 6
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 13,
+        "nominated": 5
+      },
+      {
+        "name": "Sinn Féin",
+        "elected": 6,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 2,
+        "nominated": 0
+      },
+      {
+        "name": "Green Party",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Aontú",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Social Democrats",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 12,
+        "nominated": 0
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-2011-04-26-24",
+    "source": "https://en.wikipedia.org/wiki/24th_Seanad",
+    "sha256": "3ad6e911683e6c6f886705587c6babad997b37fc4225d04e96f5346c5b40e6ba",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 24,
+    "allocation": [
+      {
+        "name": "Fine Gael",
+        "elected": 18,
+        "nominated": 1
+      },
+      {
+        "name": "Fianna Fáil",
+        "elected": 14,
+        "nominated": 0
+      },
+      {
+        "name": "Labour",
+        "elected": 9,
+        "nominated": 3
+      },
+      {
+        "name": "Sinn Féin",
+        "elected": 3,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 5,
+        "nominated": 7
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-2016-04-25-25",
+    "source": "https://en.wikipedia.org/wiki/25th_Seanad",
+    "sha256": "a828725c7b0221626e97135d3a95d843022bdceec262ed1029daeff58e0b70e0",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 25,
+    "allocation": [
+      {
+        "name": "Fine Gael",
+        "elected": 13,
+        "nominated": 6
+      },
+      {
+        "name": "Fianna Fáil",
+        "elected": 14,
+        "nominated": 0
+      },
+      {
+        "name": "Sinn Féin",
+        "elected": 7,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 5,
+        "nominated": 0
+      },
+      {
+        "name": "Green Party",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 9,
+        "nominated": 5
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1938-03-01-2",
+    "source": "https://en.wikipedia.org/wiki/2nd_Seanad",
+    "sha256": "c5df0e40877bc32e8d6b3ad1d224ff93878370bb525121b929cba5d8f5e3dcde",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 2,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 14,
+        "nominated": 7
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 17,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 17,
+        "nominated": 4
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1938-08-01-3",
+    "source": "https://en.wikipedia.org/wiki/3rd_Seanad",
+    "sha256": "226d6dd526f58697e897c6bfe94721a77343cafd37d44303de46ddc9169ae473",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 3,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 15,
+        "nominated": 7
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 12,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 0
+      },
+      {
+        "name": "Clann na Talmhan",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 15,
+        "nominated": 4
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1943-01-01-4",
+    "source": "https://en.wikipedia.org/wiki/4th_Seanad",
+    "sha256": "cc5860aeab2fcbf1bd7a8df042e5191d8d874469abc293f7d9adcab47d050890",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 4,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 14,
+        "nominated": 8
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 11,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 5,
+        "nominated": 1
+      },
+      {
+        "name": "Clann na Talmhan",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 18,
+        "nominated": 2
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1944-01-01-5",
+    "source": "https://en.wikipedia.org/wiki/5th_Seanad",
+    "sha256": "ba885ed91bd4ea2bb6b7cde6040601823d53de6205d236ef50b9010f2745cb23",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 5,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 15,
+        "nominated": 7
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 10,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 5,
+        "nominated": 2
+      },
+      {
+        "name": "Clann na Talmhan",
+        "elected": 3,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 16,
+        "nominated": 2
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1948-01-01-6",
+    "source": "https://en.wikipedia.org/wiki/6th_Seanad",
+    "sha256": "1979248a5a0390e93dc4f422393c728d91c9f1dcf663439b4645e71d3bfdbd15",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 6,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 13,
+        "nominated": 0
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 10,
+        "nominated": 2
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 2
+      },
+      {
+        "name": "Clann na Talmhan",
+        "elected": 3,
+        "nominated": 0
+      },
+      {
+        "name": "Clann na Poblachta",
+        "elected": 0,
+        "nominated": 2
+      },
+      {
+        "name": "Independent",
+        "elected": 17,
+        "nominated": 5
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1951-01-01-7",
+    "source": "https://en.wikipedia.org/wiki/7th_Seanad",
+    "sha256": "bfdb56394939326902a3c5a3993b7f29f6a5b22d7a4b07e156b0623f55d12aaf",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 7,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 16,
+        "nominated": 9
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 9,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 3,
+        "nominated": 0
+      },
+      {
+        "name": "Clann na Talmhan",
+        "elected": 3,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 18,
+        "nominated": 2
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1954-01-01-8",
+    "source": "https://en.wikipedia.org/wiki/8th_Seanad",
+    "sha256": "dec4c745c0fd946ae4fd8770ba4e6d17c738497a677631d4b821337f125a2690",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 8,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 14,
+        "nominated": 0
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 11,
+        "nominated": 3
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 3
+      },
+      {
+        "name": "Clann na Talmhan",
+        "elected": 2,
+        "nominated": 1
+      },
+      {
+        "name": "Independent",
+        "elected": 16,
+        "nominated": 4
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1957-01-01-9",
+    "source": "https://en.wikipedia.org/wiki/9th_Seanad",
+    "sha256": "bba1c6e96c2b3a68b7512d6f284f33f6b9b92c66243f877bf8b164e5c155ef2f",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 9,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 16,
+        "nominated": 9
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 16,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 5,
+        "nominated": 0
+      },
+      {
+        "name": "Clann na Talmhan",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 11,
+        "nominated": 2
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1961-01-01-10",
+    "source": "https://en.wikipedia.org/wiki/10th_Seanad",
+    "sha256": "751b5e4cc46ccc939b10806b38cf2149e6d304fad39d28f1e3a73a281f5fbe6d",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 10,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 20,
+        "nominated": 8
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 11,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 12,
+        "nominated": 3
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1965-01-01-11",
+    "source": "https://en.wikipedia.org/wiki/11th_Seanad",
+    "sha256": "dbb2857478e692282864ce15758c2774a1a546539a178e7260d13b7ebd52ea30",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 11,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 20,
+        "nominated": 9
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 13,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 10,
+        "nominated": 2
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1969-01-01-12",
+    "source": "https://en.wikipedia.org/wiki/12th_Seanad",
+    "sha256": "62d85fac8ea3500f057dbf0d1194ea3159859718b3efab9225af5a3a38e1b39f",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 12,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 18,
+        "nominated": 9
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 16,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 9,
+        "nominated": 2
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1973-01-01-13",
+    "source": "https://en.wikipedia.org/wiki/13th_Seanad",
+    "sha256": "91168ace30c431f8eae5b5f67eb781c0ecd44d4892aa5c39981810fe8071829c",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 13,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 18,
+        "nominated": 0
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 17,
+        "nominated": 7
+      },
+      {
+        "name": "Labour Party",
+        "elected": 7,
+        "nominated": 4
+      },
+      {
+        "name": "Independent",
+        "elected": 7,
+        "nominated": 0
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1977-01-01-14",
+    "source": "https://en.wikipedia.org/wiki/14th_Seanad",
+    "sha256": "8a917cc1c79a3184c6f623643d8563139422beb0d7bbdbf2464d79a6355b5e3e",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 14,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 20,
+        "nominated": 9
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 18,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 5,
+        "nominated": 2
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1981-01-01-15",
+    "source": "https://en.wikipedia.org/wiki/15th_Seanad",
+    "sha256": "2bd149f9fedd37aad0d0fe49cb869f1b5e61b2aa82c3839b0680fc03c7bfc977",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 15,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 19,
+        "nominated": 0
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 20,
+        "nominated": 6
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 4
+      },
+      {
+        "name": "Independent",
+        "elected": 4,
+        "nominated": 1
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1982-01-01-16",
+    "source": "https://en.wikipedia.org/wiki/16th_Seanad",
+    "sha256": "a97fe57d07cd4ee1d2a0f190294cc7374b83759dc177288187350ffe2b5e3378",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 16,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 20,
+        "nominated": 8
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 19,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 4,
+        "nominated": 3
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1983-01-31-17",
+    "source": "https://en.wikipedia.org/wiki/17th_Seanad",
+    "sha256": "243c6bbf5c33a7e8e8e65a7c6ee81ed33446b33b5c83c8ff200395fb6a143cb6",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 17,
+    "allocation": [
+      {
+        "name": "Fine Gael",
+        "elected": 20,
+        "nominated": 5
+      },
+      {
+        "name": "Fianna Fáil",
+        "elected": 19,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 7,
+        "nominated": 3
+      },
+      {
+        "name": "Independent",
+        "elected": 3,
+        "nominated": 3
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1987-01-01-18",
+    "source": "https://en.wikipedia.org/wiki/18th_Seanad",
+    "sha256": "0f00ce38d84bb90fe37c3ef48f7d2f6dbdcf393c11ef790a5aa47d722022a867",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 18,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 24,
+        "nominated": 6
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 16,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 3,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 6,
+        "nominated": 5
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1989-01-01-19",
+    "source": "https://en.wikipedia.org/wiki/19th_Seanad",
+    "sha256": "430bd605eb070a52f225666fcd85034cd408a2666aa273086f1d8ed906b00e7b",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 19,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 24,
+        "nominated": 8
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 15,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 4,
+        "nominated": 0
+      },
+      {
+        "name": "Progressive Democrats",
+        "elected": 0,
+        "nominated": 3
+      },
+      {
+        "name": "Independent",
+        "elected": 6,
+        "nominated": 0
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1993-01-01-20",
+    "source": "https://en.wikipedia.org/wiki/20th_Seanad",
+    "sha256": "743042bfb8a7cf1160b30c962932b54dece2279d4ce01de12616d6e55ab8d910",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 20,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 19,
+        "nominated": 6
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 17,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 5,
+        "nominated": 4
+      },
+      {
+        "name": "Progressive Democrats",
+        "elected": 2,
+        "nominated": 0
+      },
+      {
+        "name": "Democratic Left",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 5,
+        "nominated": 1
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1997-01-01-21",
+    "source": "https://en.wikipedia.org/wiki/21st_Seanad",
+    "sha256": "b13b15b2205360508f7868c0bcc3c32a7ada44f52faba93b9ec37f53d56bc9dc",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 21,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 23,
+        "nominated": 6
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 16,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 4,
+        "nominated": 0
+      },
+      {
+        "name": "Progressive Democrats",
+        "elected": 0,
+        "nominated": 4
+      },
+      {
+        "name": "Independent",
+        "elected": 6,
+        "nominated": 1
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-2002-01-01-22",
+    "source": "https://en.wikipedia.org/wiki/22nd_Seanad",
+    "sha256": "b389a92d8a38be93554335e18ca04745f4f628a0c1a1ced13109679afa0f3fde",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 22,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 24,
+        "nominated": 6
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 15,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 5,
+        "nominated": 0
+      },
+      {
+        "name": "Progressive Democrats",
+        "elected": 0,
+        "nominated": 4
+      },
+      {
+        "name": "Independent",
+        "elected": 5,
+        "nominated": 1
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-2007-07-23-23",
+    "source": "https://en.wikipedia.org/wiki/23rd_Seanad",
+    "sha256": "1a703393ef2afa675cf0de34b9c05c1dac3a892f687fcdfb6f58b2d0aa6f76c9",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "term": 23,
+    "allocation": [
+      {
+        "name": "Fianna Fáil",
+        "elected": 22,
+        "nominated": 6
+      },
+      {
+        "name": "Fine Gael",
+        "elected": 14,
+        "nominated": 0
+      },
+      {
+        "name": "Labour Party",
+        "elected": 6,
+        "nominated": 0
+      },
+      {
+        "name": "Green Party",
+        "elected": 0,
+        "nominated": 2
+      },
+      {
+        "name": "Progressive Democrats",
+        "elected": 0,
+        "nominated": 2
+      },
+      {
+        "name": "Sinn Féin",
+        "elected": 1,
+        "nominated": 0
+      },
+      {
+        "name": "Independent",
+        "elected": 6,
+        "nominated": 1
+      }
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1928-01-01-free-state",
+    "source": "https://en.wikipedia.org/wiki/1928_Seanad",
+    "sha256": "f411561eff4ac60c411aa7fbd0c1eedf2a4d718667eb2562109bf2b9d602bd0e",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 17,
+    "recordedSeats": 17,
+    "members": [
+      [
+        "Michael Comyn",
+        "Fianna Fáil"
+      ],
+      [
+        "Seán MacEllin",
+        "Fianna Fáil"
+      ],
+      [
+        "Ross McGillycuddy",
+        "Independent"
+      ],
+      [
+        "Sir Walter Nugent",
+        "Independent"
+      ],
+      [
+        "John Philip Bagwell",
+        "Independent"
+      ],
+      [
+        "Alfie Byrne",
+        "Independent"
+      ],
+      [
+        "Oliver St. John Gogarty",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "Andrew Jameson",
+        "Independent"
+      ],
+      [
+        "Thomas Johnson",
+        "Labour"
+      ],
+      [
+        "Sir Bryan Mahon",
+        "Independent"
+      ],
+      [
+        "Richard Wilson",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "Kathleen Clarke",
+        "Fianna Fáil"
+      ],
+      [
+        "Joseph Connolly",
+        "Fianna Fáil"
+      ],
+      [
+        "Seán Milroy",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "Joseph O'Doherty",
+        "Fianna Fáil"
+      ],
+      [
+        "Séumas Robinson",
+        "Fianna Fáil"
+      ],
+      [
+        "William Sears",
+        "Cumann na nGaedheal"
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1931-01-01-free-state",
+    "source": "https://en.wikipedia.org/wiki/1931_Seanad",
+    "sha256": "b89d3d769fc6d92cdc33f6911cfa20f34fe034014acda92a24ef9ec23b1d66e7",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 23,
+    "recordedSeats": 23,
+    "members": [
+      [
+        "Kathleen Browne",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "Eileen Costello",
+        "Independent"
+      ],
+      [
+        "William O'Sullivan",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "Michael Comyn",
+        "Fianna Fáil"
+      ],
+      [
+        "John Counihan",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "James G. Douglas",
+        "Independent"
+      ],
+      [
+        "Michael Duffy",
+        "Labour"
+      ],
+      [
+        "Thomas Farren",
+        "Labour"
+      ],
+      [
+        "Hugh Garahan",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "Sir John Griffith",
+        "Independent"
+      ],
+      [
+        "Seán MacEllin",
+        "Fianna Fáil"
+      ],
+      [
+        "Ross McGillycuddy",
+        "Independent"
+      ],
+      [
+        "James J. MacKean",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "John MacLoughlin",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "Daniel MacParland",
+        "Fianna Fáil"
+      ],
+      [
+        "Maurice George Moore",
+        "Fianna Fáil"
+      ],
+      [
+        "Laurence O'Neill",
+        "Independent"
+      ],
+      [
+        "Brian O'Rourke",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "William Quirke",
+        "Fianna Fáil"
+      ],
+      [
+        "David Robinson",
+        "Fianna Fáil"
+      ],
+      [
+        "Séamus Ryan",
+        "Fianna Fáil"
+      ],
+      [
+        "Michael Staines",
+        "Cumann na nGaedheal"
+      ],
+      [
+        "Arthur Vincent",
+        "Independent"
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1934-01-01-free-state",
+    "source": "https://en.wikipedia.org/wiki/1934_Seanad",
+    "sha256": "4a14b4a37295293e31dc41fdd77f2589f3a1bd816b200a0f578855a28a1e2f3e",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 23,
+    "recordedSeats": 23,
+    "members": [
+      [
+        "Sir Edward Coey Bigger",
+        "Independent"
+      ],
+      [
+        "John Philip Bagwell",
+        "Independent"
+      ],
+      [
+        "Patrick Baxter",
+        "Fine Gael"
+      ],
+      [
+        "Thomas Westropp Bennett",
+        "Independent"
+      ],
+      [
+        "Ernest Blythe",
+        "Fine Gael"
+      ],
+      [
+        "James Boyle",
+        "Fianna Fáil"
+      ],
+      [
+        "Samuel Lombard Brown",
+        "Independent"
+      ],
+      [
+        "Kathleen Browne",
+        "Fine Gael"
+      ],
+      [
+        "James Charles Dowdall",
+        "Fianna Fáil"
+      ],
+      [
+        "Eamonn Duggan",
+        "Fine Gael"
+      ],
+      [
+        "Séamus Fitzgerald",
+        "Fianna Fáil"
+      ],
+      [
+        "Oliver St. John Gogarty",
+        "Fine Gael"
+      ],
+      [
+        "Denis Healy",
+        "Fianna Fáil"
+      ],
+      [
+        "T. V. Honan",
+        "Fianna Fáil"
+      ],
+      [
+        "Andrew Jameson",
+        "Independent"
+      ],
+      [
+        "Thomas Johnson",
+        "Labour"
+      ],
+      [
+        "Thomas Kennedy",
+        "Labour"
+      ],
+      [
+        "Raphael Keyes",
+        "Fianna Fáil"
+      ],
+      [
+        "Patrick Lynch",
+        "Fianna Fáil"
+      ],
+      [
+        "Pádraic Ó Máille",
+        "Fianna Fáil"
+      ],
+      [
+        "Thomas Ruane",
+        "Fianna Fáil"
+      ],
+      [
+        "Richard Wilson",
+        "Fine Gael"
+      ],
+      [
+        "Jennie Wyse Power",
+        "Fianna Fáil"
+      ]
+    ]
+  },
+  {
+    "id": "world-ireland-seanad-1922-12-07",
+    "source": "https://en.wikipedia.org/wiki/1922_Seanad_election",
+    "sha256": "0708c0b54e099eac33f4e175eadd979b132afb7986b48a7edf123ab6f491ca7f",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 30,
+    "recordedSeats": 30
+  },
+  {
+    "id": "world-ireland-seanad-1925-09-17",
+    "source": "https://en.wikipedia.org/wiki/1925_Seanad_election",
+    "sha256": "476f56d93669b5d590b30785d08c571c9938f9cc810f260fd9bf362d931fd831",
+    "expectedVotes": 305701,
+    "recordedVotes": 305701,
+    "expectedSeats": 19,
+    "recordedSeats": 19
+  }
+]
