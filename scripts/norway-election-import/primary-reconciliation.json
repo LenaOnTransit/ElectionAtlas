@@ -1,0 +1,2466 @@
+{
+  "elections": 21,
+  "partyRows": 349,
+  "checks": [
+    {
+      "id": "world-norway-storting-1945",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 117813,
+      "seats": 8
+    },
+    {
+      "id": "world-norway-storting-1945",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 252608,
+      "seats": 25
+    },
+    {
+      "id": "world-norway-storting-1945",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 609348,
+      "seats": 76
+    },
+    {
+      "id": "world-norway-storting-1945",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 204852,
+      "seats": 20
+    },
+    {
+      "id": "world-norway-storting-1945",
+      "partyCode": "71",
+      "name": "Bondepartiet (-1959)",
+      "votes": 119362,
+      "seats": 10
+    },
+    {
+      "id": "world-norway-storting-1945",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 176535,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-1945",
+      "partyCode": "72",
+      "name": "Sogn og Fjordane fisker- og småbrukerparti",
+      "votes": 4654,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1945",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 53,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 147068,
+      "seats": 9
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 279790,
+      "seats": 23
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 803471,
+      "seats": 85
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 218866,
+      "seats": 21
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "71",
+      "name": "Bondepartiet (-1959)",
+      "votes": 85418,
+      "seats": 12
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 102722,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "21",
+      "name": "Society Party",
+      "votes": 13088,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "90a",
+      "name": "Joint-list allocation — Liberal Party",
+      "votes": 18821,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "90b",
+      "name": "Joint-list allocation — Farmers' Party",
+      "votes": 55782,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "90c",
+      "name": "Joint-list allocation — Christian Democratic Party",
+      "votes": 1352,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "90d",
+      "name": "Joint-list allocation — Conservative Party",
+      "votes": 31958,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1949",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 30,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 186627,
+      "seats": 14
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 327971,
+      "seats": 27
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 830448,
+      "seats": 77
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 177662,
+      "seats": 15
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "71",
+      "name": "Bondepartiet (-1959)",
+      "votes": 157018,
+      "seats": 14
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 90422,
+      "seats": 3
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "90b",
+      "name": "Joint-list allocation — Farmers' Party",
+      "votes": 3600,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "90d",
+      "name": "Joint-list allocation — Conservative Party",
+      "votes": 6061,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1953",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 22,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 183243,
+      "seats": 12
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 301395,
+      "seats": 29
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 865675,
+      "seats": 78
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 171407,
+      "seats": 15
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "71",
+      "name": "Bondepartiet (-1959)",
+      "votes": 154761,
+      "seats": 15
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 60060,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "73",
+      "name": "Norsk Sosialdemokratisk parti",
+      "votes": 2855,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "90a",
+      "name": "Joint-list allocation — Liberal Party",
+      "votes": 1340,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "90b",
+      "name": "Joint-list allocation — Farmers' Party",
+      "votes": 12312,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "90d",
+      "name": "Joint-list allocation — Conservative Party",
+      "votes": 37708,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1957",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 372,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 125643,
+      "seats": 16
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 171451,
+      "seats": 15
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 354369,
+      "seats": 29
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 860526,
+      "seats": 74
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 134789,
+      "seats": 14
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 53678,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "73",
+      "name": "Norsk Sosialdemokratisk parti",
+      "votes": 478,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "70",
+      "name": "Sosialistisk Folkeparti (1961-1969)",
+      "votes": 43996,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "90a",
+      "name": "Joint-list allocation — Liberal Party",
+      "votes": 28368,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "90c",
+      "name": "Joint-list allocation — Christian Democratic Party",
+      "votes": 5009,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "90d",
+      "name": "Joint-list allocation — Conservative Party",
+      "votes": 14400,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "90e",
+      "name": "Joint-list allocation — Centre Party",
+      "votes": 47454,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1961",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 64,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 191702,
+      "seats": 18
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 160331,
+      "seats": 13
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 415612,
+      "seats": 31
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 883320,
+      "seats": 68
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 207834,
+      "seats": 18
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 27996,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "70",
+      "name": "Sosialistisk Folkeparti (1961-1969)",
+      "votes": 122721,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "90a",
+      "name": "Joint-list allocation — Liberal Party",
+      "votes": 4352,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "90c",
+      "name": "Joint-list allocation — Christian Democratic Party",
+      "votes": 5133,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "90d",
+      "name": "Joint-list allocation — Conservative Party",
+      "votes": 17667,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "90e",
+      "name": "Joint-list allocation — Centre Party",
+      "votes": 10361,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1965",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 365,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 194128,
+      "seats": 20
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 169303,
+      "seats": 14
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 406209,
+      "seats": 29
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 1004348,
+      "seats": 74
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 202553,
+      "seats": 13
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 21517,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "70",
+      "name": "Sosialistisk Folkeparti (1961-1969)",
+      "votes": 73284,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "90c",
+      "name": "Joint-list allocation — Christian Democratic Party",
+      "votes": 32050,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "90d",
+      "name": "Joint-list allocation — Conservative Party",
+      "votes": 16667,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "90e",
+      "name": "Joint-list allocation — Centre Party",
+      "votes": 34356,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "90f",
+      "name": "Joint-list allocation — Communist Party / Socialist People’s Party",
+      "votes": 3203,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1969",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 1094,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 146312,
+      "seats": 21
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 255456,
+      "seats": 20
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 370370,
+      "seats": 29
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 759499,
+      "seats": 62
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 49668,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "75",
+      "name": "Anders Langes parti (1973)",
+      "votes": 107784,
+      "seats": 4
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "76",
+      "name": "Ensliges parti",
+      "votes": 5113,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "77",
+      "name": "Kvinnenes frie folkevalgte",
+      "votes": 1866,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "78",
+      "name": "Norges demokratiske parti",
+      "votes": 2125,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "74",
+      "name": "Det nye Folkepartiet (1973-1977)",
+      "votes": 73854,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "11",
+      "name": "Red Electoral Alliance (1973-2007)",
+      "votes": 9360,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "79",
+      "name": "Sosialistisk Valgforbund (1973)",
+      "votes": 241851,
+      "seats": 16
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "90a",
+      "name": "Joint-list allocation — Liberal Party",
+      "votes": 27143,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "90c",
+      "name": "Joint-list allocation — Christian Democratic Party",
+      "votes": 10228,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "90d",
+      "name": "Joint-list allocation — Conservative Party",
+      "votes": 3644,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "90e",
+      "name": "Joint-list allocation — Centre Party",
+      "votes": 87076,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1973",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 855,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 184087,
+      "seats": 12
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 224355,
+      "seats": 22
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 563783,
+      "seats": 41
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 972434,
+      "seats": 76
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 54243,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 43351,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 96248,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 8448,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "76",
+      "name": "Ensliges parti",
+      "votes": 2740,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "24",
+      "name": "Freely Elected",
+      "votes": 1149,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "78",
+      "name": "Norges demokratiske parti",
+      "votes": 1322,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "74",
+      "name": "Det nye Folkepartiet (1973-1977)",
+      "votes": 22524,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "11",
+      "name": "Red Electoral Alliance (1973-2007)",
+      "votes": 14515,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "90a",
+      "name": "Joint-list allocation — Liberal Party",
+      "votes": 20026,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "90c",
+      "name": "Joint-list allocation — Christian Democratic Party",
+      "votes": 61996,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "90d",
+      "name": "Joint-list allocation — Conservative Party",
+      "votes": 5927,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "90e",
+      "name": "Joint-list allocation — Centre Party",
+      "votes": 13250,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "90g",
+      "name": "Joint-list allocation — New People’s Party",
+      "votes": 10213,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1977",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 499,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 105921,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 222313,
+      "seats": 15
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 792573,
+      "seats": 53
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 925087,
+      "seats": 66
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 80222,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 113135,
+      "seats": 4
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 125353,
+      "seats": 4
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 7154,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 13804,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "11",
+      "name": "Red Electoral Alliance (1973-2007)",
+      "votes": 18602,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "90h",
+      "name": "Joint-list allocation — Non-socialist joint lists",
+      "votes": 87163,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1981",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 3749,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 171770,
+      "seats": 12
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 214969,
+      "seats": 16
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 791537,
+      "seats": 50
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 1061712,
+      "seats": 71
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 81202,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 96797,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 141950,
+      "seats": 6
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 4245,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 12958,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 7846,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "11",
+      "name": "Red Electoral Alliance (1973-2007)",
+      "votes": 14818,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1985",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 2013,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 171269,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 224852,
+      "seats": 14
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 588682,
+      "seats": 37
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 907393,
+      "seats": 63
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 84740,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 10136,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 345185,
+      "seats": 22
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 266782,
+      "seats": 17
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "15",
+      "name": "Environment and Solidarity",
+      "votes": 22139,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "24",
+      "name": "Freely Elected",
+      "votes": 313,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "25",
+      "name": "Future for Finnmark",
+      "votes": 8817,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 470,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 7863,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1989",
+      "partyCode": "14",
+      "name": "Stop Immigration",
+      "votes": 8963,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 412187,
+      "seats": 32
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 193885,
+      "seats": 13
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 419373,
+      "seats": 28
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 908724,
+      "seats": 67
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 88985,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 3054,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 154497,
+      "seats": 10
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 194633,
+      "seats": 13
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "19",
+      "name": "Christian Conservative Party",
+      "votes": 1974,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "16",
+      "name": "Common Future",
+      "votes": 548,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 361,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "13",
+      "name": "The Fatherlands Party",
+      "votes": 11694,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "17",
+      "name": "Freedom Party",
+      "votes": 774,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 725,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "20",
+      "name": "Nature Law Party",
+      "votes": 1853,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "22",
+      "name": "New Future Coalition Party",
+      "votes": 8777,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 25835,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "11",
+      "name": "Red Electoral Alliance (1973-2007)",
+      "votes": 26360,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "21",
+      "name": "Society Party",
+      "votes": 95,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "14",
+      "name": "Stop Immigration",
+      "votes": 1952,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1993",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 5663,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 204824,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 353082,
+      "seats": 25
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 370441,
+      "seats": 23
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 904362,
+      "seats": 65
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 115077,
+      "seats": 6
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 5884,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 395376,
+      "seats": 25
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 155307,
+      "seats": 9
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "29",
+      "name": "Children/Elderly",
+      "votes": 246,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "19",
+      "name": "Christian Conservative Party",
+      "votes": 1386,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 1979,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "13",
+      "name": "The Fatherlands Party",
+      "votes": 3805,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "27",
+      "name": "Interpolitical Coast and District Party",
+      "votes": 9195,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "28",
+      "name": "Justice Party",
+      "votes": 281,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 258,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "20",
+      "name": "Nature Law Party",
+      "votes": 2207,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "22",
+      "name": "New Future Coalition Party",
+      "votes": 491,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 16031,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "11",
+      "name": "Red Electoral Alliance (1973-2007)",
+      "votes": 43252,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "21",
+      "name": "Society Party",
+      "votes": 214,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-1997",
+      "partyCode": "26",
+      "name": "White Electoral Alliance",
+      "votes": 463,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 140287,
+      "seats": 10
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 312839,
+      "seats": 22
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 534852,
+      "seats": 38
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 612632,
+      "seats": 43
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 98486,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 3785,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 369236,
+      "seats": 26
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 316397,
+      "seats": 23
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "48",
+      "name": "Christian Coalition Party",
+      "votes": 6742,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "44",
+      "name": "Coastal Party",
+      "votes": 44010,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 1726,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "13",
+      "name": "The Fatherlands Party",
+      "votes": 2353,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "27",
+      "name": "Interpolitical Coast and District Party",
+      "votes": 1052,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 166,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "20",
+      "name": "Nature Law Party",
+      "votes": 269,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "49",
+      "name": "Norwegian Peoples Party",
+      "votes": 1609,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 17940,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "46",
+      "name": "The Political Party",
+      "votes": 19457,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "11",
+      "name": "Red Electoral Alliance (1973-2007)",
+      "votes": 30015,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "47",
+      "name": "Social Democrats",
+      "votes": 351,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2001",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 7616,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 171063,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 178885,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 371948,
+      "seats": 23
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 862456,
+      "seats": 61
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 156113,
+      "seats": 10
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 3652,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 581896,
+      "seats": 38
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 232971,
+      "seats": 15
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "100",
+      "name": "Abort-motstandernes liste",
+      "votes": 1934,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "48",
+      "name": "Christian Coalition Party",
+      "votes": 3911,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "44",
+      "name": "Coastal Party",
+      "votes": 21948,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 1070,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "122",
+      "name": "Democratic Party of Norway",
+      "votes": 2705,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 213,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 13556,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "11",
+      "name": "Red Electoral Alliance (1973-2007)",
+      "votes": 32355,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "33",
+      "name": "Sami People's List",
+      "votes": 659,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "21",
+      "name": "Society Party",
+      "votes": 44,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2005",
+      "partyCode": "92",
+      "name": "Other lists",
+      "votes": 884,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 165006,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 148748,
+      "seats": 10
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 462458,
+      "seats": 30
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 949049,
+      "seats": 64
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 104144,
+      "seats": 2
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 9286,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 614717,
+      "seats": 41
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 166361,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "55",
+      "name": "Red Party",
+      "votes": 36219,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "100",
+      "name": "Abort-motstandernes liste",
+      "votes": 178,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "48",
+      "name": "Christian Coalition Party",
+      "votes": 4936,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "44",
+      "name": "Coastal Party",
+      "votes": 5341,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 697,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "83",
+      "name": "Cross-party Elected",
+      "votes": 64,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "54",
+      "name": "Democratic Party",
+      "votes": 2286,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "56",
+      "name": "Ett (skrift)språk",
+      "votes": 103,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 350,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "57",
+      "name": "Norgespatriotene",
+      "votes": 183,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "58",
+      "name": "Norsk Republikansk Allianse",
+      "votes": 54,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 11900,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "60",
+      "name": "Samtidspartiet",
+      "votes": 264,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "59",
+      "name": "Sentrumsalliansen",
+      "votes": 241,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "21",
+      "name": "Society Party",
+      "votes": 140,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2009",
+      "partyCode": "61",
+      "name": "Vigrid",
+      "votes": 179,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 155357,
+      "seats": 10
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 158475,
+      "seats": 10
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 760232,
+      "seats": 48
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 874769,
+      "seats": 55
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 148275,
+      "seats": 9
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 79152,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 463560,
+      "seats": 29
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 116021,
+      "seats": 7
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "55",
+      "name": "Red Party",
+      "votes": 30751,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "48",
+      "name": "Christian Coalition Party",
+      "votes": 1722,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "44",
+      "name": "Coastal Party",
+      "votes": 3311,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 611,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "123",
+      "name": "Conservative",
+      "votes": 17731,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "122",
+      "name": "Democratic Party of Norway",
+      "votes": 2214,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "125",
+      "name": "Folkeliste mot oljeboring i Lofoten, Vesterålen og Senja",
+      "votes": 268,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "126",
+      "name": "Folkemakten",
+      "votes": 175,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "12",
+      "name": "The Liberal People's Party",
+      "votes": 909,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 11865,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "124",
+      "name": "Piratpartiet",
+      "votes": 9869,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "21",
+      "name": "Society Party",
+      "votes": 295,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2013",
+      "partyCode": "127",
+      "name": "Sykehus til Alta",
+      "votes": 467,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 302017,
+      "seats": 19
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 122797,
+      "seats": 8
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 732895,
+      "seats": 45
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 800947,
+      "seats": 49
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 127910,
+      "seats": 8
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 94788,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 444681,
+      "seats": 27
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 176222,
+      "seats": 11
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "55",
+      "name": "Red Party",
+      "votes": 70522,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "130",
+      "name": "The Alliance",
+      "votes": 3311,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "133",
+      "name": "Capitalist Party of Norway",
+      "votes": 5599,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "44",
+      "name": "Coastal Party",
+      "votes": 2467,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 309,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "123",
+      "name": "Conservative",
+      "votes": 8700,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "122",
+      "name": "Democratic Party of Norway",
+      "votes": 3830,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "131",
+      "name": "Feministisk Initiativ",
+      "votes": 696,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "134",
+      "name": "Nordmørslista",
+      "votes": 2135,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "135",
+      "name": "Nordting",
+      "votes": 59,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "136",
+      "name": "Norgespartiet",
+      "votes": 151,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 12855,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "124",
+      "name": "Piratpartiet",
+      "votes": 3356,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "21",
+      "name": "Society Party",
+      "votes": 104,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "137",
+      "name": "Verdipartiet",
+      "votes": 148,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2017",
+      "partyCode": "132",
+      "name": "The Welfare and Innovation Party",
+      "votes": 10337,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 402961,
+      "seats": 28
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 113344,
+      "seats": 3
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 607316,
+      "seats": 36
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 783394,
+      "seats": 48
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 137433,
+      "seats": 8
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 117647,
+      "seats": 3
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 346474,
+      "seats": 21
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 228063,
+      "seats": 13
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "55",
+      "name": "Red Party",
+      "votes": 140931,
+      "seats": 8
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "150",
+      "name": "Alliansen - Alternative for Norway",
+      "votes": 2489,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "133",
+      "name": "Capitalist Party of Norway",
+      "votes": 4520,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "44",
+      "name": "Coastal Party",
+      "votes": 171,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 301,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "123",
+      "name": "Conservative",
+      "votes": 10448,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "122",
+      "name": "Democratic Party of Norway",
+      "votes": 34068,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "131",
+      "name": "Feministisk Initiativ",
+      "votes": 275,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "151",
+      "name": "Folkets parti",
+      "votes": 3435,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "154",
+      "name": "Generation Party",
+      "votes": 199,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "152",
+      "name": "Industrial-, commerce & business Party",
+      "votes": 10031,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "153",
+      "name": "Partiet Sentrum",
+      "votes": 7836,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "155",
+      "name": "Pasientfokus",
+      "votes": 4950,
+      "seats": 1
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 19006,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "124",
+      "name": "Piratpartiet",
+      "votes": 2308,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "156",
+      "name": "Redd Naturen",
+      "votes": 97,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2021",
+      "partyCode": "132",
+      "name": "The Welfare and Innovation Party",
+      "votes": 6490,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "05",
+      "name": "Centre Party",
+      "votes": 179994,
+      "seats": 9
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "04",
+      "name": "Christian Democratic Party",
+      "votes": 135230,
+      "seats": 7
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "03",
+      "name": "Conservative Party",
+      "votes": 471602,
+      "seats": 24
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "01",
+      "name": "Labour Party",
+      "votes": 902296,
+      "seats": 53
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "07",
+      "name": "Liberal Party",
+      "votes": 118941,
+      "seats": 3
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "08",
+      "name": "Green Party",
+      "votes": 152782,
+      "seats": 8
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "02",
+      "name": "Progress Party",
+      "votes": 767903,
+      "seats": 47
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "06",
+      "name": "Socialist Left Party",
+      "votes": 181192,
+      "seats": 9
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "55",
+      "name": "Red Party",
+      "votes": 171342,
+      "seats": 9
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "09",
+      "name": "Communist Party of Norway",
+      "votes": 50,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "123",
+      "name": "Conservative",
+      "votes": 15507,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "122",
+      "name": "Democratic Party of Norway",
+      "votes": 23260,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "159",
+      "name": "The DNI Party",
+      "votes": 5280,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "154",
+      "name": "Generation Party",
+      "votes": 21589,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "152",
+      "name": "Industrial-, commerce & business Party",
+      "votes": 18771,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "157",
+      "name": "The Loneliness Party",
+      "votes": 712,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "153",
+      "name": "Partiet Sentrum",
+      "votes": 5701,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "155",
+      "name": "Pasientfokus",
+      "votes": 4174,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "158",
+      "name": "Peace and Justice",
+      "votes": 9430,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "10",
+      "name": "The Pensioners' Party",
+      "votes": 26839,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "160",
+      "name": "Save Ullevål Hospital",
+      "votes": 2361,
+      "seats": 0
+    },
+    {
+      "id": "world-norway-storting-2025",
+      "partyCode": "132",
+      "name": "The Welfare and Innovation Party",
+      "votes": 4932,
+      "seats": 0
+    }
+  ],
+  "sources": [
+    {
+      "table": "08092",
+      "sha256": "102ce3ca39b0f23404bf9c7ebb8c8f8c5b10d2a4c2eab1ae92f5871db722a8bd",
+      "updated": "2025-11-27T07:00:00Z"
+    },
+    {
+      "table": "08219",
+      "sha256": "62467362df097b97a16154c306a0edcec0a189d647b7225f29f7603bf3f16ebf",
+      "updated": "2025-11-27T07:00:00Z"
+    },
+    {
+      "table": "08243",
+      "sha256": "4dbb8d3b42982559b46d2b1b344336e3260fdba08e90e5bb3382738514084f04",
+      "updated": "2025-11-27T07:00:00Z"
+    }
+  ]
+}
