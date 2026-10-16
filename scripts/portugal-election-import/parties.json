@@ -1,0 +1,1315 @@
+[
+  {
+    "id": "a0fabdd0-1ec0-558f-b197-9d7e6b1bf41f",
+    "country_id": "pt",
+    "name": "Social Democratic Party",
+    "short_name": "PSD",
+    "color": "#e87828",
+    "ideology_ids": [
+      "ideology-liberal-conservatism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Social_Democratic_Party_(Portugal)",
+    "archived": false
+  },
+  {
+    "id": "848842bf-7c80-5eae-a5f9-9c00c27fc2d9",
+    "country_id": "pt",
+    "name": "Chega",
+    "short_name": "CH",
+    "color": "#202a59",
+    "ideology_ids": [
+      "ideology-right-wing-populism",
+      "ideology-national-conservatism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Chega_(political_party)",
+    "archived": false
+  },
+  {
+    "id": "619039bc-b3cc-509a-9269-58a9b005a93f",
+    "country_id": "pt",
+    "name": "Portuguese Communist Party",
+    "short_name": "PCP",
+    "color": "#bd2525",
+    "ideology_ids": [
+      "ideology-communism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Portuguese_Communist_Party",
+    "archived": false
+  },
+  {
+    "id": "3637e2e7-6256-5097-82cd-fddcab690f0b",
+    "country_id": "pt",
+    "name": "Left Bloc",
+    "short_name": "BE",
+    "color": "#a52d71",
+    "ideology_ids": [
+      "ideology-democratic-socialism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Left_Bloc_(Portugal)",
+    "archived": false
+  },
+  {
+    "id": "78a38d86-1e6c-5c2f-b1f6-cc43246cf8d6",
+    "country_id": "pt",
+    "name": "Liberal Initiative",
+    "short_name": "IL",
+    "color": "#00a6d6",
+    "ideology_ids": [
+      "ideology-economic-liberalism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Liberal_Initiative",
+    "archived": false
+  },
+  {
+    "id": "f87113e5-75ca-55e0-94c7-b6064efcd378",
+    "country_id": "pt",
+    "name": "React, Include, Recycle",
+    "short_name": "",
+    "color": "#993395",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "3d4df072-4750-5f01-96c7-f6bc36b347bd",
+    "country_id": "pt",
+    "name": "Socialist Party",
+    "short_name": "PS",
+    "color": "#e23948",
+    "ideology_ids": [
+      "ideology-social-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Socialist_Party_(Portugal)",
+    "archived": false
+  },
+  {
+    "id": "7fe0c3ee-fa12-5390-83c2-088ef61bc6d0",
+    "country_id": "pt",
+    "name": "LIVRE",
+    "short_name": "L",
+    "color": "#80b242",
+    "ideology_ids": [
+      "ideology-progressivism",
+      "ideology-ecologism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/LIVRE",
+    "archived": false
+  },
+  {
+    "id": "c8c7e82c-8c49-59c8-a4b2-3f00c1a7738b",
+    "country_id": "pt",
+    "name": "Democratic Alliance (2024–)",
+    "short_name": "AD",
+    "color": "#e87828",
+    "ideology_ids": [
+      "ideology-liberal-conservatism",
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal)",
+    "archived": false
+  },
+  {
+    "id": "558c7adf-aaf2-5988-8639-72c1ba4d3b4c",
+    "country_id": "pt",
+    "name": "Madeira First",
+    "short_name": "MP",
+    "color": "#e87828",
+    "ideology_ids": [
+      "ideology-liberal-conservatism",
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Madeira_First",
+    "archived": false
+  },
+  {
+    "id": "d07c2102-9d63-5c28-b5a0-b84c062898d3",
+    "country_id": "pt",
+    "name": "People's Monarchist Party",
+    "short_name": "",
+    "color": "#783399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "5915ea9c-4018-559e-9bc2-5f57aad2d38a",
+    "country_id": "pt",
+    "name": "Unitary Democratic Coalition",
+    "short_name": "CDU",
+    "color": "#bd2525",
+    "ideology_ids": [
+      "ideology-communism",
+      "ideology-green-politics"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Unitary_Democratic_Coalition",
+    "archived": false
+  },
+  {
+    "id": "1e83ed15-8edf-50c2-86c3-6ce7fee28044",
+    "country_id": "pt",
+    "name": "People Animals Nature",
+    "short_name": "PAN",
+    "color": "#218c83",
+    "ideology_ids": [
+      "ideology-green-politics"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/People_Animals_Nature",
+    "archived": false
+  },
+  {
+    "id": "df5b8da2-60a1-5ae7-9def-0949d5d9d465",
+    "country_id": "pt",
+    "name": "National Democratic Alternative",
+    "short_name": "",
+    "color": "#337799",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "2eae927f-6d08-5869-8e6e-e4e9c426bfd1",
+    "country_id": "pt",
+    "name": "Together for the People",
+    "short_name": "JPP",
+    "color": "#db9a19",
+    "ideology_ids": [
+      "ideology-regionalism"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Together_for_the_People",
+    "archived": false
+  },
+  {
+    "id": "445c3dd3-7d86-55bd-a4e8-8b593d9b12f4",
+    "country_id": "pt",
+    "name": "Nova Direita",
+    "short_name": "",
+    "color": "#999033",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "162b3f01-b0d0-568b-bdea-2132eebceca2",
+    "country_id": "pt",
+    "name": "Portuguese Workers' Communist Party",
+    "short_name": "",
+    "color": "#993364",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "19b30778-e06b-5c71-9ac1-cd6a9946198d",
+    "country_id": "pt",
+    "name": "Volt Portugal",
+    "short_name": "",
+    "color": "#773399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "f1f2d9af-f04e-553b-ad8e-6b0733c1b032",
+    "country_id": "pt",
+    "name": "Ergue-te",
+    "short_name": "",
+    "color": "#993393",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "302101af-37a9-5a3f-ae86-37e556b10446",
+    "country_id": "pt",
+    "name": "Alternative 21 ( Earth Party / Alliance )",
+    "short_name": "",
+    "color": "#993352",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "0d04564b-45fe-54d9-a8ea-baca28b1ec43",
+    "country_id": "pt",
+    "name": "Portuguese Labour Party",
+    "short_name": "",
+    "color": "#3e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "180bfcaf-f65f-524a-b1db-129669aaf9f4",
+    "country_id": "pt",
+    "name": "We, the Citizens!",
+    "short_name": "",
+    "color": "#993355",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "6237fa70-a396-5008-ba30-a4b185c26310",
+    "country_id": "pt",
+    "name": "Socialist Alternative Movement",
+    "short_name": "",
+    "color": "#5c3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "b5b8f5bd-2b96-5fe2-bb72-9eeb4f1204fe",
+    "country_id": "pt",
+    "name": "AD – PSD/CDS Coalition",
+    "short_name": "AD",
+    "color": "#e87828",
+    "ideology_ids": [
+      "ideology-liberal-conservatism",
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)",
+    "archived": false
+  },
+  {
+    "id": "8413a60d-7e1d-50c9-b70e-c4ee83c1f1c8",
+    "country_id": "pt",
+    "name": "Coalition PSD/CDS/PPM",
+    "short_name": "PSD/CDS/PPM",
+    "color": "#e87828",
+    "ideology_ids": [
+      "ideology-liberal-conservatism",
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal,_2024)",
+    "archived": false
+  },
+  {
+    "id": "de4067c9-a8a4-5e09-a758-843afe3ce687",
+    "country_id": "pt",
+    "name": "Liberal Social Party",
+    "short_name": "",
+    "color": "#883399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "cd1ac348-93c2-59d0-b3bd-31a0fe4b6abc",
+    "country_id": "pt",
+    "name": "Earth Party",
+    "short_name": "",
+    "color": "#339943",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "f2607349-4435-5ee2-bc1b-363b4724d081",
+    "country_id": "pt",
+    "name": "Democratic People's Party",
+    "short_name": "",
+    "color": "#3d9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "1963bb3a-86a7-546f-a33c-2e9d37817395",
+    "country_id": "pt",
+    "name": "Democratic and Social Centre",
+    "short_name": "CDS",
+    "color": "#1672a3",
+    "ideology_ids": [
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/CDS_%E2%80%93_People%27s_Party",
+    "archived": false
+  },
+  {
+    "id": "1bb08303-b7b8-567c-a9bf-394bf108158b",
+    "country_id": "pt",
+    "name": "Portuguese Democratic Movement",
+    "short_name": "",
+    "color": "#8e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "052b308c-9061-5bed-9f01-fb849c0d2e45",
+    "country_id": "pt",
+    "name": "People's Socialist Front",
+    "short_name": "",
+    "color": "#413399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "90003768-2b19-54fd-8148-c62915cc4af9",
+    "country_id": "pt",
+    "name": "Movement of Socialist Left",
+    "short_name": "",
+    "color": "#339998",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "5d5d3676-1203-5697-acf1-5f704d5a4fa8",
+    "country_id": "pt",
+    "name": "Popular Democratic Union",
+    "short_name": "",
+    "color": "#339799",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "07585541-77d4-5a50-8161-43faab7c1d8b",
+    "country_id": "pt",
+    "name": "Communist Electoral Front (Marxist–Leninist)",
+    "short_name": "",
+    "color": "#993374",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "310173bb-ab02-5e84-a342-95f98c479374",
+    "country_id": "pt",
+    "name": "Popular Unity Party",
+    "short_name": "",
+    "color": "#997033",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "90921ed6-5c48-575d-a637-0da6eec60464",
+    "country_id": "pt",
+    "name": "Internationalist Communist League",
+    "short_name": "",
+    "color": "#99338a",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "1251e992-c6f2-5a1a-a49e-5fbd4da0b67a",
+    "country_id": "pt",
+    "name": "Association for the Defense of Macau Interests",
+    "short_name": "",
+    "color": "#993372",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "fbabc7e9-9568-5746-843c-99d42bdfaac4",
+    "country_id": "pt",
+    "name": "Democratic Centre of Macau",
+    "short_name": "",
+    "color": "#339970",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "e42103c8-8695-5bf3-b4f7-fc2095cd2931",
+    "country_id": "pt",
+    "name": "Reorganizing Movement of the Party of the Proletariat",
+    "short_name": "",
+    "color": "#943399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "4962dcf3-b264-5764-810f-a92406ad8565",
+    "country_id": "pt",
+    "name": "Christian Democratic Party",
+    "short_name": "",
+    "color": "#993346",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "d27c3c1a-fac4-52cd-a67f-cd0c0893d267",
+    "country_id": "pt",
+    "name": "Communist Party of Portugal",
+    "short_name": "",
+    "color": "#99338f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "3f0c28a7-c436-57b1-a48e-0fa014332dde",
+    "country_id": "pt",
+    "name": "Worker–Peasant Alliance",
+    "short_name": "",
+    "color": "#4a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "deac984e-f35e-54f3-b686-e55fbff857e5",
+    "country_id": "pt",
+    "name": "Workers' Revolutionary Party",
+    "short_name": "",
+    "color": "#997233",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "2176fa1a-8232-5aab-9511-d8df4380f46c",
+    "country_id": "pt",
+    "name": "Democratic Alliance (1979–1983)",
+    "short_name": "AD",
+    "color": "#e87828",
+    "ideology_ids": [
+      "ideology-liberal-conservatism",
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Democratic_Alliance_(Portugal)",
+    "archived": false
+  },
+  {
+    "id": "aac77dea-b049-5d46-8d2d-5ced675ec3b0",
+    "country_id": "pt",
+    "name": "United People Alliance",
+    "short_name": "",
+    "color": "#994233",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "4996c671-3025-5f70-8288-89767c4c5a7b",
+    "country_id": "pt",
+    "name": "Left-wing Union for the Socialist Democracy",
+    "short_name": "",
+    "color": "#339993",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "cf60a3d9-b598-52f7-af2c-f61809856110",
+    "country_id": "pt",
+    "name": "Revolutionary Socialist Party",
+    "short_name": "",
+    "color": "#339499",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "9a7f5f1e-4b94-564d-9c6b-a50daf09c098",
+    "country_id": "pt",
+    "name": "Workers' Party of Socialist Unity",
+    "short_name": "",
+    "color": "#335299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "cec1e0bf-9445-54ee-a169-965cb34c0200",
+    "country_id": "pt",
+    "name": "Portuguese Marxist–Leninist Communist Organization",
+    "short_name": "",
+    "color": "#996333",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "64a9bdce-3599-5aac-a75b-ddceea8be5c1",
+    "country_id": "pt",
+    "name": "Republican and Socialist Front",
+    "short_name": "",
+    "color": "#843399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "0f062852-5549-541a-aba0-a28c5fa55f9e",
+    "country_id": "pt",
+    "name": "Revolutionary Socialist",
+    "short_name": "",
+    "color": "#3c9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "daeeae52-1569-5a45-be09-7d35ff88fa34",
+    "country_id": "pt",
+    "name": "Labour Party",
+    "short_name": "",
+    "color": "#339953",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "10867f58-401e-54de-bc50-d84949ed85d4",
+    "country_id": "pt",
+    "name": "PDC – MIRN/PDP – FN",
+    "short_name": "",
+    "color": "#409933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "c25f22e9-1879-5598-bc35-5cf7294b9336",
+    "country_id": "pt",
+    "name": "Democratic Party of the Atlantic",
+    "short_name": "",
+    "color": "#335399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "055e2488-2d89-5a2b-b767-0af3ec749d2a",
+    "country_id": "pt",
+    "name": "Popular Democratic Union – Revolutionary Socialist Party",
+    "short_name": "",
+    "color": "#993392",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "f72872ef-7d98-5aca-8b03-ecfa2b207305",
+    "country_id": "pt",
+    "name": "Socialist Workers League",
+    "short_name": "",
+    "color": "#339957",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "8db1e6dc-3234-5809-bebe-c6dde7fa6661",
+    "country_id": "pt",
+    "name": "Communist Party (Reconstructed)",
+    "short_name": "",
+    "color": "#997c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "144009b4-fc82-5b33-a9a7-0c0bb3ba9d9d",
+    "country_id": "pt",
+    "name": "Democratic Renewal Party",
+    "short_name": "",
+    "color": "#334599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "cb237bbc-9020-5d2f-8890-07b11639bb0e",
+    "country_id": "pt",
+    "name": "National Solidarity Party",
+    "short_name": "",
+    "color": "#996d33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "2e17ac13-71a8-555c-bb5a-e6c4e68caefd",
+    "country_id": "pt",
+    "name": "Left Revolutionary Front",
+    "short_name": "",
+    "color": "#993399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "32105e06-d092-5f1a-8562-9f3e4a1e09df",
+    "country_id": "pt",
+    "name": "Party of the Folk [ pt ]",
+    "short_name": "",
+    "color": "#336f99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "1f8547c5-ea73-5ca0-9492-7dce953199e1",
+    "country_id": "pt",
+    "name": "Ecology and Future Coalition ( PPM – MPT )",
+    "short_name": "",
+    "color": "#993387",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "ed838572-e86a-5230-bddf-8775b3ef1a92",
+    "country_id": "pt",
+    "name": "Unity Movement for Workers",
+    "short_name": "",
+    "color": "#339962",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "a0c59aa6-e8bd-5031-b208-0d0f7d39e3b2",
+    "country_id": "pt",
+    "name": "Humanist Party",
+    "short_name": "",
+    "color": "#859933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "1a5e10f5-0e47-5193-a29d-eb7c7c4dfafa",
+    "country_id": "pt",
+    "name": "National Renovator Party",
+    "short_name": "",
+    "color": "#334399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "4fffd8ea-2025-5131-a866-c1f397fc071a",
+    "country_id": "pt",
+    "name": "Left Bloc – Popular Democratic Union",
+    "short_name": "",
+    "color": "#519933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "52d7eec7-2dfc-5987-baf9-6b4ccf7c296b",
+    "country_id": "pt",
+    "name": "New Democracy Party",
+    "short_name": "",
+    "color": "#335999",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "332100dc-9bc4-5454-85dc-5e819ae89bf6",
+    "country_id": "pt",
+    "name": "Hope for Portugal Movement",
+    "short_name": "",
+    "color": "#923399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "fd2890e3-f01b-5b69-b5c9-b013fe2bab24",
+    "country_id": "pt",
+    "name": "Merit and Society Movement",
+    "short_name": "",
+    "color": "#994833",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "1bdd71c8-b0a3-5f2e-ae38-b4e57df0f306",
+    "country_id": "pt",
+    "name": "Ecology and Humanism Front ( MPT – PH )",
+    "short_name": "",
+    "color": "#337799",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "7d51d02f-bbe2-5ba7-9c80-977281c21fc7",
+    "country_id": "pt",
+    "name": "Portugal Pro-Life Party",
+    "short_name": "",
+    "color": "#993337",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "410834f5-d59d-5ce9-b6f9-872279193566",
+    "country_id": "pt",
+    "name": "Party for Animals and Nature",
+    "short_name": "",
+    "color": "#4f3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "5bb51b19-6ee1-5a3e-bd9e-6694dd32cf12",
+    "country_id": "pt",
+    "name": "Portugal Ahead",
+    "short_name": "PàF",
+    "color": "#e87828",
+    "ideology_ids": [
+      "ideology-liberal-conservatism",
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Broad party tradition: https://en.wikipedia.org/wiki/Portugal_Ahead",
+    "archived": false
+  },
+  {
+    "id": "f1c8a122-4ddb-5e31-a418-28a1705837a8",
+    "country_id": "pt",
+    "name": "Alliance Azores",
+    "short_name": "",
+    "color": "#336499",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "089c493a-9616-55d3-80a4-9db8e28e4672",
+    "country_id": "pt",
+    "name": "Democratic Republican Party",
+    "short_name": "",
+    "color": "#995533",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "388624e8-edd8-5d1d-a90c-f70b1561297e",
+    "country_id": "pt",
+    "name": "LIVRE/Time to move forward",
+    "short_name": "",
+    "color": "#33993d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "24bd83ed-0ddf-5845-8ec7-4bb60e1f8dec",
+    "country_id": "pt",
+    "name": "ACT! ( Labour / Socialist Alternative )",
+    "short_name": "",
+    "color": "#753399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "ef7dd2fe-f89b-5bae-9f7d-28e47a914651",
+    "country_id": "pt",
+    "name": "United Party of Retirees and Pensioners",
+    "short_name": "",
+    "color": "#338f99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "4a9fd1ce-82ed-565a-bbc4-df2903b33270",
+    "country_id": "pt",
+    "name": "Citizenship and Christian Democracy",
+    "short_name": "",
+    "color": "#995c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "b071b849-945c-515c-857f-8eae268106bd",
+    "country_id": "pt",
+    "name": "Alliance",
+    "short_name": "",
+    "color": "#3f3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "f4aba3ae-c745-5d64-b4ea-e0bae6845ba3",
+    "country_id": "pt",
+    "name": "Rise Up",
+    "short_name": "",
+    "color": "#993c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "9fbdce45-2345-520c-b3f5-40c34f04e684",
+    "country_id": "pt",
+    "name": "National Union",
+    "short_name": "",
+    "color": "#99338e",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "a7756ee1-89d5-59b7-b944-e9e8e3414fef",
+    "country_id": "pt",
+    "name": "Popular Unity Force",
+    "short_name": "",
+    "color": "#99334e",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "7d1662f3-e1c0-5ec1-8543-034983834ee6",
+    "country_id": "pt",
+    "name": "Workers Party of Socialist Unity",
+    "short_name": "",
+    "color": "#339971",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "41105a59-0bdf-52f3-bc69-1ba5a2c8c1a7",
+    "country_id": "pt",
+    "name": "Cartistas",
+    "short_name": "",
+    "color": "#993398",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "152a5b5a-33c4-5b8f-aa6d-b37b0cb5d211",
+    "country_id": "pt",
+    "name": "Vacant",
+    "short_name": "",
+    "color": "#333d99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "48cddc50-4d17-51d8-adca-7c1be6c89607",
+    "country_id": "pt",
+    "name": "Others",
+    "short_name": "",
+    "color": "#993363",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "beec827f-2ecb-59b8-b27e-2c10d4d83888",
+    "country_id": "pt",
+    "name": "Septembrist",
+    "short_name": "",
+    "color": "#8b3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "f26f7e73-f401-52a9-8ee0-04842bb698a4",
+    "country_id": "pt",
+    "name": "Septembrists",
+    "short_name": "",
+    "color": "#996c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "26b6e9c6-1e62-54d4-99c2-a673c0e46198",
+    "country_id": "pt",
+    "name": "Regenerator Party",
+    "short_name": "",
+    "color": "#373399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "7b14a142-957f-5b0d-99bb-bebae9786c0e",
+    "country_id": "pt",
+    "name": "Historic Party",
+    "short_name": "",
+    "color": "#993365",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "89ec0306-a0dd-53a0-82d2-d1dbc0679b4f",
+    "country_id": "pt",
+    "name": "Miguelistas",
+    "short_name": "",
+    "color": "#994233",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "2192771f-9268-5b45-8faf-f2d813c2967e",
+    "country_id": "pt",
+    "name": "Regenerator Party and Cabralistas",
+    "short_name": "",
+    "color": "#993352",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "daf582cb-557e-5e73-8c7e-0143c9cd3133",
+    "country_id": "pt",
+    "name": "Progressive Electoral Commission",
+    "short_name": "",
+    "color": "#339971",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "7c7dd6a1-f603-5901-9066-aee8e38af375",
+    "country_id": "pt",
+    "name": "Anti-Progressive Electoral Commission",
+    "short_name": "",
+    "color": "#993375",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "4bbf71cb-4ed6-59c5-95d3-bd67135abe84",
+    "country_id": "pt",
+    "name": "Reformist Party",
+    "short_name": "",
+    "color": "#653399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "cf0ba932-b75b-5006-8f81-b60d5bcd0c2e",
+    "country_id": "pt",
+    "name": "Avilistas",
+    "short_name": "",
+    "color": "#998733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "a379d6a3-f0c9-597a-b97b-ddb966f156fc",
+    "country_id": "pt",
+    "name": "Constituent Party",
+    "short_name": "",
+    "color": "#993378",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "6f95ec8e-8236-5f30-b6cd-16bd2cbc6251",
+    "country_id": "pt",
+    "name": "Regenerator Party and Avilistas",
+    "short_name": "",
+    "color": "#995e33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "749d05f3-d4ba-5c1e-b2d4-fabb6dcb4acc",
+    "country_id": "pt",
+    "name": "Overseas seats",
+    "short_name": "",
+    "color": "#99333c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "e35490b6-8024-5dff-a706-92baf5f965ae",
+    "country_id": "pt",
+    "name": "Progressive Party",
+    "short_name": "",
+    "color": "#459933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "a55b383b-e745-5847-8640-23e0edfbe80b",
+    "country_id": "pt",
+    "name": "Portuguese Republican Party",
+    "short_name": "",
+    "color": "#993370",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "a99b67ed-e289-5119-98f7-39ca49342d1c",
+    "country_id": "pt",
+    "name": "Liberal Regenerator Party",
+    "short_name": "",
+    "color": "#649933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "64b19735-46b2-561d-8489-cd48d5e728aa",
+    "country_id": "pt",
+    "name": "Progressive Dissidence",
+    "short_name": "",
+    "color": "#339994",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "56233c2b-feb5-5c36-b709-00b43d78440f",
+    "country_id": "pt",
+    "name": "Liberal Bloc",
+    "short_name": "",
+    "color": "#333399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "fd4175a3-e996-5e35-acf4-738cc6a4efcb",
+    "country_id": "pt",
+    "name": "Regenerator Party (Liberal)",
+    "short_name": "",
+    "color": "#338499",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "4a988156-623b-50d8-9c7d-c4845245da4d",
+    "country_id": "pt",
+    "name": "Regenerator Party (Conservative)",
+    "short_name": "",
+    "color": "#994f33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "3aeff6bd-b462-5d66-b2a3-4752a38e233f",
+    "country_id": "pt",
+    "name": "Nationalist Party",
+    "short_name": "",
+    "color": "#7d3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "2a77d790-a72f-56c2-ae40-8829a84f71e5",
+    "country_id": "pt",
+    "name": "Democratic Party",
+    "short_name": "",
+    "color": "#609933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "fea9948a-5b90-5c5c-a12d-a1db75326135",
+    "country_id": "pt",
+    "name": "Evolutionist Party",
+    "short_name": "",
+    "color": "#339941",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "754a7c6d-15c5-55fb-aa2b-7db137751898",
+    "country_id": "pt",
+    "name": "Republican Union",
+    "short_name": "",
+    "color": "#339994",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "bd41e5d4-a311-593d-a7a3-b1cd6ba73266",
+    "country_id": "pt",
+    "name": "Portuguese Socialist Party",
+    "short_name": "",
+    "color": "#336d99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "209e0460-fc8e-5056-9442-664f2940c0ca",
+    "country_id": "pt",
+    "name": "Portuguese Catholic Centre",
+    "short_name": "",
+    "color": "#33993c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "93399559-eab8-5563-935d-12296b311161",
+    "country_id": "pt",
+    "name": "Evolutionist Party / Republican Union",
+    "short_name": "",
+    "color": "#5d9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "92df5e51-9b4e-5916-9175-946d51b7c449",
+    "country_id": "pt",
+    "name": "Republican Liberal Party",
+    "short_name": "",
+    "color": "#853399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "b6863efb-e125-5dde-aeff-30fcaa3c80a0",
+    "country_id": "pt",
+    "name": "Reconstitution Party",
+    "short_name": "",
+    "color": "#999033",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "2d1e05b3-f6e0-5280-a028-659c1f348be5",
+    "country_id": "pt",
+    "name": "Monarchist Cause",
+    "short_name": "",
+    "color": "#997933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "acf1fab7-389a-5b18-b37a-799c30cfff3f",
+    "country_id": "pt",
+    "name": "Regionalist Party",
+    "short_name": "",
+    "color": "#335899",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "b30a507d-a647-54f9-a77f-8cfd2d28382b",
+    "country_id": "pt",
+    "name": "Nationalist Republican Party",
+    "short_name": "",
+    "color": "#993364",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "30fbd73f-114e-580d-a293-665628460486",
+    "country_id": "pt",
+    "name": "Democratic Leftwing Republican Party",
+    "short_name": "",
+    "color": "#339959",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "51b2af80-34b0-5bc8-882f-f16ff26e4b16",
+    "country_id": "pt",
+    "name": "Union of Economic Interests",
+    "short_name": "",
+    "color": "#339984",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "0069db89-5bf1-5916-9c34-25a4b1609b77",
+    "country_id": "pt",
+    "name": "Opposition lists",
+    "short_name": "",
+    "color": "#353399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "712de873-b57e-5f84-8d29-8a83c453434b",
+    "country_id": "pt",
+    "name": "Democratic Electoral Commission",
+    "short_name": "",
+    "color": "#337e99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "51532a32-e706-5b74-9f9d-0d5f0703f4f6",
+    "country_id": "pt",
+    "name": "United Democratic Electoral Commission",
+    "short_name": "",
+    "color": "#338299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "5232e529-d7a3-507b-8f7d-e2aa5ef9bfb7",
+    "country_id": "pt",
+    "name": "Monarchist Electoral Commission",
+    "short_name": "",
+    "color": "#3e3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "11f024a7-b50b-51cf-960c-6a2189784312",
+    "country_id": "pt",
+    "name": "People's National Action",
+    "short_name": "",
+    "color": "#993a33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  },
+  {
+    "id": "63d49de3-82d4-58b3-a2c3-dcc15d5735d4",
+    "country_id": "pt",
+    "name": "National Republican Party",
+    "short_name": "",
+    "color": "#849933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical ballot organisation; ideology unassessed. Similarly named organisations are not assumed to be continuous.",
+    "archived": false
+  }
+]

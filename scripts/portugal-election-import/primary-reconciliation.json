@@ -1,0 +1,230 @@
+{
+  "checks": [
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "National Democratic Alternative",
+      "votes": 81660,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Left Bloc",
+      "votes": 125808,
+      "seats": 1,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Chega",
+      "votes": 1438554,
+      "seats": 60,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Ergue-te",
+      "votes": 9046,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Liberal Initiative",
+      "votes": 338974,
+      "seats": 9,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Together for the People",
+      "votes": 20900,
+      "seats": 1,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "LIVRE",
+      "votes": 257291,
+      "seats": 6,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Earth Party",
+      "votes": 478,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "We, the Citizens!",
+      "votes": 3304,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Nova Direita",
+      "votes": 10216,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "People Animals Nature",
+      "votes": 86930,
+      "seats": 1,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Unitary Democratic Coalition",
+      "votes": 183686,
+      "seats": 3,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Portuguese Workers' Communist Party",
+      "votes": 11896,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Liberal Social Party",
+      "votes": 7332,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "AD – PSD/CDS Coalition",
+      "votes": 1971602,
+      "seats": 88,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Coalition PSD/CDS/PPM",
+      "votes": 36886,
+      "seats": 3,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "People's Monarchist Party",
+      "votes": 5616,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Socialist Party",
+      "votes": 1442546,
+      "seats": 58,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Portuguese Labour Party",
+      "votes": 425,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "React, Include, Recycle",
+      "votes": 14021,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-2025-assembly",
+      "name": "Volt Portugal",
+      "votes": 12150,
+      "seats": 0,
+      "source": "2025_ar_mapa_oficial_dr.pdf"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "António José Seguro",
+      "votes": 1755563,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "André Ventura",
+      "votes": 1327021,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "João Cotrim de Figueiredo",
+      "votes": 903057,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "Henrique Gouveia e Melo",
+      "votes": 695377,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "Luís Marques Mendes",
+      "votes": 637442,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "Catarina Martins",
+      "votes": 116407,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "António Filipe",
+      "votes": 92644,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "Manuel João Vieira",
+      "votes": 60927,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "Jorge Pinto",
+      "votes": 38588,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "André Pestana",
+      "votes": 10897,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-01-18-round-1",
+      "name": "Humberto Correia",
+      "votes": 4773,
+      "source": "2026 presidential certified map round 1"
+    },
+    {
+      "election": "world-portugal-president-2026-02-08-round-2",
+      "name": "António José Seguro",
+      "votes": 3502613,
+      "source": "2026 presidential certified map round 2"
+    },
+    {
+      "election": "world-portugal-president-2026-02-08-round-2",
+      "name": "André Ventura",
+      "votes": 1737950,
+      "source": "2026 presidential certified map round 2"
+    }
+  ],
+  "notes": "2025 legislative national votes and mandates; both 2026 presidential national tallies. Published certifications retain their stated tabulation discrepancies."
+}
