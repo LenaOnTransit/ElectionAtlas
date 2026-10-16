@@ -1,0 +1,972 @@
+[
+  {
+    "id": "15b42cb1-bc19-5ff5-8ff5-afc00662384f",
+    "country_id": "no",
+    "name": "Liberal movement (pre-1884)",
+    "short_name": "",
+    "color": "#339980",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "45805bdf-4ee5-541d-80a4-ac29a40a14e8",
+    "country_id": "no",
+    "name": "Conservative movement (pre-1884)",
+    "short_name": "",
+    "color": "#993352",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b84844b7-7ef9-5a8a-b072-809876d88136",
+    "country_id": "no",
+    "name": "Liberal Party",
+    "short_name": "V",
+    "color": "#00807b",
+    "ideology_ids": [
+      "ideology-social-liberalism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Liberal_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "c7a2bdff-81ba-55c9-82de-e8f237806d58",
+    "country_id": "no",
+    "name": "Conservative Party",
+    "short_name": "H",
+    "color": "#0065a8",
+    "ideology_ids": [
+      "ideology-liberal-conservatism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Conservative_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "13a00f2b-b05d-5fd0-afdc-29c8fac756da",
+    "country_id": "no",
+    "name": "Moderate Liberal Party",
+    "short_name": "",
+    "color": "#337d99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b2479f43-cb8c-5b8b-86e3-44a380be75ae",
+    "country_id": "no",
+    "name": "Labour Party",
+    "short_name": "Ap",
+    "color": "#e31836",
+    "ideology_ids": [
+      "ideology-social-democracy"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Labour_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "5bc568f6-b040-540b-94ea-4307d2b0be00",
+    "country_id": "no",
+    "name": "Coalition Party",
+    "short_name": "",
+    "color": "#997f33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d1c9d3b5-b2c7-5105-83eb-285ca6039fa6",
+    "country_id": "no",
+    "name": "Labour Democrats",
+    "short_name": "",
+    "color": "#6a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "39b54c6e-728a-55ec-b64c-0e31eb73df92",
+    "country_id": "no",
+    "name": "Free-minded Liberal Party",
+    "short_name": "",
+    "color": "#999133",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "2b14a60f-a8f9-5866-bb19-3c234cc3ddea",
+    "country_id": "no",
+    "name": "Teetotaler Party",
+    "short_name": "",
+    "color": "#995733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "27863fe0-462a-57fa-a29c-95d8d866dd3f",
+    "country_id": "no",
+    "name": "Church Party",
+    "short_name": "",
+    "color": "#763399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "88c363fe-d692-500e-bdc6-4f1ba5589823",
+    "country_id": "no",
+    "name": "Riksmål Party",
+    "short_name": "",
+    "color": "#337499",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "3a991a33-19f3-578c-a11c-0a25be6109ca",
+    "country_id": "no",
+    "name": "Norwegian Agrarian Association",
+    "short_name": "",
+    "color": "#4a3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "78efdf8e-e50a-558e-b2b0-52bd1afb370a",
+    "country_id": "no",
+    "name": "Peace Candidate",
+    "short_name": "",
+    "color": "#799933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "93d75a29-ee8e-565b-81b4-46438212eee4",
+    "country_id": "no",
+    "name": "Centre Party",
+    "short_name": "Sp",
+    "color": "#00843d",
+    "ideology_ids": [
+      "ideology-agrarianism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Centre_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "966cb806-83b5-5b83-bdd7-b03ca3870c6b",
+    "country_id": "no",
+    "name": "Social Democratic Labour Party",
+    "short_name": "",
+    "color": "#99334a",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "0831f5c5-060d-5e64-9307-1824b948f10b",
+    "country_id": "no",
+    "name": "Radical People's Party",
+    "short_name": "",
+    "color": "#8b3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "83a09e7a-c68d-5191-9bf7-13f6b2bfdc52",
+    "country_id": "no",
+    "name": "Communist Party of Norway",
+    "short_name": "NKP",
+    "color": "#a92328",
+    "ideology_ids": [
+      "ideology-communism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Communist_Party_of_Norway",
+    "archived": false
+  },
+  {
+    "id": "93ee214e-63cc-5d8d-b6fd-08497f6de90d",
+    "country_id": "no",
+    "name": "National Legion",
+    "short_name": "",
+    "color": "#6d9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "cd76a628-5445-58df-9dc5-af230746eaba",
+    "country_id": "no",
+    "name": "Fishermen and the Liberal People's Party",
+    "short_name": "",
+    "color": "#829933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "14268457-8c1a-5c1e-af56-c4d830909903",
+    "country_id": "no",
+    "name": "Free-minded People's Party",
+    "short_name": "",
+    "color": "#995b33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "f4210b3f-b1bc-56cf-8b57-620087e5c6f1",
+    "country_id": "no",
+    "name": "Nasjonal Samling",
+    "short_name": "",
+    "color": "#995a33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "da35a31d-af8c-583d-8e01-9bd12aee2f0e",
+    "country_id": "no",
+    "name": "Society Party",
+    "short_name": "",
+    "color": "#337e99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d00be1bd-cfd4-58b6-8272-bebc9d3aaafb",
+    "country_id": "no",
+    "name": "Christian Democratic Party",
+    "short_name": "KrF",
+    "color": "#e5b440",
+    "ideology_ids": [
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Christian_Democratic_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "4d7271b5-66c3-56d3-9a67-17e9dca62d6b",
+    "country_id": "no",
+    "name": "Conservative Party – Free-minded People's Party",
+    "short_name": "",
+    "color": "#993390",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "eb89c640-fece-59af-b020-c448443fdfe9",
+    "country_id": "no",
+    "name": "Free-minded People's Party – Fatherland League",
+    "short_name": "",
+    "color": "#335299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1d5a2f3f-c510-5741-8818-81b29a331aff",
+    "country_id": "no",
+    "name": "Sogn og Fjordane fisker- og småbrukerparti",
+    "short_name": "",
+    "color": "#679933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "62600752-d196-5d31-9b30-bb238271c5a7",
+    "country_id": "no",
+    "name": "Norsk Sosialdemokratisk parti",
+    "short_name": "",
+    "color": "#339989",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "5f67dd1a-2a47-544e-8fac-2df150506103",
+    "country_id": "no",
+    "name": "Socialist People's Party",
+    "short_name": "",
+    "color": "#998b33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b7202215-2888-5f43-98d0-a03ba63861d0",
+    "country_id": "no",
+    "name": "Progress Party",
+    "short_name": "FrP",
+    "color": "#004f80",
+    "ideology_ids": [
+      "ideology-national-conservatism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Progress_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "ff26ea64-099a-5f51-be82-11c4db1b9504",
+    "country_id": "no",
+    "name": "Ensliges parti",
+    "short_name": "",
+    "color": "#643399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "8539aca4-6b85-528a-ab7f-2d285fe2b5a3",
+    "country_id": "no",
+    "name": "Kvinnenes frie folkevalgte",
+    "short_name": "",
+    "color": "#673399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "2c232fab-9bc2-5335-b50e-fa5b0d245caf",
+    "country_id": "no",
+    "name": "Norges demokratiske parti",
+    "short_name": "",
+    "color": "#993369",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "654ba4ee-791d-545d-905d-38a59ae5f17d",
+    "country_id": "no",
+    "name": "Det nye Folkepartiet (1973-1977)",
+    "short_name": "",
+    "color": "#4f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1f9e49e6-62e0-5c63-adb7-5f4a4ff4ab9e",
+    "country_id": "no",
+    "name": "Red Electoral Alliance (1973-2007)",
+    "short_name": "",
+    "color": "#335199",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "06bb76d1-121c-5149-9ccf-5638f67afc6c",
+    "country_id": "no",
+    "name": "Sosialistisk Valgforbund (1973)",
+    "short_name": "",
+    "color": "#993397",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "660bd22c-7418-5d3b-ac15-ba042ac37eb0",
+    "country_id": "no",
+    "name": "Socialist Left Party",
+    "short_name": "SV",
+    "color": "#b51b2b",
+    "ideology_ids": [
+      "ideology-democratic-socialism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Socialist_Left_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "0d4a57d3-3120-5d9e-aaad-79a671dc0c40",
+    "country_id": "no",
+    "name": "Freely Elected",
+    "short_name": "",
+    "color": "#998233",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1fc1714d-9a38-528a-85e5-7c9d903f9600",
+    "country_id": "no",
+    "name": "The Liberal People's Party",
+    "short_name": "",
+    "color": "#6a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "a1568f38-2f17-5792-8cec-dc709725a526",
+    "country_id": "no",
+    "name": "Pensioners' Party",
+    "short_name": "",
+    "color": "#339973",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "965902fa-e03c-5b98-9b12-1931ce442295",
+    "country_id": "no",
+    "name": "Green Party",
+    "short_name": "MDG",
+    "color": "#65a441",
+    "ideology_ids": [
+      "ideology-green-politics"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Green_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "8560e757-0e87-54c7-aed4-f4ecdbc35d14",
+    "country_id": "no",
+    "name": "Environment and Solidarity",
+    "short_name": "",
+    "color": "#993381",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b6fa8f59-2e53-5e54-8c35-3517c2e25719",
+    "country_id": "no",
+    "name": "Future for Finnmark",
+    "short_name": "",
+    "color": "#998033",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "e02d402e-aa09-510e-9162-4da6c0b6fb2e",
+    "country_id": "no",
+    "name": "Stop Immigration",
+    "short_name": "",
+    "color": "#337499",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "54e4fb0c-2fd8-5522-a41b-c92a8c2f2ef4",
+    "country_id": "no",
+    "name": "Christian Conservative Party",
+    "short_name": "",
+    "color": "#99337b",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "4e6aef93-7f59-517e-9aff-7198faa5100f",
+    "country_id": "no",
+    "name": "Common Future",
+    "short_name": "",
+    "color": "#998a33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "a2f4a389-e26e-54f5-aa87-4b4e01c11de0",
+    "country_id": "no",
+    "name": "The Fatherlands Party",
+    "short_name": "",
+    "color": "#993370",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "af65d475-2ccc-5118-b13d-ea0a2b5eb4f1",
+    "country_id": "no",
+    "name": "Freedom Party",
+    "short_name": "",
+    "color": "#998333",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "a677ab3b-a51b-562b-9f9d-df90fc6ee0a1",
+    "country_id": "no",
+    "name": "Nature Law Party",
+    "short_name": "",
+    "color": "#337499",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "72fdd518-6976-576f-8371-54956e9f73e2",
+    "country_id": "no",
+    "name": "New Future Coalition Party",
+    "short_name": "",
+    "color": "#99338e",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6830bd9b-a951-5b8b-99ad-db84fb6df9e9",
+    "country_id": "no",
+    "name": "Children/Elderly",
+    "short_name": "",
+    "color": "#4a3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "e818cf3d-2553-5585-a0ba-9d724dc9d978",
+    "country_id": "no",
+    "name": "Interpolitical Coast and District Party",
+    "short_name": "",
+    "color": "#339972",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "65b15ced-abbb-5cd2-96f8-0052466953a7",
+    "country_id": "no",
+    "name": "Justice Party",
+    "short_name": "",
+    "color": "#713399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "c50eafdc-9651-5401-8d96-6242f766c7b5",
+    "country_id": "no",
+    "name": "White Electoral Alliance",
+    "short_name": "",
+    "color": "#993345",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "067f93c9-0314-586e-828f-5adfe22f52c1",
+    "country_id": "no",
+    "name": "Christian Coalition Party",
+    "short_name": "",
+    "color": "#489933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "ce862489-96f2-5ab5-8ee4-ed3cbc52c35f",
+    "country_id": "no",
+    "name": "Coastal Party",
+    "short_name": "",
+    "color": "#994933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "0db5846b-4aa3-509c-949c-45175fe7312d",
+    "country_id": "no",
+    "name": "Norwegian Peoples Party",
+    "short_name": "",
+    "color": "#99337c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "4f83f2c6-e217-5dee-8d04-186eaee85eb4",
+    "country_id": "no",
+    "name": "The Political Party",
+    "short_name": "",
+    "color": "#569933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7346ec1e-f309-57d8-be73-604c15487cdd",
+    "country_id": "no",
+    "name": "Social Democrats",
+    "short_name": "",
+    "color": "#339940",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "8d57d9e9-518b-52ff-9d5e-de3a37090971",
+    "country_id": "no",
+    "name": "Abort-motstandernes liste",
+    "short_name": "",
+    "color": "#336d99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "fe7eb3e3-b048-536a-9d2c-ce27be95a1d4",
+    "country_id": "no",
+    "name": "Norway Democrats",
+    "short_name": "",
+    "color": "#713399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "15dc2355-226a-52eb-afaa-3335e64f1489",
+    "country_id": "no",
+    "name": "Sami People's List",
+    "short_name": "",
+    "color": "#338899",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "8f9319be-ce7a-5e7f-af99-e1979f5b79ac",
+    "country_id": "no",
+    "name": "Red Party",
+    "short_name": "R",
+    "color": "#e5222b",
+    "ideology_ids": [
+      "ideology-democratic-socialism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Red_Party_(Norway)",
+    "archived": false
+  },
+  {
+    "id": "07f0251a-a191-50d5-ad57-c09ec554e7ae",
+    "country_id": "no",
+    "name": "Cross-party Elected",
+    "short_name": "",
+    "color": "#6a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d169bf0d-55f8-5ab9-8cfa-f4f2a6943b45",
+    "country_id": "no",
+    "name": "Democratic Party",
+    "short_name": "",
+    "color": "#609933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "63a55337-616f-5619-952a-2a1e2d565969",
+    "country_id": "no",
+    "name": "Ett (skrift)språk",
+    "short_name": "",
+    "color": "#33998c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "ff661837-632b-52bb-8336-82e660a0e1e4",
+    "country_id": "no",
+    "name": "Norgespatriotene",
+    "short_name": "",
+    "color": "#339399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "bc134f33-aede-58a7-97c8-f6b83b2dc576",
+    "country_id": "no",
+    "name": "Norsk Republikansk Allianse",
+    "short_name": "",
+    "color": "#994a33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "c754faa8-da15-56bf-9364-84a417604394",
+    "country_id": "no",
+    "name": "Samtidspartiet",
+    "short_name": "",
+    "color": "#993364",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7c6e2235-6734-5711-9941-b3f62cafa262",
+    "country_id": "no",
+    "name": "Sentrumsalliansen",
+    "short_name": "",
+    "color": "#337599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "ecf2d173-f447-55ae-8ad0-a648a7d6361a",
+    "country_id": "no",
+    "name": "Vigrid",
+    "short_name": "",
+    "color": "#993933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "76888d0c-9b3f-535f-9f1b-e488c8d809b3",
+    "country_id": "no",
+    "name": "Conservative (Konservativt)",
+    "short_name": "",
+    "color": "#8a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "08d58460-cc90-5fc1-b86c-cd1c496aee84",
+    "country_id": "no",
+    "name": "Folkeliste mot oljeboring i Lofoten, Vesterålen og Senja",
+    "short_name": "",
+    "color": "#339938",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1cf8e83e-e35b-55fd-a839-6108b75229de",
+    "country_id": "no",
+    "name": "Folkemakten",
+    "short_name": "",
+    "color": "#969933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "27ac52aa-ec16-5f05-98cd-7a6564deb05a",
+    "country_id": "no",
+    "name": "Piratpartiet",
+    "short_name": "",
+    "color": "#603399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6ae5ce37-713c-59e8-a2b0-fb3892a2c1f1",
+    "country_id": "no",
+    "name": "Sykehus til Alta",
+    "short_name": "",
+    "color": "#6d3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "fafde9a3-b6f0-5b2d-91b5-a72d44464221",
+    "country_id": "no",
+    "name": "The Alliance",
+    "short_name": "",
+    "color": "#33998f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "4b796553-459a-5624-9de8-b217c1b4fe97",
+    "country_id": "no",
+    "name": "Capitalist Party of Norway",
+    "short_name": "",
+    "color": "#993396",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "cdd14a4f-f0ec-5378-9277-283108cd4a90",
+    "country_id": "no",
+    "name": "Feministisk Initiativ",
+    "short_name": "",
+    "color": "#337299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "360f56d6-8bbc-538a-b878-e7c26eb56787",
+    "country_id": "no",
+    "name": "Nordmørslista",
+    "short_name": "",
+    "color": "#4c9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "cb9b9566-b9c2-5d30-84e4-eb1a9119bb36",
+    "country_id": "no",
+    "name": "Nordting",
+    "short_name": "",
+    "color": "#7e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "fae10637-7fc2-52d2-8a8f-bfbd9b53c6e2",
+    "country_id": "no",
+    "name": "Norgespartiet",
+    "short_name": "",
+    "color": "#3e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "57a2248e-b4cd-5cb9-91b3-1346c1fa0fc7",
+    "country_id": "no",
+    "name": "Verdipartiet",
+    "short_name": "",
+    "color": "#7b9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "8b233e24-2118-526d-93f1-a97b76f0ce53",
+    "country_id": "no",
+    "name": "Welfare and Innovation Party",
+    "short_name": "",
+    "color": "#339799",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b88236b0-643d-5da8-870d-991090cf3c1b",
+    "country_id": "no",
+    "name": "Alliansen - Alternative for Norway",
+    "short_name": "",
+    "color": "#339963",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "4eb423d2-8bf7-5219-9228-a2ad851a9d4d",
+    "country_id": "no",
+    "name": "Folkets parti",
+    "short_name": "",
+    "color": "#339942",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "ef8a3583-0423-5fb0-8c9e-be8efaf617fc",
+    "country_id": "no",
+    "name": "Generation Party",
+    "short_name": "",
+    "color": "#999633",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "c66ca7c4-c55c-5776-a5a3-2f73aaeef0b4",
+    "country_id": "no",
+    "name": "Industry and Business Party",
+    "short_name": "",
+    "color": "#337399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b1f4e1c9-2bf9-5787-adef-e6bc58501307",
+    "country_id": "no",
+    "name": "Partiet Sentrum",
+    "short_name": "",
+    "color": "#99335d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "2e13a95e-0be8-5528-a248-c8e8c00e39b7",
+    "country_id": "no",
+    "name": "Patient Focus",
+    "short_name": "",
+    "color": "#335999",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "f1b8b908-0bef-5766-938a-3bc2d57b3aba",
+    "country_id": "no",
+    "name": "Redd Naturen",
+    "short_name": "",
+    "color": "#993354",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "14ccd97f-bb0f-5524-a955-6a64ec40f2d7",
+    "country_id": "no",
+    "name": "The DNI Party",
+    "short_name": "",
+    "color": "#993c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "9838ebf1-e93d-59f4-a3dc-902184db6f2c",
+    "country_id": "no",
+    "name": "The Loneliness Party",
+    "short_name": "",
+    "color": "#996533",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "35c18bc3-d685-5fe4-ac96-15a3174b96ff",
+    "country_id": "no",
+    "name": "Peace and Justice",
+    "short_name": "",
+    "color": "#7f3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "795c2b4b-0462-5883-ae34-12168b896106",
+    "country_id": "no",
+    "name": "Save Ullevål Hospital",
+    "short_name": "",
+    "color": "#913399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  }
+]
