@@ -1,0 +1,3047 @@
+[
+  {
+    "id": "world-portugal-president-2021-01-24",
+    "source": "https://en.wikipedia.org/wiki/2021_Portuguese_presidential_election",
+    "sourceSha256": "e8daff72ba0eff77fe8dcebf424f37273dc1aa74660b4b1f4091031412d74291",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 4173174,
+    "recordedVotes": 4173174,
+    "meta": {
+      "Total": {
+        "votes": 4173174,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 4173174,
+        "share": 98.0,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 38018,
+        "share": 0.89,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 47164,
+        "share": 1.11,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 4258356,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 10847434,
+        "share": 39.26,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-2026-01-18-round-1",
+    "source": "https://en.wikipedia.org/wiki/2026_Portuguese_presidential_election",
+    "sourceSha256": "09c0a8355148ad5de62ffc349fc14599bade0bd598998e836ab2016d0f0f3fb3",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 5642696,
+    "recordedVotes": 5642696,
+    "meta": {
+      "Total": {
+        "votes": 5642696,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 5642696,
+        "share": 97.82,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 64565,
+        "share": 1.12,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 61275,
+        "share": 1.06,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5768536,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 11009803,
+        "share": 52.39,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-2026-02-08-round-2",
+    "source": "https://en.wikipedia.org/wiki/2026_Portuguese_presidential_election",
+    "sourceSha256": "09c0a8355148ad5de62ffc349fc14599bade0bd598998e836ab2016d0f0f3fb3",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 5240563,
+    "recordedVotes": 5240563,
+    "meta": {
+      "Total": {
+        "votes": 5240563,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 5240563,
+        "share": 95.01,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 98342,
+        "share": 1.78,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 177072,
+        "share": 3.21,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5515977,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 11025823,
+        "share": 50.03,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-2024-03-10",
+    "source": "https://en.wikipedia.org/wiki/2024_Portuguese_legislative_election",
+    "sourceSha256": "30a0d2cdf3e33713a7395b50900dffce3ffc4509e966f166dfd5a7deae4dc746",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 6194709,
+    "recordedVotes": 6194709,
+    "meta": {
+      "Total": {
+        "votes": 6194709,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 6194709,
+        "share": 95.64,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 192396,
+        "share": 2.97,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 89847,
+        "share": 1.39,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 6476952,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 10813643,
+        "share": 59.9,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-2025-assembly",
+    "source": "https://en.wikipedia.org/wiki/2025_Portuguese_legislative_election",
+    "sourceSha256": "70179d97897ae8cd7b191bc4beee41998bf1965f371a45ef73ffdb1639a3d58a",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 6059321,
+    "recordedVotes": 6059321,
+    "meta": {
+      "Total": {
+        "votes": 6059321,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 6059321,
+        "share": 95.88,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 172994,
+        "share": 2.74,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 87654,
+        "share": 1.39,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 6319969,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 10848816,
+        "share": 58.25,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-constituent-assembly-1975-04-25",
+    "source": "https://en.wikipedia.org/wiki/1975_Portuguese_Constituent_Assembly_election",
+    "sourceSha256": "c1bfd5857b1c836fa337bcf76f972ed7b775b73175c7ba0c087c21ff10e4b6b2",
+    "expectedSeats": 250,
+    "recordedSeats": 250,
+    "expectedVotes": 5315154,
+    "recordedVotes": 5315154,
+    "meta": {
+      "Total": {
+        "votes": 5315154,
+        "share": 100.0,
+        "seats": 250
+      },
+      "Valid votes": {
+        "votes": 5315154,
+        "share": 93.06,
+        "seats": null
+      },
+      "Invalid/blank votes": {
+        "votes": 396675,
+        "share": 6.94,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5711829,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 6231372,
+        "share": 91.66,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1976-04-25",
+    "source": "https://en.wikipedia.org/wiki/1976_Portuguese_legislative_election",
+    "sourceSha256": "4c0548b93327a69dd0a673d43781e35939ccc287c65f4b65c29b9e338111010b",
+    "expectedSeats": 263,
+    "recordedSeats": 263,
+    "expectedVotes": 5225765,
+    "recordedVotes": 5225765,
+    "meta": {
+      "Total": {
+        "votes": 5225765,
+        "share": 100.0,
+        "seats": 263
+      },
+      "Valid votes": {
+        "votes": 5225765,
+        "share": 95.3,
+        "seats": null
+      },
+      "Invalid/blank votes": {
+        "votes": 257696,
+        "share": 4.7,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5483461,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 6564667,
+        "share": 83.53,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1979-12-02",
+    "source": "https://en.wikipedia.org/wiki/1979_Portuguese_legislative_election",
+    "sourceSha256": "0dd2dc9ef8a3ef8dfcf5036f43d63574bcb8506f8a6f4f68d01c79a4b6f08b1f",
+    "expectedSeats": 250,
+    "recordedSeats": 250,
+    "expectedVotes": 5843739,
+    "recordedVotes": 5843739,
+    "meta": {
+      "Total": {
+        "votes": 5843739,
+        "share": 100.0,
+        "seats": 250
+      },
+      "Valid votes": {
+        "votes": 5843739,
+        "share": 97.27,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 120851,
+        "share": 2.01,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 42863,
+        "share": 0.71,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 6007453,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 7249346,
+        "share": 82.87,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1980-10-05",
+    "source": "https://en.wikipedia.org/wiki/1980_Portuguese_legislative_election",
+    "sourceSha256": "643a88c6e43ebb2375034411840fa3780853dfc595d555b9165402a013e989db",
+    "expectedSeats": 250,
+    "recordedSeats": 250,
+    "expectedVotes": 5888733,
+    "recordedVotes": 5888733,
+    "meta": {
+      "Total": {
+        "votes": 5888733,
+        "share": 100.0,
+        "seats": 250
+      },
+      "Valid votes": {
+        "votes": 5888733,
+        "share": 97.72,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 103140,
+        "share": 1.71,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 34522,
+        "share": 0.57,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 6026395,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 7179023,
+        "share": 83.94,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1983-04-25",
+    "source": "https://en.wikipedia.org/wiki/1983_Portuguese_legislative_election",
+    "sourceSha256": "33be68d1ce0e44e92e6c70365399cc962dbce1d51d4403bae11e982b7eeb4fbb",
+    "expectedSeats": 250,
+    "recordedSeats": 250,
+    "expectedVotes": 5560925,
+    "recordedVotes": 5560925,
+    "meta": {
+      "Total": {
+        "votes": 5560925,
+        "share": 100.0,
+        "seats": 250
+      },
+      "Valid votes": {
+        "votes": 5560925,
+        "share": 97.43,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 104276,
+        "share": 1.83,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 42494,
+        "share": 0.74,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5707695,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 7337064,
+        "share": 77.79,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1985-10-06",
+    "source": "https://en.wikipedia.org/wiki/1985_Portuguese_legislative_election",
+    "sourceSha256": "ca41030ab36626aab0201d0e11124741f889f5477674a7f229634f64153c0ce9",
+    "expectedSeats": 250,
+    "recordedSeats": 250,
+    "expectedVotes": 5653610,
+    "recordedVotes": 5653610,
+    "meta": {
+      "Total": {
+        "votes": 5653610,
+        "share": 100.0,
+        "seats": 250
+      },
+      "Valid votes": {
+        "votes": 5653610,
+        "share": 97.49,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 96610,
+        "share": 1.67,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 48709,
+        "share": 0.84,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5798929,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 7818981,
+        "share": 74.16,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1987-07-19",
+    "source": "https://en.wikipedia.org/wiki/1987_Portuguese_legislative_election",
+    "sourceSha256": "17a23b7483c36b1b888ca529e255c598fd4e9ec6e9ac2beb017b5a259fa635dd",
+    "expectedSeats": 250,
+    "recordedSeats": 250,
+    "expectedVotes": 5552690,
+    "recordedVotes": 5552690,
+    "meta": {
+      "Total": {
+        "votes": 5552690,
+        "share": 100.0,
+        "seats": 250
+      },
+      "Valid votes": {
+        "votes": 5552690,
+        "share": 97.82,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 73533,
+        "share": 1.3,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 50135,
+        "share": 0.88,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5676358,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 7930668,
+        "share": 71.57,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1991-10-06",
+    "source": "https://en.wikipedia.org/wiki/1991_Portuguese_legislative_election",
+    "sourceSha256": "933d9cea35245b732ae006da8fff9e48a8b1b2c6408aa0288ce1a5f121580629",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5624759,
+    "recordedVotes": 5624759,
+    "meta": {
+      "Total": {
+        "votes": 5624759,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5624759,
+        "share": 98.07,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 63020,
+        "share": 1.1,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 47652,
+        "share": 0.83,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5735431,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 8462357,
+        "share": 67.78,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1995-10-01",
+    "source": "https://en.wikipedia.org/wiki/1995_Portuguese_legislative_election",
+    "sourceSha256": "b2d1eca49c7cfb5b116013b8b9607a9f1f497ab0b64bc0428aaa0631cd12e472",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5791761,
+    "recordedVotes": 5791761,
+    "meta": {
+      "Total": {
+        "votes": 5791761,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5791761,
+        "share": 98.08,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 67300,
+        "share": 1.14,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 45793,
+        "share": 0.78,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5904854,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 8906608,
+        "share": 66.3,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-1999-10-10",
+    "source": "https://en.wikipedia.org/wiki/1999_Portuguese_legislative_election",
+    "sourceSha256": "68e6ce6ec88c026e65c51633277eab2f251e38271b6a83247f3aa85957aae89c",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5306956,
+    "recordedVotes": 5306956,
+    "meta": {
+      "Total": {
+        "votes": 5306956,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5306956,
+        "share": 98.0,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 51230,
+        "share": 0.95,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 56964,
+        "share": 1.05,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5415150,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 8864604,
+        "share": 61.09,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-2002-03-17",
+    "source": "https://en.wikipedia.org/wiki/2002_Portuguese_legislative_election",
+    "sourceSha256": "d8e483cc3af6e9cea8889f5415891b7e0deaf6cb0f99f40ca9df0219ef67e6e4",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5365077,
+    "recordedVotes": 5365077,
+    "meta": {
+      "Total": {
+        "votes": 5365077,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5365077,
+        "share": 98.03,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 52653,
+        "share": 0.96,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 55121,
+        "share": 1.01,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5472851,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 8902713,
+        "share": 61.47,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-2005-02-20",
+    "source": "https://en.wikipedia.org/wiki/2005_Portuguese_legislative_election",
+    "sourceSha256": "96e772c0b29fe1e55e8d1f21b2bebbafbd18176e9e161058888914873a924921",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5578619,
+    "recordedVotes": 5578619,
+    "meta": {
+      "Total": {
+        "votes": 5578619,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5578619,
+        "share": 97.06,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 65515,
+        "share": 1.14,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 103537,
+        "share": 1.8,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5747671,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 8944508,
+        "share": 64.26,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-2009-09-27",
+    "source": "https://en.wikipedia.org/wiki/2009_Portuguese_legislative_election",
+    "sourceSha256": "fef410b6c56fb310186d86987d8224abd49076f8f4839617aaa9b0fe572f1d52",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5505278,
+    "recordedVotes": 5505278,
+    "meta": {
+      "Total": {
+        "votes": 5505278,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5505278,
+        "share": 96.9,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 76894,
+        "share": 1.35,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 99086,
+        "share": 1.74,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5681258,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 9519921,
+        "share": 59.68,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-2011-06-05",
+    "source": "https://en.wikipedia.org/wiki/2011_Portuguese_legislative_election",
+    "sourceSha256": "5c6cdeae8548fd5f4925ab2d8dfbc7dfb490c391caba46ab78ecc5d5954216d5",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5356612,
+    "recordedVotes": 5356612,
+    "meta": {
+      "Total": {
+        "votes": 5356612,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5356612,
+        "share": 95.92,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 79399,
+        "share": 1.42,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 148618,
+        "share": 2.66,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5584629,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 9624354,
+        "share": 58.03,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-2015-10-04",
+    "source": "https://en.wikipedia.org/wiki/2015_Portuguese_legislative_election",
+    "sourceSha256": "6b37b8ada9e6196ee7ed86ec14c6267279c941e60239a55557649690085cd87e",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5206113,
+    "recordedVotes": 5206113,
+    "meta": {
+      "Total": {
+        "votes": 5206113,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5206113,
+        "share": 96.27,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 89024,
+        "share": 1.65,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 112955,
+        "share": 2.09,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5408092,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 9684922,
+        "share": 55.84,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-2019-10-06",
+    "source": "https://en.wikipedia.org/wiki/2019_Portuguese_legislative_election",
+    "sourceSha256": "6d901c01880bcfc089d98a722142b78d259e27df031bf112be89668793b6d92e",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 4982609,
+    "recordedVotes": 4982609,
+    "meta": {
+      "Total": {
+        "votes": 4982609,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 4982609,
+        "share": 95.13,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 123573,
+        "share": 2.36,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 131302,
+        "share": 2.51,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5237484,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 10777258,
+        "share": 48.6,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-assembly-2022-01-30",
+    "source": "https://en.wikipedia.org/wiki/2022_Portuguese_legislative_election",
+    "sourceSha256": "746fee94c48c49afdbffd736fe6f819afa46727e5bd09391eef3d5dc432bb7b7",
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "expectedVotes": 5417715,
+    "recordedVotes": 5417715,
+    "meta": {
+      "Total": {
+        "votes": 5417715,
+        "share": 100.0,
+        "seats": 230
+      },
+      "Valid votes": {
+        "votes": 5417715,
+        "share": 97.36,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 83721,
+        "share": 1.5,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 63103,
+        "share": 1.13,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5564539,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 10813246,
+        "share": 51.46,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1986-01-26-round-1",
+    "source": "https://en.wikipedia.org/wiki/1986_Portuguese_presidential_election",
+    "sourceSha256": "943af4031bb50391f79028ea67ff27970b85991798892babdfa4f0300da33028",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 5678108,
+    "recordedVotes": 5678108,
+    "meta": {
+      "Total": {
+        "votes": 5678108,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 5678108,
+        "share": 98.87,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 18292,
+        "share": 0.32,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 46334,
+        "share": 0.81,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5742734,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 7617257,
+        "share": 75.39,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1986-02-16-round-2",
+    "source": "https://en.wikipedia.org/wiki/1986_Portuguese_presidential_election",
+    "sourceSha256": "943af4031bb50391f79028ea67ff27970b85991798892babdfa4f0300da33028",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 5882820,
+    "recordedVotes": 5882820,
+    "meta": {
+      "Total": {
+        "votes": 5882820,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 5882820,
+        "share": 99.09,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 20436,
+        "share": 0.34,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 33844,
+        "share": 0.57,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5937100,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 7612633,
+        "share": 77.99,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1928-03-25",
+    "source": "https://en.wikipedia.org/wiki/1928_Portuguese_presidential_election",
+    "sourceSha256": "27d2f5ea81aa7ad5ec6bc320c869c3be9802e3667a66ae15702f286538af9a18",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 761730,
+    "recordedVotes": 761730,
+    "meta": {
+      "Total": {
+        "votes": 761730,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 761730,
+        "share": 99.64,
+        "seats": null
+      },
+      "Invalid/blank votes": {
+        "votes": 2753,
+        "share": 0.36,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 764483,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1092591,
+        "share": 69.97,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1935-02-17",
+    "source": "https://en.wikipedia.org/wiki/1935_Portuguese_presidential_election",
+    "sourceSha256": "44079228e7dfcae9b7ce74a764d60562dae931113939a48d7114e79437b10e17",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 653754,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 775580,
+        "share": 84.29,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1942-02-08",
+    "source": "https://en.wikipedia.org/wiki/1942_Portuguese_presidential_election",
+    "sourceSha256": "f4670a14f252aaaa620c81359091b1302971ea71d1380750324ba01acecb7290",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 829042,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 909790,
+        "share": 91.12,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1949-02-13",
+    "source": "https://en.wikipedia.org/wiki/1949_Portuguese_presidential_election",
+    "sourceSha256": "aea86a4629da9fa8ed521dc8fe4e25cc692dbc785375156c375686c7ef1da987",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 875598,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1128198,
+        "share": 77.61,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1951-07-22",
+    "source": "https://en.wikipedia.org/wiki/1951_Portuguese_presidential_election",
+    "sourceSha256": "66b6ef5348737240c9ba3986079ec2e89b3dadaf13d0f196086b716f6efe6780",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 965236,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1250746,
+        "share": 77.17,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1958-06-08",
+    "source": "https://en.wikipedia.org/wiki/1958_Portuguese_presidential_election",
+    "sourceSha256": "cb3383f1f6fe744cbb6c9a3a52170a2844054f479eaef905269a62f031730f4b",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 1001138,
+    "recordedVotes": 1001138,
+    "meta": {
+      "Total": {
+        "votes": 1001138,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 1001138,
+        "share": 99.97,
+        "seats": null
+      },
+      "Invalid/blank votes": {
+        "votes": 340,
+        "share": 0.03,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 1001478,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1294779,
+        "share": 77.35,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1976-06-27",
+    "source": "https://en.wikipedia.org/wiki/1976_Portuguese_presidential_election",
+    "sourceSha256": "ed1c88a8a32893499ed080c519bea15762b50f23c5d0fe59e42de94290488e02",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 4817630,
+    "recordedVotes": 4817630,
+    "meta": {
+      "Total": {
+        "votes": 4817630,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 4817630,
+        "share": 98.7,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 20253,
+        "share": 0.41,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 43242,
+        "share": 0.89,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 4881125,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 6467480,
+        "share": 75.47,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1980-12-07",
+    "source": "https://en.wikipedia.org/wiki/1980_Portuguese_presidential_election",
+    "sourceSha256": "aa2acd7910b8e2a4bff420d42d0a6b9d82691473341113843d5a1507c7dbf00b",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 5780242,
+    "recordedVotes": 5780242,
+    "meta": {
+      "Total": {
+        "votes": 5780242,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 5780242,
+        "share": 98.97,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 16076,
+        "share": 0.28,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 44014,
+        "share": 0.75,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5840332,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 6920869,
+        "share": 84.39,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1991-01-13",
+    "source": "https://en.wikipedia.org/wiki/1991_Portuguese_presidential_election",
+    "sourceSha256": "083bb294c7df0dd3dcf2d371dca7f675aefacc63276c43e623d59eebd5de4d61",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 4917854,
+    "recordedVotes": 4917854,
+    "meta": {
+      "Total": {
+        "votes": 4917854,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 4917854,
+        "share": 96.45,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 68037,
+        "share": 1.33,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 112877,
+        "share": 2.21,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5098768,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 8202212,
+        "share": 62.16,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1996-01-14",
+    "source": "https://en.wikipedia.org/wiki/1996_Portuguese_presidential_election",
+    "sourceSha256": "006c2dcc34b57cdffedb1c43fbc79f14f6d26fbca96e764729266d78a7d24093",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 5630187,
+    "recordedVotes": 5630187,
+    "meta": {
+      "Total": {
+        "votes": 5630187,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 5630187,
+        "share": 97.7,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 63463,
+        "share": 1.1,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 69328,
+        "share": 1.2,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5762978,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 8693636,
+        "share": 66.29,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-2001-01-14",
+    "source": "https://en.wikipedia.org/wiki/2001_Portuguese_presidential_election",
+    "sourceSha256": "e0391e2cd0a74e6f0af0cdea2cb81b8e8c9eea56608a3df206a53725531e4272",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 4321899,
+    "recordedVotes": 4321899,
+    "meta": {
+      "Total": {
+        "votes": 4321899,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 4321899,
+        "share": 97.13,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 45510,
+        "share": 1.02,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 82391,
+        "share": 1.85,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 4449800,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 8950905,
+        "share": 49.71,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-2006-01-22",
+    "source": "https://en.wikipedia.org/wiki/2006_Portuguese_presidential_election",
+    "sourceSha256": "f04e363547de40b8b0e66cd99f89b5159fe70d537de44bec66d978d086533cfb",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 5487347,
+    "recordedVotes": 5487347,
+    "meta": {
+      "Total": {
+        "votes": 5487347,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 5487347,
+        "share": 98.16,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 43149,
+        "share": 0.77,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 59636,
+        "share": 1.07,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 5590132,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 9085339,
+        "share": 61.53,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-2011-01-23",
+    "source": "https://en.wikipedia.org/wiki/2011_Portuguese_presidential_election",
+    "sourceSha256": "1d6d99264e08b8a34117411eba2c6a8e5ada781e6ae39d3b9e5119a3a8f6c474",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 4214860,
+    "recordedVotes": 4214860,
+    "meta": {
+      "Total": {
+        "votes": 4214860,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 4214860,
+        "share": 93.82,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 85466,
+        "share": 1.9,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 192127,
+        "share": 4.28,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 4492453,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 9657312,
+        "share": 46.52,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-2016-01-24",
+    "source": "https://en.wikipedia.org/wiki/2016_Portuguese_presidential_election",
+    "sourceSha256": "c8ce66229d3f5059d833bda4f7cc739061115ae8bb729d41b9cb3f53b353a7b6",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 4642015,
+    "recordedVotes": 4642015,
+    "meta": {
+      "Total": {
+        "votes": 4642015,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 4642015,
+        "share": 97.84,
+        "seats": null
+      },
+      "Invalid votes": {
+        "votes": 43588,
+        "share": 0.92,
+        "seats": null
+      },
+      "Blank votes": {
+        "votes": 58964,
+        "share": 1.24,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 4744567,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 9751398,
+        "share": 48.66,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1834-07-13",
+    "source": "https://en.wikipedia.org/wiki/1834_Portuguese_legislative_election",
+    "sourceSha256": "77883e1c19da15f7eae2088fc57914239d22a03a69b22e4ba6c7324dd7532fd4",
+    "expectedSeats": 143,
+    "recordedSeats": 143,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 143
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1836-07-17",
+    "source": "https://en.wikipedia.org/wiki/July_1836_Portuguese_legislative_election",
+    "sourceSha256": "ab8bc302cbf0457fe4cd54231f10a7467a200b09754290872d21db7df7db37c7",
+    "expectedSeats": 141,
+    "recordedSeats": 141,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 141
+      }
+    }
+  },
+  {
+    "id": "world-portugal-constituent-cortes-1836-11-20",
+    "source": "https://en.wikipedia.org/wiki/November_1836_Portuguese_legislative_election",
+    "sourceSha256": "1142ba95455f16d4c01f3970796ea885f87661f5d77771f1d50f6e7a7f174479",
+    "expectedSeats": 130,
+    "recordedSeats": 130,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 130
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1842-06-05",
+    "source": "https://en.wikipedia.org/wiki/1842_Portuguese_legislative_election",
+    "sourceSha256": "b4c25237bccb0f63865e4ef27a9f10d64a8bb09ccade9e4cdba0a24526e97040",
+    "expectedSeats": 145,
+    "recordedSeats": 145,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 145
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1851-11-02",
+    "source": "https://en.wikipedia.org/wiki/1851_Portuguese_legislative_election",
+    "sourceSha256": "a5705f12101cb57d9d2a72ee30e3a52d1566e26b80259c136492524193c3e3e2",
+    "expectedSeats": 159,
+    "recordedSeats": 159,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 159
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1852-12-12",
+    "source": "https://en.wikipedia.org/wiki/1852_Portuguese_legislative_election",
+    "sourceSha256": "a9cabdfe1e6cb168980fa7a09592c2fcb65a3451c001d30608005b274cf5b677",
+    "expectedSeats": 156,
+    "recordedSeats": 156,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 156
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1856-11-09",
+    "source": "https://en.wikipedia.org/wiki/1856_Portuguese_legislative_election",
+    "sourceSha256": "378a7466f4cb7e263159ced0180aebf407c5fdd5e23f488a92230c796460e8d5",
+    "expectedSeats": 162,
+    "recordedSeats": 162,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 162
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1858-05-02",
+    "source": "https://en.wikipedia.org/wiki/1858_Portuguese_legislative_election",
+    "sourceSha256": "4944d329f32221b6c9c41b454646e53e0efa300f7bad1e6fc5216c6dd6360f81",
+    "expectedSeats": 162,
+    "recordedSeats": 162,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 162
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1860-01-01",
+    "source": "https://en.wikipedia.org/wiki/1860_Portuguese_legislative_election",
+    "sourceSha256": "eb158d63d9f188056e50bb5a0fd9c6d700b92910995e34ae36ac5c70c661ee5a",
+    "expectedSeats": 179,
+    "recordedSeats": 179,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 179
+      },
+      "Registered voters/turnout": {
+        "votes": 310494,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1861-04-22",
+    "source": "https://en.wikipedia.org/wiki/1861_Portuguese_legislative_election",
+    "sourceSha256": "fd13bcd59a54f422875a7cc8fa089a0da7336de0cbfdf236b9503b9da61d7e6b",
+    "expectedSeats": 177,
+    "recordedSeats": 177,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 177
+      },
+      "Total votes": {
+        "votes": 194818,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 302169,
+        "share": 64.47,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1864-09-11",
+    "source": "https://en.wikipedia.org/wiki/1864_Portuguese_legislative_election",
+    "sourceSha256": "f03e693b46dfb70b21f6d78da737b603e0cf8b7c6162e785cb6791be8f40be95",
+    "expectedSeats": 177,
+    "recordedSeats": 177,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 177
+      },
+      "Total votes": {
+        "votes": 238462,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 350145,
+        "share": 68.1,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1865-07-08",
+    "source": "https://en.wikipedia.org/wiki/1865_Portuguese_legislative_election",
+    "sourceSha256": "79e51210ed55dd4680abadd5db84c382f3a9854ee6a6a4978f1518c896ac6eda",
+    "expectedSeats": 177,
+    "recordedSeats": 177,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 177
+      },
+      "Total votes": {
+        "votes": 239060,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 331921,
+        "share": 72.02,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1868-03-22",
+    "source": "https://en.wikipedia.org/wiki/1868_Portuguese_legislative_election",
+    "sourceSha256": "47842e92c1e5855352a69e0c2427dee31a16b4c06cd53c3560d45a2fe1b4b63c",
+    "expectedSeats": 179,
+    "recordedSeats": 179,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 179
+      },
+      "Total votes": {
+        "votes": 266018,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 366448,
+        "share": 72.59,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1869-04-11",
+    "source": "https://en.wikipedia.org/wiki/1869_Portuguese_legislative_election",
+    "sourceSha256": "64c697bafd1bb226040952e75ee6a650592a9799b9f41af9806d91324fba8ca5",
+    "expectedSeats": 107,
+    "recordedSeats": 107,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 107
+      },
+      "Total votes": {
+        "votes": 222055,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 368237,
+        "share": 60.3,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1870-03-13",
+    "source": "https://en.wikipedia.org/wiki/March_1870_Portuguese_legislative_election",
+    "sourceSha256": "43e04c74f207a10856ab1860efe072a944ec9e5fc50c78c5f9d69a899fce1938",
+    "expectedSeats": 107,
+    "recordedSeats": 107,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 107
+      },
+      "Total votes": {
+        "votes": 227298,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 366886,
+        "share": 61.95,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1870-09-18",
+    "source": "https://en.wikipedia.org/wiki/September_1870_Portuguese_legislative_election",
+    "sourceSha256": "9148f282a2fa7139f579f19d03727fe189869291b2382cef6e67725dfd1a79f5",
+    "expectedSeats": 107,
+    "recordedSeats": 107,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 107
+      },
+      "Total votes": {
+        "votes": 230789,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 422642,
+        "share": 54.61,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1871-07-09",
+    "source": "https://en.wikipedia.org/wiki/1871_Portuguese_legislative_election",
+    "sourceSha256": "1cfad69508b399bd7df4f4e149a53fe378ddfa7282c9f781290e773021871a2c",
+    "expectedSeats": 107,
+    "recordedSeats": 107,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 107
+      },
+      "Total votes": {
+        "votes": 242714,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 430289,
+        "share": 56.41,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1874-07-12",
+    "source": "https://en.wikipedia.org/wiki/1874_Portuguese_legislative_election",
+    "sourceSha256": "74f20daa58007b0ee65994c1b300da78a765b0d750a9b816674e579fabc1125b",
+    "expectedSeats": 107,
+    "recordedSeats": 107,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 107
+      },
+      "Total votes": {
+        "votes": 291402,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 452036,
+        "share": 64.46,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1878-10-13",
+    "source": "https://en.wikipedia.org/wiki/1878_Portuguese_legislative_election",
+    "sourceSha256": "3e2d3360b443a0fcf96ab252b18adb233be3ca55f48b544c6c2c3763f916a50b",
+    "expectedSeats": 137,
+    "recordedSeats": 137,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 137
+      },
+      "Total votes": {
+        "votes": 523929,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 824726,
+        "share": 63.53,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1879-10-19",
+    "source": "https://en.wikipedia.org/wiki/1879_Portuguese_legislative_election",
+    "sourceSha256": "284fb924a412d04b252221c833f31ff4d087515a7f82e98ee7b538e8247b4e39",
+    "expectedSeats": 137,
+    "recordedSeats": 137,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 137
+      },
+      "Total votes": {
+        "votes": 539915,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 831764,
+        "share": 64.91,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1881-08-21",
+    "source": "https://en.wikipedia.org/wiki/1881_Portuguese_legislative_election",
+    "sourceSha256": "6c29cb95fe5a8f9c9a49d1dce35a297ddf868ba49bd41189fd6ebf575bb62010",
+    "expectedSeats": 137,
+    "recordedSeats": 137,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 137
+      },
+      "Total votes": {
+        "votes": 491766,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 841511,
+        "share": 58.44,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1884-06-29",
+    "source": "https://en.wikipedia.org/wiki/1884_Portuguese_legislative_election",
+    "sourceSha256": "7f57ec400151e8287ec043e5e7851b7fe28c688aaf9c24235def838ac3f007ba",
+    "expectedSeats": 151,
+    "recordedSeats": 151,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 151
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1887-03-06",
+    "source": "https://en.wikipedia.org/wiki/1887_Portuguese_legislative_election",
+    "sourceSha256": "4069b82d78ef711e2334a1a1e7ae6d484d5b55776fe8dd56fa731fae3668e294",
+    "expectedSeats": 152,
+    "recordedSeats": 152,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 152
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1889-10-20",
+    "source": "https://en.wikipedia.org/wiki/1889_Portuguese_legislative_election",
+    "sourceSha256": "ca10287bd1f5da6674f1345dee4339b3c372ec9c3e8f80a95f6506a0e42f6b82",
+    "expectedSeats": 152,
+    "recordedSeats": 152,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 152
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1890-03-30",
+    "source": "https://en.wikipedia.org/wiki/1890_Portuguese_legislative_election",
+    "sourceSha256": "251b2ec572f47b92b7a2abf4a23ade00e115c01d7b5f27e53d0b88754f2900a1",
+    "expectedSeats": 152,
+    "recordedSeats": 152,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 152
+      },
+      "Registered voters/turnout": {
+        "votes": 951490,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1892-10-23",
+    "source": "https://en.wikipedia.org/wiki/1892_Portuguese_legislative_election",
+    "sourceSha256": "3249792ed78023995a8e7fd123e1e897b116280bbd36ad54100abcb1373c10f5",
+    "expectedSeats": 152,
+    "recordedSeats": 152,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 152
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1894-04-15",
+    "source": "https://en.wikipedia.org/wiki/1894_Portuguese_legislative_election",
+    "sourceSha256": "60b092870c26d0c30d0663fd0415c05b450eb7049cda8794cb0137f95b63ecbf",
+    "expectedSeats": 152,
+    "recordedSeats": 152,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 152
+      },
+      "Registered voters/turnout": {
+        "votes": 986233,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1895-11-17",
+    "source": "https://en.wikipedia.org/wiki/1895_Portuguese_legislative_election",
+    "sourceSha256": "82124954ba57e201b885e1d73c22f48a0525f61457c9dfc2077a1b6c380f332c",
+    "expectedSeats": 114,
+    "recordedSeats": 114,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 114
+      },
+      "Registered voters/turnout": {
+        "votes": 493869,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1897-05-02",
+    "source": "https://en.wikipedia.org/wiki/1897_Portuguese_legislative_election",
+    "sourceSha256": "281b53d16cd6710fb5092b5a9b10efc692a3a88edc7d943f327335e11bcf6e4f",
+    "expectedSeats": 114,
+    "recordedSeats": 114,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 114
+      },
+      "Registered voters/turnout": {
+        "votes": 525466,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1899-11-26",
+    "source": "https://en.wikipedia.org/wiki/1899_Portuguese_legislative_election",
+    "sourceSha256": "4b55c7f103bfb6b32969cfd2761ecd740742ade80c63e525759a1d5fdd332216",
+    "expectedSeats": 138,
+    "recordedSeats": 138,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 138
+      },
+      "Registered voters/turnout": {
+        "votes": 551437,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1900-11-25",
+    "source": "https://en.wikipedia.org/wiki/1900_Portuguese_legislative_election",
+    "sourceSha256": "eef21e19edd31f6fa9f75c8db7edc8d0251a08db026b8c8dfaf763cde084aa63",
+    "expectedSeats": 138,
+    "recordedSeats": 138,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 138
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1901-10-06",
+    "source": "https://en.wikipedia.org/wiki/1901_Portuguese_legislative_election",
+    "sourceSha256": "7ff0501215cdaf7613b22ceb2d63a04e8cdeec508afe77aa54988237da31c4eb",
+    "expectedSeats": 148,
+    "recordedSeats": 148,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 148
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1904-06-26",
+    "source": "https://en.wikipedia.org/wiki/1904_Portuguese_legislative_election",
+    "sourceSha256": "59372cfc504d6d7b8fce48b2e0da07d76bbce44eb126547265a23b7d18199454",
+    "expectedSeats": 148,
+    "recordedSeats": 148,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 148
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1905-02-12",
+    "source": "https://en.wikipedia.org/wiki/1905_Portuguese_legislative_election",
+    "sourceSha256": "fb47c617ed6ab8c750bb570ef5c83a82cfe32865530177a4ab80d2d16a99fc72",
+    "expectedSeats": 148,
+    "recordedSeats": 148,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 148
+      },
+      "Registered voters/turnout": {
+        "votes": 679926,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1906-04-29",
+    "source": "https://en.wikipedia.org/wiki/April_1906_Portuguese_legislative_election",
+    "sourceSha256": "4321abf43efbc236ceea891ddbc5583c819473180a69d9c65dd5eac210e14085",
+    "expectedSeats": 148,
+    "recordedSeats": 148,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 148
+      },
+      "Total votes": {
+        "votes": 491287,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 677693,
+        "share": 72.49,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1906-08-19",
+    "source": "https://en.wikipedia.org/wiki/August_1906_Portuguese_legislative_election",
+    "sourceSha256": "e69f8b7e82f5eef5e5a2bec20333587e4dc82c25717f0dc65224067cc862b55e",
+    "expectedSeats": 148,
+    "recordedSeats": 148,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 148
+      },
+      "Total votes": {
+        "votes": 489778,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 677693,
+        "share": 72.27,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1908-04-05",
+    "source": "https://en.wikipedia.org/wiki/1908_Portuguese_legislative_election",
+    "sourceSha256": "dcefa5e66268e1f5cac254ebda9b84fb3b7f77d77ce9c83e8b6d731f29753f5f",
+    "expectedSeats": 148,
+    "recordedSeats": 148,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 148
+      },
+      "Total votes": {
+        "votes": 450199,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 655491,
+        "share": 68.68,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1910-08-28",
+    "source": "https://en.wikipedia.org/wiki/1910_Portuguese_legislative_election",
+    "sourceSha256": "741a289c2862347934dbeb4f5d84cd68f736fcf353eb24b9d04ac4f19e6a91d9",
+    "expectedSeats": 155,
+    "recordedSeats": 155,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 155
+      },
+      "Registered voters/turnout": {
+        "votes": 695471,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1913-11-16",
+    "source": "https://en.wikipedia.org/wiki/1913_Portuguese_legislative_election",
+    "sourceSha256": "a3c14626cf38568e6a8b0e87cd1f5f7fd0617eb494599e8e11f114fa3bcd7d06",
+    "expectedSeats": 37,
+    "recordedSeats": 37,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 37
+      },
+      "Total votes": {
+        "votes": 150000,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 397038,
+        "share": 37.78,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1915-06-13",
+    "source": "https://en.wikipedia.org/wiki/1915_Portuguese_legislative_election",
+    "sourceSha256": "624677c7efb03954c3085276749c9800e30de104176bb05d20ed7559c8f2c067",
+    "expectedSeats": 163,
+    "recordedSeats": 163,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 163
+      },
+      "Total votes": {
+        "votes": 282387,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 471557,
+        "share": 59.88,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-senate-1915-06-13",
+    "source": "https://en.wikipedia.org/wiki/1915_Portuguese_legislative_election",
+    "sourceSha256": "624677c7efb03954c3085276749c9800e30de104176bb05d20ed7559c8f2c067",
+    "expectedSeats": 69,
+    "recordedSeats": 69,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 69
+      },
+      "Total votes": {
+        "votes": 276188,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 471557,
+        "share": 58.57,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1919-05-11",
+    "source": "https://en.wikipedia.org/wiki/1919_Portuguese_legislative_election",
+    "sourceSha256": "13c03d8c71b3184895b03a450eeb64255139b97903851b547421c5ebf27d76af",
+    "expectedSeats": 163,
+    "recordedSeats": 163,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 163
+      }
+    }
+  },
+  {
+    "id": "world-portugal-senate-1919-05-11",
+    "source": "https://en.wikipedia.org/wiki/1919_Portuguese_legislative_election",
+    "sourceSha256": "13c03d8c71b3184895b03a450eeb64255139b97903851b547421c5ebf27d76af",
+    "expectedSeats": 71,
+    "recordedSeats": 71,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 71
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1921-07-10",
+    "source": "https://en.wikipedia.org/wiki/1921_Portuguese_legislative_election",
+    "sourceSha256": "f3b519aacc06a48d2921afc302eec46934e7e96a4d7dabc42aeb80b1ebf4cb67",
+    "expectedSeats": 163,
+    "recordedSeats": 163,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 163
+      }
+    }
+  },
+  {
+    "id": "world-portugal-senate-1921-07-10",
+    "source": "https://en.wikipedia.org/wiki/1921_Portuguese_legislative_election",
+    "sourceSha256": "f3b519aacc06a48d2921afc302eec46934e7e96a4d7dabc42aeb80b1ebf4cb67",
+    "expectedSeats": 71,
+    "recordedSeats": 71,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 71
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1922-01-29",
+    "source": "https://en.wikipedia.org/wiki/1922_Portuguese_legislative_election",
+    "sourceSha256": "5391c4955c764a1f52343857b2c7db623d11844d9df9fe3dfca53226236b524c",
+    "expectedSeats": 163,
+    "recordedSeats": 163,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 163
+      }
+    }
+  },
+  {
+    "id": "world-portugal-senate-1922-01-29",
+    "source": "https://en.wikipedia.org/wiki/1922_Portuguese_legislative_election",
+    "sourceSha256": "5391c4955c764a1f52343857b2c7db623d11844d9df9fe3dfca53226236b524c",
+    "expectedSeats": 70,
+    "recordedSeats": 70,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 70
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1925-11-08",
+    "source": "https://en.wikipedia.org/wiki/1925_Portuguese_legislative_election",
+    "sourceSha256": "630d847b32466b849482cda68a015334f38c71a4185382ddf918d509c0e2e78e",
+    "expectedSeats": 163,
+    "recordedSeats": 163,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 163
+      },
+      "Total votes": {
+        "votes": 407960,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 574260,
+        "share": 71.04,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-senate-1925-11-08",
+    "source": "https://en.wikipedia.org/wiki/1925_Portuguese_legislative_election",
+    "sourceSha256": "630d847b32466b849482cda68a015334f38c71a4185382ddf918d509c0e2e78e",
+    "expectedSeats": 65,
+    "recordedSeats": 65,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 65
+      },
+      "Registered voters/turnout": {
+        "votes": 574260,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1934-12-16",
+    "source": "https://en.wikipedia.org/wiki/1934_Portuguese_legislative_election",
+    "sourceSha256": "bfdc3752c7f317ed283b841f1465854223e0bb9f48b9c252ea9b8a0fcd900cec",
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 100
+      },
+      "Total votes": {
+        "votes": 476706,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 588957,
+        "share": 80.94,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1938-10-30",
+    "source": "https://en.wikipedia.org/wiki/1938_Portuguese_legislative_election",
+    "sourceSha256": "a7f875e84549da6b8a4f467a9c9cc963d28e1a228f867e6e69467c5e2ee62c33",
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 100
+      },
+      "Total votes": {
+        "votes": 694290,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 829054,
+        "share": 83.74,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1942-11-01",
+    "source": "https://en.wikipedia.org/wiki/1942_Portuguese_legislative_election",
+    "sourceSha256": "d12f7a607b8c34913997a052fb4d75e43b44841f58bfb1dcce2648c1f6a54854",
+    "expectedSeats": 100,
+    "recordedSeats": 100,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 100
+      },
+      "Total votes": {
+        "votes": 758215,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 870922,
+        "share": 87.06,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1945-11-18",
+    "source": "https://en.wikipedia.org/wiki/1945_Portuguese_legislative_election",
+    "sourceSha256": "6471cde283481aae9a0e3d2fe16f4cd0d37cd1d4c04d73baf158521de857fd7d",
+    "expectedSeats": 120,
+    "recordedSeats": 120,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 120
+      },
+      "Total votes": {
+        "votes": 489133,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 909456,
+        "share": 53.78,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1949-11-13",
+    "source": "https://en.wikipedia.org/wiki/1949_Portuguese_legislative_election",
+    "sourceSha256": "4d0f289a3f6f85f6b204d247392e509eaa1e7b9259a50649a1dee4324024f513",
+    "expectedSeats": 120,
+    "recordedSeats": 120,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 927264,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1223172,
+        "share": 75.81,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1953-11-08",
+    "source": "https://en.wikipedia.org/wiki/1953_Portuguese_legislative_election",
+    "sourceSha256": "1b6db3bd7853413f28240c2c8cda2d8f79f23bcfe23de4eed6df233a7ca18a0a",
+    "expectedSeats": 120,
+    "recordedSeats": 120,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 120
+      },
+      "Total votes": {
+        "votes": 845281,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1239504,
+        "share": 68.2,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1957-11-03",
+    "source": "https://en.wikipedia.org/wiki/1957_Portuguese_legislative_election",
+    "sourceSha256": "8c926e2c99016b0bcc79be71de50bfeb203923727454e17e99347d9cf027c8bb",
+    "expectedSeats": 120,
+    "recordedSeats": 120,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 120
+      },
+      "Total votes": {
+        "votes": 911618,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1294368,
+        "share": 70.43,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1961-11-12",
+    "source": "https://en.wikipedia.org/wiki/1961_Portuguese_legislative_election",
+    "sourceSha256": "f552473068f67bace47ebfeaf9ad1655bdfd43c73e7c698d09c3cc78083fcfea",
+    "expectedSeats": 130,
+    "recordedSeats": 130,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 130
+      },
+      "Total votes": {
+        "votes": 973997,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1315231,
+        "share": 74.06,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1965-11-07",
+    "source": "https://en.wikipedia.org/wiki/1965_Portuguese_legislative_election",
+    "sourceSha256": "2949f2ceceb7fe6058f3931d8caa917a4d2803e5d9db9c0603fd374b43806946",
+    "expectedSeats": 130,
+    "recordedSeats": 130,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 998542,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1357459,
+        "share": 73.56,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1969-10-26",
+    "source": "https://en.wikipedia.org/wiki/1969_Portuguese_legislative_election",
+    "sourceSha256": "3f8ef9d1803c3737b828829eadb76df755b3a3caf24373752279de02723d818b",
+    "expectedSeats": 130,
+    "recordedSeats": 130,
+    "expectedVotes": 1114195,
+    "recordedVotes": 1114195,
+    "meta": {
+      "Total": {
+        "votes": 1114195,
+        "share": 100.0,
+        "seats": 130
+      },
+      "Valid votes": {
+        "votes": 1114195,
+        "share": 99.91,
+        "seats": null
+      },
+      "Invalid/blank votes": {
+        "votes": 1053,
+        "share": 0.09,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 1115248,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 1784341,
+        "share": 62.5,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-national-assembly-1973-10-28",
+    "source": "https://en.wikipedia.org/wiki/1973_Portuguese_legislative_election",
+    "sourceSha256": "08a4f0ccfd1592ba9f4b6903a0eb7c53afbee8e543bebae7b2bb60343591ee70",
+    "expectedSeats": 150,
+    "recordedSeats": 150,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 150
+      },
+      "Total votes": {
+        "votes": 1393294,
+        "share": null,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 2096020,
+        "share": 66.47,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-constituent-assembly-1911-05-28",
+    "source": "https://en.wikipedia.org/wiki/1911_Portuguese_National_Constituent_Assembly_election",
+    "sourceSha256": "8a633da85dd296deb83fddc6e032fc79e53f4037beea2b66a6694df9c95dbb14",
+    "expectedSeats": 234,
+    "recordedSeats": 234,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 234
+      },
+      "Registered voters/turnout": {
+        "votes": 846801,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1918-04-28",
+    "source": "https://en.wikipedia.org/wiki/1918_Portuguese_general_election",
+    "sourceSha256": "bac0bb42a72803987c3d3fb1cdfa3aacb80f230e33b7dcf93512fbfb1f7a2453",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 470831,
+    "recordedVotes": 470831,
+    "meta": {
+      "Total": {
+        "votes": 470831,
+        "share": 100.0,
+        "seats": null
+      },
+      "Valid votes": {
+        "votes": 470831,
+        "share": 91.61,
+        "seats": null
+      },
+      "Invalid/blank votes": {
+        "votes": 43127,
+        "share": 8.39,
+        "seats": null
+      },
+      "Total votes": {
+        "votes": 513958,
+        "share": 100.0,
+        "seats": null
+      },
+      "Registered voters/turnout": {
+        "votes": 900000,
+        "share": 57.11,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-deputies-1918-04-28",
+    "source": "https://en.wikipedia.org/wiki/1918_Portuguese_general_election",
+    "sourceSha256": "bac0bb42a72803987c3d3fb1cdfa3aacb80f230e33b7dcf93512fbfb1f7a2453",
+    "expectedSeats": 155,
+    "recordedSeats": 155,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 155
+      },
+      "Registered voters/turnout": {
+        "votes": 900000,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-senate-1918-04-28",
+    "source": "https://en.wikipedia.org/wiki/1918_Portuguese_general_election",
+    "sourceSha256": "bac0bb42a72803987c3d3fb1cdfa3aacb80f230e33b7dcf93512fbfb1f7a2453",
+    "expectedSeats": 73,
+    "recordedSeats": 73,
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "meta": {
+      "Total": {
+        "votes": null,
+        "share": null,
+        "seats": 73
+      },
+      "Registered voters/turnout": {
+        "votes": 900000,
+        "share": null,
+        "seats": null
+      }
+    }
+  },
+  {
+    "id": "world-portugal-president-1911-08-24",
+    "source": "https://en.wikipedia.org/wiki/1911_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 213,
+    "recordedVotes": 213,
+    "ballotsCast": 217
+  },
+  {
+    "id": "world-portugal-president-1915-05-29",
+    "source": "https://en.wikipedia.org/wiki/May_1915_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 99,
+    "recordedVotes": 99,
+    "ballotsCast": 102
+  },
+  {
+    "id": "world-portugal-president-1915-08-06-round-1",
+    "source": "https://en.wikipedia.org/wiki/August_1915_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 174,
+    "recordedVotes": 174,
+    "ballotsCast": 189
+  },
+  {
+    "id": "world-portugal-president-1915-08-06-round-2",
+    "source": "https://en.wikipedia.org/wiki/August_1915_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 173,
+    "recordedVotes": 173,
+    "ballotsCast": 185
+  },
+  {
+    "id": "world-portugal-president-1915-08-06-round-3",
+    "source": "https://en.wikipedia.org/wiki/August_1915_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 152,
+    "recordedVotes": 152,
+    "ballotsCast": 179
+  },
+  {
+    "id": "world-portugal-president-1918-12-16-round-1",
+    "source": "https://en.wikipedia.org/wiki/1918_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 124,
+    "recordedVotes": 124,
+    "ballotsCast": 125
+  },
+  {
+    "id": "world-portugal-president-1918-12-16-round-2",
+    "source": "https://en.wikipedia.org/wiki/1918_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 137,
+    "recordedVotes": 137,
+    "ballotsCast": 138
+  },
+  {
+    "id": "world-portugal-president-1919-08-06-round-1",
+    "source": "https://en.wikipedia.org/wiki/1919_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 176,
+    "recordedVotes": 176,
+    "ballotsCast": 181
+  },
+  {
+    "id": "world-portugal-president-1919-08-06-round-2",
+    "source": "https://en.wikipedia.org/wiki/1919_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 176,
+    "recordedVotes": 176,
+    "ballotsCast": 179
+  },
+  {
+    "id": "world-portugal-president-1919-08-06-round-3",
+    "source": "https://en.wikipedia.org/wiki/1919_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 154,
+    "recordedVotes": 154,
+    "ballotsCast": 167
+  },
+  {
+    "id": "world-portugal-president-1923-08-06-round-1",
+    "source": "https://en.wikipedia.org/wiki/1923_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 186,
+    "recordedVotes": 186,
+    "ballotsCast": 187
+  },
+  {
+    "id": "world-portugal-president-1923-08-06-round-2",
+    "source": "https://en.wikipedia.org/wiki/1923_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 191,
+    "recordedVotes": 191,
+    "ballotsCast": 200
+  },
+  {
+    "id": "world-portugal-president-1923-08-06-round-3",
+    "source": "https://en.wikipedia.org/wiki/1923_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 126,
+    "recordedVotes": 126,
+    "ballotsCast": 194
+  },
+  {
+    "id": "world-portugal-president-1925-12-11-round-1",
+    "source": "https://en.wikipedia.org/wiki/1925_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 170,
+    "recordedVotes": 170,
+    "ballotsCast": 175
+  },
+  {
+    "id": "world-portugal-president-1925-12-11-round-2",
+    "source": "https://en.wikipedia.org/wiki/1925_Portuguese_presidential_election",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 154,
+    "recordedVotes": 154,
+    "ballotsCast": 159
+  },
+  {
+    "id": "world-portugal-president-1965-07-25",
+    "source": "https://ahpweb.parlamento.pt/Detalhe/?id=31617&pesq=ps&t=4&tx=nascimento",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 556,
+    "recordedVotes": 556,
+    "ballotsCast": 569
+  },
+  {
+    "id": "world-portugal-president-1972-07-25",
+    "source": "https://ahpweb.parlamento.pt/Detalhe/?id=60397&pesq=pa&q=AND__topic_type_id_2__60396_&t=4",
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "expectedVotes": 616,
+    "recordedVotes": 616,
+    "ballotsCast": 645
+  }
+]
