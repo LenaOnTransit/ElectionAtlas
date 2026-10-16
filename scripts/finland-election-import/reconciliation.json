@@ -1,0 +1,677 @@
+[
+  {
+    "id": "world-finland-eduskunta-1907",
+    "source": "https://en.wikipedia.org/wiki/1907_Finnish_parliamentary_election",
+    "sha256": "29cd4973c1a77a48519d55c4dbbfe613732a714fbefb8851df79fbf65518fd7d",
+    "expectedVotes": 890990,
+    "recordedVotes": 890990,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1908",
+    "source": "https://en.wikipedia.org/wiki/1908_Finnish_parliamentary_election",
+    "sha256": "40aa3f974a83cffac026eb523f5095a3a2362053475f5aac21d0deabc79f3ced",
+    "expectedVotes": 809441,
+    "recordedVotes": 809441,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1909",
+    "source": "https://en.wikipedia.org/wiki/1909_Finnish_parliamentary_election",
+    "sha256": "6fe6c5015f3905b227253af5c6b26801d004482660ac319db682de5579a3c4bc",
+    "expectedVotes": 846471,
+    "recordedVotes": 846471,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1910",
+    "source": "https://en.wikipedia.org/wiki/1910_Finnish_parliamentary_election",
+    "sha256": "4296a22eb19a718b0e54186842142697018f410b624985aea3ed2587f7a24127",
+    "expectedVotes": 791559,
+    "recordedVotes": 791559,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1911",
+    "source": "https://en.wikipedia.org/wiki/1911_Finnish_parliamentary_election",
+    "sha256": "16ea8359a2e4caf822a9568a31d735901cb84557126d025cc2463acf114c1cb8",
+    "expectedVotes": 802387,
+    "recordedVotes": 802387,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1913",
+    "source": "https://en.wikipedia.org/wiki/1913_Finnish_parliamentary_election",
+    "sha256": "ef077d9c89133a2a6a9bfede40439488e665c3b1ec9268d26a4fd6dba210cf3f",
+    "expectedVotes": 724304,
+    "recordedVotes": 724304,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1916",
+    "source": "https://en.wikipedia.org/wiki/1916_Finnish_parliamentary_election",
+    "sha256": "14c0c4da182426ebac421ac8a07b01b9188f136964047e15f1f81ea200292783",
+    "expectedVotes": 795209,
+    "recordedVotes": 795209,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1917",
+    "source": "https://en.wikipedia.org/wiki/1917_Finnish_parliamentary_election",
+    "sha256": "ca0888a500c5912d59e3d58ac8f21f4dc08078ab5400e13024753a3aad1da8a0",
+    "expectedVotes": 992762,
+    "recordedVotes": 992762,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1919",
+    "source": "https://en.wikipedia.org/wiki/1919_Finnish_parliamentary_election",
+    "sha256": "52766925458a5fa6554ff84f3acbbb43f62dbbd32be77917c112fc369c6dfb3a",
+    "expectedVotes": 961101,
+    "recordedVotes": 961101,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1919",
+    "source": "https://en.wikipedia.org/wiki/1919_Finnish_presidential_election",
+    "sha256": "af10822968ab2afb4e309a45d4a67b6adb92bc195ebc0686b598384dbe2f27b6",
+    "expectedVotes": 195,
+    "recordedVotes": 195,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1922",
+    "source": "https://en.wikipedia.org/wiki/1922_Finnish_parliamentary_election",
+    "sha256": "377a74ea86417269f0a1449be3c4006ba76507e607acc04957797a11691f696d",
+    "expectedVotes": 865421,
+    "recordedVotes": 865421,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1924",
+    "source": "https://en.wikipedia.org/wiki/1924_Finnish_parliamentary_election",
+    "sha256": "12113f6d6af8c8eda4c70a84292d0bb62797e86f58c3c75450c3309ee72ce46b",
+    "expectedVotes": 878941,
+    "recordedVotes": 878941,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1925-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1925_Finnish_presidential_election",
+    "sha256": "5a6c57a5ec556d16f8e3c9e32cda25d771f55e51184150a3414ac5ea985efe9d",
+    "expectedVotes": 621919,
+    "recordedVotes": 621919,
+    "expectedSeats": 300,
+    "recordedSeats": 300
+  },
+  {
+    "id": "world-finland-presidential-1925-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1925_Finnish_presidential_election",
+    "sha256": "5a6c57a5ec556d16f8e3c9e32cda25d771f55e51184150a3414ac5ea985efe9d",
+    "expectedVotes": 281,
+    "recordedVotes": 281,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1927",
+    "source": "https://en.wikipedia.org/wiki/1927_Finnish_parliamentary_election",
+    "sha256": "507c83da63b259ff7d3a27da921f58eec0ec46a67b35c61992d058fb7dff114c",
+    "expectedVotes": 910191,
+    "recordedVotes": 910191,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1929",
+    "source": "https://en.wikipedia.org/wiki/1929_Finnish_parliamentary_election",
+    "sha256": "9a2cb50e678334dbba3f9a229896b57fcaae33d23ed9d9ec17c27a47a3a389d9",
+    "expectedVotes": 951270,
+    "recordedVotes": 951270,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1930",
+    "source": "https://en.wikipedia.org/wiki/1930_Finnish_parliamentary_election",
+    "sha256": "eed5e90ca454a408e2116f61475650cc1bf2bea7142c2f5249495a0b3acaacb1",
+    "expectedVotes": 1130028,
+    "recordedVotes": 1130028,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1931-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1931_Finnish_presidential_election",
+    "sha256": "ba23ca15e6de78e7e66ffcae309f466e958ac915dee0d58e29a34f5fc99e70d2",
+    "expectedVotes": 836758,
+    "recordedVotes": 836758,
+    "expectedSeats": 300,
+    "recordedSeats": 300
+  },
+  {
+    "id": "world-finland-presidential-1931-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1931_Finnish_presidential_election",
+    "sha256": "ba23ca15e6de78e7e66ffcae309f466e958ac915dee0d58e29a34f5fc99e70d2",
+    "expectedVotes": 300,
+    "recordedVotes": 300,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1933",
+    "source": "https://en.wikipedia.org/wiki/1933_Finnish_parliamentary_election",
+    "sha256": "ac90348fc0e488cb90788551aecd53421873027e27138a95ed108bcaaba408a7",
+    "expectedVotes": 1107823,
+    "recordedVotes": 1107823,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1936",
+    "source": "https://en.wikipedia.org/wiki/1936_Finnish_parliamentary_election",
+    "sha256": "a8a2df7d11dbc9764c38ec93921c3fecc4c1a9d065611171c8dbc2779b169262",
+    "expectedVotes": 1173382,
+    "recordedVotes": 1173382,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1937-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1937_Finnish_presidential_election",
+    "sha256": "0dbaa929ef04c0aab758e8759e5b5666e7c9ed576a3ad323a71146193d8cc229",
+    "expectedVotes": 1112646,
+    "recordedVotes": 1112646,
+    "expectedSeats": 300,
+    "recordedSeats": 300
+  },
+  {
+    "id": "world-finland-presidential-1937-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1937_Finnish_presidential_election",
+    "sha256": "0dbaa929ef04c0aab758e8759e5b5666e7c9ed576a3ad323a71146193d8cc229",
+    "expectedVotes": 300,
+    "recordedVotes": 300,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1939",
+    "source": "https://en.wikipedia.org/wiki/1939_Finnish_parliamentary_election",
+    "sha256": "2fa44d7de863d712c8f594f51dda501b3b282a4d9e4a992ddb1ed1b7aa9e3d86",
+    "expectedVotes": 1297319,
+    "recordedVotes": 1297319,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1940",
+    "source": "https://en.wikipedia.org/wiki/1940_Finnish_presidential_election",
+    "sha256": "6839996a0b1c376a61505017a9312e28ba20025cafe9e754c60fc1801424ca6d",
+    "expectedVotes": 294,
+    "recordedVotes": 294,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-presidential-1943",
+    "source": "https://en.wikipedia.org/wiki/1943_Finnish_presidential_election",
+    "sha256": "a57d54004582842ca254a77c73d78bf5b0312300c3348568aef72a15ac0ad343",
+    "expectedVotes": 276,
+    "recordedVotes": 276,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1945",
+    "source": "https://en.wikipedia.org/wiki/1945_Finnish_parliamentary_election",
+    "sha256": "a64262ed4d04573b14b2fe0385ba31183e91d241ebee3b79075c2a3643e48aa7",
+    "expectedVotes": 1698376,
+    "recordedVotes": 1698376,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1946",
+    "source": "https://en.wikipedia.org/wiki/1946_Finnish_presidential_election",
+    "sha256": "94c9b9327ed276a3d8da91e8ffc2a336214e862650c6ce85f3a14f965e911774",
+    "expectedVotes": 173,
+    "recordedVotes": 173,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1948",
+    "source": "https://en.wikipedia.org/wiki/1948_Finnish_parliamentary_election",
+    "sha256": "38f011a89c7afde2460f168ded4633b8166b8da45dd3f5c7d33e235bb7e8efce",
+    "expectedVotes": 1879968,
+    "recordedVotes": 1879968,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1950-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1950_Finnish_presidential_election",
+    "sha256": "b4a1496e725a3b052fd3b6dd30d78ed016f0eae61de8e06c30f12eb6fb310576",
+    "expectedVotes": 1577043,
+    "recordedVotes": 1577043,
+    "expectedSeats": 300,
+    "recordedSeats": 300
+  },
+  {
+    "id": "world-finland-presidential-1950-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1950_Finnish_presidential_election",
+    "sha256": "b4a1496e725a3b052fd3b6dd30d78ed016f0eae61de8e06c30f12eb6fb310576",
+    "expectedVotes": 300,
+    "recordedVotes": 300,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1951",
+    "source": "https://en.wikipedia.org/wiki/1951_Finnish_parliamentary_election",
+    "sha256": "87d06ec03e71b14ee178c9be993d5e41332c4c8787738b1f8b7ae49d6ab9b321",
+    "expectedVotes": 1812817,
+    "recordedVotes": 1812817,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1954",
+    "source": "https://en.wikipedia.org/wiki/1954_Finnish_parliamentary_election",
+    "sha256": "8a3edb2feb220cc4ecbd43c4d4b7d9a0501da426301da5fd7b2d0a34cc5bd67d",
+    "expectedVotes": 2008257,
+    "recordedVotes": 2008257,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1956-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1956_Finnish_presidential_election",
+    "sha256": "348962ec8ae44904fe6af9ac6a39debd2a00d9942c850620aa6fb897c96aec9d",
+    "expectedVotes": 1896655,
+    "recordedVotes": 1896655,
+    "expectedSeats": 300,
+    "recordedSeats": 300
+  },
+  {
+    "id": "world-finland-presidential-1956-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1956_Finnish_presidential_election",
+    "sha256": "348962ec8ae44904fe6af9ac6a39debd2a00d9942c850620aa6fb897c96aec9d",
+    "expectedVotes": 300,
+    "recordedVotes": 300,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1958",
+    "source": "https://en.wikipedia.org/wiki/1958_Finnish_parliamentary_election",
+    "sha256": "2e5bca2c62db9baa08fdc590a55edd0fe7977346cedd90e41ca2484b56e7c2a6",
+    "expectedVotes": 1944235,
+    "recordedVotes": 1944235,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1962",
+    "source": "https://en.wikipedia.org/wiki/1962_Finnish_parliamentary_election",
+    "sha256": "d4818d38b7c88f54087c7340992b52f4dc9900c915973ff0a087a95927ea4c50",
+    "expectedVotes": 2301998,
+    "recordedVotes": 2301998,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1962-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1962_Finnish_presidential_election",
+    "sha256": "835b69a83839281dd8766fc31bc52173802ac6620f2c0e9f99333e12a6f53f8d",
+    "expectedVotes": 2202204,
+    "recordedVotes": 2202204,
+    "expectedSeats": 300,
+    "recordedSeats": 300
+  },
+  {
+    "id": "world-finland-presidential-1962-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1962_Finnish_presidential_election",
+    "sha256": "835b69a83839281dd8766fc31bc52173802ac6620f2c0e9f99333e12a6f53f8d",
+    "expectedVotes": 300,
+    "recordedVotes": 300,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1966",
+    "source": "https://en.wikipedia.org/wiki/1966_Finnish_parliamentary_election",
+    "sha256": "17b000b81edd52d11c6c827651d919e2a7d6708bdac806e5b92fda91f26a2399",
+    "expectedVotes": 2370046,
+    "recordedVotes": 2370046,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1968-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1968_Finnish_presidential_election",
+    "sha256": "6b7c43ddf2312798e0058a2aac9079883e87b12830fd07f6701e21a4c812e310",
+    "expectedVotes": 2038592,
+    "recordedVotes": 2038592,
+    "expectedSeats": 300,
+    "recordedSeats": 300
+  },
+  {
+    "id": "world-finland-presidential-1968-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1968_Finnish_presidential_election",
+    "sha256": "6b7c43ddf2312798e0058a2aac9079883e87b12830fd07f6701e21a4c812e310",
+    "expectedVotes": 300,
+    "recordedVotes": 300,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1970",
+    "source": "https://en.wikipedia.org/wiki/1970_Finnish_parliamentary_election",
+    "sha256": "24d1defb95c815418b678f014114c1b966dbb6ef2a22da631791b11138e731a1",
+    "expectedVotes": 2535782,
+    "recordedVotes": 2535782,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1972",
+    "source": "https://en.wikipedia.org/wiki/1972_Finnish_parliamentary_election",
+    "sha256": "033a82aafc6f159dc049cf205f1636885045e8951abe4f0b2f68859d2f80e199",
+    "expectedVotes": 2577949,
+    "recordedVotes": 2577949,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1975",
+    "source": "https://en.wikipedia.org/wiki/1975_Finnish_parliamentary_election",
+    "sha256": "eaf4b716d7fc8e592a968a0e95c99f551f062bc6e51245ee94c656efcf231c70",
+    "expectedVotes": 2749818,
+    "recordedVotes": 2749818,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1978-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1978_Finnish_presidential_election",
+    "sha256": "70bfb1f936dd590ad10552235a62ff4afc0f985ec5bfbed99e2064beee61a71a",
+    "expectedVotes": 2448384,
+    "recordedVotes": 2448384,
+    "expectedSeats": 300,
+    "recordedSeats": 300
+  },
+  {
+    "id": "world-finland-presidential-1978-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1978_Finnish_presidential_election",
+    "sha256": "70bfb1f936dd590ad10552235a62ff4afc0f985ec5bfbed99e2064beee61a71a",
+    "expectedVotes": 300,
+    "recordedVotes": 300,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1979",
+    "source": "https://en.wikipedia.org/wiki/1979_Finnish_parliamentary_election",
+    "sha256": "94690af4090581eeb183ad915945c51cc43934b6ae8fcc8a573b8361fcc96228",
+    "expectedVotes": 2894446,
+    "recordedVotes": 2894446,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1982-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1982_Finnish_presidential_election",
+    "sha256": "b927ae3f4ac910c291c75ba097181bd9680c1d4546a90177a9636673a1c249b6",
+    "expectedVotes": 3177525,
+    "recordedVotes": 3177525,
+    "expectedSeats": 301,
+    "recordedSeats": 301
+  },
+  {
+    "id": "world-finland-presidential-1982-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1982_Finnish_presidential_election",
+    "sha256": "b927ae3f4ac910c291c75ba097181bd9680c1d4546a90177a9636673a1c249b6",
+    "expectedVotes": 301,
+    "recordedVotes": 301,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1983",
+    "source": "https://en.wikipedia.org/wiki/1983_Finnish_parliamentary_election",
+    "sha256": "ff7ee368fe4312c0c9ab008bb6b407862854bdadfe8b1bf57ae59285581a962a",
+    "expectedVotes": 2979694,
+    "recordedVotes": 2979694,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1987",
+    "source": "https://en.wikipedia.org/wiki/1987_Finnish_parliamentary_election",
+    "sha256": "bbce346de3d4127fe2acb8b3cbd3405b103a67bb66d02eb3a7fbdcd67e5de380",
+    "expectedVotes": 2880093,
+    "recordedVotes": 2880093,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1988-elector-election",
+    "source": "https://en.wikipedia.org/wiki/1988_Finnish_presidential_election",
+    "sha256": "5216f31953ecee44677e746af6ba2bf2fd33e7fe7601146d5a30ae9916d6cd74",
+    "expectedVotes": 2985709,
+    "recordedVotes": 2985709,
+    "expectedSeats": 301,
+    "recordedSeats": 301
+  },
+  {
+    "id": "world-finland-presidential-1988-popular-vote",
+    "source": "https://en.wikipedia.org/wiki/1988_Finnish_presidential_election",
+    "sha256": "5216f31953ecee44677e746af6ba2bf2fd33e7fe7601146d5a30ae9916d6cd74",
+    "expectedVotes": 3094449,
+    "recordedVotes": 3094449,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-presidential-1988-electoral-college",
+    "source": "https://en.wikipedia.org/wiki/1988_Finnish_presidential_election",
+    "sha256": "5216f31953ecee44677e746af6ba2bf2fd33e7fe7601146d5a30ae9916d6cd74",
+    "expectedVotes": 301,
+    "recordedVotes": 301,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1991",
+    "source": "https://en.wikipedia.org/wiki/1991_Finnish_parliamentary_election",
+    "sha256": "8622b79915f6d5e0023a7c4c68dd4923d13da1d5fe7afd7c7e05731cd55bec34",
+    "expectedVotes": 2725918,
+    "recordedVotes": 2725918,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-1994-round-1",
+    "source": "https://en.wikipedia.org/wiki/1994_Finnish_presidential_election",
+    "sha256": "3880682ccbda01dcf5359ed18a1cb01e047d2c6d0e0399f5e3f1fb0a5a2a88fe",
+    "expectedVotes": 3195953,
+    "recordedVotes": 3195953,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-presidential-1994-round-2",
+    "source": "https://en.wikipedia.org/wiki/1994_Finnish_presidential_election",
+    "sha256": "3880682ccbda01dcf5359ed18a1cb01e047d2c6d0e0399f5e3f1fb0a5a2a88fe",
+    "expectedVotes": 3199779,
+    "recordedVotes": 3199779,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-1995",
+    "source": "https://en.wikipedia.org/wiki/1995_Finnish_parliamentary_election",
+    "sha256": "74d58ef7789e28da9516103589f5759d135204da146718a04e24daf8a022448f",
+    "expectedVotes": 2780921,
+    "recordedVotes": 2780921,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "source": "https://en.wikipedia.org/wiki/1999_Finnish_parliamentary_election",
+    "sha256": "a70b202bd2fe73070d704ba5bf8962192be128b6c9e8b4967d5e778636e9330d",
+    "expectedVotes": 2681291,
+    "recordedVotes": 2681291,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-2000-round-1",
+    "source": "https://en.wikipedia.org/wiki/2000_Finnish_presidential_election",
+    "sha256": "a866a3565690392737bcff49802917a90d1b50b974fa09c1e7f7933b72dd19c1",
+    "expectedVotes": 3058860,
+    "recordedVotes": 3058860,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-presidential-2000-round-2",
+    "source": "https://en.wikipedia.org/wiki/2000_Finnish_presidential_election",
+    "sha256": "a866a3565690392737bcff49802917a90d1b50b974fa09c1e7f7933b72dd19c1",
+    "expectedVotes": 3185335,
+    "recordedVotes": 3185335,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "source": "https://en.wikipedia.org/wiki/2003_Finnish_parliamentary_election",
+    "sha256": "aac1bf21e4cefc96922f8b6be42cb6354000091191d1507d50dbbbf3c98cabda",
+    "expectedVotes": 2791757,
+    "recordedVotes": 2791757,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-2006-round-1",
+    "source": "https://en.wikipedia.org/wiki/2006_Finnish_presidential_election",
+    "sha256": "9b1c88485d7db10ed04265b48cc47b81805bf6334379affb4e87a4230e035441",
+    "expectedVotes": 3016801,
+    "recordedVotes": 3016801,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-presidential-2006-round-2",
+    "source": "https://en.wikipedia.org/wiki/2006_Finnish_presidential_election",
+    "sha256": "9b1c88485d7db10ed04265b48cc47b81805bf6334379affb4e87a4230e035441",
+    "expectedVotes": 3149313,
+    "recordedVotes": 3149313,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "source": "https://en.wikipedia.org/wiki/2007_Finnish_parliamentary_election",
+    "sha256": "44252d7d53dcd1c63663161c7943dc09651e45eec293b0a481f65b1f5d3d430c",
+    "expectedVotes": 2771236,
+    "recordedVotes": 2771236,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "source": "https://en.wikipedia.org/wiki/2011_Finnish_parliamentary_election",
+    "sha256": "a2b0b133e93f465952123d1b7f4650dc0fb4a34a17be833e47e5a9bc05df4a5e",
+    "expectedVotes": 2939571,
+    "recordedVotes": 2939571,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-2012-round-1",
+    "source": "https://en.wikipedia.org/wiki/2012_Finnish_presidential_election",
+    "sha256": "53a71d346158c6e4e3402c3e133d6c6fcb11249d41ae62a573d2174da02bad71",
+    "expectedVotes": 3060771,
+    "recordedVotes": 3060771,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-presidential-2012-round-2",
+    "source": "https://en.wikipedia.org/wiki/2012_Finnish_presidential_election",
+    "sha256": "53a71d346158c6e4e3402c3e133d6c6fcb11249d41ae62a573d2174da02bad71",
+    "expectedVotes": 2879753,
+    "recordedVotes": 2879753,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "source": "https://en.wikipedia.org/wiki/2015_Finnish_parliamentary_election",
+    "sha256": "d1bc9165b4d98f2c998b228ad5c20d4d0293dc6553900516b6eee6b44346e28b",
+    "expectedVotes": 2968462,
+    "recordedVotes": 2968462,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-2018",
+    "source": "https://en.wikipedia.org/wiki/2018_Finnish_presidential_election",
+    "sha256": "4ae96b5f869a4fef3373e902d5bb5346394dc4b5256b1cfa2ddf0ad4b26d82b2",
+    "expectedVotes": 2993668,
+    "recordedVotes": 2993668,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "source": "https://en.wikipedia.org/wiki/2019_Finnish_parliamentary_election",
+    "sha256": "3a527b116d33a748c3cef23b35c5c91a202b3d49c0194fe52575e5d634c90894",
+    "expectedVotes": 3081916,
+    "recordedVotes": 3081916,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "source": "https://en.wikipedia.org/wiki/2023_Finnish_parliamentary_election",
+    "sha256": "8736f00abf7ebc8c89dfd6c41a15bd60564b522bb83d0a3d799300adf4cec495",
+    "expectedVotes": 3095604,
+    "recordedVotes": 3095604,
+    "expectedSeats": 200,
+    "recordedSeats": 200
+  },
+  {
+    "id": "world-finland-presidential-2024-round-1",
+    "source": "https://en.wikipedia.org/wiki/2024_Finnish_presidential_election",
+    "sha256": "18986cabd7ae58651699f89c8e327efee90bb97feeed2afa061defd02a9ad10e",
+    "expectedVotes": 3243451,
+    "recordedVotes": 3243451,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  },
+  {
+    "id": "world-finland-presidential-2024-round-2",
+    "source": "https://en.wikipedia.org/wiki/2024_Finnish_presidential_election",
+    "sha256": "18986cabd7ae58651699f89c8e327efee90bb97feeed2afa061defd02a9ad10e",
+    "expectedVotes": 3052078,
+    "recordedVotes": 3052078,
+    "expectedSeats": null,
+    "recordedSeats": 0
+  }
+]

@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "c24e6480-3ac9-5579-9dc0-65453add613c",
+    "country_id": "fi",
+    "name": "Social Democratic Party",
+    "short_name": "SDP",
+    "color": "#e11931",
+    "ideology_ids": [
+      "ideology-social-democracy"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Social_Democratic_Party_of_Finland",
+    "archived": false
+  },
+  {
+    "id": "7f99f35c-f118-5e95-ab98-90746580ab41",
+    "country_id": "fi",
+    "name": "Finnish Party",
+    "short_name": "",
+    "color": "#8b9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "089afc81-d704-5a56-b1e3-5c1376e8a15c",
+    "country_id": "fi",
+    "name": "Young Finnish Party",
+    "short_name": "",
+    "color": "#853399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d7ac291e-1f97-57e6-925d-1d60d6ed27b8",
+    "country_id": "fi",
+    "name": "Swedish People's Party",
+    "short_name": "RKP",
+    "color": "#ffdd00",
+    "ideology_ids": [
+      "ideology-social-liberalism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Swedish_People%27s_Party_of_Finland",
+    "archived": false
+  },
+  {
+    "id": "840b7640-310b-5ce8-87ce-fbc0bb1e522f",
+    "country_id": "fi",
+    "name": "Centre Party",
+    "short_name": "KESK",
+    "color": "#349a2b",
+    "ideology_ids": [
+      "ideology-agrarianism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Centre_Party_(Finland)",
+    "archived": false
+  },
+  {
+    "id": "b234fc37-141e-5ed5-9b1b-56c3c853ca3a",
+    "country_id": "fi",
+    "name": "Christian Workers' Union",
+    "short_name": "",
+    "color": "#995633",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "52dc1844-c49d-53e3-8e7f-842580b1b37d",
+    "country_id": "fi",
+    "name": "National Coalition Party",
+    "short_name": "KOK",
+    "color": "#006288",
+    "ideology_ids": [
+      "ideology-liberal-conservatism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/National_Coalition_Party",
+    "archived": false
+  },
+  {
+    "id": "e697667f-655e-5ced-beb7-d579963abcfa",
+    "country_id": "fi",
+    "name": "National Progressive Party",
+    "short_name": "",
+    "color": "#5c9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1dee5d07-bff0-58d9-8e84-7a66230b4840",
+    "country_id": "fi",
+    "name": "Socialist Workers' Party",
+    "short_name": "",
+    "color": "#3a3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "af13f92b-8241-58b8-abae-4223836edf2a",
+    "country_id": "fi",
+    "name": "Electoral Organisation of Socialist Workers and Smallholders",
+    "short_name": "",
+    "color": "#8c3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "5187514a-dd22-5917-9472-9529840f3dbc",
+    "country_id": "fi",
+    "name": "Peasants' List",
+    "short_name": "",
+    "color": "#997833",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "5b9f7a0b-d5a5-5361-9b34-d55344362e96",
+    "country_id": "fi",
+    "name": "Farmers' Party",
+    "short_name": "",
+    "color": "#799933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "9e5fd113-4d7b-5d30-9e49-f08e79a0a5f4",
+    "country_id": "fi",
+    "name": "Small Farmers' Party",
+    "short_name": "",
+    "color": "#383399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "abea9029-e904-5c3d-8ed6-06c0712b66bb",
+    "country_id": "fi",
+    "name": "Socialist List of Workers and Peasants",
+    "short_name": "",
+    "color": "#333799",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "59367c3f-1b5d-5226-906c-2d8017bbb98d",
+    "country_id": "fi",
+    "name": "Swedish Left",
+    "short_name": "",
+    "color": "#993b33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "5311c11f-b0e7-5bac-89fa-f15d40e849b2",
+    "country_id": "fi",
+    "name": "Small groups of the Patriotic List",
+    "short_name": "",
+    "color": "#995433",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6346f877-0783-521b-b69f-53a366edcffa",
+    "country_id": "fi",
+    "name": "People's Party (1932–1936)",
+    "short_name": "",
+    "color": "#939933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "5e7da027-8a37-5a29-a6b9-600c567a6a62",
+    "country_id": "fi",
+    "name": "Finnish People's Organisation",
+    "short_name": "",
+    "color": "#998733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7b4b8ad8-728d-56ca-9dbe-c3e455a60a26",
+    "country_id": "fi",
+    "name": "National Socialist Union",
+    "short_name": "",
+    "color": "#993371",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "2eeac47b-e7a7-5874-a84a-961617410ec1",
+    "country_id": "fi",
+    "name": "Party of Finnish Labor",
+    "short_name": "",
+    "color": "#993378",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6613c8da-1874-5cf3-a95a-7c705c4bbeae",
+    "country_id": "fi",
+    "name": "Patriotic People's Movement",
+    "short_name": "",
+    "color": "#563399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7a2dcd80-7007-504f-8e4f-6f159b062f2c",
+    "country_id": "fi",
+    "name": "Party of Smallholders and Rural People",
+    "short_name": "",
+    "color": "#7b3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "83c3e9ec-6b22-52ca-91fd-31b51044a63c",
+    "country_id": "fi",
+    "name": "Finnish People's Democratic League",
+    "short_name": "",
+    "color": "#739933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "5c2ed195-df78-59d8-af5f-5e588d82c411",
+    "country_id": "fi",
+    "name": "Small Farmers Party",
+    "short_name": "",
+    "color": "#338e99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "743c89e8-287f-5b82-a90f-20b504ab2fe1",
+    "country_id": "fi",
+    "name": "Radical People's Party",
+    "short_name": "",
+    "color": "#8b3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b0b6a876-0ddc-5b71-b975-90367278401d",
+    "country_id": "fi",
+    "name": "Åland Coalition",
+    "short_name": "",
+    "color": "#8a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "47d9e723-2789-501f-bc36-547cfce14f5b",
+    "country_id": "fi",
+    "name": "Swedish People’s Party",
+    "short_name": "",
+    "color": "#33998c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "fd0351b2-5e97-5b28-ba6d-76f90e52d5f8",
+    "country_id": "fi",
+    "name": "People's Party of Finland",
+    "short_name": "",
+    "color": "#339955",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "08f80405-2f89-502e-870f-343b4debcc8f",
+    "country_id": "fi",
+    "name": "Liberal League",
+    "short_name": "",
+    "color": "#99338d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "10a23dd9-d731-5106-8c31-d38d5e053e28",
+    "country_id": "fi",
+    "name": "Finnish People's Party",
+    "short_name": "",
+    "color": "#8f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "59b2e76b-7fe0-5d18-b341-8654b7db3b9c",
+    "country_id": "fi",
+    "name": "Social Democratic Union of Workers and Smallholders",
+    "short_name": "",
+    "color": "#7a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "3e4ab572-6383-5823-920d-62d1352a2214",
+    "country_id": "fi",
+    "name": "Agrarian League Opposition",
+    "short_name": "",
+    "color": "#99334a",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "97dd43ff-a923-5cf0-bbfd-b991f9e98474",
+    "country_id": "fi",
+    "name": "Christian Democrats",
+    "short_name": "KD",
+    "color": "#183e81",
+    "ideology_ids": [
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Christian_Democrats_(Finland)",
+    "archived": false
+  },
+  {
+    "id": "38de67b9-460b-5901-88f1-cd17cc64c95a",
+    "country_id": "fi",
+    "name": "Free Citizens and Centre List",
+    "short_name": "",
+    "color": "#997633",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d75c2e9e-07f5-5c38-a836-9a5f01ac9179",
+    "country_id": "fi",
+    "name": "Free Economy List",
+    "short_name": "",
+    "color": "#889933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7e5d9045-4e9a-5580-9671-2c873661a9c7",
+    "country_id": "fi",
+    "name": "People's Co-operation League",
+    "short_name": "",
+    "color": "#333699",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "ef25ce10-944a-50b7-b4ec-a1c9635c766e",
+    "country_id": "fi",
+    "name": "Smallholders' Party",
+    "short_name": "",
+    "color": "#999033",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "c1b35def-db45-5fb7-8af8-26d670548257",
+    "country_id": "fi",
+    "name": "Centre Party (historical minor party)",
+    "short_name": "",
+    "color": "#998733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7eae2285-64c3-594f-ad33-ebbe914aff3f",
+    "country_id": "fi",
+    "name": "Smallholders' Party Opposition",
+    "short_name": "",
+    "color": "#99335d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "cef3ddb5-672e-5bf4-985f-3d2970f6a92d",
+    "country_id": "fi",
+    "name": "Liberal People's Party",
+    "short_name": "",
+    "color": "#99338f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6fc27c31-a420-5ec0-8967-426192138a71",
+    "country_id": "fi",
+    "name": "Independence Party",
+    "short_name": "",
+    "color": "#337c99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6fd0b077-b338-524a-bb59-d0b3d7b9786e",
+    "country_id": "fi",
+    "name": "Christian Women of Western Finland",
+    "short_name": "",
+    "color": "#33998b",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "e39b77e9-af3e-5e3b-884b-4f0a34d3cf67",
+    "country_id": "fi",
+    "name": "Christian-minded of Northern Savonia",
+    "short_name": "",
+    "color": "#998f33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "91acb7ab-047e-5c37-be5b-dbf0e8b6de09",
+    "country_id": "fi",
+    "name": "Finnish Rural Party",
+    "short_name": "",
+    "color": "#99334f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6a42596f-906c-50f3-9038-430e6cb9b9d4",
+    "country_id": "fi",
+    "name": "Entrepreneur Party",
+    "short_name": "",
+    "color": "#994433",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6dfaa3f3-231d-5207-a20d-aaad37eb6b67",
+    "country_id": "fi",
+    "name": "Finnish People's Unity Party",
+    "short_name": "",
+    "color": "#334699",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b08825c1-49a3-58b9-87c3-e6e166e509d7",
+    "country_id": "fi",
+    "name": "Constitutional People's Party",
+    "short_name": "",
+    "color": "#33997c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "0ce166f7-b532-5cb3-bb1c-577e01384c6b",
+    "country_id": "fi",
+    "name": "Party of Finnish Entrepreneurs",
+    "short_name": "",
+    "color": "#683399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1081e67a-3cfc-5f25-89f8-c6617bafcb27",
+    "country_id": "fi",
+    "name": "Socialist Workers Party",
+    "short_name": "",
+    "color": "#993f33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6a76eb50-111d-541f-9ab0-79ad45226676",
+    "country_id": "fi",
+    "name": "Liberals",
+    "short_name": "",
+    "color": "#337d99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "53240e20-ad0c-5850-b6a7-63aa68c43277",
+    "country_id": "fi",
+    "name": "Private Entrepreneurs' Party",
+    "short_name": "",
+    "color": "#993356",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "04a1d2bd-81c7-54b9-998b-67ab7357933c",
+    "country_id": "fi",
+    "name": "Constitutional Right Party",
+    "short_name": "",
+    "color": "#5d9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "abd58069-2c16-58c0-b794-d826c6f1ae3e",
+    "country_id": "fi",
+    "name": "Green electoral movement (pre-1987)",
+    "short_name": "",
+    "color": "#6e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "98b79c87-6ee0-5987-b2ed-2adf0db5257d",
+    "country_id": "fi",
+    "name": "League for Civil Democracy",
+    "short_name": "",
+    "color": "#339799",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "fbb9279a-6956-5d6b-9cea-047b8d23da77",
+    "country_id": "fi",
+    "name": "Democratic Alternative",
+    "short_name": "",
+    "color": "#995c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "74df4cc5-e9d5-53c0-ba9e-13e1c0c35bba",
+    "country_id": "fi",
+    "name": "Green League",
+    "short_name": "VIHR",
+    "color": "#61bf1a",
+    "ideology_ids": [
+      "ideology-green-politics"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Green_League",
+    "archived": false
+  },
+  {
+    "id": "f258092d-e22d-5c25-aac3-6aac117ef382",
+    "country_id": "fi",
+    "name": "Pensioners' Party",
+    "short_name": "",
+    "color": "#339973",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "e57a4660-3308-590e-857a-6ca3ac7ac9c5",
+    "country_id": "fi",
+    "name": "Free Åland",
+    "short_name": "",
+    "color": "#819933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "24f79027-947a-5cfe-b1d8-2db86434726d",
+    "country_id": "fi",
+    "name": "Pro Koivisto",
+    "short_name": "",
+    "color": "#4f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "8eefebee-6298-5104-844e-af7903a4df58",
+    "country_id": "fi",
+    "name": "Movement 88",
+    "short_name": "",
+    "color": "#339599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "966fa6a4-f094-52ed-bad2-e0ae73a94463",
+    "country_id": "fi",
+    "name": "Left Alliance",
+    "short_name": "VAS",
+    "color": "#bf1e24",
+    "ideology_ids": [
+      "ideology-democratic-socialism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Left_Alliance_(Finland)",
+    "archived": false
+  },
+  {
+    "id": "87fab774-b516-5038-a995-8626a19beb8f",
+    "country_id": "fi",
+    "name": "Women's Party",
+    "short_name": "",
+    "color": "#563399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "a770813c-1e67-5f00-a20a-d0d4c8a46360",
+    "country_id": "fi",
+    "name": "Greens (minor electoral list)",
+    "short_name": "",
+    "color": "#993361",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "55b5bb09-e2bd-543f-a67a-214d128cb9aa",
+    "country_id": "fi",
+    "name": "Humanity Party",
+    "short_name": "",
+    "color": "#998c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d1736b7a-56e0-55b3-954d-ff02b2c4f3e8",
+    "country_id": "fi",
+    "name": "Joint Responsibility Party of Pensioners and the Greens",
+    "short_name": "",
+    "color": "#7f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "80b23b47-f761-5056-884e-af3593b8f8d3",
+    "country_id": "fi",
+    "name": "Åland Centre",
+    "short_name": "",
+    "color": "#336099",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "8d94a5d8-7c5a-586e-b814-afdacb561992",
+    "country_id": "fi",
+    "name": "Åland Social Democrats",
+    "short_name": "",
+    "color": "#994233",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "dbb35e53-070f-5168-8889-d83665c4d35d",
+    "country_id": "fi",
+    "name": "Young Finns",
+    "short_name": "",
+    "color": "#719933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "01e2a8b9-b872-5026-b4c7-6f9c5d54fe25",
+    "country_id": "fi",
+    "name": "Alliance for Free Finland",
+    "short_name": "",
+    "color": "#334499",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "4ab3d5db-964e-5d1f-adc6-cdfbda0effac",
+    "country_id": "fi",
+    "name": "Ecological Party the Greens",
+    "short_name": "",
+    "color": "#998233",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "cc0e8ac5-3e17-5904-a397-00a030b8c8d5",
+    "country_id": "fi",
+    "name": "Natural Law Party",
+    "short_name": "",
+    "color": "#33994e",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b4f70a95-4903-5f84-9695-660438de8dc8",
+    "country_id": "fi",
+    "name": "Liberals for Åland",
+    "short_name": "",
+    "color": "#6e3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "62438a43-a5a1-5bf8-bc33-a2f0286b72af",
+    "country_id": "fi",
+    "name": "Pensioners for People",
+    "short_name": "",
+    "color": "#994e33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "794cbeeb-dd6f-5e5f-9e4c-466f2b11cb26",
+    "country_id": "fi",
+    "name": "Joint Responsibility Party",
+    "short_name": "",
+    "color": "#33995d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "abc49563-b4cf-56ab-8d55-105ce9f3c0e2",
+    "country_id": "fi",
+    "name": "Reform Group",
+    "short_name": "",
+    "color": "#3e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "245b92ed-2e84-5bb6-ac71-2d6dd485160e",
+    "country_id": "fi",
+    "name": "Finns Party",
+    "short_name": "PS",
+    "color": "#0066a4",
+    "ideology_ids": [
+      "ideology-national-conservatism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Finns_Party",
+    "archived": false
+  },
+  {
+    "id": "e2d6c3ed-102e-5b70-a265-d14e17d54ffb",
+    "country_id": "fi",
+    "name": "Communist Party",
+    "short_name": "",
+    "color": "#733399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "0cc799a1-114c-52ef-8c05-1b56b507ccdd",
+    "country_id": "fi",
+    "name": "Forces for Change in Finland",
+    "short_name": "",
+    "color": "#339982",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "f222e31a-cd47-550e-83b3-5504780d54db",
+    "country_id": "fi",
+    "name": "Finnish People's Blue-Whites",
+    "short_name": "",
+    "color": "#339966",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "193fb30b-c1d8-5640-b02d-3207e8c0bb38",
+    "country_id": "fi",
+    "name": "For the Poor",
+    "short_name": "",
+    "color": "#338e99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "9c1045b8-7ca0-5d68-aad6-3fc0802990e9",
+    "country_id": "fi",
+    "name": "Workers' Party",
+    "short_name": "",
+    "color": "#779933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "e38b66f6-f0b6-5e42-91ea-5377c6aadef2",
+    "country_id": "fi",
+    "name": "Pirate Party",
+    "short_name": "",
+    "color": "#993387",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "ee58cf52-5168-5414-8e8b-267c03c1720e",
+    "country_id": "fi",
+    "name": "Change 2011",
+    "short_name": "",
+    "color": "#5e3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "f6494bdd-27bb-542a-bba4-1d81e2f91809",
+    "country_id": "fi",
+    "name": "Freedom Party",
+    "short_name": "",
+    "color": "#998333",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7e913fa8-f817-52c4-bc60-e110a452d300",
+    "country_id": "fi",
+    "name": "Senior Citizens' Party of Finland",
+    "short_name": "",
+    "color": "#339973",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "bcf19a5e-1b86-59a3-84f1-d8776b8b2086",
+    "country_id": "fi",
+    "name": "Communist Workers' Party",
+    "short_name": "",
+    "color": "#993392",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "5e367b38-8f5c-5511-8fea-0c18449a0eff",
+    "country_id": "fi",
+    "name": "Pirkanmaa Joint List",
+    "short_name": "",
+    "color": "#33993a",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1b10d683-467b-59e1-bb4b-bee9875116f3",
+    "country_id": "fi",
+    "name": "Movement Now",
+    "short_name": "Liik",
+    "color": "#ae2375",
+    "ideology_ids": [
+      "ideology-liberalism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Movement_Now",
+    "archived": false
+  },
+  {
+    "id": "772ce35f-367c-56a3-8923-9a67f5b75caf",
+    "country_id": "fi",
+    "name": "Blue Reform",
+    "short_name": "",
+    "color": "#933399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "23465e2c-60cd-519b-b2f9-e8a8c923f487",
+    "country_id": "fi",
+    "name": "Seven Star Movement",
+    "short_name": "",
+    "color": "#789933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "f2e03bd7-6cf0-5484-a7ad-3a590120cf03",
+    "country_id": "fi",
+    "name": "Citizens' Party",
+    "short_name": "",
+    "color": "#939933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d88910e0-6500-50f0-9b91-3f15f6265a0f",
+    "country_id": "fi",
+    "name": "Feminist Party",
+    "short_name": "",
+    "color": "#5a3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "77586166-d978-554a-ae35-000b7b695a4d",
+    "country_id": "fi",
+    "name": "Animal Justice Party",
+    "short_name": "",
+    "color": "#336c99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "22b8218a-766a-5f11-8ebd-77b0e0b38a1f",
+    "country_id": "fi",
+    "name": "Finnish People First",
+    "short_name": "",
+    "color": "#994733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "e70e9a62-4400-5f03-9497-98232cfd0f4a",
+    "country_id": "fi",
+    "name": "Aito suomalainen yhteislista",
+    "short_name": "",
+    "color": "#336099",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "34487d47-63fc-5b40-8b01-7e371e24ae39",
+    "country_id": "fi",
+    "name": "Reform List",
+    "short_name": "",
+    "color": "#593399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "be7cabdc-33ed-5f24-8b2f-f7a2e9ba4789",
+    "country_id": "fi",
+    "name": "Rehtiliike yhteislista",
+    "short_name": "",
+    "color": "#3c3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "e3dea7dc-bfd0-5950-b7a9-d1c75beaa17c",
+    "country_id": "fi",
+    "name": "Yhteislista Jaana ja Leo",
+    "short_name": "",
+    "color": "#99335c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "be52783c-ca0a-5ff7-89bb-a5e24c5051df",
+    "country_id": "fi",
+    "name": "Freedom Alliance",
+    "short_name": "",
+    "color": "#996d33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "16aec7eb-5793-53e7-8fcf-92b600f97b88",
+    "country_id": "fi",
+    "name": "For Åland",
+    "short_name": "",
+    "color": "#997433",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "8cf31107-9318-5ec1-8712-1aedc2542a82",
+    "country_id": "fi",
+    "name": "Power Belongs to the People",
+    "short_name": "",
+    "color": "#339962",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "49bb1d8b-22f4-5569-9d41-fd96deecbd58",
+    "country_id": "fi",
+    "name": "Crystal Party",
+    "short_name": "",
+    "color": "#339946",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "dad3d051-df6f-5398-a58a-b275548a07a6",
+    "country_id": "fi",
+    "name": "Blue-and-Black Movement",
+    "short_name": "",
+    "color": "#339599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "9447bb9b-0e2b-530d-aa57-424789b7f3cf",
+    "country_id": "fi",
+    "name": "Finnish Reform Movement",
+    "short_name": "",
+    "color": "#993385",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "bc178437-7c0e-55ff-8811-3f56f9201634",
+    "country_id": "fi",
+    "name": "Lapland's Non-Aligned Joint List",
+    "short_name": "",
+    "color": "#996133",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "cb0c6c74-d2d6-59b8-b813-b0616f71e6d8",
+    "country_id": "fi",
+    "name": "The Open Party",
+    "short_name": "",
+    "color": "#339957",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "117eb94f-9145-520a-92d2-6460644fabe3",
+    "country_id": "fi",
+    "name": "Welfare and Equality",
+    "short_name": "",
+    "color": "#993370",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "dcc088bb-26a6-5d13-ad1c-6610104a69b4",
+    "country_id": "fi",
+    "name": "Non-aligned Coalition",
+    "short_name": "",
+    "color": "#33997a",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "14ed4143-9ea3-5b46-9c4b-3eddd97a21bd",
+    "country_id": "fi",
+    "name": "Sustainable Initiative",
+    "short_name": "",
+    "color": "#336099",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "bb9bb97f-2d52-590f-b3c0-eb7f50a1b770",
+    "country_id": "fi",
+    "name": "Citizens' Union",
+    "short_name": "",
+    "color": "#996633",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not imply organisational continuity.",
+    "archived": false
+  }
+]
