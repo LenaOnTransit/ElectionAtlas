@@ -1,0 +1,601 @@
+{
+  "verifiedAt": "2026-10-16T17:29:42+00:00",
+  "officialXmlTimestamp": "2026-10-15T15:10:22",
+  "runoffDistricts": [
+    3,
+    6,
+    9,
+    15,
+    18,
+    21,
+    24,
+    27,
+    30,
+    36,
+    42,
+    45,
+    51,
+    54,
+    60,
+    63,
+    66,
+    69,
+    72,
+    75,
+    78,
+    81
+  ],
+  "decidedInFirstRound": [
+    12,
+    33,
+    39,
+    48,
+    57
+  ],
+  "districts": [
+    {
+      "district": 3,
+      "name": "Cheb",
+      "firstRoundId": "world-cz-senate-2026-district-3-round-1",
+      "runoffId": "world-cz-senate-2026-district-3-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "name": "Miroslav Plevný",
+          "membershipCode": 99,
+          "nominationCode": 166,
+          "firstRoundVotes": 13659,
+          "firstRoundShare": 40.08
+        },
+        {
+          "candidateNumber": 4,
+          "name": "Sandra Tsoukernik",
+          "membershipCode": 99,
+          "nominationCode": 768,
+          "firstRoundVotes": 9227,
+          "firstRoundShare": 27.08
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 6,
+      "name": "Louny",
+      "firstRoundId": "world-cz-senate-2026-district-6-round-1",
+      "runoffId": "world-cz-senate-2026-district-6-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 5,
+          "name": "Ivo Trešl",
+          "membershipCode": 99,
+          "nominationCode": 166,
+          "firstRoundVotes": 19872,
+          "firstRoundShare": 43.5
+        },
+        {
+          "candidateNumber": 6,
+          "name": "Jaroslav Mikoláš",
+          "membershipCode": 99,
+          "nominationCode": 768,
+          "firstRoundVotes": 11675,
+          "firstRoundShare": 25.55
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 9,
+      "name": "Plzeň-město",
+      "firstRoundId": "world-cz-senate-2026-district-9-round-1",
+      "runoffId": "world-cz-senate-2026-district-9-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 5,
+          "name": "Karel Řehka",
+          "membershipCode": 99,
+          "nominationCode": 166,
+          "firstRoundVotes": 12611,
+          "firstRoundShare": 32.86
+        },
+        {
+          "candidateNumber": 7,
+          "name": "Lucie Kantorová",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 10463,
+          "firstRoundShare": 27.26
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 15,
+      "name": "Pelhřimov",
+      "firstRoundId": "world-cz-senate-2026-district-15-round-1",
+      "runoffId": "world-cz-senate-2026-district-15-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 3,
+          "name": "Ladislav Med",
+          "membershipCode": 53,
+          "nominationCode": 1648,
+          "firstRoundVotes": 14321,
+          "firstRoundShare": 30.48
+        },
+        {
+          "candidateNumber": 5,
+          "name": "Michal Kozár",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 12758,
+          "firstRoundShare": 27.15
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 18,
+      "name": "Příbram",
+      "firstRoundId": "world-cz-senate-2026-district-18-round-1",
+      "runoffId": "world-cz-senate-2026-district-18-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "name": "Petr Štěpánek",
+          "membershipCode": 166,
+          "nominationCode": 166,
+          "firstRoundVotes": 23305,
+          "firstRoundShare": 43.7
+        },
+        {
+          "candidateNumber": 2,
+          "name": "Barbora Daňhová",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 13446,
+          "firstRoundShare": 25.21
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 21,
+      "name": "Praha 5",
+      "firstRoundId": "world-cz-senate-2026-district-21-round-1",
+      "runoffId": "world-cz-senate-2026-district-21-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 3,
+          "name": "Václav Láska",
+          "membershipCode": 1187,
+          "nominationCode": 1187,
+          "firstRoundVotes": 14606,
+          "firstRoundShare": 32.54
+        },
+        {
+          "candidateNumber": 6,
+          "name": "Radko Sáblík",
+          "membershipCode": 53,
+          "nominationCode": 1889,
+          "firstRoundVotes": 12162,
+          "firstRoundShare": 27.1
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 24,
+      "name": "Praha 9",
+      "firstRoundId": "world-cz-senate-2026-district-24-round-1",
+      "runoffId": "world-cz-senate-2026-district-24-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 2,
+          "name": "David Smoljak",
+          "membershipCode": 99,
+          "nominationCode": 1955,
+          "firstRoundVotes": 20232,
+          "firstRoundShare": 48.92
+        },
+        {
+          "candidateNumber": 5,
+          "name": "Dagmar Pecková",
+          "membershipCode": 99,
+          "nominationCode": 53,
+          "firstRoundVotes": 9539,
+          "firstRoundShare": 23.06
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 27,
+      "name": "Praha 1",
+      "firstRoundId": "world-cz-senate-2026-district-27-round-1",
+      "runoffId": "world-cz-senate-2026-district-27-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 7,
+          "name": "Jiří Padevět",
+          "membershipCode": 99,
+          "nominationCode": 1912,
+          "firstRoundVotes": 17576,
+          "firstRoundShare": 49.64
+        },
+        {
+          "candidateNumber": 8,
+          "name": "Jan Čižinský",
+          "membershipCode": 1180,
+          "nominationCode": 1938,
+          "firstRoundVotes": 9824,
+          "firstRoundShare": 27.74
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 30,
+      "name": "Kladno",
+      "firstRoundId": "world-cz-senate-2026-district-30-round-1",
+      "runoffId": "world-cz-senate-2026-district-30-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 2,
+          "name": "Adéla Sucharda Šípová",
+          "membershipCode": 99,
+          "nominationCode": 1803,
+          "firstRoundVotes": 14766,
+          "firstRoundShare": 30.8
+        },
+        {
+          "candidateNumber": 5,
+          "name": "Petr Paták",
+          "membershipCode": 53,
+          "nominationCode": 53,
+          "firstRoundVotes": 14112,
+          "firstRoundShare": 29.44
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 36,
+      "name": "Česká Lípa",
+      "firstRoundId": "world-cz-senate-2026-district-36-round-1",
+      "runoffId": "world-cz-senate-2026-district-36-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 3,
+          "name": "Jitka Volfová",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 15078,
+          "firstRoundShare": 35.05
+        },
+        {
+          "candidateNumber": 5,
+          "name": "Martin Půta",
+          "membershipCode": 703,
+          "nominationCode": 703,
+          "firstRoundVotes": 14052,
+          "firstRoundShare": 32.66
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 42,
+      "name": "Kolín",
+      "firstRoundId": "world-cz-senate-2026-district-42-round-1",
+      "runoffId": "world-cz-senate-2026-district-42-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "name": "Andrea Brzobohatá",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 12988,
+          "firstRoundShare": 25.54
+        },
+        {
+          "candidateNumber": 7,
+          "name": "Michael Kašpar",
+          "membershipCode": 166,
+          "nominationCode": 166,
+          "firstRoundVotes": 23018,
+          "firstRoundShare": 45.26
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 45,
+      "name": "Hradec Králové",
+      "firstRoundId": "world-cz-senate-2026-district-45-round-1",
+      "runoffId": "world-cz-senate-2026-district-45-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 6,
+          "name": "Zuzana Ceralová Petrofová",
+          "membershipCode": 99,
+          "nominationCode": 53,
+          "firstRoundVotes": 10039,
+          "firstRoundShare": 21.94
+        },
+        {
+          "candidateNumber": 7,
+          "name": "Martin Dvořák",
+          "membershipCode": 166,
+          "nominationCode": 1867,
+          "firstRoundVotes": 11498,
+          "firstRoundShare": 25.13
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 51,
+      "name": "Žďár nad Sázavou",
+      "firstRoundId": "world-cz-senate-2026-district-51-round-1",
+      "runoffId": "world-cz-senate-2026-district-51-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 2,
+          "name": "Josef Klement",
+          "membershipCode": 1,
+          "nominationCode": 1,
+          "firstRoundVotes": 11373,
+          "firstRoundShare": 25.62
+        },
+        {
+          "candidateNumber": 3,
+          "name": "Michal Šmarda",
+          "membershipCode": 99,
+          "nominationCode": 1945,
+          "firstRoundVotes": 12254,
+          "firstRoundShare": 27.6
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 54,
+      "name": "Znojmo",
+      "firstRoundId": "world-cz-senate-2026-district-54-round-1",
+      "runoffId": "world-cz-senate-2026-district-54-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 2,
+          "name": "Tomáš Třetina",
+          "membershipCode": 721,
+          "nominationCode": 1655,
+          "firstRoundVotes": 14328,
+          "firstRoundShare": 35.55
+        },
+        {
+          "candidateNumber": 3,
+          "name": "Jiří Kyněra",
+          "membershipCode": 99,
+          "nominationCode": 768,
+          "firstRoundVotes": 8980,
+          "firstRoundShare": 22.28
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 60,
+      "name": "Brno-město",
+      "firstRoundId": "world-cz-senate-2026-district-60-round-1",
+      "runoffId": "world-cz-senate-2026-district-60-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 1,
+          "name": "Zdeněk Papoušek",
+          "membershipCode": 99,
+          "nominationCode": 1694,
+          "firstRoundVotes": 19395,
+          "firstRoundShare": 42.08
+        },
+        {
+          "candidateNumber": 5,
+          "name": "Karel Zitterbart",
+          "membershipCode": 99,
+          "nominationCode": 166,
+          "firstRoundVotes": 11269,
+          "firstRoundShare": 24.45
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 63,
+      "name": "Přerov",
+      "firstRoundId": "world-cz-senate-2026-district-63-round-1",
+      "runoffId": "world-cz-senate-2026-district-63-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 2,
+          "name": "Petr Vrána",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 15192,
+          "firstRoundShare": 37.62
+        },
+        {
+          "candidateNumber": 3,
+          "name": "Jakub Navařík",
+          "membershipCode": 53,
+          "nominationCode": 1531,
+          "firstRoundVotes": 15561,
+          "firstRoundShare": 38.54
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 66,
+      "name": "Litovel",
+      "firstRoundId": "world-cz-senate-2026-district-66-round-1",
+      "runoffId": "world-cz-senate-2026-district-66-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 3,
+          "name": "Martin Škurek",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 12118,
+          "firstRoundShare": 28.78
+        },
+        {
+          "candidateNumber": 5,
+          "name": "Marek Ošťádal",
+          "membershipCode": 1747,
+          "nominationCode": 1747,
+          "firstRoundVotes": 13544,
+          "firstRoundShare": 32.17
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 69,
+      "name": "Frýdek-Místek",
+      "firstRoundId": "world-cz-senate-2026-district-69-round-1",
+      "runoffId": "world-cz-senate-2026-district-69-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 2,
+          "name": "Petr Korč",
+          "membershipCode": 799,
+          "nominationCode": 799,
+          "firstRoundVotes": 14095,
+          "firstRoundShare": 32.47
+        },
+        {
+          "candidateNumber": 6,
+          "name": "Helena Pešatová",
+          "membershipCode": 99,
+          "nominationCode": 1472,
+          "firstRoundVotes": 15085,
+          "firstRoundShare": 34.75
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 72,
+      "name": "Ostrava-město",
+      "firstRoundId": "world-cz-senate-2026-district-72-round-1",
+      "runoffId": "world-cz-senate-2026-district-72-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 3,
+          "name": "Ondřej Šimetka",
+          "membershipCode": 99,
+          "nominationCode": 1655,
+          "firstRoundVotes": 15542,
+          "firstRoundShare": 46.74
+        },
+        {
+          "candidateNumber": 4,
+          "name": "Lucie Baránková Vilamová",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 10177,
+          "firstRoundShare": 30.61
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 75,
+      "name": "Karviná",
+      "firstRoundId": "world-cz-senate-2026-district-75-round-1",
+      "runoffId": "world-cz-senate-2026-district-75-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 5,
+          "name": "Lenka Brzyszkowská",
+          "membershipCode": 768,
+          "nominationCode": 768,
+          "firstRoundVotes": 8009,
+          "firstRoundShare": 33.62
+        },
+        {
+          "candidateNumber": 7,
+          "name": "Petr Kazík",
+          "membershipCode": 99,
+          "nominationCode": 1287,
+          "firstRoundVotes": 3411,
+          "firstRoundShare": 14.31
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 78,
+      "name": "Zlín",
+      "firstRoundId": "world-cz-senate-2026-district-78-round-1",
+      "runoffId": "world-cz-senate-2026-district-78-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 2,
+          "name": "Tomáš Goláň",
+          "membershipCode": 53,
+          "nominationCode": 1327,
+          "firstRoundVotes": 15627,
+          "firstRoundShare": 33.54
+        },
+        {
+          "candidateNumber": 5,
+          "name": "Ivo Mitáček",
+          "membershipCode": 99,
+          "nominationCode": 166,
+          "firstRoundVotes": 10638,
+          "firstRoundShare": 22.83
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    },
+    {
+      "district": 81,
+      "name": "Uherské Hradiště",
+      "firstRoundId": "world-cz-senate-2026-district-81-round-1",
+      "runoffId": "world-cz-senate-2026-district-81-round-2",
+      "candidates": [
+        {
+          "candidateNumber": 4,
+          "name": "Jiří Vašica",
+          "membershipCode": 99,
+          "nominationCode": 768,
+          "firstRoundVotes": 12434,
+          "firstRoundShare": 28.34
+        },
+        {
+          "candidateNumber": 6,
+          "name": "Josef Bazala",
+          "membershipCode": 1,
+          "nominationCode": 1,
+          "firstRoundVotes": 20975,
+          "firstRoundShare": 47.81
+        }
+      ],
+      "runoffPrecinctsReported": 0
+    }
+  ],
+  "sources": [
+    {
+      "file": "results.xml",
+      "sha256": "d2a64122bf79ad01f3fb88d9ddc005a35feacb6e61522188807e08c46eccf21c"
+    },
+    {
+      "file": "candidates.json",
+      "sha256": "2547b2eee30ec28b083bdda5aacd77720314cc32db6d0f578e65bfd4306a6d7f"
+    },
+    {
+      "file": "ministry.html",
+      "sha256": "77ebb651a06cc914a374da3ef7a687ca09a0eb12ec718c67b2d0d54b5128312a"
+    }
+  ]
+}
