@@ -1,0 +1,1450 @@
+{
+  "sources": [
+    {
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/demokrati/allmanna-val/allmanna-val-valresultat/pong/tabell-och-diagram/historisk-valstatistik/historisk-statistik-over-valaren-19102022.-procentuell-fordelning-av-giltiga-valsedlar-efter-parti-och-typ-av-val",
+      "sha256": "1b5c267d016a8f97244dc02e1cf901b0f03978073c59ff9c94d8e415fb3d1dcc"
+    },
+    {
+      "url": "https://www.val.se/english/election-results/elections-to-the-riksdag-and-regional-and-municipal-councils/election-results-2026",
+      "sha256": "5d517f673a81ec42f062e17c60e57bb4c577e3438a1636e1381b5a0fa184a18e"
+    }
+  ],
+  "checks": [
+    {
+      "id": "world-sweden-andra-kammaren-1911-09-03",
+      "party": "Moderate Party",
+      "sourceShare": 31.2,
+      "recordedShare": 31.24
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1911-09-03",
+      "party": "Social Democrats",
+      "sourceShare": 28.5,
+      "recordedShare": 28.51
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1911-09-03",
+      "field": "turnout",
+      "source": 57.0,
+      "recorded": 56.98
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1914-03-27-spring",
+      "party": "Moderate Party",
+      "sourceShare": 37.7,
+      "recordedShare": 37.65
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1914-03-27-spring",
+      "party": "Social Democrats",
+      "sourceShare": 30.1,
+      "recordedShare": 30.09
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1914-03-27-spring",
+      "field": "turnout",
+      "source": 69.9,
+      "recorded": 69.88
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1914-09-05-autumn",
+      "party": "Moderate Party",
+      "sourceShare": 36.5,
+      "recordedShare": 36.52
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1914-09-05-autumn",
+      "party": "Centre Party",
+      "sourceShare": 0.2,
+      "recordedShare": 0.21
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1914-09-05-autumn",
+      "party": "Social Democrats",
+      "sourceShare": 36.4,
+      "recordedShare": 36.39
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1914-09-05-autumn",
+      "field": "turnout",
+      "source": 66.2,
+      "recorded": 66.15
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1917-09-01",
+      "party": "Moderate Party",
+      "sourceShare": 24.7,
+      "recordedShare": 24.74
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1917-09-01",
+      "party": "Social Democrats",
+      "sourceShare": 31.1,
+      "recordedShare": 31.08
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1917-09-01",
+      "field": "turnout",
+      "source": 65.8,
+      "recorded": 65.75
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1920-09-04",
+      "party": "Moderate Party",
+      "sourceShare": 27.9,
+      "recordedShare": 27.81
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1920-09-04",
+      "party": "Social Democrats",
+      "sourceShare": 29.6,
+      "recordedShare": 29.65
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1920-09-04",
+      "field": "turnout",
+      "source": 55.3,
+      "recorded": 55.34
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1921-09-10",
+      "party": "Moderate Party",
+      "sourceShare": 25.8,
+      "recordedShare": 25.79
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1921-09-10",
+      "party": "Centre Party",
+      "sourceShare": 11.1,
+      "recordedShare": 11.04
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1921-09-10",
+      "party": "Social Democrats",
+      "sourceShare": 36.2,
+      "recordedShare": 36.22
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1921-09-10",
+      "party": "Left Party",
+      "sourceShare": 4.6,
+      "recordedShare": 4.61
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1921-09-10",
+      "field": "turnout",
+      "source": 54.2,
+      "recorded": 54.22
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1924-09-19",
+      "party": "Moderate Party",
+      "sourceShare": 26.1,
+      "recordedShare": 26.12
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1924-09-19",
+      "party": "Centre Party",
+      "sourceShare": 10.8,
+      "recordedShare": 10.78
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1924-09-19",
+      "party": "Social Democrats",
+      "sourceShare": 41.1,
+      "recordedShare": 41.09
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1924-09-19",
+      "field": "turnout",
+      "source": 53.0,
+      "recorded": 53.04
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1928-09-15",
+      "party": "Moderate Party",
+      "sourceShare": 29.4,
+      "recordedShare": 29.36
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1928-09-15",
+      "party": "Centre Party",
+      "sourceShare": 11.2,
+      "recordedShare": 11.17
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1928-09-15",
+      "party": "Social Democrats",
+      "sourceShare": 37.0,
+      "recordedShare": 37.05
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1928-09-15",
+      "party": "Left Party",
+      "sourceShare": 6.4,
+      "recordedShare": 6.43
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1928-09-15",
+      "field": "turnout",
+      "source": 67.4,
+      "recorded": 67.41
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1932-09-17",
+      "party": "Moderate Party",
+      "sourceShare": 23.5,
+      "recordedShare": 23.46
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1932-09-17",
+      "party": "Centre Party",
+      "sourceShare": 14.1,
+      "recordedShare": 14.08
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1932-09-17",
+      "party": "Social Democrats",
+      "sourceShare": 41.7,
+      "recordedShare": 41.71
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1932-09-17",
+      "field": "turnout",
+      "source": 67.6,
+      "recorded": 67.62
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1936-09-20",
+      "party": "Moderate Party",
+      "sourceShare": 17.6,
+      "recordedShare": 17.57
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1936-09-20",
+      "party": "Centre Party",
+      "sourceShare": 14.3,
+      "recordedShare": 14.35
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1936-09-20",
+      "party": "Liberals",
+      "sourceShare": 12.9,
+      "recordedShare": 12.89
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1936-09-20",
+      "party": "Social Democrats",
+      "sourceShare": 45.9,
+      "recordedShare": 45.86
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1936-09-20",
+      "field": "turnout",
+      "source": 74.5,
+      "recorded": 74.55
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1940-09-15",
+      "party": "Moderate Party",
+      "sourceShare": 18.0,
+      "recordedShare": 18.03
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1940-09-15",
+      "party": "Centre Party",
+      "sourceShare": 12.0,
+      "recordedShare": 11.98
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1940-09-15",
+      "party": "Liberals",
+      "sourceShare": 12.0,
+      "recordedShare": 11.97
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1940-09-15",
+      "party": "Social Democrats",
+      "sourceShare": 53.8,
+      "recordedShare": 53.81
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1940-09-15",
+      "field": "turnout",
+      "source": 70.3,
+      "recorded": 70.28
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1944-09-17",
+      "party": "Moderate Party",
+      "sourceShare": 15.9,
+      "recordedShare": 15.84
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1944-09-17",
+      "party": "Centre Party",
+      "sourceShare": 13.6,
+      "recordedShare": 13.64
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1944-09-17",
+      "party": "Liberals",
+      "sourceShare": 12.9,
+      "recordedShare": 12.91
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1944-09-17",
+      "party": "Left Party",
+      "sourceShare": 10.3,
+      "recordedShare": 10.32
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1944-09-17",
+      "field": "turnout",
+      "source": 71.9,
+      "recorded": 71.9
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1948-09-19",
+      "party": "Moderate Party",
+      "sourceShare": 12.3,
+      "recordedShare": 12.34
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1948-09-19",
+      "party": "Centre Party",
+      "sourceShare": 12.4,
+      "recordedShare": 12.39
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1948-09-19",
+      "party": "Liberals",
+      "sourceShare": 22.8,
+      "recordedShare": 22.75
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1948-09-19",
+      "party": "Social Democrats",
+      "sourceShare": 46.1,
+      "recordedShare": 46.13
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1948-09-19",
+      "party": "Left Party",
+      "sourceShare": 6.3,
+      "recordedShare": 6.31
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1948-09-19",
+      "field": "turnout",
+      "source": 82.7,
+      "recorded": 82.74
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1952-09-21",
+      "party": "Moderate Party",
+      "sourceShare": 14.4,
+      "recordedShare": 14.37
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1952-09-21",
+      "party": "Centre Party",
+      "sourceShare": 10.7,
+      "recordedShare": 10.74
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1952-09-21",
+      "party": "Liberals",
+      "sourceShare": 24.4,
+      "recordedShare": 24.44
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1952-09-21",
+      "party": "Social Democrats",
+      "sourceShare": 46.1,
+      "recordedShare": 46.05
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1952-09-21",
+      "party": "Left Party",
+      "sourceShare": 4.3,
+      "recordedShare": 4.34
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1952-09-21",
+      "field": "turnout",
+      "source": 79.1,
+      "recorded": 79.11
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1956-09-16",
+      "party": "Moderate Party",
+      "sourceShare": 17.1,
+      "recordedShare": 17.11
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1956-09-16",
+      "party": "Centre Party",
+      "sourceShare": 9.4,
+      "recordedShare": 9.45
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1956-09-16",
+      "party": "Liberals",
+      "sourceShare": 23.8,
+      "recordedShare": 23.81
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1956-09-16",
+      "party": "Social Democrats",
+      "sourceShare": 44.6,
+      "recordedShare": 44.58
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1956-09-16",
+      "party": "Left Party",
+      "sourceShare": 5.0,
+      "recordedShare": 5.0
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1956-09-16",
+      "field": "turnout",
+      "source": 79.8,
+      "recorded": 79.84
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1958-06-01",
+      "party": "Moderate Party",
+      "sourceShare": 19.5,
+      "recordedShare": 19.52
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1958-06-01",
+      "party": "Centre Party",
+      "sourceShare": 12.7,
+      "recordedShare": 12.66
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1958-06-01",
+      "party": "Liberals",
+      "sourceShare": 18.2,
+      "recordedShare": 18.21
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1958-06-01",
+      "party": "Social Democrats",
+      "sourceShare": 46.2,
+      "recordedShare": 46.22
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1958-06-01",
+      "party": "Left Party",
+      "sourceShare": 3.4,
+      "recordedShare": 3.36
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1958-06-01",
+      "field": "turnout",
+      "source": 77.4,
+      "recorded": 77.42
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1960-09-18",
+      "party": "Moderate Party",
+      "sourceShare": 16.5,
+      "recordedShare": 16.56
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1960-09-18",
+      "party": "Centre Party",
+      "sourceShare": 13.6,
+      "recordedShare": 13.61
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1960-09-18",
+      "party": "Liberals",
+      "sourceShare": 17.5,
+      "recordedShare": 17.49
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1960-09-18",
+      "party": "Social Democrats",
+      "sourceShare": 47.8,
+      "recordedShare": 47.79
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1960-09-18",
+      "party": "Left Party",
+      "sourceShare": 4.5,
+      "recordedShare": 4.48
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1960-09-18",
+      "field": "turnout",
+      "source": 85.9,
+      "recorded": 85.91
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1964-09-20",
+      "party": "Moderate Party",
+      "sourceShare": 13.7,
+      "recordedShare": 13.72
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1964-09-20",
+      "party": "Centre Party",
+      "sourceShare": 13.2,
+      "recordedShare": 13.18
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1964-09-20",
+      "party": "Liberals",
+      "sourceShare": 17.0,
+      "recordedShare": 16.98
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1964-09-20",
+      "party": "Christian Democrats",
+      "sourceShare": 1.8,
+      "recordedShare": 1.78
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1964-09-20",
+      "party": "Social Democrats",
+      "sourceShare": 47.3,
+      "recordedShare": 47.27
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1964-09-20",
+      "party": "Left Party",
+      "sourceShare": 5.2,
+      "recordedShare": 5.22
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1964-09-20",
+      "field": "turnout",
+      "source": 83.9,
+      "recorded": 83.86
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1968-09-15",
+      "party": "Moderate Party",
+      "sourceShare": 12.9,
+      "recordedShare": 12.86
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1968-09-15",
+      "party": "Centre Party",
+      "sourceShare": 15.7,
+      "recordedShare": 15.68
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1968-09-15",
+      "party": "Liberals",
+      "sourceShare": 14.3,
+      "recordedShare": 14.26
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1968-09-15",
+      "party": "Christian Democrats",
+      "sourceShare": 1.5,
+      "recordedShare": 1.5
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1968-09-15",
+      "party": "Social Democrats",
+      "sourceShare": 50.1,
+      "recordedShare": 50.12
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1968-09-15",
+      "party": "Left Party",
+      "sourceShare": 3.0,
+      "recordedShare": 3.01
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1968-09-15",
+      "field": "turnout",
+      "source": 89.3,
+      "recorded": 89.29
+    },
+    {
+      "id": "world-sweden-riksdag-1970-09-20",
+      "party": "Moderate Party",
+      "sourceShare": 11.5,
+      "recordedShare": 11.53
+    },
+    {
+      "id": "world-sweden-riksdag-1970-09-20",
+      "party": "Centre Party",
+      "sourceShare": 19.9,
+      "recordedShare": 19.92
+    },
+    {
+      "id": "world-sweden-riksdag-1970-09-20",
+      "party": "Liberals",
+      "sourceShare": 16.2,
+      "recordedShare": 16.21
+    },
+    {
+      "id": "world-sweden-riksdag-1970-09-20",
+      "party": "Christian Democrats",
+      "sourceShare": 1.8,
+      "recordedShare": 1.78
+    },
+    {
+      "id": "world-sweden-riksdag-1970-09-20",
+      "party": "Social Democrats",
+      "sourceShare": 45.3,
+      "recordedShare": 45.34
+    },
+    {
+      "id": "world-sweden-riksdag-1970-09-20",
+      "party": "Left Party",
+      "sourceShare": 4.8,
+      "recordedShare": 4.76
+    },
+    {
+      "id": "world-sweden-riksdag-1970-09-20",
+      "field": "turnout",
+      "source": 88.3,
+      "recorded": 88.28
+    },
+    {
+      "id": "world-sweden-riksdag-1973-09-16",
+      "party": "Moderate Party",
+      "sourceShare": 14.3,
+      "recordedShare": 14.29
+    },
+    {
+      "id": "world-sweden-riksdag-1973-09-16",
+      "party": "Centre Party",
+      "sourceShare": 25.1,
+      "recordedShare": 25.1
+    },
+    {
+      "id": "world-sweden-riksdag-1973-09-16",
+      "party": "Liberals",
+      "sourceShare": 9.4,
+      "recordedShare": 9.42
+    },
+    {
+      "id": "world-sweden-riksdag-1973-09-16",
+      "party": "Christian Democrats",
+      "sourceShare": 1.8,
+      "recordedShare": 1.75
+    },
+    {
+      "id": "world-sweden-riksdag-1973-09-16",
+      "party": "Social Democrats",
+      "sourceShare": 43.6,
+      "recordedShare": 43.56
+    },
+    {
+      "id": "world-sweden-riksdag-1973-09-16",
+      "party": "Left Party",
+      "sourceShare": 5.3,
+      "recordedShare": 5.33
+    },
+    {
+      "id": "world-sweden-riksdag-1973-09-16",
+      "field": "turnout",
+      "source": 90.8,
+      "recorded": 90.84
+    },
+    {
+      "id": "world-sweden-riksdag-1976-09-19",
+      "party": "Moderate Party",
+      "sourceShare": 15.6,
+      "recordedShare": 15.59
+    },
+    {
+      "id": "world-sweden-riksdag-1976-09-19",
+      "party": "Centre Party",
+      "sourceShare": 24.1,
+      "recordedShare": 24.08
+    },
+    {
+      "id": "world-sweden-riksdag-1976-09-19",
+      "party": "Liberals",
+      "sourceShare": 11.1,
+      "recordedShare": 11.06
+    },
+    {
+      "id": "world-sweden-riksdag-1976-09-19",
+      "party": "Christian Democrats",
+      "sourceShare": 1.4,
+      "recordedShare": 1.36
+    },
+    {
+      "id": "world-sweden-riksdag-1976-09-19",
+      "party": "Social Democrats",
+      "sourceShare": 42.7,
+      "recordedShare": 42.75
+    },
+    {
+      "id": "world-sweden-riksdag-1976-09-19",
+      "party": "Left Party",
+      "sourceShare": 4.8,
+      "recordedShare": 4.75
+    },
+    {
+      "id": "world-sweden-riksdag-1976-09-19",
+      "field": "turnout",
+      "source": 91.8,
+      "recorded": 91.76
+    },
+    {
+      "id": "world-sweden-riksdag-1979-09-16",
+      "party": "Moderate Party",
+      "sourceShare": 20.3,
+      "recordedShare": 20.34
+    },
+    {
+      "id": "world-sweden-riksdag-1979-09-16",
+      "party": "Centre Party",
+      "sourceShare": 18.1,
+      "recordedShare": 18.07
+    },
+    {
+      "id": "world-sweden-riksdag-1979-09-16",
+      "party": "Liberals",
+      "sourceShare": 10.6,
+      "recordedShare": 10.59
+    },
+    {
+      "id": "world-sweden-riksdag-1979-09-16",
+      "party": "Christian Democrats",
+      "sourceShare": 1.4,
+      "recordedShare": 1.39
+    },
+    {
+      "id": "world-sweden-riksdag-1979-09-16",
+      "party": "Social Democrats",
+      "sourceShare": 43.2,
+      "recordedShare": 43.24
+    },
+    {
+      "id": "world-sweden-riksdag-1979-09-16",
+      "party": "Left Party",
+      "sourceShare": 5.6,
+      "recordedShare": 5.61
+    },
+    {
+      "id": "world-sweden-riksdag-1979-09-16",
+      "field": "turnout",
+      "source": 90.7,
+      "recorded": 90.72
+    },
+    {
+      "id": "world-sweden-riksdag-1982-09-19",
+      "party": "Moderate Party",
+      "sourceShare": 23.6,
+      "recordedShare": 23.64
+    },
+    {
+      "id": "world-sweden-riksdag-1982-09-19",
+      "party": "Centre Party",
+      "sourceShare": 15.5,
+      "recordedShare": 15.48
+    },
+    {
+      "id": "world-sweden-riksdag-1982-09-19",
+      "party": "Liberals",
+      "sourceShare": 5.9,
+      "recordedShare": 5.9
+    },
+    {
+      "id": "world-sweden-riksdag-1982-09-19",
+      "party": "Christian Democrats",
+      "sourceShare": 1.9,
+      "recordedShare": 1.87
+    },
+    {
+      "id": "world-sweden-riksdag-1982-09-19",
+      "party": "Green Party",
+      "sourceShare": 1.7,
+      "recordedShare": 1.65
+    },
+    {
+      "id": "world-sweden-riksdag-1982-09-19",
+      "party": "Social Democrats",
+      "sourceShare": 45.6,
+      "recordedShare": 45.61
+    },
+    {
+      "id": "world-sweden-riksdag-1982-09-19",
+      "party": "Left Party",
+      "sourceShare": 5.6,
+      "recordedShare": 5.56
+    },
+    {
+      "id": "world-sweden-riksdag-1982-09-19",
+      "field": "turnout",
+      "source": 91.4,
+      "recorded": 91.45
+    },
+    {
+      "id": "world-sweden-riksdag-1985-09-15",
+      "party": "Moderate Party",
+      "sourceShare": 21.3,
+      "recordedShare": 21.33
+    },
+    {
+      "id": "world-sweden-riksdag-1985-09-15",
+      "party": "Liberals",
+      "sourceShare": 14.2,
+      "recordedShare": 14.23
+    },
+    {
+      "id": "world-sweden-riksdag-1985-09-15",
+      "party": "Green Party",
+      "sourceShare": 1.5,
+      "recordedShare": 1.5
+    },
+    {
+      "id": "world-sweden-riksdag-1985-09-15",
+      "party": "Social Democrats",
+      "sourceShare": 44.7,
+      "recordedShare": 44.68
+    },
+    {
+      "id": "world-sweden-riksdag-1985-09-15",
+      "party": "Left Party",
+      "sourceShare": 5.4,
+      "recordedShare": 5.36
+    },
+    {
+      "id": "world-sweden-riksdag-1985-09-15",
+      "field": "turnout",
+      "source": 89.9,
+      "recorded": 89.85
+    },
+    {
+      "id": "world-sweden-riksdag-1988-09-18",
+      "party": "Moderate Party",
+      "sourceShare": 18.3,
+      "recordedShare": 18.3
+    },
+    {
+      "id": "world-sweden-riksdag-1988-09-18",
+      "party": "Centre Party",
+      "sourceShare": 11.3,
+      "recordedShare": 11.3
+    },
+    {
+      "id": "world-sweden-riksdag-1988-09-18",
+      "party": "Liberals",
+      "sourceShare": 12.2,
+      "recordedShare": 12.2
+    },
+    {
+      "id": "world-sweden-riksdag-1988-09-18",
+      "party": "Christian Democrats",
+      "sourceShare": 2.9,
+      "recordedShare": 2.94
+    },
+    {
+      "id": "world-sweden-riksdag-1988-09-18",
+      "party": "Green Party",
+      "sourceShare": 5.5,
+      "recordedShare": 5.53
+    },
+    {
+      "id": "world-sweden-riksdag-1988-09-18",
+      "party": "Social Democrats",
+      "sourceShare": 43.2,
+      "recordedShare": 43.21
+    },
+    {
+      "id": "world-sweden-riksdag-1988-09-18",
+      "party": "Left Party",
+      "sourceShare": 5.8,
+      "recordedShare": 5.84
+    },
+    {
+      "id": "world-sweden-riksdag-1988-09-18",
+      "field": "turnout",
+      "source": 86.0,
+      "recorded": 85.96
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "party": "Moderate Party",
+      "sourceShare": 21.9,
+      "recordedShare": 21.92
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "party": "Centre Party",
+      "sourceShare": 8.5,
+      "recordedShare": 8.5
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "party": "Liberals",
+      "sourceShare": 9.1,
+      "recordedShare": 9.13
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "party": "Christian Democrats",
+      "sourceShare": 7.1,
+      "recordedShare": 7.14
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "party": "Green Party",
+      "sourceShare": 3.4,
+      "recordedShare": 3.38
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "party": "New Democracy",
+      "sourceShare": 6.7,
+      "recordedShare": 6.73
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "party": "Social Democrats",
+      "sourceShare": 37.7,
+      "recordedShare": 37.71
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "party": "Left Party",
+      "sourceShare": 4.5,
+      "recordedShare": 4.51
+    },
+    {
+      "id": "world-sweden-riksdag-1991-09-15",
+      "field": "turnout",
+      "source": 86.7,
+      "recorded": 86.74
+    },
+    {
+      "id": "world-sweden-riksdag-1994-09-18",
+      "party": "Moderate Party",
+      "sourceShare": 22.4,
+      "recordedShare": 22.38
+    },
+    {
+      "id": "world-sweden-riksdag-1994-09-18",
+      "party": "Centre Party",
+      "sourceShare": 7.7,
+      "recordedShare": 7.65
+    },
+    {
+      "id": "world-sweden-riksdag-1994-09-18",
+      "party": "Liberals",
+      "sourceShare": 7.2,
+      "recordedShare": 7.19
+    },
+    {
+      "id": "world-sweden-riksdag-1994-09-18",
+      "party": "Christian Democrats",
+      "sourceShare": 4.1,
+      "recordedShare": 4.07
+    },
+    {
+      "id": "world-sweden-riksdag-1994-09-18",
+      "party": "Green Party",
+      "sourceShare": 5.0,
+      "recordedShare": 5.02
+    },
+    {
+      "id": "world-sweden-riksdag-1994-09-18",
+      "party": "Social Democrats",
+      "sourceShare": 45.3,
+      "recordedShare": 45.25
+    },
+    {
+      "id": "world-sweden-riksdag-1994-09-18",
+      "party": "Left Party",
+      "sourceShare": 6.2,
+      "recordedShare": 6.17
+    },
+    {
+      "id": "world-sweden-riksdag-1994-09-18",
+      "field": "turnout",
+      "source": 86.8,
+      "recorded": 86.83
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "party": "Moderate Party",
+      "sourceShare": 22.9,
+      "recordedShare": 22.91
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "party": "Centre Party",
+      "sourceShare": 5.1,
+      "recordedShare": 5.13
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "party": "Liberals",
+      "sourceShare": 4.7,
+      "recordedShare": 4.72
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "party": "Christian Democrats",
+      "sourceShare": 11.7,
+      "recordedShare": 11.75
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "party": "Green Party",
+      "sourceShare": 4.5,
+      "recordedShare": 4.5
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "party": "Social Democrats",
+      "sourceShare": 36.4,
+      "recordedShare": 36.4
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "party": "Left Party",
+      "sourceShare": 12.0,
+      "recordedShare": 12.0
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "party": "Sweden Democrats",
+      "sourceShare": 0.4,
+      "recordedShare": 0.37
+    },
+    {
+      "id": "world-sweden-riksdag-1998-09-20",
+      "field": "turnout",
+      "source": 81.4,
+      "recorded": 81.38
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "party": "Moderate Party",
+      "sourceShare": 15.3,
+      "recordedShare": 15.26
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "party": "Centre Party",
+      "sourceShare": 6.2,
+      "recordedShare": 6.19
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "party": "Liberals",
+      "sourceShare": 13.4,
+      "recordedShare": 13.39
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "party": "Christian Democrats",
+      "sourceShare": 9.1,
+      "recordedShare": 9.15
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "party": "Green Party",
+      "sourceShare": 4.6,
+      "recordedShare": 4.65
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "party": "Social Democrats",
+      "sourceShare": 39.9,
+      "recordedShare": 39.85
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "party": "Left Party",
+      "sourceShare": 8.4,
+      "recordedShare": 8.39
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "party": "Sweden Democrats",
+      "sourceShare": 1.4,
+      "recordedShare": 1.44
+    },
+    {
+      "id": "world-sweden-riksdag-2002-09-15",
+      "field": "turnout",
+      "source": 80.1,
+      "recorded": 80.11
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "party": "Moderate Party",
+      "sourceShare": 26.2,
+      "recordedShare": 26.23
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "party": "Centre Party",
+      "sourceShare": 7.9,
+      "recordedShare": 7.88
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "party": "Liberals",
+      "sourceShare": 7.5,
+      "recordedShare": 7.54
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "party": "Christian Democrats",
+      "sourceShare": 6.6,
+      "recordedShare": 6.59
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "party": "Green Party",
+      "sourceShare": 5.2,
+      "recordedShare": 5.24
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "party": "Social Democrats",
+      "sourceShare": 35.0,
+      "recordedShare": 34.99
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "party": "Left Party",
+      "sourceShare": 5.8,
+      "recordedShare": 5.85
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "party": "Sweden Democrats",
+      "sourceShare": 2.9,
+      "recordedShare": 2.93
+    },
+    {
+      "id": "world-sweden-riksdag-2006-09-17",
+      "field": "turnout",
+      "source": 82.0,
+      "recorded": 81.99
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "party": "Moderate Party",
+      "sourceShare": 30.1,
+      "recordedShare": 30.06
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "party": "Centre Party",
+      "sourceShare": 6.6,
+      "recordedShare": 6.56
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "party": "Liberals",
+      "sourceShare": 7.1,
+      "recordedShare": 7.06
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "party": "Christian Democrats",
+      "sourceShare": 5.6,
+      "recordedShare": 5.6
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "party": "Green Party",
+      "sourceShare": 7.3,
+      "recordedShare": 7.34
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "party": "Social Democrats",
+      "sourceShare": 30.7,
+      "recordedShare": 30.66
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "party": "Left Party",
+      "sourceShare": 5.6,
+      "recordedShare": 5.6
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "party": "Sweden Democrats",
+      "sourceShare": 5.7,
+      "recordedShare": 5.7
+    },
+    {
+      "id": "world-sweden-riksdag-2010-09-19",
+      "field": "turnout",
+      "source": 84.6,
+      "recorded": 84.63
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "party": "Moderate Party",
+      "sourceShare": 23.3,
+      "recordedShare": 23.33
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "party": "Centre Party",
+      "sourceShare": 6.1,
+      "recordedShare": 6.11
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "party": "Liberals",
+      "sourceShare": 5.4,
+      "recordedShare": 5.42
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "party": "Christian Democrats",
+      "sourceShare": 4.6,
+      "recordedShare": 4.57
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "party": "Green Party",
+      "sourceShare": 6.9,
+      "recordedShare": 6.89
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "party": "Social Democrats",
+      "sourceShare": 31.0,
+      "recordedShare": 31.01
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "party": "Left Party",
+      "sourceShare": 5.7,
+      "recordedShare": 5.72
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "party": "Sweden Democrats",
+      "sourceShare": 12.9,
+      "recordedShare": 12.86
+    },
+    {
+      "id": "world-sweden-riksdag-2014-09-14",
+      "field": "turnout",
+      "source": 85.8,
+      "recorded": 85.81
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "party": "Moderate Party",
+      "sourceShare": 19.8,
+      "recordedShare": 19.84
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "party": "Centre Party",
+      "sourceShare": 8.6,
+      "recordedShare": 8.61
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "party": "Liberals",
+      "sourceShare": 5.5,
+      "recordedShare": 5.49
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "party": "Christian Democrats",
+      "sourceShare": 6.3,
+      "recordedShare": 6.32
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "party": "Green Party",
+      "sourceShare": 4.4,
+      "recordedShare": 4.41
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "party": "Social Democrats",
+      "sourceShare": 28.3,
+      "recordedShare": 28.26
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "party": "Left Party",
+      "sourceShare": 8.0,
+      "recordedShare": 8.0
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "party": "Sweden Democrats",
+      "sourceShare": 17.5,
+      "recordedShare": 17.53
+    },
+    {
+      "id": "world-sweden-riksdag-2018-09-09",
+      "field": "turnout",
+      "source": 87.2,
+      "recorded": 87.18
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "party": "Moderate Party",
+      "sourceShare": 19.1,
+      "recordedShare": 19.1
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "party": "Centre Party",
+      "sourceShare": 6.7,
+      "recordedShare": 6.71
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "party": "Liberals",
+      "sourceShare": 4.6,
+      "recordedShare": 4.61
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "party": "Christian Democrats",
+      "sourceShare": 5.3,
+      "recordedShare": 5.34
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "party": "Green Party",
+      "sourceShare": 5.1,
+      "recordedShare": 5.08
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "party": "Social Democrats",
+      "sourceShare": 30.3,
+      "recordedShare": 30.33
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "party": "Left Party",
+      "sourceShare": 6.7,
+      "recordedShare": 6.75
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "party": "Sweden Democrats",
+      "sourceShare": 20.5,
+      "recordedShare": 20.54
+    },
+    {
+      "id": "world-sweden-riksdag-2022-09-11",
+      "field": "turnout",
+      "source": 84.2,
+      "recorded": 84.21
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "The Social Democratic Party",
+      "share": 28.02,
+      "seats": 99
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "The Moderate Party",
+      "share": 19.85,
+      "seats": 70
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "The Sweden Democrats",
+      "share": 17.48,
+      "seats": 62
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "The Left Party",
+      "share": 8.4,
+      "seats": 30
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "The Centre Party",
+      "share": 7.03,
+      "seats": 25
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "The Christian Democrats",
+      "share": 6.17,
+      "seats": 22
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "The Green Party",
+      "share": 6.12,
+      "seats": 22
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "The Liberal Party",
+      "share": 5.34,
+      "seats": 19
+    },
+    {
+      "id": "world-sweden-2026",
+      "party": "Other participating parties — source aggregate",
+      "share": 1.58,
+      "seats": 0
+    }
+  ],
+  "classificationDifferences": [
+    {
+      "id": "world-sweden-andra-kammaren-1917-09-01",
+      "party": "Centre Party",
+      "sourceShare": 8.5,
+      "recordedShare": 5.33
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1920-09-04",
+      "party": "Centre Party",
+      "sourceShare": 14.2,
+      "recordedShare": 7.95
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1924-09-19",
+      "party": "Left Party",
+      "sourceShare": 5.1,
+      "recordedShare": 3.6
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1932-09-17",
+      "party": "Left Party",
+      "sourceShare": 8.3,
+      "recordedShare": 2.98
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1936-09-20",
+      "party": "Left Party",
+      "sourceShare": 7.7,
+      "recordedShare": 3.31
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1940-09-15",
+      "party": "Left Party",
+      "sourceShare": 4.2,
+      "recordedShare": 3.53
+    },
+    {
+      "id": "world-sweden-andra-kammaren-1944-09-17",
+      "party": "Social Democrats",
+      "sourceShare": 46.7,
+      "recordedShare": 46.55
+    }
+  ]
+}

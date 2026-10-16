@@ -1,0 +1,1648 @@
+[
+  {
+    "id": "d795cb0e-c3ee-5990-80b9-6cd0bebfddc0",
+    "country_id": "se",
+    "name": "Social Democrats",
+    "short_name": "S",
+    "color": "#e8112d",
+    "ideology_ids": [
+      "ideology-social-democracy"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Swedish_Social_Democratic_Party",
+    "archived": false
+  },
+  {
+    "id": "cee5d447-ebb0-5944-86e7-f413077e1780",
+    "country_id": "se",
+    "name": "Moderate Party",
+    "short_name": "M",
+    "color": "#52bdec",
+    "ideology_ids": [
+      "ideology-liberal-conservatism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Moderate_Party",
+    "archived": false
+  },
+  {
+    "id": "564a4791-0453-5a76-8362-dffa42b05d6c",
+    "country_id": "se",
+    "name": "Centre Party",
+    "short_name": "C",
+    "color": "#009933",
+    "ideology_ids": [
+      "ideology-liberalism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Centre_Party_(Sweden)",
+    "archived": false
+  },
+  {
+    "id": "106bc1ff-c00e-526a-8ebb-21cdec6ff2bc",
+    "country_id": "se",
+    "name": "Liberals",
+    "short_name": "L",
+    "color": "#006ab3",
+    "ideology_ids": [
+      "ideology-liberalism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Liberals_(Sweden)",
+    "archived": false
+  },
+  {
+    "id": "14f379df-dce2-5dd2-826f-82d5f4d299bf",
+    "country_id": "se",
+    "name": "Christian Democrats",
+    "short_name": "KD",
+    "color": "#000077",
+    "ideology_ids": [
+      "ideology-christian-democracy"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Christian_Democrats_(Sweden)",
+    "archived": false
+  },
+  {
+    "id": "b4c29c1b-c3e2-517c-9744-787e8fcfed3f",
+    "country_id": "se",
+    "name": "Left Party",
+    "short_name": "V",
+    "color": "#da291c",
+    "ideology_ids": [
+      "ideology-democratic-socialism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Left_Party_(Sweden)",
+    "archived": false
+  },
+  {
+    "id": "3e2cca19-3a19-5295-b854-2670044f01ae",
+    "country_id": "se",
+    "name": "Green Party",
+    "short_name": "MP",
+    "color": "#83cf39",
+    "ideology_ids": [
+      "ideology-green-politics"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Green_Party_(Sweden)",
+    "archived": false
+  },
+  {
+    "id": "6b503d7a-5037-516d-824f-fd9c5ac6d1b6",
+    "country_id": "se",
+    "name": "Sweden Democrats",
+    "short_name": "SD",
+    "color": "#dddd00",
+    "ideology_ids": [
+      "ideology-national-conservatism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Sweden_Democrats",
+    "archived": false
+  },
+  {
+    "id": "0a88e524-6e0d-552c-aa3d-700ce5a25d94",
+    "country_id": "se",
+    "name": "Feminist Initiative",
+    "short_name": "",
+    "color": "#359933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "0d4004ab-e0b8-5e2e-be08-54fbdcb44bb7",
+    "country_id": "se",
+    "name": "Pirate Party",
+    "short_name": "",
+    "color": "#993387",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "1f46ac40-32fa-5e0e-9d77-a97c2e9206a5",
+    "country_id": "se",
+    "name": "Swedish Senior Citizen Interest Party",
+    "short_name": "",
+    "color": "#338899",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "77017d7c-545e-54ac-887f-2a6be88d1e03",
+    "country_id": "se",
+    "name": "June List",
+    "short_name": "",
+    "color": "#8d3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "1936b211-bc75-51b1-ab45-25ec5dfd5bab",
+    "country_id": "se",
+    "name": "Health Care Party",
+    "short_name": "",
+    "color": "#373399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ad673c80-d9e7-588c-964a-f7ca57b13698",
+    "country_id": "se",
+    "name": "National Democrats",
+    "short_name": "",
+    "color": "#335599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "e4bb6341-6499-51c2-b1d7-82cd70f817b6",
+    "country_id": "se",
+    "name": "Unity",
+    "short_name": "",
+    "color": "#997c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "30ebf2b7-c26a-5f6b-aa38-538693601e43",
+    "country_id": "se",
+    "name": "National Socialist Front",
+    "short_name": "",
+    "color": "#339993",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "930a079c-2f75-531c-a05f-a309d0176ee1",
+    "country_id": "se",
+    "name": "New Future",
+    "short_name": "",
+    "color": "#689933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "5ffcfdb9-8a4d-50ec-96ff-4fcfe639f70e",
+    "country_id": "se",
+    "name": "Socialist Justice Party",
+    "short_name": "",
+    "color": "#473399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "f65ed52a-8c5d-5b6f-ae2e-8faa8fc5a386",
+    "country_id": "se",
+    "name": "People's Will",
+    "short_name": "",
+    "color": "#993373",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "608f5fc9-8503-5a53-9356-2e5cd9dc35e2",
+    "country_id": "se",
+    "name": "Communist Party of Sweden (1967–1987)",
+    "short_name": "",
+    "color": "#998b33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "e67f4db5-f860-5e07-806c-9c8f383ee68d",
+    "country_id": "se",
+    "name": "Unique Party",
+    "short_name": "",
+    "color": "#997733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "38deb2ea-1a78-58b5-abc5-535f7d0fae36",
+    "country_id": "se",
+    "name": "Classical Liberal Party",
+    "short_name": "",
+    "color": "#335899",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "e7be14ce-d1af-5af7-9a75-48270c6aed8c",
+    "country_id": "se",
+    "name": "Alliance Party",
+    "short_name": "",
+    "color": "#983399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "19516df8-0a89-5541-9215-2b0e0ed7ef45",
+    "country_id": "se",
+    "name": "Women's Power",
+    "short_name": "",
+    "color": "#99338b",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "076a3329-84ed-5da8-8ee3-67445635d034",
+    "country_id": "se",
+    "name": "European Workers Party",
+    "short_name": "",
+    "color": "#5a3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "5f504e5c-1958-5c7a-a3b6-872930b86870",
+    "country_id": "se",
+    "name": "Direct Democrats",
+    "short_name": "",
+    "color": "#993355",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "94a55b46-80d8-5429-8279-f3e604d03ac7",
+    "country_id": "se",
+    "name": "Sweden out of the EU / Freedom and Justice Party",
+    "short_name": "",
+    "color": "#339935",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "65c395a2-534a-59dc-9e9a-4032115ea502",
+    "country_id": "se",
+    "name": "National Democratic Party",
+    "short_name": "",
+    "color": "#335399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "9beb447e-eeff-5004-ba56-da2ce7620938",
+    "country_id": "se",
+    "name": "Partiet.se",
+    "short_name": "",
+    "color": "#99337d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "e8b6d453-8106-5bbe-9c4a-fae2450798f1",
+    "country_id": "se",
+    "name": "September List",
+    "short_name": "",
+    "color": "#973399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "12a6a2a5-2830-51cb-8383-9b1a13401020",
+    "country_id": "se",
+    "name": "Communist League",
+    "short_name": "",
+    "color": "#994733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "367428fa-0213-5d18-b3ac-b9bc40fc516e",
+    "country_id": "se",
+    "name": "Nordic Union",
+    "short_name": "",
+    "color": "#33995e",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "5993730b-7a8e-5395-90fd-9c52f734e1a4",
+    "country_id": "se",
+    "name": "Scania Party",
+    "short_name": "",
+    "color": "#5e3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "dcc7dc15-200e-577c-8831-aab49a696351",
+    "country_id": "se",
+    "name": "Tax Reformists",
+    "short_name": "",
+    "color": "#994133",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a5dd7976-2108-5af6-b885-d2f20911a342",
+    "country_id": "se",
+    "name": "Rikshushållarna",
+    "short_name": "",
+    "color": "#8f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "c72e39d9-ab16-5a48-95a6-f1099e9a7e98",
+    "country_id": "se",
+    "name": "Miata Party",
+    "short_name": "",
+    "color": "#529933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "904fce9b-d46b-5a74-a44c-ce977a3add63",
+    "country_id": "se",
+    "name": "New Swedes D.P.N.S.",
+    "short_name": "",
+    "color": "#5e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "f345c28e-cb15-542b-a150-52f673da5b04",
+    "country_id": "se",
+    "name": "Fårgutapartiet",
+    "short_name": "",
+    "color": "#423399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "40ca25ea-2b31-58f2-a5d7-9f328b1dc74f",
+    "country_id": "se",
+    "name": "Palmes Party",
+    "short_name": "",
+    "color": "#7c9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "c6688b3f-2526-5e4e-aa70-aedc590a2928",
+    "country_id": "se",
+    "name": "Republicans",
+    "short_name": "",
+    "color": "#99333e",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "9d1974e7-4967-5f02-8d01-bfe338199d37",
+    "country_id": "se",
+    "name": "Viking Party",
+    "short_name": "",
+    "color": "#998c33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "b776695c-3ec2-55fe-903c-a5e09aa101cc",
+    "country_id": "se",
+    "name": "Rural Democrats",
+    "short_name": "",
+    "color": "#783399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "490ea4b9-e0cc-5dd2-9d59-ca9e00c88698",
+    "country_id": "se",
+    "name": "Norrländska Coalition",
+    "short_name": "",
+    "color": "#995233",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "719f5774-3a5d-5e6c-b9ce-7fb58852be1f",
+    "country_id": "se",
+    "name": "Freedom Party",
+    "short_name": "",
+    "color": "#998333",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "1a5b203b-a748-5f7d-9c8d-e49319a4efff",
+    "country_id": "se",
+    "name": "Party of the Swedes",
+    "short_name": "",
+    "color": "#993633",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "95798d33-5942-50ab-a013-62d80a02a5ab",
+    "country_id": "se",
+    "name": "Spirits Party",
+    "short_name": "",
+    "color": "#33998f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "3e236777-cfef-54ef-bead-a2c849c24d4a",
+    "country_id": "se",
+    "name": "Population Party",
+    "short_name": "",
+    "color": "#994833",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "2ca39b27-9cd2-5fe3-b980-f758593823d4",
+    "country_id": "se",
+    "name": "Freedom and Justice Party",
+    "short_name": "",
+    "color": "#7d3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "00d749e8-ddd5-5ff9-9e77-04a7af9d9faf",
+    "country_id": "se",
+    "name": "Republican Party",
+    "short_name": "",
+    "color": "#998e33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "5e663757-ed38-5ca8-bc5c-aa36312911ae",
+    "country_id": "se",
+    "name": "Alexander's Lista",
+    "short_name": "",
+    "color": "#889933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "99e38c37-4170-5584-8f23-fc749f6aa940",
+    "country_id": "se",
+    "name": "Li Yu Chen Andersson Party",
+    "short_name": "",
+    "color": "#559933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "8b6efe1b-5846-5605-9546-52d96eca61f2",
+    "country_id": "se",
+    "name": "Labour Market Party UPI",
+    "short_name": "",
+    "color": "#349933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "89bc2d11-38c5-507b-b17e-6ffe04de0085",
+    "country_id": "se",
+    "name": "Animals' Party",
+    "short_name": "",
+    "color": "#339977",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "9263ee32-8d7e-5d8d-9ff7-08d67373dab7",
+    "country_id": "se",
+    "name": "Christian Values Party",
+    "short_name": "",
+    "color": "#994333",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "8ded4c1e-8145-5c41-b572-eab474c8d5b8",
+    "country_id": "se",
+    "name": "Independent Rural Party",
+    "short_name": "",
+    "color": "#709933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "16ea5aa8-45dd-5a66-8263-b7ab07e697c6",
+    "country_id": "se",
+    "name": "Vägvalet",
+    "short_name": "",
+    "color": "#339956",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "e412a8be-4381-54e7-8dcf-6ab2d592d717",
+    "country_id": "se",
+    "name": "Progressive Party",
+    "short_name": "",
+    "color": "#459933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "f2bf8ccc-439a-5060-b1f4-d1d1cb586bb3",
+    "country_id": "se",
+    "name": "Health Party",
+    "short_name": "",
+    "color": "#339989",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ddf8dbf7-0858-59dd-b3ba-a929788325ec",
+    "country_id": "se",
+    "name": "Peace Democrats",
+    "short_name": "",
+    "color": "#993348",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "abeb1741-7054-58e5-a38e-0a50047a0eaa",
+    "country_id": "se",
+    "name": "Yellow Party",
+    "short_name": "",
+    "color": "#6c3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "3b2dd4b9-17fd-5452-98b2-7628257a62f2",
+    "country_id": "se",
+    "name": "New Party",
+    "short_name": "",
+    "color": "#335599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "80ecbdf9-dda2-5149-b758-c0b054933827",
+    "country_id": "se",
+    "name": "Libertarian Justice Party",
+    "short_name": "",
+    "color": "#335399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "71d1cc23-a336-5091-99d9-3116a7064745",
+    "country_id": "se",
+    "name": "The New Swedes",
+    "short_name": "",
+    "color": "#993383",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "f56b6458-bfd3-59ab-9a18-b30e823e34a8",
+    "country_id": "se",
+    "name": "Reformist Neutral Party",
+    "short_name": "",
+    "color": "#339983",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "0773499b-edda-50d9-8d98-acfa2b8ab5f4",
+    "country_id": "se",
+    "name": "Animal Owner Party",
+    "short_name": "",
+    "color": "#334699",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ed3661b2-7f8e-5e79-a893-5123fb16a282",
+    "country_id": "se",
+    "name": "Human Democrats",
+    "short_name": "",
+    "color": "#995433",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "f6c78ba7-7ff2-5b73-b6bf-7de6001226d1",
+    "country_id": "se",
+    "name": "Alternative for Sweden",
+    "short_name": "",
+    "color": "#997933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "d0780754-ebe7-5b1d-b56b-b4da0bf4daff",
+    "country_id": "se",
+    "name": "Citizens' Coalition",
+    "short_name": "",
+    "color": "#339299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ea5bea20-4cea-5a38-a868-b365cda18522",
+    "country_id": "se",
+    "name": "Enhet",
+    "short_name": "",
+    "color": "#489933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ee5e0b58-13f4-5025-8291-941686708439",
+    "country_id": "se",
+    "name": "Nordic Resistance Movement",
+    "short_name": "",
+    "color": "#339987",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "43af205b-862e-5ef1-9da4-b41267fdaa41",
+    "country_id": "se",
+    "name": "Communist Party of Sweden (1995–)",
+    "short_name": "",
+    "color": "#999733",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "5cac9181-17dd-51bc-aa59-c735d587a321",
+    "country_id": "se",
+    "name": "Basic Income Party",
+    "short_name": "",
+    "color": "#583399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a793a048-346f-5bf9-9d48-321a716b1a81",
+    "country_id": "se",
+    "name": "Initiative",
+    "short_name": "",
+    "color": "#6a9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "26bc203a-aa29-5ce1-a2cb-8452b7fbf9be",
+    "country_id": "se",
+    "name": "Security Party",
+    "short_name": "",
+    "color": "#399933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "8d0abc8c-35e6-575a-a4bd-560f43357472",
+    "country_id": "se",
+    "name": "Scania Party (SkåP)",
+    "short_name": "",
+    "color": "#337b99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "9fdb556b-c2bc-5867-bb06-a370900edd46",
+    "country_id": "se",
+    "name": "Norrlandspartiet",
+    "short_name": "",
+    "color": "#339956",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "373c2031-2e96-5fff-8b85-dcd30478d715",
+    "country_id": "se",
+    "name": "Libertarian Freedom Party",
+    "short_name": "",
+    "color": "#337599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "226d0d67-9b3c-5962-8dfb-b25fc2e293ef",
+    "country_id": "se",
+    "name": "NY Reform",
+    "short_name": "",
+    "color": "#994133",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "8ce683e4-81c9-57a1-8479-66c1ebde0a23",
+    "country_id": "se",
+    "name": "Common Sense in Sweden",
+    "short_name": "",
+    "color": "#336f99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "47fb5e0f-fe57-5e2a-893e-f7faa0c5b23f",
+    "country_id": "se",
+    "name": "Our Country – Sweden",
+    "short_name": "",
+    "color": "#853399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "8643dfde-329f-5275-a66c-acf0bf9dcad8",
+    "country_id": "se",
+    "name": "People's Home Sweden",
+    "short_name": "",
+    "color": "#334599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "be15a971-0f85-5142-95c8-eae0eb222e96",
+    "country_id": "se",
+    "name": "Nuance Party",
+    "short_name": "",
+    "color": "#99334e",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "182f3529-c2bc-5b9b-aaa7-8333dc13fab1",
+    "country_id": "se",
+    "name": "Human Rights and Democracy",
+    "short_name": "",
+    "color": "#4b3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "f7513315-018e-5886-b2c4-9442d0971d18",
+    "country_id": "se",
+    "name": "Knapptryckarna",
+    "short_name": "",
+    "color": "#339965",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "dacdab22-5ca2-5b2e-bdd0-bf9081dbb09a",
+    "country_id": "se",
+    "name": "Climate Alliance",
+    "short_name": "",
+    "color": "#8f3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "37109225-1c0f-522f-90c2-c318d0b75280",
+    "country_id": "se",
+    "name": "Socialist Party",
+    "short_name": "",
+    "color": "#993f33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "4398bf73-5e60-5029-8fbe-3e281d2b02f6",
+    "country_id": "se",
+    "name": "Left Socialist Party",
+    "short_name": "",
+    "color": "#33996d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "6cf0a9b2-68a7-5575-8639-19b88c0b3cc8",
+    "country_id": "se",
+    "name": "National League",
+    "short_name": "",
+    "color": "#603399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "049e69db-d63b-599f-b356-399871409ca1",
+    "country_id": "se",
+    "name": "National Socialist Workers' Party",
+    "short_name": "",
+    "color": "#6c3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "b6ec6867-bca0-5f4b-b532-8773514ef669",
+    "country_id": "se",
+    "name": "Swedish National Socialist Party",
+    "short_name": "",
+    "color": "#339699",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "eb0e01ec-21de-5459-ae48-41d983dbf474",
+    "country_id": "se",
+    "name": "Centre Party (1932 electoral group)",
+    "short_name": "",
+    "color": "#333599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ad853e4b-aa82-50d1-8254-f16e78e04fe4",
+    "country_id": "se",
+    "name": "Norrbotten Party",
+    "short_name": "",
+    "color": "#859933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "8fadc930-028a-504e-80b3-9e993c501c4e",
+    "country_id": "se",
+    "name": "Free List",
+    "short_name": "",
+    "color": "#33997b",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "bb32806a-8e0b-5ebf-aee4-b4b833ab91b1",
+    "country_id": "se",
+    "name": "Voice of the Free People",
+    "short_name": "",
+    "color": "#338299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "990a6c03-d87f-5da7-9b19-3e759805bcf2",
+    "country_id": "se",
+    "name": "New Democracy",
+    "short_name": "",
+    "color": "#339979",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "e0687ebc-3dae-5b53-a4f2-f5c755bae6a6",
+    "country_id": "se",
+    "name": "Welfare Party",
+    "short_name": "",
+    "color": "#909933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "3b14a4ad-77d9-587f-9c90-9f940c30269b",
+    "country_id": "se",
+    "name": "Skåne Federalists",
+    "short_name": "",
+    "color": "#8e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a06e1263-5016-5613-aaaf-92417769cd22",
+    "country_id": "se",
+    "name": "Citizens Party",
+    "short_name": "",
+    "color": "#337f99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "698c0563-95cf-5740-8f11-23c956f7dfc3",
+    "country_id": "se",
+    "name": "National Householders",
+    "short_name": "",
+    "color": "#993364",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "4c39d575-cf6a-5a9d-b44d-3e3ed55260b0",
+    "country_id": "se",
+    "name": "Popular Democrats",
+    "short_name": "",
+    "color": "#339934",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "73a5a0bd-e3c5-5ad2-b0f1-97b8aee1b9ed",
+    "country_id": "se",
+    "name": "Donald Duck Party",
+    "short_name": "",
+    "color": "#4f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "60edfc52-8946-52a5-87dc-6834e71d4b51",
+    "country_id": "se",
+    "name": "Party of Love",
+    "short_name": "",
+    "color": "#969933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "98fbc54e-1cd2-5427-a9ec-d3ffa59a55cf",
+    "country_id": "se",
+    "name": "Populist Party",
+    "short_name": "",
+    "color": "#409933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a4735e80-59b4-5a18-9006-4e0697d5169c",
+    "country_id": "se",
+    "name": "Blank Voters Party-A Political Marking",
+    "short_name": "",
+    "color": "#799933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "b9a2ff5e-bdf0-514a-a420-3b8fdbe70ecb",
+    "country_id": "se",
+    "name": "Sports Party",
+    "short_name": "",
+    "color": "#339964",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "f427325d-afd6-558d-9448-d99bbe9d2366",
+    "country_id": "se",
+    "name": "Preschool Party - Children's Voice",
+    "short_name": "",
+    "color": "#995e33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ab32f97c-db83-5752-bd08-35ede8c94f02",
+    "country_id": "se",
+    "name": "God-Trolls-Witches-Beings and Cosmic Powers Party",
+    "short_name": "",
+    "color": "#993375",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "d33d7e1b-7d55-58c9-ad9c-18345f043d5e",
+    "country_id": "se",
+    "name": "ATP Pensions And Widows' Pensions Party",
+    "short_name": "",
+    "color": "#99334b",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "bf88ae79-87e5-54cc-b141-5c6aa28fdb7c",
+    "country_id": "se",
+    "name": "Singles Party-Sorry, but we exist too",
+    "short_name": "",
+    "color": "#533399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "cd441e68-eb8f-5b76-b1e4-429f4149878a",
+    "country_id": "se",
+    "name": "Cloning, no Thanks I am a Unique Person Party",
+    "short_name": "",
+    "color": "#33998c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "25f0700b-afc1-5405-887b-9100d4671fc6",
+    "country_id": "se",
+    "name": "Animal Welfare Party-A Loving Life for our Animals",
+    "short_name": "",
+    "color": "#993343",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "dbd5688d-cf5e-518b-bc08-22d858725cb7",
+    "country_id": "se",
+    "name": "Beach Protection Party",
+    "short_name": "",
+    "color": "#996b33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "081e8334-3ec3-50bb-8ee7-0d9790211197",
+    "country_id": "se",
+    "name": "Viking Party-Sweden Out of the EU",
+    "short_name": "",
+    "color": "#998d33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "6b98eb30-0f23-58b5-bf2e-4bc9b011c8c2",
+    "country_id": "se",
+    "name": "Dog Party-The Dog, Man's Best Friend",
+    "short_name": "",
+    "color": "#334d99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a058679c-f3bd-578b-984f-bb829bf47c63",
+    "country_id": "se",
+    "name": "Shaman's Indigenous Party",
+    "short_name": "",
+    "color": "#789933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ec7c00d7-5abd-5adb-9feb-513d1aef135c",
+    "country_id": "se",
+    "name": "Crisis",
+    "short_name": "",
+    "color": "#993346",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a9e2a3f5-f2f4-5538-8c19-12ab3d3483b2",
+    "country_id": "se",
+    "name": "Dust Online",
+    "short_name": "",
+    "color": "#99335a",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "0ff0b765-8c74-5fde-b6d2-b190b4c29882",
+    "country_id": "se",
+    "name": "Santa Party: Children's and Animals' Best Friend",
+    "short_name": "",
+    "color": "#369933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "6acb6056-5a6a-5145-8771-d9cce43c2ce1",
+    "country_id": "se",
+    "name": "Dentist High Cost Party",
+    "short_name": "",
+    "color": "#33995d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "f7a04d88-d5b4-5f02-bf39-48d3544d08b8",
+    "country_id": "se",
+    "name": "Land we Inherited Party",
+    "short_name": "",
+    "color": "#339942",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "fe034a7b-9f88-5cfb-8972-6b91b64c394e",
+    "country_id": "se",
+    "name": "The Boiled Frog Dance Party. The Swedish Man Today",
+    "short_name": "",
+    "color": "#679933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "7597403a-0c2f-500e-b699-c05cb09fab2a",
+    "country_id": "se",
+    "name": "Football Party",
+    "short_name": "",
+    "color": "#659933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "d2b828ee-6f39-5bfa-8e96-2338c9df1dc4",
+    "country_id": "se",
+    "name": "The New Party",
+    "short_name": "",
+    "color": "#419933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "42f33e97-f348-5dd6-86ad-3c9701ee6981",
+    "country_id": "se",
+    "name": "Senior Citizen Party",
+    "short_name": "",
+    "color": "#829933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "38186f38-5998-5c6c-b6c8-8f20ce9822cd",
+    "country_id": "se",
+    "name": "Sjöbopartiet",
+    "short_name": "",
+    "color": "#6d3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "c453e9ed-e180-5f89-8c1a-c0f7727dcb27",
+    "country_id": "se",
+    "name": "Labour List",
+    "short_name": "",
+    "color": "#339987",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "19498da8-f0a1-55f2-a2e4-3bdb9809e5a9",
+    "country_id": "se",
+    "name": "Workers Party – Communists",
+    "short_name": "",
+    "color": "#333399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a6a0fb32-27a9-59f6-abde-be726ad4e7be",
+    "country_id": "se",
+    "name": "Workers Party Communists",
+    "short_name": "",
+    "color": "#33994d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "7fd00992-865e-500c-9386-82442dd5743e",
+    "country_id": "se",
+    "name": "Communist League Marxist-Leninist (Revolutionaries)",
+    "short_name": "",
+    "color": "#8d9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "ddc79a9c-3167-5c8f-8453-8afb1fb23019",
+    "country_id": "se",
+    "name": "Communist League Marxist–Leninist",
+    "short_name": "",
+    "color": "#7d9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "fc4143ed-cd28-59c8-a1d3-702a2d6888ff",
+    "country_id": "se",
+    "name": "Civic Unity",
+    "short_name": "",
+    "color": "#8a3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "252fcda6-c128-59d3-bc3b-2c5e4f7aebae",
+    "country_id": "se",
+    "name": "Middle Parties",
+    "short_name": "",
+    "color": "#339699",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "da2b2d9b-28c9-520e-a77d-bc9ef7f59775",
+    "country_id": "se",
+    "name": "Progress Union",
+    "short_name": "",
+    "color": "#339951",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "0d871b8e-45ed-5f88-9fda-1c2133aeb049",
+    "country_id": "se",
+    "name": "Corporate Party",
+    "short_name": "",
+    "color": "#7b3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "b208c5a4-b600-5558-b26e-da58d6715d17",
+    "country_id": "se",
+    "name": "Samlingspartiet",
+    "short_name": "",
+    "color": "#996033",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "d5d1d19b-5d77-5d81-9d42-2171cec52539",
+    "country_id": "se",
+    "name": "Radical National Association",
+    "short_name": "",
+    "color": "#999933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "045395a6-3787-550c-a8c8-7996f0d65105",
+    "country_id": "se",
+    "name": "Swedish Socialist Unity",
+    "short_name": "",
+    "color": "#337299",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "4e6f18b1-7fdb-5d24-adcb-29927c255533",
+    "country_id": "se",
+    "name": "Free-minded National Association",
+    "short_name": "",
+    "color": "#549933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "2d68db6d-fa5e-5abe-86e4-d528488d0181",
+    "country_id": "se",
+    "name": "Sveriges kommunistiska parti (Kilbomare)",
+    "short_name": "",
+    "color": "#999633",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "9a5726b5-fd7f-505f-9d90-3b9efdb58de5",
+    "country_id": "se",
+    "name": "Liberal Party of Sweden (1923–1934)",
+    "short_name": "",
+    "color": "#339945",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a0536df3-6863-5e5a-b87f-3e2186e28dc1",
+    "country_id": "se",
+    "name": "Peace and Justice",
+    "short_name": "",
+    "color": "#7f3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "3023b14f-2c40-5e0d-a573-6114b0b90538",
+    "country_id": "se",
+    "name": "Against Monopolies",
+    "short_name": "",
+    "color": "#599933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "5dad6da3-a70c-54cb-8fdb-92aaf4c6d52b",
+    "country_id": "se",
+    "name": "Women's List",
+    "short_name": "",
+    "color": "#4f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "9ec5ab19-59bf-55de-bbe5-c0b3d104b055",
+    "country_id": "se",
+    "name": "Västgöta Almogen Free Group",
+    "short_name": "",
+    "color": "#903399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "fae227cd-d586-53a4-839a-4f6a933ae241",
+    "country_id": "se",
+    "name": "Communist Party (Höglund Tendency)",
+    "short_name": "",
+    "color": "#3f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "0c82dd3e-845e-56de-bd70-b2a49b7a495e",
+    "country_id": "se",
+    "name": "Social Democratic Left Party (1921–1923)",
+    "short_name": "",
+    "color": "#829933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "d61a291c-ff04-53d5-a494-22f542693c30",
+    "country_id": "se",
+    "name": "Social Democratic Left Party (1917–1921)",
+    "short_name": "",
+    "color": "#529933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "e2aa7e5e-a49e-5ff5-b612-4c7e9949e8de",
+    "country_id": "se",
+    "name": "National Farmers’ Association",
+    "short_name": "",
+    "color": "#993378",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "e3e8634c-69ad-5fb2-8050-9b9e73d962fc",
+    "country_id": "se",
+    "name": "Lantmanna Party",
+    "short_name": "",
+    "color": "#5f9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "838e7983-56ed-589b-b6b2-a2338808303c",
+    "country_id": "se",
+    "name": "Ministerial Party",
+    "short_name": "",
+    "color": "#995833",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "50adeb06-215b-5af3-a414-cc538d969802",
+    "country_id": "se",
+    "name": "Centre Party (1873–1882)",
+    "short_name": "",
+    "color": "#995433",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "4fd71111-c568-5653-997c-b2bd82faab13",
+    "country_id": "se",
+    "name": "Liberal electoral group (pre-1900)",
+    "short_name": "",
+    "color": "#993333",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a12b0b20-bec4-52e3-a802-3944b262d9b0",
+    "country_id": "se",
+    "name": "Moderate Free Traders",
+    "short_name": "",
+    "color": "#993344",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "288bb30c-633f-5e5e-9fee-ab6401d87814",
+    "country_id": "se",
+    "name": "Parti",
+    "short_name": "",
+    "color": "#994533",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "2e7a2ac4-e025-560d-af6a-00c5886cd6c1",
+    "country_id": "se",
+    "name": "Nya lantmannapartiet",
+    "short_name": "",
+    "color": "#6c3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "914bb813-b167-5ed7-b62f-e1fe31822bdc",
+    "country_id": "se",
+    "name": "Gamla lantmannapartiet",
+    "short_name": "",
+    "color": "#663399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "92fd1dbe-4767-5d5e-b233-72500245009d",
+    "country_id": "se",
+    "name": "Frihandelspartiet",
+    "short_name": "",
+    "color": "#993339",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "65f6b35a-68ae-5b17-85fa-e5818d8aa9ab",
+    "country_id": "se",
+    "name": "New Liberal Party",
+    "short_name": "",
+    "color": "#334899",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "74c34fde-71bb-50f7-806f-51559a93e273",
+    "country_id": "se",
+    "name": "New Centre",
+    "short_name": "",
+    "color": "#99334c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "b0b2ff02-f1f9-593e-a698-df6016ca9ea6",
+    "country_id": "se",
+    "name": "Centre Right",
+    "short_name": "",
+    "color": "#33997c",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "4edb4730-eb8c-5062-88bb-8ca56c1c64f4",
+    "country_id": "se",
+    "name": "Protectionist Party",
+    "short_name": "",
+    "color": "#993349",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "611b065e-a966-5d6f-8629-3da5a4ac5b4b",
+    "country_id": "se",
+    "name": "Minority Party",
+    "short_name": "",
+    "color": "#4e9933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  },
+  {
+    "id": "a4cdbf2e-cef0-579b-94e5-f472d21b12e4",
+    "country_id": "se",
+    "name": "Moderata partiet",
+    "short_name": "",
+    "color": "#443399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed.",
+    "archived": false
+  }
+]
