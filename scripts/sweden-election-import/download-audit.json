@@ -1,0 +1,974 @@
+[
+  {
+    "name": "2006_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/2006_Swedish_general_election",
+    "sha256": "a56af49620deb4877934396994dfb7ec481d66e1c521db616061ad3f107e4a0d",
+    "bytes": 382399
+  },
+  {
+    "name": "2010_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/2010_Swedish_general_election",
+    "sha256": "f344a8f0c0f6aa0f18852204f332669cde7e51ca6b216f0f1b153b64b268d418",
+    "bytes": 398165
+  },
+  {
+    "name": "2014_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/2014_Swedish_general_election",
+    "sha256": "691bb85f41946d4a9554dc7ce3ce13648aa9700b1f1756465d7bc0ee8c99602d",
+    "bytes": 394818
+  },
+  {
+    "name": "2018_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/2018_Swedish_general_election",
+    "sha256": "f49df029d90dd828874bd597897626d80b9d3e58e6cbfa4176a22d4d1a2a4849",
+    "bytes": 614982
+  },
+  {
+    "name": "2022_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/2022_Swedish_general_election",
+    "sha256": "88a94df01b3e8a775459004fa07396d49ff0dceab1891269a9d1896bf24e222d",
+    "bytes": 916589
+  },
+  {
+    "name": "2026_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/2026_Swedish_general_election",
+    "sha256": "b05b6101ae633b7312427db7a1d6fc1ed1c6f4174d7ee4f1c0d1d4861d9ccc41",
+    "bytes": 811728
+  },
+  {
+    "name": "1940_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1940_Swedish_general_election",
+    "sha256": "0d2d845a05047fe21b69296e4ac528b2fb76d54871fbca8f6d058247241dfce0",
+    "bytes": 130846
+  },
+  {
+    "name": "1936_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1936_Swedish_general_election",
+    "sha256": "cdb1314f5652179e5bdc3e90672ba0b1150b4dc0f49e9ebd91cb7d25008eaadb",
+    "bytes": 134306
+  },
+  {
+    "name": "2002_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/2002_Swedish_general_election",
+    "sha256": "bf924cec565b11c1c56345969e6a13d72350b4f2c58ed522c28df19ce0fee1f0",
+    "bytes": 230980
+  },
+  {
+    "name": "1998_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1998_Swedish_general_election",
+    "sha256": "82d293744876d3363bbdfc57ccc54d967b67f7688c540cf547737cf6969da223",
+    "bytes": 208725
+  },
+  {
+    "name": "1994_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1994_Swedish_general_election",
+    "sha256": "4e6ed8a1a39d6552e1c29fca600dd0264a2102bdfdbc9500e3e96e390a85eb16",
+    "bytes": 213816
+  },
+  {
+    "name": "1991_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1991_Swedish_general_election",
+    "sha256": "149377790e53715fa774b2df45f6f979db63913b2282b8bb17f5e11a49749fb3",
+    "bytes": 207687
+  },
+  {
+    "name": "1988_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1988_Swedish_general_election",
+    "sha256": "bc8aed6766ddf1425d51d9506c6f6647f25cb68ea1ca4a096faf42996abd1799",
+    "bytes": 191122
+  },
+  {
+    "name": "1985_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1985_Swedish_general_election",
+    "sha256": "6abec84c6e1973ca5adab28e0ccdf48139ee80a5aa8784b00684d8a287d657f0",
+    "bytes": 205049
+  },
+  {
+    "name": "1982_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1982_Swedish_general_election",
+    "sha256": "1f6b62daf506fc08e21aab36702cd00179a65f38a143c9879eac2c868d1cf056",
+    "bytes": 203452
+  },
+  {
+    "name": "1979_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1979_Swedish_general_election",
+    "sha256": "4900e00a367033de9c3b7de4d66cedb9294a7fda631dfe53dbc7fcf9af14b5f6",
+    "bytes": 178283
+  },
+  {
+    "name": "1976_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1976_Swedish_general_election",
+    "sha256": "4a55934fcebde9b5746de496ce0b2c26218228571adc064d5438aadfe89fd915",
+    "bytes": 180446
+  },
+  {
+    "name": "1973_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1973_Swedish_general_election",
+    "sha256": "39851987c54ed3a12c7df0c1328df374fac2f0e66c9628646b9022061e90797d",
+    "bytes": 158398
+  },
+  {
+    "name": "1970_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1970_Swedish_general_election",
+    "sha256": "af63761a043eedeaf4632b7d6b36a4a5df2f0a2a0fd808f6f1a1b68e1bc5c21d",
+    "bytes": 149757
+  },
+  {
+    "name": "1968_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1968_Swedish_general_election",
+    "sha256": "8b7a75469d1db4a4c5a41aa5564518b5160517b79029517235a32fd94addb85c",
+    "bytes": 139217
+  },
+  {
+    "name": "1964_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1964_Swedish_general_election",
+    "sha256": "154c759a7460839c819b18f6d792a4fbb73af133c5ef8fd818bd76850928baea",
+    "bytes": 138146
+  },
+  {
+    "name": "1960_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1960_Swedish_general_election",
+    "sha256": "1e2e76b1f6d077075e58f3e5d99a5b11d02ae796be89f8bac69f3a382c987273",
+    "bytes": 126187
+  },
+  {
+    "name": "1958_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1958_Swedish_general_election",
+    "sha256": "d21922d0149457b5738bc452904586fd6a1c6d1827258d3352aa8b7fdf6bca70",
+    "bytes": 124930
+  },
+  {
+    "name": "1956_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1956_Swedish_general_election",
+    "sha256": "d05381422d637fbe91ce5bd6b36d80ea5ab5e1e62c670c5202fb7c8fcda3e147",
+    "bytes": 132479
+  },
+  {
+    "name": "1952_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1952_Swedish_general_election",
+    "sha256": "de9f9c50caffe9453c2e6c14d6f3cd1ca4e2da7a8f7e3b4df415f51445980fec",
+    "bytes": 126070
+  },
+  {
+    "name": "1948_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1948_Swedish_general_election",
+    "sha256": "5fd3a1537cf7c6ec21d5d22a95111c413426b016225fcadc9bd36ac55ef8dde8",
+    "bytes": 136672
+  },
+  {
+    "name": "1944_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1944_Swedish_general_election",
+    "sha256": "afd448666220e46a2316a47b328ca9bd44cfdf3dcb625aa100d3677eb165b503",
+    "bytes": 128546
+  },
+  {
+    "name": "1932_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1932_Swedish_general_election",
+    "sha256": "f3a28dc511d705f82bfc443a6fdbc5a8972d6a7d042a48931657e86316d53be2",
+    "bytes": 164447
+  },
+  {
+    "name": "1928_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1928_Swedish_general_election",
+    "sha256": "d7baa7cee1312bc65b9853d1a3997c019da91038d85e7ac0f63cb0d404cacac5",
+    "bytes": 134568
+  },
+  {
+    "name": "1924_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1924_Swedish_general_election",
+    "sha256": "9b80ea63c06505f7249e715b9b9173076b656466e761d594509d3b9b529410b7",
+    "bytes": 131810
+  },
+  {
+    "name": "1921_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1921_Swedish_general_election",
+    "sha256": "6a1830460c7ee2880ab7458504169dc063ab34306a019fa3f06fa1ce90044123",
+    "bytes": 144498
+  },
+  {
+    "name": "1920_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1920_Swedish_general_election",
+    "sha256": "789d2581b51ade0d28be31ede215567dd2473053684abe6655b23b20508556a6",
+    "bytes": 153109
+  },
+  {
+    "name": "1917_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1917_Swedish_general_election",
+    "sha256": "ec2589834419cd2e9eabac2044a65033fa6f59121bde7a3f522da38cec0d9acb",
+    "bytes": 149681
+  },
+  {
+    "name": "September_1914_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/September_1914_Swedish_general_election",
+    "sha256": "28bffe2c8fc2808fe193a94d57edd65560ba250626fd37dda6e5db0c5ccc9bb0",
+    "bytes": 149536
+  },
+  {
+    "name": "March_1914_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/March_1914_Swedish_general_election",
+    "sha256": "a2486c74af896753d69fa5c366f75293ee0cccc1395c8014a6ec9858b1ec9010",
+    "bytes": 148224
+  },
+  {
+    "name": "1911_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1911_Swedish_general_election",
+    "sha256": "d3738611384b635f6fdef8f34cf6a3e34c33874dde7d294e565d5413ca632a65",
+    "bytes": 144514
+  },
+  {
+    "name": "1866_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1866_Swedish_general_election",
+    "sha256": "c6eb9dad5fbc739412d0424155679dad97ef207b2189d3eda67b32173acb3776",
+    "bytes": 124735
+  },
+  {
+    "name": "1869_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1869_Swedish_general_election",
+    "sha256": "9208159a9e75b0ede0e86da424ec075d31606a2bdb1307e3fc7cf5e12158ca15",
+    "bytes": 117997
+  },
+  {
+    "name": "1872_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1872_Swedish_general_election",
+    "sha256": "ef14260290b555928ca51417607fb9dc5169054c513303e919b4543fc3f65ab5",
+    "bytes": 129188
+  },
+  {
+    "name": "1875_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1875_Swedish_general_election",
+    "sha256": "c7580f7444f1ea23ddc16a7d9d2660fbd149ce8525144eca4f93370ef77592c0",
+    "bytes": 129122
+  },
+  {
+    "name": "1878_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1878_Swedish_general_election",
+    "sha256": "931a97c10b3b6ad0dc6f1adaa7996b99d272cc5197471573b2f35da413f30cf6",
+    "bytes": 126327
+  },
+  {
+    "name": "1881_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1881_Swedish_general_election",
+    "sha256": "0d10a9530c4eefca9c98408a0d153e635582239786c56cb29c665124822e751c",
+    "bytes": 125931
+  },
+  {
+    "name": "1884_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1884_Swedish_general_election",
+    "sha256": "2d6af23604553dc7edb6d3f1d5b728abf7f0c57a06823811c96ec0b9e4f9ad95",
+    "bytes": 120161
+  },
+  {
+    "name": "1890_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1890_Swedish_general_election",
+    "sha256": "241ab843dd6e0fe8093ec21ae4dfd50d999795df7674c99fd9b345e118cc13c1",
+    "bytes": 128426
+  },
+  {
+    "name": "1893_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1893_Swedish_general_election",
+    "sha256": "0f3084a89f9cb2899cf080bc728bd3d466be660c1626aad04706fa1ed951d4e8",
+    "bytes": 129356
+  },
+  {
+    "name": "1896_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1896_Swedish_general_election",
+    "sha256": "1baac054c66f8581810a34a0bebc18d6a66c4450886959e752b1e1b02f1d9f63",
+    "bytes": 129559
+  },
+  {
+    "name": "1899_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1899_Swedish_general_election",
+    "sha256": "4841fbb5922fdf4e9b73ccba8b6c87f0176216aa2b29c3b3f114eb294a80f260",
+    "bytes": 129856
+  },
+  {
+    "name": "1902_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1902_Swedish_general_election",
+    "sha256": "24c1ff4c5a8ea2c1e09b37ee8265ac841afb67688b73caf5d84ae8469eeb7c08",
+    "bytes": 127698
+  },
+  {
+    "name": "1905_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1905_Swedish_general_election",
+    "sha256": "a2dfc49c2cbe19ae5183f69c62a2e42b1418c86a07f30cefb13d70e9ff9caa92",
+    "bytes": 140254
+  },
+  {
+    "name": "1908_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/1908_Swedish_general_election",
+    "sha256": "eff0e5e4f586d741b2d68117fb9b5455c03a719cf7dcd332219fbabedace2b07",
+    "bytes": 145405
+  },
+  {
+    "name": "March–April_1887_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/March–April_1887_Swedish_general_election",
+    "sha256": "254f3cfe824fb62708a26ffbe1c4276155927a68a369b4600da4a8345040bf41",
+    "bytes": 133231
+  },
+  {
+    "name": "August–September_1887_Swedish_general_election",
+    "url": "https://en.wikipedia.org/wiki/August–September_1887_Swedish_general_election",
+    "sha256": "be46716c79f759536eadc27671033c40350bda0bfd508eb5cf821d9846411233",
+    "bytes": 147607
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1967",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1967",
+    "sha256": "24f908605b260e42a21efd5b398354efece773dd8ec76817816dc779bbfe4274",
+    "bytes": 149189
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1969",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1969",
+    "sha256": "a1d9c4deced7f1d61b584b5381dc232b84441e4daeeaf8e0748dc90b7c4da15c",
+    "bytes": 147149
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1960",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1960",
+    "sha256": "49fc1f6af863c7553618787172cf5874a2e00c08783933100a19c3fb8fad48b5",
+    "bytes": 147066
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1866",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1866",
+    "sha256": "2f3a41b453db3c98f720909c23bc2006642a4b2f421d120452c514763176cbf6",
+    "bytes": 124276
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1867",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1867",
+    "sha256": "b9f20bc82203bde01e1a8dd443baed8e5087418ec53144425eb9d726362beb6f",
+    "bytes": 115389
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1868",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1868",
+    "sha256": "30176edc2324ac6d715a557c64e0cc2f49addbf7482ec0061a860303417fbf9c",
+    "bytes": 114945
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1869",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1869",
+    "sha256": "c28b1e30684d968bebab91c8b7865b50966844fab95f411a4d133c9d4358586b",
+    "bytes": 114384
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1870",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1870",
+    "sha256": "e27feab59459c085cc208f84656d9520a290922716f583fe63aac86bc197f94d",
+    "bytes": 115624
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1871",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1871",
+    "sha256": "07b19acd6d56583f98dd94eb9c7f3b9e42f851ecb120af2220992091953d0fc6",
+    "bytes": 113784
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1872",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1872",
+    "sha256": "352bbd0933ff8b1bc85fde1a1956c8dce1473fcdca417cb5ce125244b63f981c",
+    "bytes": 117629
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1873",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1873",
+    "sha256": "c3e8b0ea402b341dc371af4989525a61069f9b3c999ef9ddf968a44469b3098d",
+    "bytes": 114586
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1874",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1874",
+    "sha256": "71087257b8544f3f2aa78cb2b4ddfcb9e2fc1cfc18488681da9c03fa329c4846",
+    "bytes": 117992
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1875",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1875",
+    "sha256": "8e2837b7ff43a2a3779dc35c4d9ae2d3788a6aa2a73cd8b1f9987099ff5915ab",
+    "bytes": 126702
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1876",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1876",
+    "sha256": "ba9c8c0f0ad7086bd09cef43c2d5a5fdca1965e5f7367f45e247326bc5e89787",
+    "bytes": 118845
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1877",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1877",
+    "sha256": "740412d0108ce7119323332718c64fbb7ea73d989da219e51fce46223f08bbc5",
+    "bytes": 122053
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1878",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1878",
+    "sha256": "cf819f31ef3264239e925746e0cc4aad8e5d52fae86f0f04ebd75959a342000d",
+    "bytes": 120792
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1879",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1879",
+    "sha256": "9c3d26f12e389f4bf8b884532c539750506b9e9a5be09cbf544356d8c3eeb749",
+    "bytes": 120250
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1880",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1880",
+    "sha256": "ed8a9d353ba7eb44752c60b4d1d65cc9fb56e694cdf685f011593f4b52966714",
+    "bytes": 118946
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1881",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1881",
+    "sha256": "2fdde11d0b8408e67ae87b94ef919464a010d0542a7b42141ffdbd4caa92c8a4",
+    "bytes": 120141
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1882",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1882",
+    "sha256": "7fea6a58639ca98dab1400b71f4df24ba604eb37ebcf1ab3036301df2edd0acb",
+    "bytes": 120077
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1883",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1883",
+    "sha256": "2aa0036a3c86129f41ea4a8c683901d175cab6557dbf5fe125bcafa0cc8f4742",
+    "bytes": 121084
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1884",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1884",
+    "sha256": "ba2ae236cc5f6ca100efd90141ce69aa547fe89336d69b93e372ee18e2d4f8e6",
+    "bytes": 127165
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1885",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1885",
+    "sha256": "4a006523c2d7879a3bba540ca25692ec08c82489efa7c37c5c6377047869a176",
+    "bytes": 121588
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1886",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1886",
+    "sha256": "f6d36d6c608b285495436ae1d881f09e4c5b30a53f0fe80b08b8927b2cffcc00",
+    "bytes": 121864
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1887",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1887",
+    "sha256": "5dd953c3e9b2ab33db2fdd63a11fe703ae66a66ba4e50188ac819f04ff534e70",
+    "bytes": 137698
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1888",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1888",
+    "sha256": "317ae08befdf7c89a435fc27f334f1d90efc833d5b91b359fe796dd2efb25ce0",
+    "bytes": 140497
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1889",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1889",
+    "sha256": "fbbfccc3f15ed2f6a4bda2f8fb101979fedf18b7991ef385c90a905fc9861e1d",
+    "bytes": 137602
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1890",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1890",
+    "sha256": "f23aaf33f49c9539bdb3d7b4e715783c009cac18893c38dc0a3845cba313394d",
+    "bytes": 137510
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1891",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1891",
+    "sha256": "f69a9b9bc95bb0c081264c1a6e7beae13c5f1422b3aa669060ed43cfa9bc56b9",
+    "bytes": 137779
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1892",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1892",
+    "sha256": "7bc2a5bcc19670bc4183651fe872d26ba2977bfc9234b3a70a8215aa05079959",
+    "bytes": 138853
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1893",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1893",
+    "sha256": "37e9fc51f2685dde03e05006dd779e1127e450c5a72ed31ef2270780625bb96a",
+    "bytes": 139760
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1894",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1894",
+    "sha256": "c90da3f5fdc149a4e615c08eb85d2ef4f2e69d92854b2f1ce83b73ccf93f62ec",
+    "bytes": 137535
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1895",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1895",
+    "sha256": "fceb544de9e03420c6c2fd945d5c0e3720c2af47b95367fe875e91d17cba7af6",
+    "bytes": 138244
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1896",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1896",
+    "sha256": "0b2c5836a03349630cfd1cb3f5b9206de37e230b87623d5d9e3e0c09d60325c3",
+    "bytes": 136018
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1897",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1897",
+    "sha256": "54e3f9cc10060e019ed42122c563b3fe2c4b7df0eaefbc068656af062d6232e6",
+    "bytes": 136884
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1898",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1898",
+    "sha256": "cd39808f7322473a73d18fc4159e395219cf16eba04b2cb74057c265a497b09f",
+    "bytes": 136867
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1899",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1899",
+    "sha256": "745cf72e3b13e4c21198acefd4d73dff4a2b06eac485ea8d7091459481ffc1c3",
+    "bytes": 140172
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1900",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1900",
+    "sha256": "43baf3f48d81c5325313b346b3f032d86cdc7f87a01ea90cf47bc2a8ee0518b2",
+    "bytes": 135306
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1901",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1901",
+    "sha256": "6632e0f72182258f133a330ea320c75c14faf60f883efa9dad896496dca90ff0",
+    "bytes": 137025
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1902",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1902",
+    "sha256": "597cc490ff97cd4794d0961be0a6ae9e537af212fd1c3b0374930e307190962f",
+    "bytes": 141002
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1903",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1903",
+    "sha256": "a3acfb6b53e782ab7586f211c6d6d0362bf705e6f6f15335c6ff3fc5d20d21b5",
+    "bytes": 135100
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1904",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1904",
+    "sha256": "b29fe5c7238dc75a709e23623e4a7d15dab694fb2e3cb9250b277a03eeb08137",
+    "bytes": 138798
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1905",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1905",
+    "sha256": "6167d11646cb0e378e169ca433b388395a6083e62bde3e05124d5d25ffadf7f6",
+    "bytes": 138760
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1906",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1906",
+    "sha256": "5a10b64c90aacd27a62b2ac36e5a8b7689fa3cb0f261ffee70689892c996074d",
+    "bytes": 137496
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1907",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1907",
+    "sha256": "28a7f30d984eb3e637342184dd26596f88f9b257c4cb376db7d2ccbbe741e0c8",
+    "bytes": 143792
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1908",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1908",
+    "sha256": "5415565c326c6325f932d04f032e7a9ef1d324d303604bad7413a7f572790b88",
+    "bytes": 141835
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1909",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1909",
+    "sha256": "6b745f4f9f9de9dad78e4059c042b6374338fa138c14558d59578908f291e98a",
+    "bytes": 124083
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1910",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1910",
+    "sha256": "b621647d2c4aa132b474642f2bca72a6034d016c2ff8fc01010a255df2e844f3",
+    "bytes": 124757
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1911_(september)",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1911_(september)",
+    "sha256": "ca39eae571bb99dee77228e7479518a35061311f21d30f0a7b8d8d0574e66b22",
+    "bytes": 124983
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1911_(november)",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1911_(november)",
+    "sha256": "f9b04a4c24a1c5a299e2d9038a174defad672a5fd8c6b5ea62d2a40775f539f4",
+    "bytes": 144629
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1912",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1912",
+    "sha256": "2703fac570c2991fe3906d6b100eebe982fee843be6c4c1ed8096edde92e92f7",
+    "bytes": 127351
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1913",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1913",
+    "sha256": "afc18ea621987afecd21ec44bed3287accd84516ac9c338dc1c900d4541fdf73",
+    "bytes": 127357
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1914",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1914",
+    "sha256": "42794b80c4375e1203a3c72632cfb2607cd9ba71682ca1d5118259964e951647",
+    "bytes": 127307
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1915",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1915",
+    "sha256": "76a3acab6479217509461863a2960c28fdce3f4904488275ebc3f7a7acc63555",
+    "bytes": 127835
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1916",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1916",
+    "sha256": "f2f002e6eeeacd351124688b1187f3fd0806b74f6fdd414f81c8e3404e5b7b9b",
+    "bytes": 128216
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1917",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1917",
+    "sha256": "5d72b2d379e57cd327091be35386526623e82ac480ae99a50fba66c9c6589d12",
+    "bytes": 128281
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1918",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1918",
+    "sha256": "16e28dc9eb03f8f2858f8a0dd87bfe87897bba94674303a37528bd2df14e12fa",
+    "bytes": 135756
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1919_(juni–juli)",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1919_(juni–juli)",
+    "sha256": "7dc21f8bd7152f3cb7226bc29aa18c4efbfdc674397bfeb96403bed043b65424",
+    "bytes": 140151
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1919_(september)",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1919_(september)",
+    "sha256": "508face1cc04f5bbb2c4838c71930244c0729958ab6342ff227ea1b4920ecbdb",
+    "bytes": 145738
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1920",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1920",
+    "sha256": "01d8570c636c28f973b46c4bb94c8660e3f4fb3673d16858fd90232b9dcaca07",
+    "bytes": 146499
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1921",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1921",
+    "sha256": "fc3f879e8e6688855ef8a039b510713aa9a8c7613e78f6e731d08a06dc11264c",
+    "bytes": 142058
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1922",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1922",
+    "sha256": "3604cd6a2c4b59684746870dad436770f1f7fce6b7c3afb4c289824e0958893f",
+    "bytes": 147455
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1923",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1923",
+    "sha256": "3e8be5fd4a1116c093cc17fb9f2bef26d6424bef4582b03388b282d51acd0aa4",
+    "bytes": 151733
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1924",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1924",
+    "sha256": "c821a868a3a3ca82ca75d86b61b3bcf5ebeb8ba982b2de2cb60d92b1008aca0a",
+    "bytes": 148627
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1925",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1925",
+    "sha256": "244d373aedeee6341803c3c9501df60bfc966aa73885279753f2c3999faa82c6",
+    "bytes": 153724
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1926",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1926",
+    "sha256": "ff6a0c08af264e61a4200713e017d025eea421e3d3c7ffb45f334f86b795aaa9",
+    "bytes": 147907
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1927",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1927",
+    "sha256": "56748a3ecc10a43a1d192150f117822da739a6544fa70159fe072e37a94640fa",
+    "bytes": 145079
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1928",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1928",
+    "sha256": "ee7f56b44e0d8fffff1df743a94c03988e67444b4e4ddee91417b6d21bdf34d3",
+    "bytes": 141971
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1929",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1929",
+    "sha256": "cf4f347c0c024c7fd4d582ae4f6f8127b0727edf2663c64b1bd100b3a8fe1ce2",
+    "bytes": 142375
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1930",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1930",
+    "sha256": "a70f4625a2fd4bad925b5b021be1c57dc6152541155b647b25bd82e3c03094e2",
+    "bytes": 142602
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1931",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1931",
+    "sha256": "26a4aaa98893df559df51d1ac60edfcadf265943cd6562fdb25874d44ef937b1",
+    "bytes": 140904
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1932",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1932",
+    "sha256": "089b1405e11223cf86731c9a8e97bd922bae10d648f051a5abc5b4a0b9a4ff3e",
+    "bytes": 140248
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1933",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1933",
+    "sha256": "dd219b418b5bbec7e3cd9f6df7013e67e8ff1b17dea54c7e5ec7b2e75dde627f",
+    "bytes": 141109
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1934",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1934",
+    "sha256": "5ee8f20d60192bda3fdb4108e9de5e1b90dee3f47e90bb673ae3f27a24de51a6",
+    "bytes": 138490
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1935",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1935",
+    "sha256": "b897725fff8d49b7e30a443e0840d88a06c69f012ce75b3d7b679093c9232090",
+    "bytes": 138690
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1936",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1936",
+    "sha256": "e7e5f64730b1ec4443e87146291d24290b5716d80b0e6df7da9faf53d03a5282",
+    "bytes": 139734
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1937",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1937",
+    "sha256": "7be8d447bf551c75634e00b5ca9d5b56b16398b2fbf1d98783094498d6106125",
+    "bytes": 137346
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1938",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1938",
+    "sha256": "93bf9b291209b3750cd4bffccd84d4a00fbe768f34067379d8a186b7a265a5c9",
+    "bytes": 140047
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1939",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1939",
+    "sha256": "19647a9865a6a2eb723f33bffbf7d6d354b4deba6694bfbd5ecb8c153a8cf978",
+    "bytes": 138123
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1940",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1940",
+    "sha256": "c9138004f3eece7f25f40d821fab41e84d738c07ca3a7d28954780deda133f58",
+    "bytes": 146482
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1941",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1941",
+    "sha256": "a382d840e15b76a501971e6070252843f84819e1926cefc8faa588c1ad1ba9b2",
+    "bytes": 147997
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1942",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1942",
+    "sha256": "2a4ed078cc23847c8ac4eee071a9b8b906af21754b41ec91c8a503e4f2831307",
+    "bytes": 146268
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1943",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1943",
+    "sha256": "681296cfcfd7f8b60e83e5c53eedfdb755650bf03478828b261e3cdd9f157e7c",
+    "bytes": 146078
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1944",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1944",
+    "sha256": "97ecd0d029f29cfd1ce335d613164764d1529d6b0d47ecad3bcee74da0db1813",
+    "bytes": 149311
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1945",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1945",
+    "sha256": "2c973552a4d58062f97a6faf614b59c075d39a7d5834739256d1d6dd05edc4a1",
+    "bytes": 146048
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1946",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1946",
+    "sha256": "599dfe48cdc09d5bc44bd6f0bd9c4d8ef36fb2e15e3883c924bca5a2f187baf7",
+    "bytes": 146450
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1947",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1947",
+    "sha256": "e671d22acd612cdbb44ad7d7fe716254e97810be020ac6ad97228056cd5ea334",
+    "bytes": 145713
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1948",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1948",
+    "sha256": "3225758ad6894f1296e0e3c45ee1a49563bc2b3dc535b292f96532e455bea5a7",
+    "bytes": 147986
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1949",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1949",
+    "sha256": "31f89e22b9394c225504afa99d1bd8b494686efa5b62a4cb162727e2fc20e773",
+    "bytes": 145131
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1950",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1950",
+    "sha256": "12d7b9b2bec79f3c3df5b61341f56ebcc3d7aafc59cef1b8516b853893191e14",
+    "bytes": 148971
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1951",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1951",
+    "sha256": "39a320ac4a3089e01d1ce1925b25ff954e69e39ecefb1d11e6332e3c33a49288",
+    "bytes": 148129
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1952",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1952",
+    "sha256": "de710ef72811226d4ee4692b90d980e261683c2f017378bcf5ef9a99c15cfdc3",
+    "bytes": 145083
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1953",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1953",
+    "sha256": "012636e9eb4512cb039624e87d4225b43da228a2d040a3b4b8b6ecd6676d5bf8",
+    "bytes": 147523
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1954",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1954",
+    "sha256": "c958d4ef8b488e44a28ba8513c0c22c5cbd69369f247418160bf4f276c10b354",
+    "bytes": 146278
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1955",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1955",
+    "sha256": "2e194874c5c63d81d75bd759d3f8ae0e0d632c6e2deffb8ba0aab8a158d72449",
+    "bytes": 144779
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1956",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1956",
+    "sha256": "149315aab1d26d2af4d631d08823bb555c08b415cc9a163367b2100329082d7c",
+    "bytes": 147350
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1957",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1957",
+    "sha256": "4e99378b69f0ae73f6fd9659c09f34022628d9462a471b0da3180135f6b30089",
+    "bytes": 146720
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1958",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1958",
+    "sha256": "d07d5a8bf3f44c4348e1ee3f8d1b0a640edf4826bf2a63c94e8c2beba42237f4",
+    "bytes": 146119
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1959",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1959",
+    "sha256": "d868b819be0229a07a2b2bad9a9f3ff3b2ff890dd7f3a3a34359fbd65e037adc",
+    "bytes": 144441
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1961",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1961",
+    "sha256": "2651d7f2a53f7f5c460a62154e27d22e70f9d8bd044e45552a28290968436536",
+    "bytes": 147958
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1962",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1962",
+    "sha256": "deb15e0141c27b5c0db695b3c0637683d5309e5507cd8a54e4d2c8d6b33aef6b",
+    "bytes": 146457
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1963",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1963",
+    "sha256": "b81c82f7155ff2d356f2ccbad17a148f4f213c5582cc548beddd1e3620bec1a6",
+    "bytes": 147372
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1964",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1964",
+    "sha256": "20716f181c3202007a3196473e72c2ebddae3a47074fece393d1a6020b3a3a04",
+    "bytes": 147340
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1965",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1965",
+    "sha256": "b40c60fcc0fb1182fc07c114cd3f00a23ed477d22950e45599bb6447dee9abf6",
+    "bytes": 145696
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1966",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1966",
+    "sha256": "aa7e50dd5d1c06133f93638d62feaf0fdbcbd3df197c81b04087bf8616b7b2ad",
+    "bytes": 146862
+  },
+  {
+    "name": "Förstakammarvalet_i_Sverige_1968",
+    "url": "https://sv.wikipedia.org/wiki/Förstakammarvalet_i_Sverige_1968",
+    "sha256": "0d7788d423376d5a13cc951bf65ec5c47847a3fc69fafb3c1bbf9ece29cc2ea9",
+    "bytes": 148799
+  },
+  {
+    "name": "Andrakammarvalet_i_Sverige_1869",
+    "url": "https://sv.wikipedia.org/wiki/Andrakammarvalet_i_Sverige_1869",
+    "sha256": "da959633ec2a0b7ed004175556e702def48f5e601e4e86b463f2e91c9c51e0bc",
+    "bytes": 117879
+  },
+  {
+    "name": "Andrakammarvalet_i_Sverige_1884",
+    "url": "https://sv.wikipedia.org/wiki/Andrakammarvalet_i_Sverige_1884",
+    "sha256": "67c965b68468c81ddba6d92e09e3f9a453cfe92203ba4cc2991983cb6461c034",
+    "bytes": 127770
+  },
+  {
+    "name": "Andrakammarvalet_i_Sverige_1887_(vår)",
+    "url": "https://sv.wikipedia.org/wiki/Andrakammarvalet_i_Sverige_1887_(vår)",
+    "sha256": "5f7dd43297cac4d3d925bfdddfcf57aad4a2134c3811846600308d5f67d3dc9c",
+    "bytes": 603083
+  },
+  {
+    "name": "Andrakammarvalet_i_Sverige_1887_(september)",
+    "url": "https://sv.wikipedia.org/wiki/Andrakammarvalet_i_Sverige_1887_(september)",
+    "sha256": "cd9b5ed65ee2d08072dc5f5b433a5e4451f92fc8957b7856604ad14349f1dbe1",
+    "bytes": 143175
+  }
+]
