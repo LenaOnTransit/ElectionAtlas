@@ -1,0 +1,788 @@
+[
+  {
+    "id": "world-finland-eduskunta-1983",
+    "party": "National Coalition Party",
+    "votes": 659078,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1983",
+    "party": "Social Democratic Party",
+    "votes": 795953,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1983",
+    "party": "Swedish People's Party",
+    "votes": 137423,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1983",
+    "party": "Christian Democrats",
+    "votes": 90410,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1987",
+    "party": "National Coalition Party",
+    "votes": 666236,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1987",
+    "party": "Social Democratic Party",
+    "votes": 695331,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1987",
+    "party": "Centre Party",
+    "votes": 507460,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1987",
+    "party": "Green League",
+    "votes": 115988,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1987",
+    "party": "Swedish People's Party",
+    "votes": 152597,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1987",
+    "party": "Christian Democrats",
+    "votes": 74209,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1991",
+    "party": "National Coalition Party",
+    "votes": 526487,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1991",
+    "party": "Social Democratic Party",
+    "votes": 603080,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1991",
+    "party": "Centre Party",
+    "votes": 676717,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1991",
+    "party": "Green League",
+    "votes": 185894,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1991",
+    "party": "Left Alliance",
+    "votes": 274639,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1991",
+    "party": "Swedish People's Party",
+    "votes": 149476,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1991",
+    "party": "Christian Democrats",
+    "votes": 83151,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1995",
+    "party": "National Coalition Party",
+    "votes": 497624,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1995",
+    "party": "Social Democratic Party",
+    "votes": 785637,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1995",
+    "party": "Centre Party",
+    "votes": 552003,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1995",
+    "party": "Green League",
+    "votes": 181198,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1995",
+    "party": "Left Alliance",
+    "votes": 310340,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1995",
+    "party": "Swedish People's Party",
+    "votes": 142874,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1995",
+    "party": "Christian Democrats",
+    "votes": 82311,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "party": "National Coalition Party",
+    "votes": 563835,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "party": "Finns Party",
+    "votes": 26440,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "party": "Social Democratic Party",
+    "votes": 612963,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "party": "Centre Party",
+    "votes": 600592,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "party": "Green League",
+    "votes": 194846,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "party": "Left Alliance",
+    "votes": 291675,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "party": "Swedish People's Party",
+    "votes": 137330,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-1999",
+    "party": "Christian Democrats",
+    "votes": 111835,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "National Coalition Party",
+    "votes": 517904,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Finns Party",
+    "votes": 43816,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Social Democratic Party",
+    "votes": 683223,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Centre Party",
+    "votes": 689391,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Green League",
+    "votes": 223564,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Left Alliance",
+    "votes": 277152,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Swedish People's Party",
+    "votes": 128824,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Christian Democrats",
+    "votes": 148987,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "National Coalition Party",
+    "seats": 40,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Finns Party",
+    "seats": 3,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Social Democratic Party",
+    "seats": 53,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Centre Party",
+    "seats": 55,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Green League",
+    "seats": 14,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Left Alliance",
+    "seats": 19,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Swedish People's Party",
+    "seats": 8,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2003",
+    "party": "Christian Democrats",
+    "seats": 7,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "National Coalition Party",
+    "votes": 616841,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Finns Party",
+    "votes": 112256,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Social Democratic Party",
+    "votes": 594194,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Centre Party",
+    "votes": 640428,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Green League",
+    "votes": 234429,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Left Alliance",
+    "votes": 244296,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Swedish People's Party",
+    "votes": 126520,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Christian Democrats",
+    "votes": 134790,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "National Coalition Party",
+    "seats": 50,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Finns Party",
+    "seats": 5,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Social Democratic Party",
+    "seats": 45,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Centre Party",
+    "seats": 51,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Green League",
+    "seats": 15,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Left Alliance",
+    "seats": 17,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Swedish People's Party",
+    "seats": 9,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2007",
+    "party": "Christian Democrats",
+    "seats": 7,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "National Coalition Party",
+    "votes": 599138,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Finns Party",
+    "votes": 560075,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Social Democratic Party",
+    "votes": 561558,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Centre Party",
+    "votes": 463266,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Green League",
+    "votes": 213172,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Left Alliance",
+    "votes": 239039,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Swedish People's Party",
+    "votes": 125785,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Christian Democrats",
+    "votes": 118453,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "National Coalition Party",
+    "seats": 44,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Finns Party",
+    "seats": 39,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Social Democratic Party",
+    "seats": 42,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Centre Party",
+    "seats": 35,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Green League",
+    "seats": 10,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Left Alliance",
+    "seats": 14,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Swedish People's Party",
+    "seats": 9,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2011",
+    "party": "Christian Democrats",
+    "seats": 6,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "National Coalition Party",
+    "votes": 540212,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Finns Party",
+    "votes": 524054,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Social Democratic Party",
+    "votes": 490102,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Centre Party",
+    "votes": 626218,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Green League",
+    "votes": 253102,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Left Alliance",
+    "votes": 211702,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Swedish People's Party",
+    "votes": 144802,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Christian Democrats",
+    "votes": 105134,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "National Coalition Party",
+    "seats": 37,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Finns Party",
+    "seats": 38,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Social Democratic Party",
+    "seats": 34,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Centre Party",
+    "seats": 49,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Green League",
+    "seats": 15,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Left Alliance",
+    "seats": 12,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Swedish People's Party",
+    "seats": 9,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2015",
+    "party": "Christian Democrats",
+    "seats": 5,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "National Coalition Party",
+    "votes": 523957,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Finns Party",
+    "votes": 538805,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Social Democratic Party",
+    "votes": 546471,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Centre Party",
+    "votes": 423920,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Green League",
+    "votes": 354194,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Left Alliance",
+    "votes": 251808,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Swedish People's Party",
+    "votes": 139640,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Christian Democrats",
+    "votes": 120144,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "National Coalition Party",
+    "seats": 38,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Finns Party",
+    "seats": 39,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Social Democratic Party",
+    "seats": 40,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Centre Party",
+    "seats": 31,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Green League",
+    "seats": 20,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Left Alliance",
+    "seats": 16,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Swedish People's Party",
+    "seats": 9,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Christian Democrats",
+    "seats": 5,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2019",
+    "party": "Movement Now",
+    "seats": 1,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "National Coalition Party",
+    "votes": 644555,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Finns Party",
+    "votes": 620981,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Social Democratic Party",
+    "votes": 617552,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Centre Party",
+    "votes": 349640,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Green League",
+    "votes": 217795,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Left Alliance",
+    "votes": 218430,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Swedish People's Party",
+    "votes": 133518,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Christian Democrats",
+    "votes": 130694,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Movement Now",
+    "votes": 74995,
+    "table": "13sw"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "National Coalition Party",
+    "seats": 48,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Finns Party",
+    "seats": 46,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Social Democratic Party",
+    "seats": 43,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Centre Party",
+    "seats": 23,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Green League",
+    "seats": 13,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Left Alliance",
+    "seats": 11,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Swedish People's Party",
+    "seats": 9,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Christian Democrats",
+    "seats": 5,
+    "table": "13t4"
+  },
+  {
+    "id": "world-finland-eduskunta-2023",
+    "party": "Movement Now",
+    "seats": 1,
+    "table": "13t4"
+  }
+]
