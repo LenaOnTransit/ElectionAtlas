@@ -70,8 +70,8 @@
     "checked": "2026-10-16",
     "notes": "Historical franchise restrictions and changing electoral systems affect comparability. Unverified party totals are left blank.Parliament dates the election to 18 August; November dates refer to the assembly of the new Cortes.",
     "articleId": "",
-    "version": 1,
-    "electionMethod": "indirect"
+    "version": 2,
+    "electionMethod": "direct"
   },
   {
     "id": "world-portugal-deputies-1826-10-08",
@@ -732,13 +732,17 @@
       {
         "label": "Election results and historical references",
         "url": "https://en.wikipedia.org/wiki/1851_Portuguese_legislative_election"
+      },
+      {
+        "label": "Parliament: 1852 constitutional reform and direct elections",
+        "url": "https://www.parlamento.pt/Parlamento/Paginas/monarquia.aspx"
       }
     ],
     "checked": "2026-10-16",
-    "notes": "National ballot-list results. Joint lists are retained separately from parties standing independently; subtotal rows are excluded. Colours are a display palette. Unreported votes, turnout and seats remain blank. Historical electoral franchises were restricted and changed over time. ",
+    "notes": "National ballot-list results. Joint lists are retained separately from parties standing independently; subtotal rows are excluded. Colours are a display palette. Unreported votes, turnout and seats remain blank. Historical electoral franchises were restricted and changed over time. This was the last general election under the indirect system before direct elections were introduced in 1852.",
     "articleId": "",
-    "version": 1,
-    "electionMethod": "direct"
+    "version": 2,
+    "electionMethod": "indirect"
   },
   {
     "id": "world-portugal-deputies-1852-12-12",
@@ -4926,8 +4930,8 @@
     "checked": "2026-10-16",
     "notes": "National ballot-list results. Joint lists are retained separately from parties standing independently; subtotal rows are excluded. Colours are a display palette. Unreported votes, turnout and seats remain blank. Historical electoral franchises were restricted and changed over time. ",
     "articleId": "",
-    "version": 1,
-    "electionMethod": "indirect"
+    "version": 2,
+    "electionMethod": "direct"
   },
   {
     "id": "world-portugal-president-1918-04-28",

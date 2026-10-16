@@ -25,5 +25,6 @@ assert.equal(get(1925,'Senate').totalSeats,70);assert.equal(get(1925,'Senate').r
 assert.equal(get(2026,'President','1').results.reduce((s,r)=>s+r.votes,0),5642696);assert.equal(get(2026,'President','2').results.find(r=>r.winner).votes,3502613);assert.equal(get(2026,'President','2').turnout,50.03);
 assert.equal(get(2026,'President','2').endDate,'2026-02-15');assert.equal(get(1986,'President','1').results.filter(r=>r.winner).length,0);assert.equal(get(1986,'President','2').results.find(r=>r.winner).name,'Mário Soares');
 assert.equal(get(1965,'President').results[0].votes,556);assert.equal(get(1972,'President').results[0].votes,616);
+assert.equal(get(1822,'Chamber of Deputies').electionMethod,'direct');assert.equal(get(1918,'Chamber of Deputies').electionMethod,'direct');assert.equal(get(1918,'Senate').electionMethod,'indirect');assert.equal(get(1851,'Chamber of Deputies').electionMethod,'indirect');
 for(const y of [1976,1979,1980,1983,1985,1987,1991,1995,1999,2002,2005,2009,2011,2015,2019,2022,2024,2025])assert.ok(get(y,'Assembly of the Republic'));
 console.log(`Portugal: ${records.length} records, ${records.reduce((s,e)=>s+e.results.length,0)} rows; rounds, coalition subtotals, partial renewals, certified totals, previous seats and SEO verified.`);

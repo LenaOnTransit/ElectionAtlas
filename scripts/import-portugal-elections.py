@@ -157,6 +157,9 @@ for y,n,p in [(1949,'Óscar Carmona','National Union'),(1951,'Francisco Craveiro
  e=next(e for e in records if e['body']=='President' and e['startDate'].startswith(str(y)));result(e,n,p,None,None,None)['winner']=True;e['resultStatus']='final';e['summary']='Unopposed election following opposition withdrawal or exclusion; candidate vote totals are unavailable.'
  e['notes']+='The result identifies the elected candidate without inventing a vote count or a 100% share.'
 for e in records:
+ # Historical prose can mention an earlier system or another chamber. Set the method by the actual ballot.
+ if e['startDate']=='1822-08-18' or (e['startDate']=='1918-04-28' and e['body']=='Chamber of Deputies'):e['electionMethod']='direct';e['version']=2
+ if e['startDate']=='1851-11-02':e['electionMethod']='indirect';e['version']=2;e['notes']+='This was the last general election under the indirect system before direct elections were introduced in 1852.';e['sources'].append(src('Parliament: 1852 constitutional reform and direct elections','https://www.parlamento.pt/Parlamento/Paginas/monarquia.aspx'))
  if e['startDate']=='1905-02-12':e['sources'].append(src('Parliament: 1905 election records','https://ahpweb.parlamento.pt/Detalhe/?id=39739&pesq=pa&q=AND__topic_type_id_2__45515_%3B&t=4'));e['notes']+='The polling date follows the parliamentary archive (12 February), resolving the secondary article’s conflicting December date.'
  if e['startDate']=='1822-08-18':e['sources'].append(src('Parliament: the electoral law and election of 1822','https://www.parlamento.pt/Parlamento/Paginas/A-lei-eleitoral-de-1822.aspx'));e['notes']+='Parliament dates the election to 18 August; November dates refer to the assembly of the new Cortes.'
  if e['body']=='National Assembly' and e['startDate'][:4] in ['1949','1965']:
