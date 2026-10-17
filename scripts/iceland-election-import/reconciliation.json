@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "world-iceland-althingi-1844",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 20,
+    "recordedSeats": 20,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1874",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 30,
+    "recordedSeats": 30,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1880",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 30,
+    "recordedSeats": 30,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1886",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 30,
+    "recordedSeats": 30,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1892",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 30,
+    "recordedSeats": 30,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1894",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 30,
+    "recordedSeats": 30,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1900",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": 30,
+    "recordedSeats": 30,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1902",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1903",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1908",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1911",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1914",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1919",
+    "expectedVotes": 14035.0,
+    "recordedVotes": 14035,
+    "expectedSeats": 40,
+    "recordedSeats": 40,
+    "reportedAllocations": [
+      {
+        "name": "Home Rule Party",
+        "value": 6423.0
+      },
+      {
+        "name": "Independence Party",
+        "value": 3548.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 3115.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 949.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-upper-1922",
+    "expectedVotes": 11794.0,
+    "recordedVotes": 11794,
+    "expectedSeats": 3,
+    "recordedSeats": 3,
+    "reportedAllocations": [
+      {
+        "name": "Home Rule Party",
+        "value": 3258.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 3196.0
+      },
+      {
+        "name": "Women's Candidate List",
+        "value": 2674.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 2033.0
+      },
+      {
+        "name": "Independence Party",
+        "value": 633.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1923",
+    "expectedVotes": 30362.0,
+    "recordedVotes": 24334,
+    "expectedSeats": 42,
+    "recordedSeats": 42,
+    "reportedAllocations": [
+      {
+        "name": "Citizens' Party",
+        "value": 16272.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 8062.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 4912.5
+      },
+      {
+        "name": "Independence Party",
+        "value": null
+      },
+      {
+        "name": "Independents",
+        "value": 1115.5
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-upper-1926",
+    "expectedVotes": 13947.0,
+    "recordedVotes": 13947,
+    "expectedSeats": 3,
+    "recordedSeats": 3,
+    "reportedAllocations": [
+      {
+        "name": "Conservative Party",
+        "value": 5501.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 3481.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 3164.0
+      },
+      {
+        "name": "Independence Party",
+        "value": 1312.0
+      },
+      {
+        "name": "Women's Candidate List",
+        "value": 489.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-upper-1926-by-election",
+    "expectedVotes": 15454.0,
+    "recordedVotes": 15454,
+    "expectedSeats": 1,
+    "recordedSeats": 1,
+    "reportedAllocations": [
+      {
+        "name": "Conservative Party",
+        "value": 8514.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 6940.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1927",
+    "expectedVotes": 32009.0,
+    "recordedVotes": 1858,
+    "expectedSeats": 42,
+    "recordedSeats": 42,
+    "reportedAllocations": [
+      {
+        "name": "Conservative Party",
+        "value": 13616.5
+      },
+      {
+        "name": "Progressive Party",
+        "value": 9532.5
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 6097.5
+      },
+      {
+        "name": "Liberal Party",
+        "value": 1858.0
+      },
+      {
+        "name": "Independents",
+        "value": 904.5
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-upper-1930",
+    "expectedVotes": 24149.0,
+    "recordedVotes": 24149,
+    "expectedSeats": 3,
+    "recordedSeats": 3,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 11671.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 7585.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 4893.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1931",
+    "expectedVotes": 38544.0,
+    "recordedVotes": 18502,
+    "expectedSeats": 42,
+    "recordedSeats": 42,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 16891.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 13844.5
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 6197.5
+      },
+      {
+        "name": "Communist Party",
+        "value": 1165.0
+      },
+      {
+        "name": "Independents",
+        "value": 446.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1933",
+    "expectedVotes": 35680.0,
+    "recordedVotes": 480,
+    "expectedSeats": 42,
+    "recordedSeats": 42,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 17131.5
+      },
+      {
+        "name": "Progressive Party",
+        "value": 8530.5
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 6864.5
+      },
+      {
+        "name": "Communist Party",
+        "value": 2673.5
+      },
+      {
+        "name": "Independents",
+        "value": 480.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1934",
+    "expectedVotes": 51929.0,
+    "recordedVotes": 29282,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 21974.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 11377.5
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 11269.5
+      },
+      {
+        "name": "Farmers' Party",
+        "value": 3348.0
+      },
+      {
+        "name": "Communist Party",
+        "value": 3098.0
+      },
+      {
+        "name": "Nationalist Party",
+        "value": 363.0
+      },
+      {
+        "name": "Independents",
+        "value": 499.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1937",
+    "expectedVotes": 58415.0,
+    "recordedVotes": 24263,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 24132.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 14556.5
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 11084.5
+      },
+      {
+        "name": "Communist Party",
+        "value": 4932.5
+      },
+      {
+        "name": "Farmers' Party",
+        "value": 3578.5
+      },
+      {
+        "name": "Nationalist Party",
+        "value": 118.0
+      },
+      {
+        "name": "Independents",
+        "value": 13.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1946",
+    "expectedVotes": 66913.0,
+    "recordedVotes": 66913,
+    "expectedSeats": 52,
+    "recordedSeats": 52,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 26428.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 15429.0
+      },
+      {
+        "name": "People's Unity Party – Socialist Party",
+        "value": 13049.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 11914.0
+      },
+      {
+        "name": "Independents",
+        "value": 93.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1949",
+    "expectedVotes": 72219.0,
+    "recordedVotes": 72219,
+    "expectedSeats": 52,
+    "recordedSeats": 52,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 28546.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 17659.0
+      },
+      {
+        "name": "People's Unity Party – Socialist Party",
+        "value": 14077.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 11937.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1953",
+    "expectedVotes": 77410.0,
+    "recordedVotes": 77410,
+    "expectedSeats": 52,
+    "recordedSeats": 52,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 28738.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 16959.0
+      },
+      {
+        "name": "People's Unity Party – Socialist Party",
+        "value": 12422.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 12093.0
+      },
+      {
+        "name": "National Preservation Party",
+        "value": 4667.0
+      },
+      {
+        "name": "Republican Party",
+        "value": 2531.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1956",
+    "expectedVotes": 82678.0,
+    "recordedVotes": 82678,
+    "expectedSeats": 52,
+    "recordedSeats": 52,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 35027.0
+      },
+      {
+        "name": "People's Alliance",
+        "value": 15859.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 15153.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 12925.0
+      },
+      {
+        "name": "National Preservation Party",
+        "value": 3706.0
+      },
+      {
+        "name": "Independents",
+        "value": 8.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-upper-1916",
+    "expectedVotes": 5829.0,
+    "recordedVotes": 5829,
+    "expectedSeats": 6,
+    "recordedSeats": 6,
+    "reportedAllocations": [
+      {
+        "name": "Home Rule Party",
+        "value": 1950.0
+      },
+      {
+        "name": "Independence Party – Þversum",
+        "value": 1337.0
+      },
+      {
+        "name": "Independent Farmers",
+        "value": 1290.0
+      },
+      {
+        "name": "Farmers' Party",
+        "value": 435.0
+      },
+      {
+        "name": "Independence Party – Langsum",
+        "value": 419.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 398.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1942-july",
+    "expectedVotes": 58131.0,
+    "recordedVotes": 58131,
+    "expectedSeats": 49,
+    "recordedSeats": 49,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 22975.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 16033.0
+      },
+      {
+        "name": "People's Unity Party – Socialist Party",
+        "value": 9423.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 8979.0
+      },
+      {
+        "name": "Commonwealth Party",
+        "value": 618.0
+      },
+      {
+        "name": "Liberal Left",
+        "value": 103.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1959-june",
+    "expectedVotes": 84788.0,
+    "recordedVotes": 84788,
+    "expectedSeats": 52,
+    "recordedSeats": 52,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 36029.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 23061.0
+      },
+      {
+        "name": "People's Alliance",
+        "value": 12929.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 10632.0
+      },
+      {
+        "name": "National Preservation Party",
+        "value": 2137.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1916-october",
+    "expectedVotes": 13350.0,
+    "recordedVotes": 4838,
+    "expectedSeats": 40,
+    "recordedSeats": 40,
+    "reportedAllocations": [
+      {
+        "name": "Home Rule Party",
+        "value": 5333.5
+      },
+      {
+        "name": "Independence Party – Langsum",
+        "value": 2097.0
+      },
+      {
+        "name": "Farmers' Party",
+        "value": 1173.0
+      },
+      {
+        "name": "Independence Party",
+        "value": 1014.0
+      },
+      {
+        "name": "Independence Party – Þversum",
+        "value": 938.5
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 903.5
+      },
+      {
+        "name": "Independent Farmers",
+        "value": 554.0
+      },
+      {
+        "name": "Independents",
+        "value": 1336.5
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1942-october",
+    "expectedVotes": 59668.0,
+    "recordedVotes": 59668,
+    "expectedSeats": 52,
+    "recordedSeats": 52,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 23001.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 15869.0
+      },
+      {
+        "name": "People's Unity Party – Socialist Party",
+        "value": 11059.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 8455.0
+      },
+      {
+        "name": "Commonwealth Party",
+        "value": 1284.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1959-october",
+    "expectedVotes": 85095.0,
+    "recordedVotes": 85095,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "reportedAllocations": [
+      {
+        "name": "Independence Party",
+        "value": 33800.0
+      },
+      {
+        "name": "Progressive Party",
+        "value": 21882.0
+      },
+      {
+        "name": "People's Alliance",
+        "value": 13621.0
+      },
+      {
+        "name": "Social Democratic Party",
+        "value": 12909.0
+      },
+      {
+        "name": "National Preservation Party",
+        "value": 2883.0
+      }
+    ]
+  },
+  {
+    "id": "world-iceland-althingi-1963",
+    "expectedVotes": 89352,
+    "recordedVotes": 89352,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1967",
+    "expectedVotes": 96090,
+    "recordedVotes": 96090,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1971",
+    "expectedVotes": 105395,
+    "recordedVotes": 105395,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1974",
+    "expectedVotes": 114108,
+    "recordedVotes": 114108,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1978",
+    "expectedVotes": 122207,
+    "recordedVotes": 122207,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1979",
+    "expectedVotes": 123751,
+    "recordedVotes": 123751,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1983",
+    "expectedVotes": 129962,
+    "recordedVotes": 129962,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1987",
+    "expectedVotes": 152722,
+    "recordedVotes": 152722,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1991",
+    "expectedVotes": 157769,
+    "recordedVotes": 157769,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1995",
+    "expectedVotes": 165043,
+    "recordedVotes": 165043,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-1999",
+    "expectedVotes": 165727,
+    "recordedVotes": 165727,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-2003",
+    "expectedVotes": 183172,
+    "recordedVotes": 183172,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-2007",
+    "expectedVotes": 182169,
+    "recordedVotes": 182169,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-2009",
+    "expectedVotes": 187183,
+    "recordedVotes": 187183,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-2013",
+    "expectedVotes": 189023,
+    "recordedVotes": 189023,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-2016",
+    "expectedVotes": 189648,
+    "recordedVotes": 189648,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-2017",
+    "expectedVotes": 196259,
+    "recordedVotes": 196259,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-althingi-2021",
+    "expectedVotes": 199730,
+    "recordedVotes": 199730,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-2024-althingi",
+    "expectedVotes": 212470,
+    "recordedVotes": 212470,
+    "expectedSeats": 63,
+    "recordedSeats": 63,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1952",
+    "expectedVotes": 68224,
+    "recordedVotes": 68224,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1968",
+    "expectedVotes": 102972,
+    "recordedVotes": 102972,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1980",
+    "expectedVotes": 129049,
+    "recordedVotes": 129049,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1988",
+    "expectedVotes": 124004,
+    "recordedVotes": 124004,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1996",
+    "expectedVotes": 165233,
+    "recordedVotes": 165233,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-2004",
+    "expectedVotes": 105913,
+    "recordedVotes": 105913,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-2012",
+    "expectedVotes": 159207,
+    "recordedVotes": 159207,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-2016",
+    "expectedVotes": 182608,
+    "recordedVotes": 182608,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-2020",
+    "expectedVotes": 163710,
+    "recordedVotes": 163710,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-2024",
+    "expectedVotes": 214320,
+    "recordedVotes": 214320,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1944",
+    "expectedVotes": 35,
+    "recordedVotes": 35,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1945",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1949",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1956",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1960",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1964",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1972",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1976",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1984",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-1992",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-2000",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-presidential-2008",
+    "expectedVotes": null,
+    "recordedVotes": 0,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  },
+  {
+    "id": "world-iceland-constitutional-assembly-2010",
+    "expectedVotes": 82335,
+    "recordedVotes": 82335,
+    "expectedSeats": null,
+    "recordedSeats": 0,
+    "reportedAllocations": null
+  }
+]

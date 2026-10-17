@@ -1,0 +1,303 @@
+2010 Icelandic Constitutional Assembly election - Wikipedia (https://en.wikipedia.org/wiki/2010_Icelandic_Constitutional_Assembly_election)
+【turn181view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://en.wikipedia.org/wiki/2010_Icelandic_Constitutional_Assembly_election","lineno":null}); Total lines: 300
+L0: 【0†Jump to content】
+L1: 
+L2: [Input] Main menu
+L3: 
+L4: Main menu
+L5: 
+L6: [Button: move to sidebar] [Button: hide]
+L7: 
+L8: Navigation
+L9: 
+L10:   * 【1†Main page】
+L11:   * 【2†Contents】
+L12:   * 【3†Current events】
+L13:   * 【4†Random article】
+L14:   * 【5†About Wikipedia】
+L15:   * 【6†Contact us】
+L16: 
+L17: Contribute
+L18: 
+L19:   * 【7†Help】
+L20:   * 【8†Learn to edit】
+L21:   * 【9†Community portal】
+L22:   * 【10†Recent changes】
+L23:   * 【11†Upload file】
+L24:   * 【12†Special pages】
+L25: 
+L26: 【13†Search】
+L27: 
+L28: [Input: Search Wikipedia]
+L29: 
+L30: [Input]
+L31: 
+L32: [Button: Search]
+L33: 
+L34: [Input] Appearance
+L35:   * 【14†Donate†donate.wikimedia.org】
+L36:   * 【15†Create account】
+L37:   * 【16†Log in】
+L38: 
+L39: [Input] Personal tools
+L40: 
+L41:   * 【14†Donate†donate.wikimedia.org】
+L42:   * 【15†Create account】
+L43:   * 【16†Log in】
+L44: ## Contents
+L45: 
+L46: [Button: move to sidebar] [Button: hide]
+L47: 
+L48:   * 【17†(Top)】
+L49:   * 【18†1 Background】
+L50:   * 【19†2 Electoral system】
+L51:   * 【20†3 Results】
+L52:   * 【21†4 Aftermath】 Toggle Aftermath subsection
+L53:     * 【22†4.1 Annulment】
+L54:     * 【23†4.2 Parliament appoints the members】
+L55:     * 【24†4.3 Proposed constitutional amendments】
+L56:   * 【25†5 References】
+L57: 
+L58: [Input] Toggle the table of contents
+L59: # 2010 Icelandic Constitutional Assembly election
+L60: 
+L61: [Input] 2 languages
+L62: 
+L63:   * 【26†Íslenska†is.wikipedia.org】
+L64:   * 【27†Русский†ru.wikipedia.org】
+L65: 
+L66: 【28†Edit links†www.wikidata.org】
+L67: 
+L68:   * 【29†Article】
+L69:   * 【30†Talk】
+L70: 
+L71: [Input] English
+L72: 
+L73:   * 【29†Read】
+L74:   * 【31†Edit】
+L75:   * 【32†View history】
+L76: 
+L77: [Input] Tools
+L78: 
+L79: Tools
+L80: 
+L81: [Button: move to sidebar] [Button: hide]
+L82: 
+L83: Actions
+L84: 
+L85:   * 【29†Read】
+L86:   * 【31†Edit】
+L87:   * 【32†View history】
+L88: 
+L89: General
+L90:   * 【33†What links here】
+L91:   * 【34†Related changes】
+L92:   * 【35†Upload file】
+L93:   * 【36†Permanent link】
+L94:   * 【37†Page information】
+L95:   * 【38†Cite this page】
+L96:   * 【39†Get shortened URL】
+L97:   * 【40†Switch to legacy parser】
+L98: 
+L99: Print/export
+L100: 
+L101:   * 【41†Download as PDF】
+L102:   * Printable version
+L103: 
+L104: In other projects
+L105: 
+L106:   * 【42†Wikidata item†www.wikidata.org】
+L107: 
+L108: Appearance
+L109: 
+L110: [Button: move to sidebar] [Button: hide]
+L111: Constitutional Assembly elections were held in 【43†Iceland】 on 27 November 2010.
+L112: The 【44†Supreme Court】 invalidated the results of the election on 25 January 2011 following complaints about several faults in how the election was conducted.^{【45†[1]】}^{【46†[2]】} However, it was decided on 25 February 2011 that the elected assembly members would instead be appointed to a Constitutional Council with effectively the same role.^{【47†[3]】} The proposed changes to the 【48†constitution】 were approved in 【49†a referendum】 in October 2012.
+L113: As of 2024, the changes had not been implemented, despite continued public support.^{【50†[4]】}
+L114: ## Background
+L115: 
+L116: [【51†edit】]
+L117: 
+L118: This would be the first time in Iceland's history that a body had reviewed broad areas of the constitution. It was given the mandate to examine:^{【52†[5]】}
+L119:   1. The foundations of the Icelandic constitution and its fundamental concepts;
+L120:   2. The organisation of the legislative and executive branches and the limits of their powers;
+L121:   3. The role and position of the President of the Republic;
+L122:   4. The independence of the judiciary and their supervision of other holders of governmental powers;
+L123:   5. Provisions on elections and electoral districts;
+L124:   6. Public participation in the democratic process, including the timing and organisation of a referendum, including a referendum on a legislative bill for a constitutional act;
+L125:   7. Transfer of sovereign powers to international organisations and the conduct of foreign affairs;
+L126:   8. Environmental matters, including the ownership and utilisation of natural resources.
+L127: The Constitutional Assembly was also empowered to address additional matters beyond "reviewing the Constitution of the Republic".
+L128: 
+L129: The Assembly was required to convene by 15 February 2011 and finish its work no later than 15 April 2011. The 25 members were to be elected using the 【53†single transferable vote】 system under the Weighted Inclusive Gregory Method. Over 500 candidates filed to run in the election, more than double the most optimistic estimates.^{【54†[6]】}
+L130: ## Electoral system
+L131: 
+L132: [【55†edit】]
+L133: 
+L134: The elections were held using 【56†single transferable voting】 in one multi-member electoral district covering the whole island.
+L135: ## Results
+L136: 
+L137: [【57†edit】]
+L138: 
+L139: Turnout in the elections was only 36%. Fifteen men and ten women were elected, fulfilling the required quota of 40% women. Had fewer women been elected, up to six women (who had been closest to being elected under the regular method) would have been declared elected to achieve gender parity.^{【58†[7]】}
+L140: 
+L141: Quota (amount that made candidate certain to be elected) was approximately four percent of valid votes.
+L142: 
+L143: The 25 members elected to the Constitutional Assembly were:
+L144: Candidate  | Profession  | First pref. (First preference votes)  | %
+L145: --- | --- | --- | ---
+L146:  | 【59†Þorvaldur Gylfason】  | University Professor of Economics  | 7,192  | 8.74
+L147:  | Salvör Nordal  | Director of the University of Iceland Ethics Institute  | 2,842  | 3.45
+L148:  | Ómar Þorfinnur Ragnarsson  | Media Presenter  | 2,440  | 2.96
+L149:  | Andrés Magnússon  | Physician  | 2,175  | 2.64
+L150:  | Pétur Gunnlaugsson  | Lawyer and Radio Presenter  | 1,989  | 2.42
+L151:  | Þorkell Helgason  | Mathematician  | 1,930  | 2.34
+L152:  | Ari Teitsson  | Farmer  | 1,686  | 2.05
+L153:  | Illugi Jökulsson  | Journalist  | 1,593  | 1.93
+L154:  | 【60†Freyja Haraldsdóttir】  | Manager  | 1,089  | 1.32
+L155:  | Silja Bára Ómarsdóttir  | Lecturer in International Politics  | 1,054  | 1.28
+L156:  | Örn Bárður Jónsson  | Pastor  | 806  | 0.98
+L157:  | 【61†Eiríkur Bergmann】  | Reader of Political Science  | 753  | 0.91
+L158:  | Dögg Harðardóttir  | Manager of the Division of Architecture at Reykjavik Art Museum  | 674  | 0.82
+L159:  | Vilhjálmur Þorsteinsson  | Chairman of CCP Games  | 672  | 0.82
+L160:  | Þórhildur Þorleifsdóttir  | Theatre Director  | 584  | 0.71
+L161:  | Pawel Bartoszek  | Mathematician  | 584  | 0.71
+L162:  | Arnfríður Guðmundsdóttir  | University Professor  | 531  | 0.64
+L163:  | Erlingur Sigurdarson  | Former Museum Director and Teacher  | 526  | 0.64
+L164:  | Inga Lind Karlsdóttir  | Media Presenter and University Student  | 493  | 0.60
+L165:  | Katrín Oddsdóttir  | Lawyer  | 479  | 0.58
+L166:  | 【62†Guðmundur Gunnarsson】  | Trade Union Chairman  | 432  | 0.52
+L167:  | Katrín Fjelsted  | Physician  | 418  | 0.51
+L168:  | Ástrós Gunnlaugsdóttir  | Political Scientist and University Student  | 396  | 0.48
+L169:  | Gísli Tryggvason  | Consumer Spokesperson  | 348  | 0.42
+L170:  | Lýður Árnason  | Filmmaker and Physician  | 347  | 0.42
+L171: Other 497 candidates  | 50,302  | 61.09
+L172: Total  | 82,335  | 100.00
+L173: Valid votes  | 82,335  | 98.57
+L174: Invalid/blank votes  | 1,196  | 1.43
+L175: Total votes  | 83,531  | 100.00
+L176: Registered voters/turnout  | 232,374  | 35.95
+L177: Source: 【63†Iceland Review†www.icelandreview.com】
+L178: ## Aftermath
+L179: 
+L180: [【64†edit】]
+L181: ### Annulment
+L182: 
+L183: [【65†edit】]
+L184: 
+L185: The 【44†Supreme Court of Iceland】 ruled the election to the Constitutional Assembly null and void with a decision on 25 January 2011.^{【66†[8]】} Six Supreme Court Justices examined complaints about the election process. The Justices were: 【67†Garðar Gíslason】, 【68†Árni Kolbeinsson】, 【69†Gunnlaugur Claessen】, 【70†Jón Steinar Gunnlaugsson】, 【71†Páll Hreinsson】 and 【72†Viðar Már Matthíasson】.
+L186: The court received complaints from Óðinn Sigþórsson, Skafti Harðarson and Þorgrímur S. Þorgrímsson. The complaints regarded various faults of the election process, according to the complainants. The court found five separate faults on the election process. It considered two of them to be serious.
+L187:   1. The fact that ballot papers had bar-codes printed in consecutive numerical order, was considered a serious fault of the election process and deemed an infringement of laws mandating a secret ballot, which the Court considered "a fundamental provision of the Icelandic Constitution concerning public elections".^{【73†[9]】}
+L188:   2. The fact that cardboard dividers had been used in place of election booths, was thought in breach of Icelandic law requiring the use of closed booths for the electorate to cast their vote.
+L189: The use of cardboard dividers was considered a fault of the election process, "the fact it was possible to glance a voter's ballot paper, which took some time to fill out if all options were exercised, is likely to restrict the right of the voter to exercise his vote freely if someone, whom he is dependent upon, could observe him or if the voter had reason to suspect that this could happen".^{【74†[10]】}
+L190:   3. The fact that the legal requirement stipulating that ballot papers should be folded before being cast, was not followed. According to the Supreme Court, this rule was intended to "secure the right of the voter to cast his ballot in secret".^{【75†[11]】} A majority of the Supreme Court considered this a fault of the election process. Supreme Court Justices Garðar Gíslason and Viðar Már Matthíasson were of a different opinion in regards to this, and did not consider the process unlawful.
+L191:   4. The ballot boxes did not comply with Icelandic law, since it was not possible to secure them with a lock. Furthermore, the Supreme Court considered the ballot boxes "of a make so that it was possible without much effort to disassemble them and access ballot papers. The make and quality of the ballot boxes was thus conductive to reduce the security and secrecy of the election".^{【76†[12]】} This was considered a fault of the election process.
+L192:   5. The legislation concerning elections mandated that the National Electoral Commission had to draft persons to observe the electoral process. The Supreme Court stated that since there had been doubt as to how to interpret 13-15% of the votes during the election, such observers had been of special importance to guard the rights of the candidates. The Supreme Court considered this a serious fault of the election process.^{【77†[13]】}
+L193: The Supreme Court referred to the fact that it was the role of the legislature to establish clear and unambiguous rules for the conduct of public elections which take into account the circumstances resulting from their special nature. It was however not lawful for the government to deviate from the clear provisions of the laws concerning elections, because of the number of candidates or because of new procedures thought suitable for electronic tallying of votes.
+L194: The Court further pointed to case law supporting its decision. The Court referred to the fact that in Icelandic jurisprudence there was precedent for declaring elections null and void when the election process was in breach of law and suited to violate election secrecy. For example, elections in Helgafellssveit regarding the unification of municipalities had been declared null and void.
+L195: That judgement was reached because the ballot paper was of such a make that it was possible to see writing though it, even though it was folded. In its reasoning in that case the Supreme Court said:
+L196:     The ballot paper does thus not ensure, that the election is secret in accordance to Article 17 of Act no. 8/1986, which is among fundamental provisions in Icelandic law concerning public elections, pursuant to Article 87. and Article 91. of Act no. 80/1987 and Article 31. of the Icelandic Constitution. A fault in this regard is by its very nature conductive to influence the outcome of elections^{【78†[14]】}
+L197: Another precedent from jurisprudence where elections have been declared null and void because of faults in election secrecy is the election to a Municipal Commission in Geithellnahreppur 25 June 1978. Like the precedent the Supreme Court referred to in its decision on the Constitutional Assembly, the ballot papers were of such a make that it was possible to see writing through them when folded. The Supreme Court stated:
+L198:     We concur with the District Court decision, that the ballot paper was not of the make that is prescribed by law in Article 50. of Act no. 52/1959, pursuant to Article 1. of Act no. 5/1962, pursuant to Article 1. of Act no. 5/1966 and the principal rule of Article 7., 2. para, of Act no. 5/1962, and does not ensure, that the elections are secret. The provisions of Article 15., 1. para., of Act no.
+L199: 58/1961, which stipulates, that these elections should be secret, is certainly among the fundamental provisions in Icelandic law concerning public elections.^{【79†[15]】}
+L200: According to Þorvaldur Gylfason (the most popular candidate in the election) this was 'a bizarre technical complaint about the way the election to the constituent assembly had been conducted'.
+L201: After receiving their election certificate (kjörbréf) on 2 December 2010,^{【80†[16]】} the elected delegates were informed on 27 January 2011, that the election certificates had been revoked by the National Election Commission.^{【81†[17]】} The following day, all of the Commission members tendered their resignation citing the circumstances that had arisen and the harmony necessary for the Commission to carry out its functions.^{【82†[18]】}
+L202: ### Parliament appoints the members
+L203: 
+L204: [【83†edit】]
+L205: 
+L206: Parliament began the same day to deliberate whether and how to continue the process. It was decided on 25 February 2011 that the elected assembly members would be appointed by Parliament to a Constitutional Council with basically the same role. A resolution passed which appointed most of the delegates that had been elected. The Parliament voted thus:
+L207: Choice  | Votes  | %
+L208: --- | --- | ---
+L209: For  | 30  | 58.82
+L210: Against  | 21  | 41.18
+L211: Total  | 51  | 100.00
+L212: Registered voters/turnout  | 63  | –
+L213: Source: 【84†Althing†www.althingi.is】
+L214: 
+L215: All members of Parliament for the 【85†Independence Party】 were against this solution.^{【86†[19]】} Six of the seven who abstained were members of the governing coalition.^{【87†[20]】}
+L216: ### Proposed constitutional amendments
+L217: 
+L218: [【88†edit】]
+L219: 
+L220: The changes proposed by the Assembly included:
+L221:   * a referendum on abolishing the 【89†state church】 (polls indicate 73% would vote in favour of 【90†separation of church and state】);^{【91†[21]】}
+L222:   * a number of changes to government, including the process for becoming prime minister, introducing a ten-year limit for PM terms, and that a 【92†vote of no confidence】 should have to include a proposed replacement PM;^{【93†[22]】}
+L223:   * obliging the state to provide internet access to all citizens;
+L224:   * introducing a three-term limit for the president;
+L225:   * allowing 15% of voters to put bills to parliament or call for a referendum on proposed laws;
+L226:   * restricting government size to ten ministers, and barring ministers from being MPs at the same time; and
+L227:   * declaring Iceland's natural resources public property.^{【94†[23]】}
+L228: The constitution draft was finished on 29 July 2011 and presented to the 【95†Althing】 on the same day.^{【96†[24]】} The proposed changes were approved in 【97†a referendum】 on 20 October 2012.
+L229: ## References
+L230: 
+L231: [【98†edit】]
+L232:   1. 【99†↑】 【100†"Iceland's Constitutional Assembly Voting Invalid"†web.archive.org】. Iceland Review. 25 January 2011. Archived from the original on 14 March 2012. Retrieved 23 December 2021.`{{【101†cite web】}}`: CS1 maint: bot: original URL status unknown (【102†link】)
+L233:   2. 【103†↑】 【104†"News Review: The Supreme Court's Verdict"†icelandreview.com】. Iceland Review. 26 January 2011.
+L234:   3. 【105†↑】 【106†"Constitutional Assembly Elects Appointed to Council"†web.archive.org】. Iceland Review. 25 February 2011. Archived from the original on 28 February 2011. Retrieved 22 May 2020.`{{【101†cite web】}}`: CS1 maint: bot: original URL status unknown (【102†link】)
+L235:   4. 【107†↑】 【108†"From Iceland — Poll: Most Icelanders Still Want A New Constitution"†grapevine.is】. The Reykjavik Grapevine. 13 July 2021. Retrieved 16 February 2024.
+L236:   5. 【109†↑】 【110†"Election of a Constitutional Assembly in Iceland 2010"†politicalreform.ie】. Political Reform. 22 October 2010.
+L237:   6. 【111†↑】 【112†"Hundreds to Run for Constitutional Parliament"†web.archive.org】. Iceland Review. 19 October 2010. Archived from 【113†the original†www.icelandreview.com】 on 29 March 2012.
+L238:   7. 【114†↑】 【115†"You Say You Want a Constitution?"†www.huffingtonpost.com】. 【116†HuffPost】. December 2010.
+L239:   8. 【117†↑】 【118†"Endurrit úr gerðabók Hæstaréttar 25. January 2011"†web.archive.org】. Supreme Court of Iceland. Archived from 【119†the original†www.haestirettur.is】 on 22 January 2016. Retrieved 29 August 2015.
+L240:   9. 【120†↑】 Part VI.1 of the decision of the Supreme Court of Iceland 25 January 2011
+L241:   10. 【121†↑】 Part VI.2 of the decision of the Supreme Court of Iceland 25 January 2011
+L242:   11. 【122†↑】 Part VI.3 of the decision of the Supreme Court of Iceland 25 January 2011
+L243:   12. 【123†↑】 Part VI.4 of the decision of the Supreme Court of Iceland 25 January 2011
+L244:   13. 【124†↑】 Part VI.5 of the decision of the Supreme Court of Iceland 25 January 2011
+L245:   14. 【125†↑】 Decision of the Icelandic Supreme Court 8 December 1994 in case no. 425/1994
+L246:   15. 【126†↑】 Judgement of the Supreme Court of Iceland 9 February 1982 in case no. 96/1980
+L247:   16. 【127†↑】 【128†"Assembly delegates received their election papers"†www.ruv.is】. RÚV (in Icelandic). 2 December 2010.
+L248:   17. 【129†↑】 【130†"Election papers considered invalid"†www.mbl.is】. Morgunblaðið (in Icelandic). 27 January 2011.
+L249:   18. 【131†↑】 【132†"National Election Commission resigns"†www.visir.is】. Vísir (in Icelandic). 28 January 2011.
+L250:   19. 【133†↑】 【106†"Constitutional Assembly Elects Appointed to Council"†web.archive.org】. Iceland Review. 25 February 2011. Archived from 【134†the original†www.icelandreview.com】 on 28 February 2011. Retrieved 11 July 2011.
+L251:   20. 【135†↑】 【84†"Atkvæðagreiðsla"†www.althingi.is】. Althing.
+L252:   21. 【136†↑】 【137†"Separation of Church and State (KH)"†web.archive.org】. Iceland Review. 8 June 2011. Archived from 【138†the original†www.icelandreview.com】 on 29 March 2012.
+L253:   22. 【139†↑】 【140†"Radical Ideas Discussed in the Constitutional Council"†web.archive.org】. Iceland Review. 1 June 2011. Archived from 【141†the original†www.icelandreview.com】 on 15 June 2011.
+L254:   23. 【142†↑】 【143†"Iceland's constitutional council presents draft documents"†web.archive.org】. IceNews. 19 July 2011. Archived from 【144†the original†www.icenews.is】 on 22 July 2011. Retrieved 25 July 2011.
+L255:   24. 【145†↑】 【146†"Frumvarp"†stjornlagarad.is】. Stjórnlagaráð.
+L256: 【147†Image】
+L257: 
+L258: Retrieved from "【36†https://en.wikipedia.org/w/index.php?title=2010_Icelandic_Constitutional_Assembly_election&oldid=1377990992】"
+L259: 
+L260: 【148†Categories】:
+L261: 
+L262:   * 【149†2010 elections in Iceland】
+L263:   * 【150†Constitution of Iceland】
+L264:   * 【151†November 2010 in Europe】
+L265:   * 【152†Annulled elections】
+L266:   * 【153†Constituent assembly elections in Europe】
+L267: 
+L268: Hidden categories:
+L269:   * 【154†Use dmy dates from August 2018】
+L270:   * 【155†Articles with short description】
+L271:   * 【156†Short description with empty Wikidata description】
+L272:   * 【102†CS1 maint: bot: original URL status unknown】
+L273:   * 【157†Articles containing potentially dated statements from 2024】
+L274:   * 【158†All articles containing potentially dated statements】
+L275:   * 【159†CS1 Icelandic-language sources (is)】
+L276:   * This page was last edited on 2 October 2026, at 08:50 (UTC).
+L277:   * Page was rendered with 【160†Parsoid†www.mediawiki.org】.
+L278:   * Text is available under the 【161†Creative Commons Attribution-ShareAlike 4.0 License】; additional terms may apply. By using this site, you agree to the 【162†Terms of Use†foundation.wikimedia.org】 and 【163†Privacy Policy†foundation.wikimedia.org】. Wikipedia® is a registered trademark of the 【164†Wikimedia Foundation, Inc.†wikimediafoundation.org】, a non-profit organization.
+L279:   * 【163†Privacy policy†foundation.wikimedia.org】
+L280:   * 【5†About Wikipedia】
+L281:   * 【165†Disclaimers】
+L282:   * 【6†Contact Wikipedia】
+L283:   * 【166†Legal & safety contacts†foundation.wikimedia.org】
+L284:   * 【167†Code of Conduct†foundation.wikimedia.org】
+L285:   * 【168†Developers†developer.wikimedia.org】
+L286:   * 【169†Statistics†stats.wikimedia.org】
+L287:   * 【170†Cookie statement†foundation.wikimedia.org】
+L288:   * Search
+L289: 
+L290: [Input: Search Wikipedia]
+L291: 
+L292: [Input]
+L293: 
+L294: [Button: Search]
+L295: 
+L296: [Input] Toggle the table of contents
+L297: 2010 Icelandic Constitutional Assembly election
+L298: 
+L299: 2 languages 【17†Add topic】
+

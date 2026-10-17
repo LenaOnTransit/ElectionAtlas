@@ -1,0 +1,405 @@
+[
+  {
+    "id": "d9d4374c-d004-5ee2-9bc7-9e15f01b810d",
+    "country_id": "is",
+    "name": "Home Rule Party",
+    "short_name": "",
+    "color": "#336599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "3cdec314-ee1e-59f3-963e-884be33e08df",
+    "country_id": "is",
+    "name": "Independence Party (historical, 1907–1927)",
+    "short_name": "",
+    "color": "#993394",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "a3b9001c-d390-5078-8b51-ea2298871604",
+    "country_id": "is",
+    "name": "Progressive Party",
+    "short_name": "B",
+    "color": "#69a947",
+    "ideology_ids": [
+      "ideology-agrarianism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Progressive_Party_(Iceland)",
+    "archived": false
+  },
+  {
+    "id": "6208129d-4140-5c1c-bdaf-a02ed7d8fb9d",
+    "country_id": "is",
+    "name": "Social Democratic Party",
+    "short_name": "A",
+    "color": "#df253e",
+    "ideology_ids": [
+      "ideology-social-democracy"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Social_Democratic_Party_(Iceland)",
+    "archived": false
+  },
+  {
+    "id": "b719eb30-151f-5d1c-8435-082f5da3f71e",
+    "country_id": "is",
+    "name": "Women's Candidate List",
+    "short_name": "",
+    "color": "#893399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d2a2917c-adbf-5d0e-a43a-629426c17fbf",
+    "country_id": "is",
+    "name": "Citizens' Party (1923 electoral grouping)",
+    "short_name": "",
+    "color": "#339599",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1f61ee9d-185f-540e-9ebe-56a3a6fe9071",
+    "country_id": "is",
+    "name": "Conservative Party",
+    "short_name": "",
+    "color": "#335099",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "26bf55eb-2606-5cec-84ef-bc5482e47d94",
+    "country_id": "is",
+    "name": "Liberal Party (1926–1929)",
+    "short_name": "",
+    "color": "#959933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "05ff6ee1-7eed-540d-ab1a-ed0491f88bbc",
+    "country_id": "is",
+    "name": "Independence Party",
+    "short_name": "D",
+    "color": "#1763a4",
+    "ideology_ids": [
+      "ideology-liberal-conservatism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Independence_Party_(Iceland)",
+    "archived": false
+  },
+  {
+    "id": "dbc5ca55-e36b-560b-aa9f-7fab83ed63da",
+    "country_id": "is",
+    "name": "Communist Party",
+    "short_name": "",
+    "color": "#733399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "347fab54-8d37-5009-80f7-b572446538c0",
+    "country_id": "is",
+    "name": "Farmers' Party",
+    "short_name": "",
+    "color": "#799933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "09cad007-0e73-5eef-92a9-dfc0755d2448",
+    "country_id": "is",
+    "name": "Nationalist Party",
+    "short_name": "",
+    "color": "#7d3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "81d622dd-dcef-55b0-a589-8730f3686c76",
+    "country_id": "is",
+    "name": "Socialist Party (1938–1968)",
+    "short_name": "",
+    "color": "#33994b",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "0da0bf6d-4bbe-5178-899b-ad137145ce97",
+    "country_id": "is",
+    "name": "National Preservation Party",
+    "short_name": "",
+    "color": "#993383",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "c9f82489-d57c-54fa-861d-42c278889770",
+    "country_id": "is",
+    "name": "Republican Party",
+    "short_name": "",
+    "color": "#998e33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d16d3035-0987-556d-b539-3aca89f5d46b",
+    "country_id": "is",
+    "name": "People's Alliance",
+    "short_name": "",
+    "color": "#996b33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "3438380d-ea88-5227-821e-23838ddae34d",
+    "country_id": "is",
+    "name": "Independence Party – Þversum",
+    "short_name": "",
+    "color": "#339979",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1d85ee2f-34b3-5e48-b0da-539bdeec77a6",
+    "country_id": "is",
+    "name": "Independent Farmers",
+    "short_name": "",
+    "color": "#339986",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "6799cab0-4da8-5987-99b0-178db59134f6",
+    "country_id": "is",
+    "name": "Independence Party – Langsum",
+    "short_name": "",
+    "color": "#369933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "036b916b-e082-523a-b0dc-47bdd3dd7820",
+    "country_id": "is",
+    "name": "Commonwealth Party",
+    "short_name": "",
+    "color": "#339969",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "eaafe3e0-3e30-589c-be56-a092d2e0bac1",
+    "country_id": "is",
+    "name": "Liberal Left",
+    "short_name": "",
+    "color": "#339899",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "2f24a0be-9aa3-530a-93f3-4b21c06a227a",
+    "country_id": "is",
+    "name": "Union of Liberals and Leftists",
+    "short_name": "",
+    "color": "#99336d",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "dbedbf3d-680e-5bec-ae93-dd00a63e6f01",
+    "country_id": "is",
+    "name": "Alliance of Social Democrats (1999 electoral alliance)",
+    "short_name": "",
+    "color": "#463399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "d3e5a4e8-f689-506c-907c-e76a3961126d",
+    "country_id": "is",
+    "name": "Women's Alliance",
+    "short_name": "",
+    "color": "#803399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7c2689f3-dd68-5e0c-ad29-331a57b548cf",
+    "country_id": "is",
+    "name": "Citizens' Party",
+    "short_name": "",
+    "color": "#939933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "04bc8409-e9a0-5b73-be45-eff967a6d197",
+    "country_id": "is",
+    "name": "Association for Equality and Social Justice",
+    "short_name": "",
+    "color": "#99337f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "2a08c2a4-8067-5a3c-bb3e-9192e96933da",
+    "country_id": "is",
+    "name": "Þjóðvaki, People's Movement",
+    "short_name": "",
+    "color": "#3f3399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "286eab64-1e18-5d41-b913-2053db9c00c5",
+    "country_id": "is",
+    "name": "Liberal Party (1998–2012)",
+    "short_name": "",
+    "color": "#463399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "730a51e4-8eee-52cb-897c-13dd43b6ecf8",
+    "country_id": "is",
+    "name": "Social Democratic Alliance",
+    "short_name": "S",
+    "color": "#d53347",
+    "ideology_ids": [
+      "ideology-social-democracy"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Social_Democratic_Alliance",
+    "archived": false
+  },
+  {
+    "id": "7bd793b7-86d5-555c-80e9-5a2080dce62d",
+    "country_id": "is",
+    "name": "Left-Green Movement",
+    "short_name": "V",
+    "color": "#488d44",
+    "ideology_ids": [
+      "ideology-green-politics",
+      "ideology-democratic-socialism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Left-Green_Movement",
+    "archived": false
+  },
+  {
+    "id": "70035e08-f511-5382-8d93-87a58fcd3439",
+    "country_id": "is",
+    "name": "Citizens' Movement",
+    "short_name": "",
+    "color": "#337399",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "1d9aed4d-b458-50f4-9b2a-6b27cd1794ed",
+    "country_id": "is",
+    "name": "Bright Future",
+    "short_name": "",
+    "color": "#99334f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "7855998c-cc18-5796-bdcc-a572ee318236",
+    "country_id": "is",
+    "name": "Pirate Party",
+    "short_name": "P",
+    "color": "#674b8f",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Pirate_Party_(Iceland)",
+    "archived": false
+  },
+  {
+    "id": "e39de826-f081-5a64-ae7b-ad0ca96471bb",
+    "country_id": "is",
+    "name": "Reform",
+    "short_name": "C",
+    "color": "#f28b31",
+    "ideology_ids": [
+      "ideology-social-liberalism"
+    ],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Reform_Party_(Iceland)",
+    "archived": false
+  },
+  {
+    "id": "6ba529b7-7428-5f8a-aded-7e113af8918d",
+    "country_id": "is",
+    "name": "People's Party",
+    "short_name": "F",
+    "color": "#d6a33a",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/People%27s_Party_(Iceland,_2016)",
+    "archived": false
+  },
+  {
+    "id": "ed241fed-32ff-5774-a8a9-72db8b9c9c14",
+    "country_id": "is",
+    "name": "Centre Party",
+    "short_name": "M",
+    "color": "#7aadd1",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Party history: https://en.wikipedia.org/wiki/Centre_Party_(Iceland)",
+    "archived": false
+  },
+  {
+    "id": "63fb186e-9282-576b-989d-3e15860de43a",
+    "country_id": "is",
+    "name": "Socialist Party of Iceland",
+    "short_name": "",
+    "color": "#419933",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "b6c064ca-7ad3-57a5-871b-bc895bb8b27d",
+    "country_id": "is",
+    "name": "Democratic Party – Association for Self-Determination",
+    "short_name": "",
+    "color": "#338d99",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  },
+  {
+    "id": "0198e0a9-7de1-5938-9cca-023735056608",
+    "country_id": "is",
+    "name": "Responsible Future",
+    "short_name": "",
+    "color": "#995d33",
+    "ideology_ids": [],
+    "notes": "Colours are a display palette. Historical organisation or electoral list; ideology unassessed. Similar names do not establish organisational continuity.",
+    "archived": false
+  }
+]
