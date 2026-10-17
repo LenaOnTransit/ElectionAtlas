@@ -5,9 +5,10 @@ import map from '../lib/netherlands-provinces.json';
 export function RegionalResults({overview,elections,selectedId}:{overview:WorldElection;elections:WorldElection[];selectedId:string}){
  const children=elections.filter(e=>e.overviewId===overview.id).sort((a,b)=>(a.geography?.name||a.title).localeCompare(b.geography?.name||b.title));
  const province=overview.regionalOverview==='provincial';
+ const college=overview.regionalOverview==='electoral-college';
  const leader=(e:WorldElection)=>[...e.results].filter(r=>r.votes!=null).sort((a,b)=>(b.votes||0)-(a.votes||0))[0];
- return <section className="regional-results"><h2>{province?'Results by province':'Results by electoral college'}</h2>
- <p>{province?'Each province elects its own chamber. The overview combines popular votes; provincial seats are shown on each province’s page.':'Each college has its own electorate and elected membership. Its members subsequently take part in the indirect Eerste Kamer election.'}</p>
+ return <section className="regional-results"><h2>{province?'Results by province':college?'Results by electoral college':'Results by electoral district'}</h2>
+ <p>{province?'Each province elects its own chamber. The overview combines popular votes; provincial seats are shown on each province’s page.':college?'Each college has its own electorate and elected membership. Its members subsequently take part in the indirect Eerste Kamer election.':'Each district has its own candidate ballot and elects its own representative. Vote shares are calculated within each district.'}</p>
  {selectedId!==overview.id&&<p><AppLink action href={'/world/election/'+overview.id}>View the full election overview</AppLink></p>}
  <div className={province?'regional-layout':'regional-layout colleges'}>
  {province&&overview.countryId==='nl'&&<div><svg className="province-map" viewBox={`0 0 ${map.width} ${map.height}`} role="group" aria-label="Netherlands provincial election results; select a province">
